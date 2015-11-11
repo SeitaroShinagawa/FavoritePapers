@@ -1,7 +1,7 @@
 #Image Generation
 
 **GENERATING IMAGES FROM CAPTIONS WITH ATTENTION** (Arxiv,ICLR2016 under review)  
-*Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba & Ruslan Salakhutdinov (University of Toronto)  
+*Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba & Ruslan Salakhutdinov* (University of Toronto)  
 [[paper](http://arxiv.org/pdf/1511.02793v1.pdf)]
 
 **DRAW: A Recurrent Neural Network For Image Generation**  (ICML2015)  

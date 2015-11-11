@@ -1,5 +1,9 @@
 #Image Generation
 
+**GENERATING IMAGES FROM CAPTIONS WITH ATTENTION** (Arxiv,ICLR2016 under review)  
+*Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba & Ruslan Salakhutdinov (University of Toronto)  
+[[paper](http://arxiv.org/pdf/1511.02793v1.pdf)]
+
 **DRAW: A Recurrent Neural Network For Image Generation**  (ICML2015)  
 *Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra* (Google DeepMind)  
 [[paper](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2015_gregor15.pdf)]  

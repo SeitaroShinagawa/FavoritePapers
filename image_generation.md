@@ -5,6 +5,10 @@
 [[paper](http://arxiv.org/pdf/1511.02793v1.pdf)]
 [[reddit](https://www.reddit.com/r/MachineLearning/comments/3safll/generating_images_from_captions_with_attention/)]  
 
+**Inverting Visual Representations with Convolutional Networks** (Arxiv)  
+*Alexey Dosovitskiy, Thomas Brox* (University of Freiburg)  
+[[paper](http://arxiv.org/abs/1506.02753)]  
+
 **DRAW: A Recurrent Neural Network For Image Generation**  (ICML2015)  
 *Karol Gregor, Ivo Danihelka, Alex Graves, Danilo Jimenez Rezende, Daan Wierstra* (Google DeepMind)  
 [[paper](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2015_gregor15.pdf)]  

@@ -6,4 +6,10 @@
 [[code](https://github.com/ryankiros/neural-storyteller)]
 [[data](http://www.cs.toronto.edu/~mbweb/)]
 
+**Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models** (TACL, 2015)  
+*Ryan Kiros, Ruslan Salakhutdinov, Richard Zemel*  
+[[paper](http://arxiv.org/abs/1411.2539)]
+[[demo](http://deeplearning.cs.toronto.edu/i2thttp://deeplearning.cs.toronto.edu/i2t)]
+[[code](https://github.com/ryankiros/visual-semantic-embedding)]  
+
 

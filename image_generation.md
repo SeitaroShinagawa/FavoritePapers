@@ -1,5 +1,10 @@
 #Image Generation
 
+**Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks** (Arxiv,ICLR2016 under review)  
+*Alec Radford@1, Luke Metz@1, Soumith Chintala@2* (@1:indico Research,@2:Facebook AI Research)  
+[[paper](http://arxiv.org/abs/1511.06434)]  
+[[code](https://github.com/Newmu/dcgan_code/tree/gh-pages?utm_content=buffer29989&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]  
+
 **GENERATING IMAGES FROM CAPTIONS WITH ATTENTION** (Arxiv,ICLR2016 under review)  
 *Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba & Ruslan Salakhutdinov* (University of Toronto)  
 [[paper](http://arxiv.org/pdf/1511.02793v1.pdf)]

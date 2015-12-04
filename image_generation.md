@@ -7,7 +7,7 @@
 
 **GENERATING IMAGES FROM CAPTIONS WITH ATTENTION** (Arxiv,ICLR2016 under review)  
 *Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba & Ruslan Salakhutdinov* (University of Toronto)  
-[[paper](http://arxiv.org/pdf/1511.02793v1.pdf)]
+[[paper](http://arxiv.org/pdf/1511.02793v1.pdf)]  
 [[reddit](https://www.reddit.com/r/MachineLearning/comments/3safll/generating_images_from_captions_with_attention/)]  
 
 **Inverting Visual Representations with Convolutional Networks** (Arxiv)  

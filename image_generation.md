@@ -1,5 +1,10 @@
 #Image Generation
 
+**Texture Synthesis Using Convolutional Neural Networks**  (NIPS2015)  
+*Leon Gatys, Alexander S. Ecker, Matthias Bethge* (University of Tubingen)  
+[[paper](http://papers.nips.cc/paper/5633-texture-synthesis-using-convolutional-neural-networks)]  
+[[code](https://github.com/leongatys/DeepTextures)]  
+
 **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks** (Arxiv,ICLR2016 under review)  
 *Alec Radford@1, Luke Metz@1, Soumith Chintala@2* (@1:indico Research,@2:Facebook AI Research)  
 [[paper](http://arxiv.org/abs/1511.06434)]  

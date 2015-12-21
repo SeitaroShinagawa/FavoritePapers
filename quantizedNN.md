@@ -9,6 +9,7 @@
 [[paper](http://arxiv.org/abs/1510.03009)]  
 [[code](https://github.com/MatthieuCourbariaux/BinaryConnect)]  
 [[blogpost](http://nuit-blanche.blogspot.jp/2015/10/neural-networks-with-few.html)]  
+[[some related video?](https://www.youtube.com/watch?v=DleXA5ADG78)]  
 
 **BinaryConnect: Training Deep Neural Networks with binary weights during propagations**  
 *Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David*  

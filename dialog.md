@@ -1,5 +1,10 @@
 #Dialog Systems
 
+#Corpus  
+**A Survey of Available Corpora For Building Data-Driven Dialogue Systems**  
+*Iulian Vlad Serban, Ryan Lowe, Laurent Charlin, Joelle Pineau*  
+[[paper](http://arxiv.org/abs/1512.05742)]  
+
 ##Dialog Annotation
 **Best of both worlds: human-machine collaboration for object annotation** (CVPR2015)  
 *Olga Russakovsky@1, Li-Jia Li@2, Li Fei-Fei@1*  (@1:Stanford University, @2:Yahoo! Labs)  

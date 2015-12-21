@@ -9,6 +9,7 @@
 *Alec Radford@1, Luke Metz@1, Soumith Chintala@2* (@1:indico Research,@2:Facebook AI Research)  
 [[paper](http://arxiv.org/abs/1511.06434)]  
 [[code](https://github.com/Newmu/dcgan_code/tree/gh-pages?utm_content=buffer29989&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]  
+[[some imformation 1](https://plus.google.com/+SoumithChintala/posts/MCtDVqsef6f)]  
 
 **GENERATING IMAGES FROM CAPTIONS WITH ATTENTION** (Arxiv,ICLR2016 under review)  
 *Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba & Ruslan Salakhutdinov* (University of Toronto)  
@@ -27,7 +28,8 @@
 [[reddit](https://www.reddit.com/r/MachineLearning/comments/2w90dk/draw_a_recurrent_neural_network_for_image)]  
 [[reproduced code1](https://github.com/jbornschein/draw)]  
 [[reproduced code2](https://github.com/skaae/lasagne-draw)]*doesn't work well...?*  
-
+[[reproduced code3](https://github.com/uaca/deepy)] 
+ 
 **Semi-supervised Learning with Deep Generative Models**  (NIPS2014)  
 *D.P. Kingma, D.J. Rezende, S. Mohamed, M. Welling* (Universiteit van Amsterdam)  
 [[paper](http://papers.nips.cc/paper/5352-semi-supervised-learning-with-deep-generative-models.pdf)]  

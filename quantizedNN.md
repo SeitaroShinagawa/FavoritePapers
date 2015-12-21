@@ -1,15 +1,18 @@
 #Optimization
 
-**Adam: A Method for Stochastic Optimization** (ICLR2015)   
-*D.P. Kingma, M. Welling* (Universiteit van Amsterdam)  
-[[paper](http://arxiv.org/abs/1412.6980)]  
-
-**Accelerating Asymptotically Exact MCMC for Computationally Intensive Models via Local Approximations**  (Arxiv,2015)  
-*Patrick R. Conrad, Youssef M. Marzouk, Natesh S. Pillai, Aaron Smith*  
-[[paper](http://arxiv.org/abs/1402.1694)]  
-
 **Deep Learning with Limited Numerical Precision**  
 *Suyog Gupta, Ankur Agrawal, Kailash Gopalakrishnan, Pritish Narayanan(IBM research)*  
 [[paper](http://jmlr.org/proceedings/papers/v37/gupta15.pdf)]  
 
+**Neural Networks with Few Multiplications**  
+*Zhouhan Lin, Matthieu Courbariaux, Roland Memisevic, Yoshua Bengio*  
+[[paper](http://arxiv.org/abs/1510.03009)]  
+[[code](https://github.com/MatthieuCourbariaux/BinaryConnect)]  
+[[blogpost](http://nuit-blanche.blogspot.jp/2015/10/neural-networks-with-few.html)]  
+
+**BinaryConnect: Training Deep Neural Networks with binary weights during propagations**  
+*Matthieu Courbariaux, Yoshua Bengio, Jean-Pierre David*  
+[[paper](http://arxiv.org/abs/1511.00363)]  
+[[code](https://github.com/hantek/BinaryConnect)]  
+[[code2](https://github.com/hantek/binary_conv)]  
 

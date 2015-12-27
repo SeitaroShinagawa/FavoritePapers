@@ -15,5 +15,9 @@
 *Christian Rupprecht@1,2, Lo¨ıc Peter@1, Nassir Navab@1,2* (@1:Technische Universitat M¨ unchen, @2:Johns Hopkins University)  
 [[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Rupprecht_Image_Segmentation_in_2015_CVPR_paper.pdf)][[demo](http://campar.in.tum.de/pub/rupprecht2015cvpr/rupprecht2015cvpr.video.mp4)]  
 
+##Game Theory  
+**Game Theory (Open Access textbook with 165 solved exercises)**  
+[[book](http://arxiv.org/abs/1512.06808?utm_campaign=Contact+SNS+For+More+Referrer&utm_medium=twitter&utm_source=snsanalytics)]  
+
 
 

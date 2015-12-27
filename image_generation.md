@@ -8,7 +8,8 @@
 **Unsupervised Representation Learning with Deep Convolutional Generative Adversarial Networks** (Arxiv,ICLR2016 under review)  
 *Alec Radford@1, Luke Metz@1, Soumith Chintala@2* (@1:indico Research,@2:Facebook AI Research)  
 [[paper](http://arxiv.org/abs/1511.06434)]  
-[[code](https://github.com/Newmu/dcgan_code/tree/gh-pages?utm_content=buffer29989&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]  
+[[code theano](https://github.com/Newmu/dcgan_code/tree/gh-pages?utm_content=buffer29989&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]  
+[[code torch](https://github.com/soumith/dcgan.torch)]  
 [[code chainer](https://github.com/mattya/chainer-DCGAN)]  
 [[qiita code chainer2](http://qiita.com/rezoolab/items/5cc96b6d31153e0c86bc)]  
 [[some imformation 1](https://plus.google.com/+SoumithChintala/posts/MCtDVqsef6f)]  

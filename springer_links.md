@@ -51,6 +51,15 @@
 *V. Estruch, C. Ferri, J. Hernández-Orallo, M. J. Ramírez-Quintana*  
 [[Download](http://link.springer.com/chapter/10.1007/3-540-44938-8_21)]  
 
+**TEX in Practice**  
+*Stephan von Bechtolsheim*  
+[[Download](http://link.springer.com/book/10.1007/978-1-4613-9139-5)]  
+
+**Smoothness Priors Analysis of Time Series**  
+*Genshiro Kitagawa, Will Gersch*  
+[[Download](http://link.springer.com/book/10.1007/978-1-4612-0761-0)]  
+
+
 
 
 

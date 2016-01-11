@@ -10,6 +10,8 @@
 *Kelvin Xu, Jimmy Ba, Ryan Kiros, Kyunghyun Cho, Aaron Courville, Ruslan Salakhudinov, Rich Zemel, Yoshua Bengio*  
 [[paper](http://jmlr.org/proceedings/papers/v37/xuc15.pdf)]  
 [[supplementary](http://jmlr.org/proceedings/papers/v37/xuc15-supp.pdf)]  
+[[code](https://github.com/kelvinxu/arctic-captions)]  
+[[video introduction](https://www.youtube.com/watch?v=kLWRKr4PT_E)]  
 
 **Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models** (TACL, 2015)  
 *Ryan Kiros, Ruslan Salakhutdinov, Richard Zemel*  

@@ -1,5 +1,8 @@
 #Image Generation
 
+**Autoencoding beyond pixels using a learned similarity metric**   
+[[paper](http://arxiv.org/pdf/1512.09300.pdf)]  
+
 **Texture Synthesis Using Convolutional Neural Networks**  (NIPS2015)  
 *Leon Gatys, Alexander S. Ecker, Matthias Bethge* (University of Tubingen)  
 [[paper](http://papers.nips.cc/paper/5633-texture-synthesis-using-convolutional-neural-networks)]  

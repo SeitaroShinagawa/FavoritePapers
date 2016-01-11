@@ -10,9 +10,11 @@ ROS programing
 Reinforcement Learning Neural Turing Machines  
 [[gitxiv](http://gitxiv.com/posts/ZuSYfufoftfkY2zgP/reinforcement-learning-neural-turing-machines)]  
 
-
 **Computer Vision:  Models, Learning, and Inference**  
 [[link](http://www.computervisionmodels.com)]  
+
+**topic model**  
+[[link1](https://github.com/poiuiop/machine_learning_python/blob/master/topic.md)]  
 
 
 

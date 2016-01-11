@@ -1,5 +1,10 @@
 #Optimization
 
+**Deep Compression**
+*Song Han, Huizi Mao, William J. Dally*  
+[[paper](http://arxiv.org/abs/1510.00149)]  
+[[link](http://web.stanford.edu/class/ee380/Abstracts/160106-slides.pdf)]  
+
 **Deep Learning with Limited Numerical Precision**  
 *Suyog Gupta, Ankur Agrawal, Kailash Gopalakrishnan, Pritish Narayanan(IBM research)*  
 [[paper](http://jmlr.org/proceedings/papers/v37/gupta15.pdf)]  

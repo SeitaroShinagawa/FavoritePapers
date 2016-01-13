@@ -16,6 +16,12 @@ Reinforcement Learning Neural Turing Machines
 **topic model**  
 [[link1](https://github.com/poiuiop/machine_learning_python/blob/master/topic.md)]  
 
+##Evaluation Metrics  
+**SSIM (Structural SIMilarity)**  
+pixel based image similarity metric
+[[link](https://ece.uwaterloo.ca/~z70wang/research/ssim)]  
+[[paper](http://www.cns.nyu.edu/pub/eero/wang03-reprint.pdf)]  
+[[python code](https://github.com/jterrace/pyssim)]  
 
 
 

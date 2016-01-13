@@ -4,6 +4,7 @@
 *Alireza Makhzani* (University of Toronto)  
 *Jonathon Shlens & Navdeep Jaitly & Ian Goodfellow* (Google Brain)  
 [[paper](http://arxiv.org/pdf/1511.05644v1.pdf)]  
+[[article](http://www.inference.vc/adversarial-autoencoders)]  
 
 **Autoencoding beyond pixels using a learned similarity metric**   
 [[paper](http://arxiv.org/pdf/1512.09300.pdf)]  

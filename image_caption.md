@@ -12,6 +12,7 @@
 [[supplementary](http://jmlr.org/proceedings/papers/v37/xuc15-supp.pdf)]  
 [[code](https://github.com/kelvinxu/arctic-captions)]  
 [[video introduction](https://www.youtube.com/watch?v=kLWRKr4PT_E)]  
+[[slide](http://www.slideshare.net/eunjileee/show-attend-and-tell-neural-image-caption-generation-with-visual-attention)]  
 
 **Unifying Visual-Semantic Embeddings with Multimodal Neural Language Models** (TACL, 2015)  
 *Ryan Kiros, Ruslan Salakhutdinov, Richard Zemel*  

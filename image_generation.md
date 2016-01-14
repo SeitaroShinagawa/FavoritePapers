@@ -46,10 +46,14 @@
 *D.P. Kingma, D.J. Rezende, S. Mohamed, M. Welling* (Universiteit van Amsterdam)  
 [[paper](http://papers.nips.cc/paper/5352-semi-supervised-learning-with-deep-generative-models.pdf)]  
 [[code](https://github.com/dpkingma/nips14-ssl)]  
-
+[[slide](https://ift6266h15.files.wordpress.com/2015/04/20_vae.pdf)]  
+[[slide2](http://deeplearning.jp/wp-content/uploads/2014/04/dl_hacks2015-04-21-iwasawa1.pdf)]  
+[[slide3](http://www.slideshare.net/beam2d/semisupervised-learning-with-deep-generative-models)]  
 
 **Stochastic Gradient VB and the Variational Auto-Encoder** (ICLR2014)  
 *D.P. Kingma, M. Welling* (Universiteit van Amsterdam)  
 [[paper](http://dpkingma.com/wordpress/wp-content/uploads/2014/10/iclr14_vae.pdf)]  
+[[chainer code](https://github.com/takerum/vae)]  
+[[chaienr code2](http://nbviewer.ipython.org/gist/duschendestroyer/a41fcab5f7f9ffa45387)]  
 
 

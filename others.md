@@ -16,6 +16,20 @@ Reinforcement Learning Neural Turing Machines
 **topic model**  
 [[link1](https://github.com/poiuiop/machine_learning_python/blob/master/topic.md)]  
 
+**reddit**
+[[SOTA image-caption](https://www.reddit.com/r/MachineLearning/comments/4020ek/state_of_the_art_dec2015_natural_language)  
+
+**Python**  
+[[link](http://qiita.com/ynakayama/items/8ed2854bcc3c3633345b)]  
+[[Dive Into Python](http://www.diveintopython.net)]  
+[[Dive Into Python3 Japanese](http://diveintopython3-ja.rdy.jp)]  
+
+**NMF**  
+[[slide](http://hil.t.u-tokyo.ac.jp/~kameoka/SAP/SAP13_06.pdf)]  
+
+**Kernel**
+[[slide](http://www.ism.ac.jp/~fukumizu/papers/Kernel_rois2006.pdf)]  
+
 ##Evaluation Metrics  
 **SSIM (Structural SIMilarity)**  
 pixel based image similarity metric  
@@ -23,7 +37,13 @@ pixel based image similarity metric
 [[paper](http://www.cns.nyu.edu/pub/eero/wang03-reprint.pdf)]  
 [[python code](https://github.com/jterrace/pyssim)]  
 
+##Educational Video  
+**Coursera Machine Learning** (Japanese subtitle avaiable)  
+[[link](https://www.coursera.org/learn/machine-learning)]  
 
+**Computer Vision**  
+**Bayes Inference and Graphical Model (Japanese)**  
+[[link](https://www.udemy.com/computervision/learn/#/)  
 
 
 

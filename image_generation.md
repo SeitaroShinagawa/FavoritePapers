@@ -1,5 +1,8 @@
 #Image Generation
 
+**Human-level concept learning through probabilistic program induction**  
+[[link](http://science.sciencemag.org/content/350/6266/1332)  
+
 **ADVERSARIAL AUTOENCODERS**  
 *Alireza Makhzani* (University of Toronto)  
 *Jonathon Shlens & Navdeep Jaitly & Ian Goodfellow* (Google Brain)  

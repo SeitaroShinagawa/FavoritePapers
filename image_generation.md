@@ -22,6 +22,7 @@
 [[code chainer](https://github.com/mattya/chainer-DCGAN)]  
 [[qiita code chainer2](http://qiita.com/rezoolab/items/5cc96b6d31153e0c86bc)]  
 [[some imformation 1](https://plus.google.com/+SoumithChintala/posts/MCtDVqsef6f)]  
+[[GAN slide](http://www.cs.toronto.edu/~dtarlow/pos14/talks/goodfellow.pdf)]  
 
 **GENERATING IMAGES FROM CAPTIONS WITH ATTENTION** (Arxiv,ICLR2016 under review)  
 *Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba & Ruslan Salakhutdinov* (University of Toronto)  

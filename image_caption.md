@@ -20,4 +20,6 @@
 [[demo](http://deeplearning.cs.toronto.edu/i2thttp://deeplearning.cs.toronto.edu/i2t)]  
 [[code](https://github.com/ryankiros/visual-semantic-embedding)]  
 
+##Survey
+[[link](http://www.slideshare.net/metaps_JP/deep-learning-50383383)]  
 

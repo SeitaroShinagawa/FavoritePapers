@@ -38,14 +38,19 @@ pixel based image similarity metric
 [[python code](https://github.com/jterrace/pyssim)]  
 
 ##Educational Video  
-**Coursera Machine Learning** (Japanese subtitle avaiable)  
+####Coursera Machine Learning (Japanese subtitle avaiable)  
 [[link](https://www.coursera.org/learn/machine-learning)]  
 
-**Computer Vision**  
+####Computer Vision  
 **Bayes Inference and Graphical Model (Japanese)**  
 [[link](https://www.udemy.com/computervision/learn/#/)  
 
+**Stanford CV Lecture**  
+[[link](http://vision.stanford.edu/teaching/cs231n/syllabus.html)]  
 
+##Tools
+**Top-Down BTG-based Preordering**  
+[[code](https://github.com/google/topdown-btg-preordering)]  
 
 
 

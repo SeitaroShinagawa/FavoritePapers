@@ -1,5 +1,9 @@
 #Image Generation
 
+**Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis**(Arxiv)  
+*Chuan Li, Michael Wand*  
+[[paper](http://arxiv.org/abs/1601.04589)]  
+
 **Human-level concept learning through probabilistic program induction**  
 [[link](http://science.sciencemag.org/content/350/6266/1332)  
 

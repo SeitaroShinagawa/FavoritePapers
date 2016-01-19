@@ -52,5 +52,7 @@ pixel based image similarity metric
 **Top-Down BTG-based Preordering**  
 [[code](https://github.com/google/topdown-btg-preordering)]  
 
+##research mind  
+[[link](http://hflab.k.u-tokyo.ac.jp/staff/hori/essay/kenkyuu.html)  
 
 

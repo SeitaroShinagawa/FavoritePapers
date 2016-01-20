@@ -50,6 +50,11 @@
 [[reproduced code1](https://github.com/jbornschein/draw)]  
 [[reproduced code2](https://github.com/skaae/lasagne-draw)]*doesn't work well...?*  
 [[reproduced code3](https://github.com/uaca/deepy)] 
+
+**Unveiling the Dreams of Word Embeddings: Towards Language-Driven Image Generation**(Arxiv2015)  
+*Angeliki Lazaridou, Dat Tien Nguyen, Raffaella Bernardi, Marco Baroni*  
+[[paper](http://arxiv.org/abs/1506.03500)]  
+
  
 **Semi-supervised Learning with Deep Generative Models**  (NIPS2014)  
 *D.P. Kingma, D.J. Rezende, S. Mohamed, M. Welling* (Universiteit van Amsterdam)  

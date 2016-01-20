@@ -55,4 +55,8 @@ pixel based image similarity metric
 ##research mind  
 [[link](http://hflab.k.u-tokyo.ac.jp/staff/hori/essay/kenkyuu.html)  
 
+##how to write paper  
+[[link](http://yamaguchiyuto.hatenablog.com/entry/2016/01/18/154613)  
+
+
 

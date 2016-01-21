@@ -5,7 +5,7 @@
 [[paper](http://arxiv.org/abs/1601.04589)]  
 
 **Human-level concept learning through probabilistic program induction**  
-[[link](http://science.sciencemag.org/content/350/6266/1332)  
+[[link](http://science.sciencemag.org/content/350/6266/1332)]  
 
 **ADVERSARIAL AUTOENCODERS**  
 *Alireza Makhzani* (University of Toronto)  
@@ -30,11 +30,12 @@
 [[qiita code chainer2](http://qiita.com/rezoolab/items/5cc96b6d31153e0c86bc)]  
 [[some imformation 1](https://plus.google.com/+SoumithChintala/posts/MCtDVqsef6f)]  
 [[GAN slide](http://www.cs.toronto.edu/~dtarlow/pos14/talks/goodfellow.pdf)]  
-[[Tensorflow](https://github.com/nivwusquorum/tf-adversarial/blob/master/Adversarial-LSUN.ipynb)  
+[[Tensorflow](https://github.com/nivwusquorum/tf-adversarial/blob/master/Adversarial-LSUN.ipynb)]  
 
 **GENERATING IMAGES FROM CAPTIONS WITH ATTENTION** (Arxiv,ICLR2016 under review)  
 *Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba & Ruslan Salakhutdinov* (University of Toronto)  
 [[paper](http://arxiv.org/pdf/1511.02793v1.pdf)]  
+[[slide](http://www.cs.toronto.edu/~emansim/nipsram2015/presentation_nipsram2015.pdf)  
 [[reddit](https://www.reddit.com/r/MachineLearning/comments/3safll/generating_images_from_captions_with_attention/)]  
 
 **Inverting Visual Representations with Convolutional Networks** (Arxiv)  

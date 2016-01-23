@@ -1,4 +1,8 @@
 #Awesome neural networks  
+**Understanding deep features with computer-generated imagery**   
+*study of decomposition of rendered 3D CAD models fed into a CNN with factors as viewpoint and style*  
+[[GitXiv](http://gitxiv.com/posts/rCzAPjX5iCXT5E6cz/understanding-deep-features-with-computer-generated-imagery)]  
+
 **Deep Residual Learning for Image Recognition**   
 *Substantially deeper than those used previously*  
 [[GitXiv](http://gitxiv.com/posts/LgPRdTY3cwPBiMKbm/deep-residual-learning-for-image-recognition)]  

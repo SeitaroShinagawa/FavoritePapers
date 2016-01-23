@@ -1,8 +1,25 @@
 #Image Generation
 
-**Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis**(Arxiv)  
+**Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis**(arXiv)  
 *Chuan Li, Michael Wand*  
 [[paper](http://arxiv.org/abs/1601.04589)]  
+[[GitXiv](http://gitxiv.com/posts/DtC4Zwz3kqCDBHFD7/combining-markov-random-fields-and-convolutional-neural)]  
+
+**Attribute2Image: Conditional Image Generation from Visual Attributes**(arXiv)
+[[paper](http://arxiv.org/abs/1512.00570)]  
+[[demo video](https://www.youtube.com/watch?v=njSluPk48KM)]  
+
+**Joint Embeddings of Shapes and Images via CNN Image Purification**  
+*3D shapes and 2D images searchable from each other*  
+[[GitXiv](http://gitxiv.com/posts/PqYNSNaztGgjRNv9t/joint-embeddings-of-shapes-and-images-via-cnn-image)]  
+
+**sketch-rnn**  
+*Recurrent Net Dreams Up Fake Chinese Characters in Vector Format with TensorFlow*  
+[[GitXiv]((http://gitxiv.com/posts/TPq9xYai34hANyG3r/sketch-rnn)]  
+
+**Improving Semi-Supervised Learning with Auxiliary Deep Generative Models**  
+*Deep generative models based upon continuous variational distributions parameterized by deep nets*  
+[[Gitxiv](http://gitxiv.com/posts/BdMD74rApubKLGALJ/improving-semi-supervised-learning-with-auxiliary-deep)]  
 
 **Human-level concept learning through probabilistic program induction**  
 [[link](http://science.sciencemag.org/content/350/6266/1332)]  
@@ -31,6 +48,7 @@
 [[some imformation 1](https://plus.google.com/+SoumithChintala/posts/MCtDVqsef6f)]  
 [[GAN slide](http://www.cs.toronto.edu/~dtarlow/pos14/talks/goodfellow.pdf)]  
 [[Tensorflow](https://github.com/nivwusquorum/tf-adversarial/blob/master/Adversarial-LSUN.ipynb)]  
+[[GitXiv](http://gitxiv.com/posts/pNosr4Zrgn8uPEi9R/unsupervised-representation-learning-with-deep-convolutional)]  
 
 **GENERATING IMAGES FROM CAPTIONS WITH ATTENTION** (Arxiv,ICLR2016 under review)  
 *Elman Mansimov, Emilio Parisotto, Jimmy Lei Ba & Ruslan Salakhutdinov* (University of Toronto)  
@@ -55,6 +73,11 @@
 **Unveiling the Dreams of Word Embeddings: Towards Language-Driven Image Generation**(Arxiv2015)  
 *Angeliki Lazaridou, Dat Tien Nguyen, Raffaella Bernardi, Marco Baroni*  
 [[paper](http://arxiv.org/abs/1506.03500)]  
+
+**Laplacian Pyramid of Generative Adversarial Networks**  
+[[project](http://soumith.ch/eyescream/)]  
+[[slideshare](http://www.slideshare.net/hamadakoichi/laplacian-pyramid-of-generative-adversarial-networks-lapgan-nips2015-reading-nipsyomi)]  
+
 
  
 **Semi-supervised Learning with Deep Generative Models**  (NIPS2014)  

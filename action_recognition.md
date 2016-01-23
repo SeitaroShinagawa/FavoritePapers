@@ -1,5 +1,9 @@
 #Image to Caption Generation
 
+**Deep Convolutional and LSTM Recurrent Neural Networks for Multimodal Wearable Activity Recognition**  
+*Francisco Javier Ordóñez and Daniel Roggen* 
+[[paper](http://www.mdpi.com/1424-8220/16/1/115)]    
+
 **Action Recognition using Visual Attention** (Arxiv,2016,ICLR2016 under review)  
 *hikhar Sharma, Ryan Kiros, Ruslan Salakhutdinov* (University of Toronto)  
 [[GitXiv](http://gitxiv.com/posts/xdxtvLF2angdj9BKW/action-recognition-using-visual-attention)]  

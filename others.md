@@ -34,6 +34,7 @@ Reinforcement Learning Neural Turing Machines
 
 **NMF**  
 [[slide](http://hil.t.u-tokyo.ac.jp/~kameoka/SAP/SAP13_06.pdf)]  
+[[multichannel sound source separation](http://www.slideshare.net/DaichiKitamura/generative-model-in-nonnegative-matrix-factorization-and-its-application-to-multichannel-sound-source-separation)]  
 
 **Kernel**
 [[slide](http://www.ism.ac.jp/~fukumizu/papers/Kernel_rois2006.pdf)]  

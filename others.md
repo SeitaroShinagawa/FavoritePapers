@@ -73,6 +73,9 @@ pixel based image similarity metric
 
 **Bokeh**  
 python local server[[link](http://qiita.com/higuma/items/b23ca9d96dac49999ab9)]  
+**Deep Learning Frameworks**
+**COMPARATIVE STUDY OF CAFFE, NEON, THEANO, AND TORCH FOR DEEP LEARNING**   
+[[paper](http://arxiv.org/pdf/1511.06435v2.pdf)]  
 
 #some tips
 **research mind**  

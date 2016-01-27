@@ -5,6 +5,10 @@
 [[paper](http://arxiv.org/abs/1601.04589)]  
 [[GitXiv](http://gitxiv.com/posts/DtC4Zwz3kqCDBHFD7/combining-markov-random-fields-and-convolutional-neural)]  
 
+**Weakly-supervised Disentangling with Recurrent Transformations for 3D View Synthesis**  
+*Jimei Yang Scott Reed Ming-Hsuan Yang1 Honglak Lee*  
+[[paper](http://www-personal.umich.edu/~reedscot/nips15_rotator_final.pdf)]  
+
 **Attribute2Image: Conditional Image Generation from Visual Attributes**(arXiv)
 [[paper](http://arxiv.org/abs/1512.00570)]  
 [[demo video](https://www.youtube.com/watch?v=njSluPk48KM)]  
@@ -29,6 +33,8 @@
 *Jonathon Shlens & Navdeep Jaitly & Ian Goodfellow* (Google Brain)  
 [[paper](http://arxiv.org/pdf/1511.05644v1.pdf)]  
 [[article](http://www.inference.vc/adversarial-autoencoders)]  
+[[theano](https://github.com/mikesj-public/dcgan-autoencoder)]  
+[[chainer](https://github.com/stitchfix/fauxtograph)]  
 
 **Autoencoding beyond pixels using a learned similarity metric**   
 [[paper](http://arxiv.org/pdf/1512.09300.pdf)]  
@@ -77,8 +83,6 @@
 **Laplacian Pyramid of Generative Adversarial Networks**  
 [[project](http://soumith.ch/eyescream/)]  
 [[slideshare](http://www.slideshare.net/hamadakoichi/laplacian-pyramid-of-generative-adversarial-networks-lapgan-nips2015-reading-nipsyomi)]  
-
-
  
 **Semi-supervised Learning with Deep Generative Models**  (NIPS2014)  
 *D.P. Kingma, D.J. Rezende, S. Mohamed, M. Welling* (Universiteit van Amsterdam)  

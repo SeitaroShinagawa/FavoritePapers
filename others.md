@@ -2,12 +2,33 @@
 **Attention**  
 [[slideshare](http://www.slideshare.net/yutakikuchi927/deep-learning-nlp-attention?from_action=save)]  
 
+**Reinforcement Learning**  
+for biginer  
+[[link](https://github.com/ugo-nama-kun/RL_nyu-mon)]  
+POMDP
+[[paper1](http://ac.els-cdn.com/0022247X6590154X/1-s2.0-0022247X6590154X-main.pdf?_tid=0a32f3fc-c4f9-11e5-852a-00000aab0f01&acdnat=1453901140_340d689860abb358128b650efb6d5f1c)]  
+[[paper2](http://www.cs.ubc.ca/~nando/550-2006/handouts/sondikPOMDP.pdf)]  
+
+survey
+[[link](https://github.com/muupan/deep-reinforcement-learning-papers)]  
+DQN-chainer
+[[code](https://github.com/muupan/DQN-chainer)]  
+Learning Continuous Control Policies by Stochastic Value Gradients  
+[[slide](http://www.slideshare.net/mooopan/learning-continuous-control-policies-by-stochastic-value-gradients)]  
+
 **Abstract Meaning Representation**  
 [[introduction](https://github.com/nschneid/amr-tutorial)  
+
+**R-CNN**  
+[[reddit](https://www.reddit.com/r/MachineLearning/comments/3exckj/girshicks_fast_rcnn_results_and_now_his_faster/)]  
 
 **Look and Think Twice: Capturing Top-Down Visual Attention with Feedback
 Convolutional Neural Networks (ICCCV2015)**  
 [[paper](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Cao_Look_and_Think_ICCV_2015_paper.pdf)]  
+
+**Text Understanding from Scratch**  
+*Xiang Zhang, Yann LeCun*  
+[[paper](http://arxiv.org/abs/1502.01710)]  
 
 ROS programing  
 [[link](http://irvs.github.io/rosbook_jp/)  
@@ -20,12 +41,14 @@ Reinforcement Learning Neural Turing Machines
 
 **topic model**  
 [[link1](https://github.com/poiuiop/machine_learning_python/blob/master/topic.md)]  
+[[blog:coherence](http://d.hatena.ne.jp/hoxo_m/20160122/p1)]  
 
 **Quantum Annealing**  
 [[slideshare](http://www.slideshare.net/shu-t/ss-57178026?ref=https://twitter.com/i/cards/tfw/v1/689075166232625152?cardname=player&earned=true&lang=ja)]  
 
 **reddit**
 [[SOTA image-caption](https://www.reddit.com/r/MachineLearning/comments/4020ek/state_of_the_art_dec2015_natural_language)  
+[[Nando de Freitas](https://www.reddit.com/r/MachineLearning/comments/3y4zai/ama_nando_de_freitas/)]  
 
 **Python**  
 [[link](http://qiita.com/ynakayama/items/8ed2854bcc3c3633345b)]  
@@ -76,10 +99,15 @@ python local server[[link](http://qiita.com/higuma/items/b23ca9d96dac49999ab9)]
 **Deep Learning Frameworks**
 **COMPARATIVE STUDY OF CAFFE, NEON, THEANO, AND TORCH FOR DEEP LEARNING**   
 [[paper](http://arxiv.org/pdf/1511.06435v2.pdf)]  
+**CNTK, the Computational Network Toolkit by Microsoft Research**  
+[[link](https://github.com/Microsoft/CNTK)]  
 
 #some tips
 **research mind**  
 [[link](http://hflab.k.u-tokyo.ac.jp/staff/hori/essay/kenkyuu.html)]  
+*X->Y Y research is not always simple application of X*  
+[[link](https://web2.ph.utexas.edu/~wktse/Welcome_files/More_Is_Different_Phil_Anderson.pdf)]  
+
 
 **how to write paper**  
 [[link](http://yamaguchiyuto.hatenablog.com/entry/2016/01/18/154613)]  
@@ -92,5 +120,6 @@ by Simon Peyton Jones(MSR,Cambridge)
 **coding**  
 [[link](http://www.chokkan.org/publication/coding-for-researchers.pdf)]  
 
-
+**kaggle**  
+[[link](https://www.kaggle.com/c/diabetic-retinopathy-detection/forums/t/15845/3rd-place-solution-report)]  
 

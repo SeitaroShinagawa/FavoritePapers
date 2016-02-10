@@ -28,3 +28,10 @@
 **Visualizing CNN architectures side by side with mxnet**
 [[link](http://josephpcohen.com/w/visualizing-cnn-architectures-side-by-side-with-mxnet/)]  
 
+##Tips
+###Explosion suppression for recurrent neural networks  
+[[pascanu 2012](http://arxiv.org/pdf/1212.0901.pdf)]  
+[[pascanu 2013](http://arxiv.org/pdf/1211.5063.pdf)]  
+[[pascanu 2014](http://arxiv.org/pdf/1312.6026.pdf)]  
+
+

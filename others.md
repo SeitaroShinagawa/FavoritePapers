@@ -2,9 +2,18 @@
 **Attention**  
 [[slideshare](http://www.slideshare.net/yutakikuchi927/deep-learning-nlp-attention?from_action=save)]  
 
+**Information Geometry**
+[[www link](http://language-and-engineering.hatenablog.jp/entry/20140619/InformationGeometryPDFPapers)]  
+[[link](http://ds9.jaist.ac.jp:8080/ResearchData/sub/98/kin/IG/toc.html)]  
+[[link]()]  
+
 **Reinforcement Learning**  
 for biginer  
 [[link](https://github.com/ugo-nama-kun/RL_nyu-mon)]  
+[[link](http://www.slideshare.net/kwp_george/ss-45978508)]  
+[[slide](https://www.sat.t.u-tokyo.ac.jp/~mak/20140319-makino.pdf)]  
+[[video](https://www.youtube.com/watch?v=XsFhA8kyfkI)]  
+
 POMDP
 [[paper1](http://ac.els-cdn.com/0022247X6590154X/1-s2.0-0022247X6590154X-main.pdf?_tid=0a32f3fc-c4f9-11e5-852a-00000aab0f01&acdnat=1453901140_340d689860abb358128b650efb6d5f1c)]  
 [[paper2](http://www.cs.ubc.ca/~nando/550-2006/handouts/sondikPOMDP.pdf)]  
@@ -13,6 +22,11 @@ survey
 [[link](https://github.com/muupan/deep-reinforcement-learning-papers)]  
 DQN-chainer
 [[code](https://github.com/muupan/DQN-chainer)]  
+[[description](http://qiita.com/Ugo-Nama/items/08c6a5f6a571335972d5)]  
+[[blog](http://vaaaaaanquish.hatenablog.com/entry/2015/12/25/005523#f-cf197f03)] 
+Active Object Localization with Deep Reinforcement Learning
+[[paper](http://web.engr.illinois.edu/~slazebni/publications/iccv15_active.pdf)]  
+ 
 Learning Continuous Control Policies by Stochastic Value Gradients  
 [[slide](http://www.slideshare.net/mooopan/learning-continuous-control-policies-by-stochastic-value-gradients)]  
 

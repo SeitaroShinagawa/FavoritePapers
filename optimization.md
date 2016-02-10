@@ -8,6 +8,11 @@
 *Patrick R. Conrad, Youssef M. Marzouk, Natesh S. Pillai, Aaron Smith*  
 [[paper](http://arxiv.org/abs/1402.1694)]  
 
+**Taking the Human Out of the Loop: A Review of Bayesian Optimization**  
+Bobak Shahriari, Kevin Swersky, Ziyu Wang, Ryan P. Adams and Nando de Freitas  
+[[paper](https://www.cs.ox.ac.uk/people/nando.defreitas/publications/BayesOptLoop.pdf)  
+
+
 
 
 

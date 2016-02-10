@@ -1,5 +1,13 @@
 #Quantized Neural Networks
 
+**Binarized Neural Networks**  
+*Itay Hubara, Daniel Soudry, Ran El Yaniv*  
+[[paper](http://arxiv.org/abs/1602.02505)]  
+
+**BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**  
+*Matthieu Courbariaux, Yoshua Bengio*  
+[[paper](http://arxiv.org/abs/1602.02830)]  
+
 **Bitwise Neural Networks**  
 *Minje Kim, Paris Smaragdis*  
 [[paper](http://arxiv.org/abs/1601.06071)]  

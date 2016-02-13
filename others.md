@@ -137,3 +137,7 @@ by Simon Peyton Jones(MSR,Cambridge)
 **kaggle**  
 [[link](https://www.kaggle.com/c/diabetic-retinopathy-detection/forums/t/15845/3rd-place-solution-report)]  
 
+**how to make presentation**  
+[[link](http://www.slideshare.net/ShinnosukeTakamichi/ss-48987441?qid=ff1f7468-8bb2-4704-a043-5a577d39493c&v=&b=&from_search=1)]  
+[[link](http://www.slideshare.net/yutamorishige50/ss-41321443)]  
+

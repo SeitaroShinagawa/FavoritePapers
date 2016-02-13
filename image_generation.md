@@ -1,5 +1,8 @@
 #Image Generation
 
+**Deep Visual Analogy-Making**  
+[[code](https://github.com/carpedm20/visual-analogy-tensorflow)]  
+
 **Combining Markov Random Fields and Convolutional Neural Networks for Image Synthesis**(arXiv)  
 *Chuan Li, Michael Wand*  
 [[paper](http://arxiv.org/abs/1601.04589)]  

@@ -5,7 +5,7 @@
 **Information Geometry**
 [[www link](http://language-and-engineering.hatenablog.jp/entry/20140619/InformationGeometryPDFPapers)]  
 [[link](http://ds9.jaist.ac.jp:8080/ResearchData/sub/98/kin/IG/toc.html)]  
-[[link]()]  
+[[link](http://www.slideshare.net/motivic/ss-14465676)]  
 
 **Reinforcement Learning**  
 for biginer  

@@ -7,6 +7,7 @@
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**  
 *Matthieu Courbariaux, Yoshua Bengio*  
 [[paper](http://arxiv.org/abs/1602.02830)]  
+[[chainer](https://github.com/hillbig/binary_net)]  
 
 **Bitwise Neural Networks**  
 *Minje Kim, Paris Smaragdis*  

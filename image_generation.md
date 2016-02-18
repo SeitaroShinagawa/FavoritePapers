@@ -1,5 +1,9 @@
 #Image Generation
 
+**Generating images with recurrent adversarial networks**(Arxiv2016)  
+*Daniel Jiwoong Im, Chris Dongjoo Kim, Hui Jiang, Roland Memisevic*  
+[[paper](http://arxiv.org/abs/1602.05110)]  
+
 **Deep Visual Analogy-Making**  
 [[code](https://github.com/carpedm20/visual-analogy-tensorflow)]  
 

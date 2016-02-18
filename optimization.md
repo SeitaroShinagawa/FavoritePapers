@@ -1,5 +1,8 @@
 #Optimization
 
+**Convex Relaxation Regression: Black-Box Optimization of Smooth Functions by Learning Their Convex Envelopes**(Arxiv2016)    
+[[paper](http://arxiv.org/pdf/1602.02191v2.pdf)  
+
 **Adam: A Method for Stochastic Optimization** (ICLR2015)   
 *D.P. Kingma, M. Welling* (Universiteit van Amsterdam)  
 [[paper](http://arxiv.org/abs/1412.6980)]  

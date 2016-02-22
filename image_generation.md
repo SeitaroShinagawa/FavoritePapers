@@ -1,5 +1,9 @@
 #Image Generation
 
+**Auxiliary Deep Generative Models**  
+*Lars Maaløe, Casper Kaae Sønderby, Søren Kaae Sønderby, Ole Winther*  
+[[paper](http://arxiv.org/abs/1602.05473\)]  
+
 **Generating images with recurrent adversarial networks**(Arxiv2016)  
 *Daniel Jiwoong Im, Chris Dongjoo Kim, Hui Jiang, Roland Memisevic*  
 [[paper](http://arxiv.org/abs/1602.05110)]  

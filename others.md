@@ -6,6 +6,9 @@
 [[www link](http://language-and-engineering.hatenablog.jp/entry/20140619/InformationGeometryPDFPapers)]  
 [[link](http://ds9.jaist.ac.jp:8080/ResearchData/sub/98/kin/IG/toc.html)]  
 [[link](http://www.slideshare.net/motivic/ss-14465676)]  
+[[text English](http://www.amazon.co.jp/Information-Geometry-Applications-Mathematical-Sciences/dp/4431559779)]  
+[[text](http://link.springer.com/chapter/10.1007%2F978-3-642-00826-9_4)]  
+
 
 **Reinforcement Learning**  
 for biginer  

@@ -1,4 +1,8 @@
 #Awesome neural networks  
+**Why are deep nets reversible: A simple theory, with implications for training**  
+*Sanjeev Arora, Yingyu Liang, Tengyu Ma*  
+[[paper](http://arxiv.org/abs/1511.05653)]  
+
 **Deep Kernel Learning**  
 *Andrew Gordon Wilson, Zhiting Hu, Ruslan Salakhutdinov, Eric P. Xing*  
 [[paper](http://arxiv.org/abs/1511.02222)]  

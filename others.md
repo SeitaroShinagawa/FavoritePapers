@@ -1,4 +1,10 @@
 #Other materials
+**elementary proof ofr sion's minimax theorem**  
+[[link](http://projecteuclid.org/download/pdf_1/euclid.kmj/1138038812)]  
+
+**関西CV・PRML勉強会**    
+[[link](https://drive.google.com/folderview?id=0B0GZVJQs_R7nNzY3ZWNlZjgtNjliMC00YzExLWE5ZTMtODI4YzQ5ZTgxZTU4&usp=drive_web&ddrp=1&hl=ja)]  
+
 **Attention**  
 [[slideshare](http://www.slideshare.net/yutakikuchi927/deep-learning-nlp-attention?from_action=save)]  
 
@@ -111,6 +117,9 @@ pixel based image similarity metric
 **Top-Down BTG-based Preordering**  
 [[code](https://github.com/google/topdown-btg-preordering)]  
 
+**Qiita**  
+[[write math](http://qiita.com/naoya_t/items/3d4cf1028b5c438642bc)]  
+
 **Bokeh**  
 python local server[[link](http://qiita.com/higuma/items/b23ca9d96dac49999ab9)]  
 **Deep Learning Frameworks**
@@ -130,6 +139,9 @@ python local server[[link](http://qiita.com/higuma/items/b23ca9d96dac49999ab9)]
 [[link](http://yamaguchiyuto.hatenablog.com/entry/2016/01/18/154613)]  
 by Simon Peyton Jones(MSR,Cambridge)
 [[video](https://www.youtube.com/watch?v=g3dkRsTqdDA)]  
+[[松尾ぐみの論文の書き方](http://tam5917.hatenablog.com/entry/2016/03/04/235315)]  
+
+
 
 **data,code manegement**  
 [[link](http://qiita.com/ysekky/items/3db54349452dd8a336fb)]  

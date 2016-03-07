@@ -15,6 +15,7 @@
 *Chuan Li, Michael Wand*  
 [[paper](http://arxiv.org/abs/1601.04589)]  
 [[GitXiv](http://gitxiv.com/posts/DtC4Zwz3kqCDBHFD7/combining-markov-random-fields-and-convolutional-neural)]  
+[[code](https://github.com/awentzonline/image-analogies)]  
 
 **Weakly-supervised Disentangling with Recurrent Transformations for 3D View Synthesis**  
 *Jimei Yang Scott Reed Ming-Hsuan Yang1 Honglak Lee*  
@@ -72,6 +73,7 @@
 [[paper](http://arxiv.org/pdf/1511.02793v1.pdf)]  
 [[slide](http://www.cs.toronto.edu/~emansim/nipsram2015/presentation_nipsram2015.pdf)  
 [[reddit](https://www.reddit.com/r/MachineLearning/comments/3safll/generating_images_from_captions_with_attention/)]  
+[[code](https://github.com/emansim/text2image)]  
 
 **Inverting Visual Representations with Convolutional Networks** (Arxiv)  
 *Alexey Dosovitskiy, Thomas Brox* (University of Freiburg)  
@@ -86,6 +88,7 @@
 [[reproduced code1](https://github.com/jbornschein/draw)]  
 [[reproduced code2](https://github.com/skaae/lasagne-draw)]*doesn't work well...?*  
 [[reproduced code3](https://github.com/uaca/deepy)] 
+[[blog](http://evjang.com/articles/draw)]  
 
 **Unveiling the Dreams of Word Embeddings: Towards Language-Driven Image Generation**(Arxiv2015)  
 *Angeliki Lazaridou, Dat Tien Nguyen, Raffaella Bernardi, Marco Baroni*  

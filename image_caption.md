@@ -1,4 +1,7 @@
 #Image to Caption Generation
+**Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics**  
+[[paper](http://www.jair.org/media/3994/live-3994-7274-jair.pdf)]  
+
 **Automatic Description Generation from Images: A Survey of Models, Datasets, and Evaluation Measures**(arXiv)  
 [[paper](http://arxiv.org/pdf/1601.03896.pdf)]  
 

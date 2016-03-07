@@ -1,7 +1,16 @@
 #Awesome neural networks  
+
 **Why are deep nets reversible: A simple theory, with implications for training**  
 *Sanjeev Arora, Yingyu Liang, Tengyu Ma*  
 [[paper](http://arxiv.org/abs/1511.05653)]  
+
+**Weight Normalization: A Simple Reparameterization to Accelerate Training of Deep Neural Networks**  
+*Tim Salimans, Diederik P. Kingma*  
+[[paper](http://arxiv.org/abs/1602.07868)]  
+
+**Group Equivariant Convolutional Networks**  
+*Taco S. Cohen, Max Welling*  
+[[paper](http://arxiv.org/abs/1602.07576)]  
 
 **Deep Kernel Learning**  
 *Andrew Gordon Wilson, Zhiting Hu, Ruslan Salakhutdinov, Eric P. Xing*  

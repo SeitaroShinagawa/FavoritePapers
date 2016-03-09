@@ -1,4 +1,7 @@
 #Other materials
+**blogpost about AI**  
+[[link](https://medium.com/@ArtificialExperience/creativeai-9d4b2346faf3#.srr79r55y)]  
+
 **elementary proof ofr sion's minimax theorem**  
 [[link](http://projecteuclid.org/download/pdf_1/euclid.kmj/1138038812)]  
 
@@ -14,7 +17,7 @@
 [[link](http://www.slideshare.net/motivic/ss-14465676)]  
 [[text English](http://www.amazon.co.jp/Information-Geometry-Applications-Mathematical-Sciences/dp/4431559779)]  
 [[text](http://link.springer.com/chapter/10.1007%2F978-3-642-00826-9_4)]  
-
+[[blog](http://hayashiyusuke.jp/info/?p=3512)]  
 
 **Reinforcement Learning**  
 for biginer  
@@ -109,6 +112,9 @@ pixel based image similarity metric
 *learn how to use Tensorflow*  
 [[link](https://www.udacity.com/course/deep-learning--ud730)]
 
+**Python**  
+[[link](http://paiza.hatenablog.com/entry/2016/03/08/%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AB%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%EF%BC%81Python3%E3%82%92%E7%BF%92%E5%BE%97%E3%81%A7%E3%81%8D%E3%82%8B4%E3%81%A4%E3%81%AE%E5%AD%A6%E7%BF%92%E6%B3%95%E3%81%A811?)]  
+
 ##Tools
 **Scalable Bayesian Optimization Using Deep Neural Networks**  
 *neural networks as an alternative to GPs*  
@@ -151,6 +157,7 @@ by Simon Peyton Jones(MSR,Cambridge)
 
 **kaggle**  
 [[link](https://www.kaggle.com/c/diabetic-retinopathy-detection/forums/t/15845/3rd-place-solution-report)]  
+[[Tips](http://www.slideshare.net/markpeng/general-tips-for-participating-kaggle-competitions?ref=https://twitter.com/i/cards/tfw/v1/707584669391278081?cardname=player&earned=true&lang=ja)]  
 
 **how to make presentation**  
 [[link](http://www.slideshare.net/ShinnosukeTakamichi/ss-48987441?qid=ff1f7468-8bb2-4704-a043-5a577d39493c&v=&b=&from_search=1)]  

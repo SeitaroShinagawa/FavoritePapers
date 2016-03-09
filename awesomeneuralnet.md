@@ -1,5 +1,8 @@
 #Awesome neural networks  
 
+**Create song with neuralnet**  
+[[blog](https://maraoz.com/2016/02/02/abc-rnn/)]  
+
 **Why are deep nets reversible: A simple theory, with implications for training**  
 *Sanjeev Arora, Yingyu Liang, Tengyu Ma*  
 [[paper](http://arxiv.org/abs/1511.05653)]  

@@ -1,5 +1,9 @@
 #Image Generation
 
+**Variational Gaussian Process**(ICLR2016)    
+*Dustin Tran, Rajesh Ranganath, David M. Blei*  
+[[paper](http://arxiv.org/abs/1511.06499v2)]  
+
 **Auxiliary Deep Generative Models**  
 *Lars Maaløe, Casper Kaae Sønderby, Søren Kaae Sønderby, Ole Winther*  
 [[paper](http://arxiv.org/abs/1602.05473\)]  

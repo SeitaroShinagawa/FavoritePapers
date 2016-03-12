@@ -1,4 +1,8 @@
 #Image Generation
+
+**Texture Networks: Feed-forward Synthesis of Textures and Stylized Images**  
+*Dmitry Ulyanov, Vadim Lebedev, Andrea Vedaldi, Victor Lempitsky*  
+[[paper](http://arxiv.org/abs/1603.03417)]  
  
 **Variational Gaussian Process**(ICLR2016)    
 *Dustin Tran, Rajesh Ranganath, David M. Blei*  

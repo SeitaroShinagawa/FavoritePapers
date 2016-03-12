@@ -1,4 +1,8 @@
-#Image to Caption Generation
+#Image to Caption Generation  
+**Sequence to Sequence -- Video to Text**  
+*Subhashini Venugopalan, Marcus Rohrbach, Jeff Donahue, Raymond Mooney, Trevor Darrell, Kate Saenko*  
+[code](https://github.com/jazzsaxmafia/video_to_sequence)]  
+
 **Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics**  
 [[paper](http://www.jair.org/media/3994/live-3994-7274-jair.pdf)]  
 

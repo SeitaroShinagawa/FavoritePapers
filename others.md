@@ -18,7 +18,8 @@
 [[text English](http://www.amazon.co.jp/Information-Geometry-Applications-Mathematical-Sciences/dp/4431559779)]  
 [[text](http://link.springer.com/chapter/10.1007%2F978-3-642-00826-9_4)]  
 [[blog](http://hayashiyusuke.jp/info/?p=3512)]  
-
+[[blog](https://infinitytopos.wordpress.com/)]  
+  
 **Reinforcement Learning**  
 for biginer  
 [[link](https://github.com/ugo-nama-kun/RL_nyu-mon)]  
@@ -29,6 +30,9 @@ for biginer
 POMDP
 [[paper1](http://ac.els-cdn.com/0022247X6590154X/1-s2.0-0022247X6590154X-main.pdf?_tid=0a32f3fc-c4f9-11e5-852a-00000aab0f01&acdnat=1453901140_340d689860abb358128b650efb6d5f1c)]  
 [[paper2](http://www.cs.ubc.ca/~nando/550-2006/handouts/sondikPOMDP.pdf)]  
+
+Active Learning  
+[[slide](http://www.slideshare.net/shuyo/introduction-to-active-learning-25787487)]  
 
 survey
 [[link](https://github.com/muupan/deep-reinforcement-learning-papers)]  
@@ -49,7 +53,7 @@ Learning Continuous Control Policies by Stochastic Value Gradients
 [[reddit](https://www.reddit.com/r/MachineLearning/comments/3exckj/girshicks_fast_rcnn_results_and_now_his_faster/)]  
 
 **Look and Think Twice: Capturing Top-Down Visual Attention with Feedback
-Convolutional Neural Networks (ICCCV2015)**  
+Convolutional Neural Networks (ICCV2015)**  
 [[paper](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Cao_Look_and_Think_ICCV_2015_paper.pdf)]  
 
 **Text Understanding from Scratch**  
@@ -57,9 +61,9 @@ Convolutional Neural Networks (ICCCV2015)**
 [[paper](http://arxiv.org/abs/1502.01710)]  
 
 ROS programing  
-[[link](http://irvs.github.io/rosbook_jp/)  
+[[link](http://irvs.github.io/rosbook_jp/)]  
 
-Reinforcement Learning Neural Turing Machines  
+Reinforcement Learning Neural Turing Machine
 [[gitxiv](http://gitxiv.com/posts/ZuSYfufoftfkY2zgP/reinforcement-learning-neural-turing-machines)]  
 
 **Computer Vision:  Models, Learning, and Inference**  
@@ -116,6 +120,9 @@ pixel based image similarity metric
 [[link](http://paiza.hatenablog.com/entry/2016/03/08/%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AB%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%EF%BC%81Python3%E3%82%92%E7%BF%92%E5%BE%97%E3%81%A7%E3%81%8D%E3%82%8B4%E3%81%A4%E3%81%AE%E5%AD%A6%E7%BF%92%E6%B3%95%E3%81%A811?)]  
 
 ##Tools
+**日本語正規化**  
+[[code](https://github.com/ikegami-yukino/neologdn)]  
+
 **Scalable Bayesian Optimization Using Deep Neural Networks**  
 *neural networks as an alternative to GPs*  
 [[GitXiv](http://gitxiv.com/posts/fMafqXHZL4E56sJRe/scalable-bayesian-optimization-using-deep-neural-networks)]  
@@ -140,6 +147,8 @@ python local server[[link](http://qiita.com/higuma/items/b23ca9d96dac49999ab9)]
 *X->Y Y research is not always simple application of X*  
 [[link](https://web2.ph.utexas.edu/~wktse/Welcome_files/More_Is_Different_Phil_Anderson.pdf)]  
 
+**research tips**  
+[[slide](http://www.slideshare.net/naoakiokazaki/ss-59403900)]  
 
 **how to write paper**  
 [[link](http://yamaguchiyuto.hatenablog.com/entry/2016/01/18/154613)]  

@@ -1,12 +1,12 @@
 #Image Generation
-
+ 
 **Variational Gaussian Process**(ICLR2016)    
 *Dustin Tran, Rajesh Ranganath, David M. Blei*  
 [[paper](http://arxiv.org/abs/1511.06499v2)]  
 
 **Auxiliary Deep Generative Models**  
 *Lars Maaløe, Casper Kaae Sønderby, Søren Kaae Sønderby, Ole Winther*  
-[[paper](http://arxiv.org/abs/1602.05473\)]  
+[[paper](http://arxiv.org/abs/1602.05473)]  
 
 **Generating images with recurrent adversarial networks**(Arxiv2016)  
 *Daniel Jiwoong Im, Chris Dongjoo Kim, Hui Jiang, Roland Memisevic*  
@@ -50,10 +50,11 @@
 [[paper](http://arxiv.org/pdf/1511.05644v1.pdf)]  
 [[article](http://www.inference.vc/adversarial-autoencoders)]  
 [[theano](https://github.com/mikesj-public/dcgan-autoencoder)]  
-[[chainer](https://github.com/stitchfix/fauxtograph)]  
+[[chainer](https://github.com/musyoku/adversarial-autoencoder)]  
 
 **Autoencoding beyond pixels using a learned similarity metric**   
 [[paper](http://arxiv.org/pdf/1512.09300.pdf)]  
+[[chainer](https://github.com/stitchfix/fauxtograph)]
 
 **Texture Synthesis Using Convolutional Neural Networks**  (NIPS2015)  
 *Leon Gatys, Alexander S. Ecker, Matthias Bethge* (University of Tubingen)  
@@ -116,4 +117,9 @@
 [[chainer code](https://github.com/takerum/vae)]  
 [[chaienr code2](http://nbviewer.ipython.org/gist/duschendestroyer/a41fcab5f7f9ffa45387)]  
 
-
+#Object Retrieval  
+**Natural Language Object Retrieval**  
+*Ronghang Hu, Huazhe Xu, Marcus Rohrbach, Jiashi Feng, Kate Saenko, Trevor Darrell*  
+[[project](http://ronghanghu.com/object-retrieval/)]  
+[[paper](http://arxiv.org/abs/1511.04164)]  
+[[code](coming soon?)]  

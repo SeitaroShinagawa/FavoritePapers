@@ -1,5 +1,9 @@
 #Awesome neural networks  
 
+**A New Method to Visualize Deep Neural Networks**  
+*Luisa M. Zintgraf, Taco S. Cohen, Max Welling*  
+[[paper](http://arxiv.org/abs/1603.02518)]  
+
 **Create song with neuralnet**  
 [[blog](https://maraoz.com/2016/02/02/abc-rnn/)]  
 

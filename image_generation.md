@@ -1,5 +1,8 @@
 #Image Generation
 
+**Neural Doodle**  
+[[code](https://github.com/alexjc/neural-doodle/)]  
+
 **Texture Networks: Feed-forward Synthesis of Textures and Stylized Images**  
 *Dmitry Ulyanov, Vadim Lebedev, Andrea Vedaldi, Victor Lempitsky*  
 [[paper](http://arxiv.org/abs/1603.03417)]  

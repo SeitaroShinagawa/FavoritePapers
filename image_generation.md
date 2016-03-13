@@ -55,6 +55,7 @@
 [[paper](http://arxiv.org/pdf/1511.05644v1.pdf)]  
 [[article](http://www.inference.vc/adversarial-autoencoders)]  
 [[theano](https://github.com/mikesj-public/dcgan-autoencoder)]  
+[[blog](http://musyoku.github.io/2016/02/22/adversarial-autoencoder/)]  
 [[chainer](https://github.com/musyoku/adversarial-autoencoder)]  
 
 **Autoencoding beyond pixels using a learned similarity metric**   

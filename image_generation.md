@@ -1,5 +1,16 @@
 #Image Generation
 
+**One-Shot Generalization in Deep Generative Models**  
+*Danilo Jimenez Rezende, Shakir Mohamed, Ivo Danihelka, Karol Gregor, Daan Wierstra* 
+[[paper](http://arxiv.org/abs/1603.05106)]  
+[[video](https://www.youtube.com/watch?v=ptLdYd8FXRA&feature=youtu.be)]  
+[[video](https://www.youtube.com/watch?v=HkDxmnIfWIM)]  
+[[video](https://www.youtube.com/watch?v=6S6Tx_OtvnA)]  
+[[video](https://www.youtube.com/watch?v=HQEI2xfTgm4)]  
+[[video](https://www.youtube.com/watch?v=qb2-73OHuWA)]  
+[[video](https://www.youtube.com/watch?v=281wqqkmAuw)]  
+[[video](https://www.youtube.com/watch?v=W0R394wEUqQ)]  
+
 **Neural Doodle**  
 [[code](https://github.com/alexjc/neural-doodle/)]  
 

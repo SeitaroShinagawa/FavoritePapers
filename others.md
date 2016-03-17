@@ -1,4 +1,7 @@
 #Other materials
+**言語情報処理ポータル**  
+[[link](http://www.jaist.ac.jp/project/NLP_Portal/index.php?WhatsNew)]  
+
 **blogpost about AI**  
 [[link](https://medium.com/@ArtificialExperience/creativeai-9d4b2346faf3#.srr79r55y)]  
 
@@ -42,6 +45,8 @@ DQN-chainer
 [[blog](http://vaaaaaanquish.hatenablog.com/entry/2015/12/25/005523#f-cf197f03)] 
 Active Object Localization with Deep Reinforcement Learning
 [[paper](http://web.engr.illinois.edu/~slazebni/publications/iccv15_active.pdf)]  
+全脳アーキテクチャ勉強会  
+[[言語と画像の表現学習](http://www.slideshare.net/yukinoguchi999/ss-59238906?ref=https://t.co/orAg66xkV2)]  
  
 Learning Continuous Control Policies by Stochastic Value Gradients  
 [[slide](http://www.slideshare.net/mooopan/learning-continuous-control-policies-by-stochastic-value-gradients)]  

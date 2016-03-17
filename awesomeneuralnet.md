@@ -1,5 +1,8 @@
 #Awesome neural networks  
 
+**Theano Deep Learning links**  
+[[link](https://news.ycombinator.com/item?id=9283105)]  
+
 **A New Method to Visualize Deep Neural Networks**  
 *Luisa M. Zintgraf, Taco S. Cohen, Max Welling*  
 [[paper](http://arxiv.org/abs/1603.02518)]  

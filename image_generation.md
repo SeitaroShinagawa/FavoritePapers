@@ -1,5 +1,8 @@
 #Image Generation
 
+**子供の言語獲得と機械の言語獲得**  
+[[slide](http://www.slideshare.net/unnonouno/ss-59660836)]  
+
 **One-Shot Generalization in Deep Generative Models**  
 *Danilo Jimenez Rezende, Shakir Mohamed, Ivo Danihelka, Karol Gregor, Daan Wierstra* 
 [[paper](http://arxiv.org/abs/1603.05106)]  

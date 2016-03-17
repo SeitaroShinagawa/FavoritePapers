@@ -1,4 +1,7 @@
 #Awesome neural networks  
+**Identity Mappings in Deep Residual Networks**  
+*Kaiming He, Xiangyu Zhang, Shaoqing Ren, Jian Sun*  
+[[paper](http://arxiv.org/abs/1603.05027)]  
 
 **Theano Deep Learning links**  
 [[link](https://news.ycombinator.com/item?id=9283105)]  

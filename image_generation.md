@@ -1,5 +1,9 @@
 #Image Generation
 
+**Generative Image Modeling using Style and Structure Adversarial Networks**  
+*Xiaolong Wang, Abhinav Gupta*  
+[[paper](http://arxiv.org/abs/1603.05631)]  
+
 **子供の言語獲得と機械の言語獲得**  
 [[slide](http://www.slideshare.net/unnonouno/ss-59660836)]  
 

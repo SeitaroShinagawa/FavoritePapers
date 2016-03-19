@@ -1,4 +1,7 @@
 #Other materials
+**Markdown Resume Generator**  
+[[link](https://github.com/there4/markdown-resume)]  
+
 **言語情報処理ポータル**  
 [[link](http://www.jaist.ac.jp/project/NLP_Portal/index.php?WhatsNew)]  
 

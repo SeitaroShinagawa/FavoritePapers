@@ -1,5 +1,9 @@
 #Quantized Neural Networks
 
+**XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks**  
+*Mohammad Rastegari, Vicente Ordonez, Joseph Redmon, Ali Farhadi*  
+[[paper](http://arxiv.org/abs/1603.05279)]  
+
 **Binarized Neural Networks**  
 *Itay Hubara, Daniel Soudry, Ran El Yaniv*  
 [[paper](http://arxiv.org/abs/1602.02505)]  

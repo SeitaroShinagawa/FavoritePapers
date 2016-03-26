@@ -1,4 +1,11 @@
-#Image Generation
+#Image Generation  
+
+Generating Abstract Patterns with TensorFlow[[blog](http://blog.otoro.net/2016/03/25/generating-abstract-patterns-with-tensorflow/)]  
+
+**Neural network based model for visual-motor integration learning of robot's drawing behavior: Association of a drawing motion from a drawn image**  
+*K. Sasaki, Tjandra, K. Noda, K. Takahashi, T. Ogata*  
+[[paper](http://ieeexplore.ieee.org/xpl/abstractAuthors.jsp?arnumber=7353752&abstractAccess=no&userType=inst)]   
+[[master](http://www.ias.sci.waseda.ac.jp/GraduationThesis/2014_summary/5113E010_s.pdf)]  
 
 **Generative Image Modeling using Style and Structure Adversarial Networks**  
 *Xiaolong Wang, Abhinav Gupta*  
@@ -18,8 +25,12 @@
 [[video](https://www.youtube.com/watch?v=281wqqkmAuw)]  
 [[video](https://www.youtube.com/watch?v=W0R394wEUqQ)]  
 
-**Neural Doodle**  
+**Semantic Style Transfer and Turning Two-Bit Doodles into Fine Artworks**  
+*Alex J. Champandard*  
+[[GitXiv](http://gitxiv.com/posts/iD8CfPqfgqixC53w8/neural-doodle)]  
+[[paper](http://arxiv.org/abs/1603.01768)]  
 [[code](https://github.com/alexjc/neural-doodle/)]  
+[[faster code](https://github.com/DmitryUlyanov/fast-neural-doodle)]  
 
 **Texture Networks: Feed-forward Synthesis of Textures and Stylized Images**  
 *Dmitry Ulyanov, Vadim Lebedev, Andrea Vedaldi, Victor Lempitsky*  
@@ -33,6 +44,7 @@
 **Auxiliary Deep Generative Models**  
 *Lars Maaløe, Casper Kaae Sønderby, Søren Kaae Sønderby, Ole Winther*  
 [[paper](http://arxiv.org/abs/1602.05473)]  
+[[GitXiv](http://gitxiv.com/posts/XNf7oNqe47RhBzivu/auxiliary-deep-generative-models)]  
 
 **Generating images with recurrent adversarial networks**(Arxiv2016)  
 *Daniel Jiwoong Im, Chris Dongjoo Kim, Hui Jiang, Roland Memisevic*  

@@ -1,5 +1,9 @@
 #Dialog Systems
 
+##conversation model
+**A Neural Conversation Model**  
+[[GitXiv](http://gitxiv.com/posts/j9FtQgmHAQD8qceub/a-neural-conversational-model)]  
+
 #Corpus  
 **A Survey of Available Corpora For Building Data-Driven Dialogue Systems**  
 *Iulian Vlad Serban, Ryan Lowe, Laurent Charlin, Joelle Pineau*  

@@ -100,6 +100,9 @@ Reinforcement Learning Neural Turing Machine
 **Kernel**
 [[slide](http://www.ism.ac.jp/~fukumizu/papers/Kernel_rois2006.pdf)]  
 
+**Statistics**
+[Who do you love most? Your left-tail or your right tail?](http://daniellakens.blogspot.jp/2016/03/who-do-you-love-most-your-left-tail-or.html)]  
+
 ##Evaluation Metrics  
 **SSIM (Structural SIMilarity)**  
 pixel based image similarity metric  
@@ -148,6 +151,8 @@ python local server[[link](http://qiita.com/higuma/items/b23ca9d96dac49999ab9)]
 [[paper](http://arxiv.org/pdf/1511.06435v2.pdf)]  
 **CNTK, the Computational Network Toolkit by Microsoft Research**  
 [[link](https://github.com/Microsoft/CNTK)]  
+**Cloud Machine Learning**  
+[[article](http://www.publickey1.jp/blog/16/googlecloud_machine_learningtensorflowgcp_next_2016.html)]
 
 #some tips
 **research mind**  
@@ -164,7 +169,9 @@ by Simon Peyton Jones(MSR,Cambridge)
 [[video](https://www.youtube.com/watch?v=g3dkRsTqdDA)]  
 [[松尾ぐみの論文の書き方](http://tam5917.hatenablog.com/entry/2016/03/04/235315)]  
 
-
+**paper search**  
+PoEC[[link](http://www.cl.ecei.tohoku.ac.jp/poec/sentsearch/)]  
+exemplar[[link](http://www.springerexemplar.com/)]  
 
 **data,code manegement**  
 [[link](http://qiita.com/ysekky/items/3db54349452dd8a336fb)]  
@@ -180,3 +187,6 @@ by Simon Peyton Jones(MSR,Cambridge)
 [[link](http://www.slideshare.net/ShinnosukeTakamichi/ss-48987441?qid=ff1f7468-8bb2-4704-a043-5a577d39493c&v=&b=&from_search=1)]  
 [[link](http://www.slideshare.net/yutamorishige50/ss-41321443)]  
 
+#Educational Application
+**SAKUMON** (ICML2007)  
+[[paper](http://www.r.dl.itc.u-tokyo.ac.jp/~nakagawa/academic-res/ICWL2007.pdf)]  

@@ -14,6 +14,9 @@
 **関西CV・PRML勉強会**    
 [[link](https://drive.google.com/folderview?id=0B0GZVJQs_R7nNzY3ZWNlZjgtNjliMC00YzExLWE5ZTMtODI4YzQ5ZTgxZTU4&usp=drive_web&ddrp=1&hl=ja)]  
 
+**Introduction to Information Retrieval**  
+[[link](http://nlp.stanford.edu/IR-book/)]  
+
 **Attention**  
 [[slideshare](http://www.slideshare.net/yutakikuchi927/deep-learning-nlp-attention?from_action=save)]  
 

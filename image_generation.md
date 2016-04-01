@@ -1,5 +1,9 @@
 #Image Generation  
 
+**Colorful Image Colorization**   
+*Richard Zhang, Phillip Isola, Alexei A. Efros*  
+[[GitXiv](http://gitxiv.com/posts/4HvQAMvaLa94Wroxo/colorful-image-colorization)]  
+
 Generating Abstract Patterns with TensorFlow[[blog](http://blog.otoro.net/2016/03/25/generating-abstract-patterns-with-tensorflow/)]  
 
 **Neural network based model for visual-motor integration learning of robot's drawing behavior: Association of a drawing motion from a drawn image**  

@@ -63,6 +63,9 @@ Learning Continuous Control Policies by Stochastic Value Gradients
 **R-CNN**  
 [[reddit](https://www.reddit.com/r/MachineLearning/comments/3exckj/girshicks_fast_rcnn_results_and_now_his_faster/)]  
 
+**HMM**  
+[[tensorflow](https://github.com/dwiel/tensorflow_hmm)]  
+
 **Look and Think Twice: Capturing Top-Down Visual Attention with Feedback
 Convolutional Neural Networks (ICCV2015)**  
 [[paper](http://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Cao_Look_and_Think_ICCV_2015_paper.pdf)]  
@@ -73,6 +76,9 @@ Convolutional Neural Networks (ICCV2015)**
 
 ROS programing  
 [[link](http://irvs.github.io/rosbook_jp/)]  
+
+研究初心者のためのJAVA講座  
+[[link](http://syrinx.q.t.u-tokyo.ac.jp/tori/java/)]  
 
 Reinforcement Learning Neural Turing Machine
 [[gitxiv](http://gitxiv.com/posts/ZuSYfufoftfkY2zgP/reinforcement-learning-neural-turing-machines)]  
@@ -156,6 +162,9 @@ python local server[[link](http://qiita.com/higuma/items/b23ca9d96dac49999ab9)]
 [[link](https://github.com/Microsoft/CNTK)]  
 **Cloud Machine Learning**  
 [[article](http://www.publickey1.jp/blog/16/googlecloud_machine_learningtensorflowgcp_next_2016.html)]
+
+#Application
+Ruby on Rails [[link](http://openbook4.me/projects/92/sections/485)] [[link2](http://qiita.com/ciao/items/0ada6b04c568c77ee275)]
 
 #some tips
 **research mind**  

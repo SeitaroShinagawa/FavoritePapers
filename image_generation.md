@@ -1,5 +1,13 @@
 #Image Generation  
 
+**Deep Generative Models with Stick-Breaking Priors**  
+*Eric Nalisnick, Padhraic Smyth*  
+[[paper](http://arxiv.org/abs/1605.06197)]  
+
+**Generative Adversarial Text to Image Synthesis**  
+*Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee*  
+[[paper](http://arxiv.org/abs/1605.05396)]  
+
 **Colorful Image Colorization**   
 *Richard Zhang, Phillip Isola, Alexei A. Efros*  
 [[GitXiv](http://gitxiv.com/posts/4HvQAMvaLa94Wroxo/colorful-image-colorization)]  
@@ -159,6 +167,7 @@ Generating Abstract Patterns with TensorFlow[[blog](http://blog.otoro.net/2016/0
 [[paper](http://dpkingma.com/wordpress/wp-content/uploads/2014/10/iclr14_vae.pdf)]  
 [[chainer code](https://github.com/takerum/vae)]  
 [[chaienr code2](http://nbviewer.ipython.org/gist/duschendestroyer/a41fcab5f7f9ffa45387)]  
+[[chainer code3](https://github.com/yuichiro-s/chainer-vae)]  
 
 #Object Retrieval  
 **Natural Language Object Retrieval**  

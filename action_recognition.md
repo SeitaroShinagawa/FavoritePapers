@@ -1,4 +1,7 @@
-#Image to Caption Generation
+#Action Recognition
+
+**A Large-Scale Video Benchmark for Human Activity Understanding**  
+[[link](http://activity-net.org/)]
 
 **Deep Convolutional and LSTM Recurrent Neural Networks for Multimodal Wearable Activity Recognition**  
 *Francisco Javier Ordóñez and Daniel Roggen* 

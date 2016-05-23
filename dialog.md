@@ -1,5 +1,11 @@
 #Dialog Systems
 
+##task oriented  
+**A Network-based End-to-End Trainable Task-oriented Dialogue System**  
+*Tsung-Hsien Wen, Milica Gašic, Nikola Mrkši ´ c, Lina M. Rojas-Barahona, ´
+Pei-Hao Su, Stefan Ultes, David Vandyke, Steve Young (Cambridge University)*  
+[[paper](http://arxiv.org/pdf/1604.04562.pdf)]  
+
 ##conversation model
 **A Neural Conversation Model**  
 [[GitXiv](http://gitxiv.com/posts/j9FtQgmHAQD8qceub/a-neural-conversational-model)]  

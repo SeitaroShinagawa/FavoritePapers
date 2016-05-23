@@ -1,4 +1,7 @@
 #Awesome neural networks  
+**Learning Deep Features for Discriminative Localization**  
+[[code](https://github.com/jazzsaxmafia/Weakly_detector)]  
+
 **Understanding Visual Concepts with Continuation Learning**  
 *William F. Whitney, Michael Chang, Tejas Kulkarni, and Joshua B. Tenenbaum*  
 [[GitXiv](http://gitxiv.com/posts/x7TJLcz3DEnMsEEGY/understanding-visual-concepts-with-continuation-learning)]  

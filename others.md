@@ -162,6 +162,8 @@ python local server[[link](http://qiita.com/higuma/items/b23ca9d96dac49999ab9)]
 [[link](https://github.com/Microsoft/CNTK)]  
 **Cloud Machine Learning**  
 [[article](http://www.publickey1.jp/blog/16/googlecloud_machine_learningtensorflowgcp_next_2016.html)]
+**keras(Japanese)**  
+[[link](http://keras.io/ja/)]  
 
 #Application
 Ruby on Rails [[link](http://openbook4.me/projects/92/sections/485)] [[link2](http://qiita.com/ciao/items/0ada6b04c568c77ee275)]

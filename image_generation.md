@@ -1,5 +1,9 @@
 #Image Generation  
 
+**Towards Conceptual Compression(Arxiv)**  
+*Karol Gregor, Frederic Besse, Danilo Jimenez Rezende, Ivo Danihelka, Daan Wierstra*  
+[[link](https://arxiv.org/abs/1604.08772)]  
+
 **Deep Generative Models with Stick-Breaking Priors**  
 *Eric Nalisnick, Padhraic Smyth*  
 [[paper](http://arxiv.org/abs/1605.06197)]  

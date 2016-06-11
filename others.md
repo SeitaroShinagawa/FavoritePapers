@@ -51,6 +51,13 @@ DQN-chainer
 [[blog](http://vaaaaaanquish.hatenablog.com/entry/2015/12/25/005523#f-cf197f03)] 
 Active Object Localization with Deep Reinforcement Learning
 [[paper](http://web.engr.illinois.edu/~slazebni/publications/iccv15_active.pdf)]  
+OpenAI  
+[[link](https://gym.openai.com/)]  
+LIS  
+[[link](https://github.com/wbap/lis)]  
+SIGverse  
+[[link](http://www.sigverse.org/wiki/jp/)]  
+
 全脳アーキテクチャ勉強会  
 [[言語と画像の表現学習](http://www.slideshare.net/yukinoguchi999/ss-59238906?ref=https://t.co/orAg66xkV2)]  
  

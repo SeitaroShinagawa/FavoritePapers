@@ -1,3 +1,7 @@
+**The Manifold Tangent Classifier(NIPS)**  
+*Salah Rifai, Yann N. Dauphin, Pascal Vincent, Yoshua Bengio, Xavier Muller*  
+[[papper](https://papers.nips.cc/paper/4409-the-manifold-tangent-classifier.pdf)]  
+
 #Other materials
 **Markdown Resume Generator**  
 [[link](https://github.com/there4/markdown-resume)]  

@@ -1,4 +1,62 @@
 #Awesome neural networks  
+
+**Hierarchical Question-Image Co-Attention for Visual Question Answering(ArXiv)**  
+*Jiasen Lu, Jianwei Yang, Dhruv Batra, Devi Parikh*  
+[[paper](https://arxiv.org/abs/1606.00061)]  
+
+**Zoneout: Regularizing RNNs by Randomly Preserving Hidden Activations(ArXiv)**  
+*David Krueger, Tegan Maharaj, János Kramár, Mohammad Pezeshki, Nicolas Ballas, Nan Rosemary Ke, Anirudh Goyal, Yoshua Bengio, Hugo Larochelle, Aaron Courville, Chris Pal*  
+[[paper](https://arxiv.org/abs/1606.01305)]  
+
+**Adversarial Feature Learning**  
+*Jeff Donahue, Philipp Krähenbühl, Trevor Darrell*  
+[[paper](https://arxiv.org/abs/1605.09782v1)]  
+
+**A3C**  
+[[slide](http://www.slideshare.net/mooopan/a3c-62170605)]  
+[[blog](http://eratostennis.hatenablog.com/entry/2016/06/05/223401)]  
+[[code](https://github.com/miyosuda/async_deep_reinforce)]  
+[[code2](https://github.com/coreylynch/async-rl)]  
+
+**Deep Reinforcement Learning from Self-Play in Imperfect-Information Games**
+*Johannes Heinrich, David Silver*  
+[[paper](http://arxiv.org/abs/1603.01121)]  
+
+**Fictitious Self-Play in Extensive-Form Games**  
+[[paper](http://jmlr.org/proceedings/papers/v37/heinrich15.pdf)]  
+
+**Distributed Representations of Sentences and Documents**
+[[paper](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)]
+[[slide](http://astro.temple.edu/~tuc17157/pdfs/djuric2015wwwA_slides.pdf)]
+
+**Swapout: Learning an ensemble of deep architectures**
+*Saurabh Singh, Derek Hoiem, David Forsyth*
+[[paper](http://arxiv.org/abs/1605.06465)]
+
+**Deep Networks with Stochastic Depth**
+*Gao Huang, Yu Sun, Zhuang Liu, Daniel Sedra, Kilian Weinberger*
+[[paper](https://arxiv.org/abs/1603.09382)]
+
+**Learning Deep Features for Discriminative Localization**
+[[code](https://github.com/jazzsaxmafia/Weakly_detector)]
+
+**Understanding Visual Concepts with Continuation Learning**
+*William F. Whitney, Michael Chang, Tejas Kulkarni, and Joshua B. Tenenbaum*
+@                                                                                             -- 挿入 --                                                                  3,2          先頭
+
+
+**Distributed Representations of Sentences and Documents**  
+[[paper](http://cs.stanford.edu/~quocle/paragraph_vector.pdf)]  
+[[slide](http://astro.temple.edu/~tuc17157/pdfs/djuric2015wwwA_slides.pdf)]  
+
+**Swapout: Learning an ensemble of deep architectures**  
+*Saurabh Singh, Derek Hoiem, David Forsyth*  
+[[paper](http://arxiv.org/abs/1605.06465)]  
+
+**Deep Networks with Stochastic Depth**  
+*Gao Huang, Yu Sun, Zhuang Liu, Daniel Sedra, Kilian Weinberger*  
+[[paper](https://arxiv.org/abs/1603.09382)]  
+
 **Learning Deep Features for Discriminative Localization**  
 [[code](https://github.com/jazzsaxmafia/Weakly_detector)]  
 
@@ -59,6 +117,7 @@
 **Deep Residual Learning for Image Recognition**   
 *Substantially deeper than those used previously*  
 [[GitXiv](http://gitxiv.com/posts/LgPRdTY3cwPBiMKbm/deep-residual-learning-for-image-recognition)]  
+[[qiita](http://qiita.com/supersaiakujin/items/935bbc9610d0f87607e8)]  
 
 **Ladder Networks** (NIPS2016)  
 [[slideshare](http://www.slideshare.net/eiichimatsumoto106/nips2015-ladder-network)]  

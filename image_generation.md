@@ -1,4 +1,28 @@
 #Image Generation  
+**Synthesizing the preferred inputs for neurons in neural networks via deep generator networks**  
+*Anh Nguyen, Alexey Dosovitskiy, Jason Yosinski, Thomas Brox, Jeff Clune*  
+[[paper](http://arxiv.org/abs/1605.09304)]  
+[[CreativeAi](http://www.creativeai.net/posts/Mv4WG6rdzAerZF7ch/synthesizing-preferred-inputs-via-deep-generator-networks)]  
+[[projectpage](http://www.evolvingai.org/synthesizing)]  
+[[code](https://github.com/Evolving-AI-Lab/synthesizing/)]  
+
+**Artistic style transfer for videos**  
+*Manuel Ruder, Alexey Dosovitskiy, Thomas Brox*  
+[[paper](http://arxiv.org/abs/1604.08610)]  
+[[video](https://www.youtube.com/watch?v=vQk_Sfl7kSc)]  
+
+**Perceptual Losses for Real-Time Style Transfer and Super-Resolution**  
+*Justin Johnson, Alexandre Alahi, Li Fei-Fei*  
+[[paper](http://arxiv.org/pdf/1603.08155.pdf)]  
+
+**A Theory of Generative ConvNet**  
+*Jianwen Xie, Yang Lu, Song-Chun Zhu, Ying Nian Wu*  
+[[paper](http://arxiv.org/abs/1602.03264)]  
+
+**Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning**  
+*William Lotter, Gabriel Kreiman, David Cox*  
+[[paper](https://arxiv.org/abs/1605.08104)]  
+[[blog](http://karasunoblog.blog20.fc2.com/blog-entry-46.html)]  
 
 **Towards Conceptual Compression(Arxiv)**  
 *Karol Gregor, Frederic Besse, Danilo Jimenez Rezende, Ivo Danihelka, Daan Wierstra*  

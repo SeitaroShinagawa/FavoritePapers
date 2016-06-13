@@ -1,4 +1,7 @@
 #Awesome neural networks  
+**Video-Story Composition via Plot Analysis(CVPR2016)**  
+*Jinsoo Choi , Tae-Hyun Oh , In So Kweon*  
+[[paper](http://rcv.kaist.ac.kr/v2/bbs/board.php?bo_table=rs_publications&wr_id=522)]  
 
 **Hierarchical Question-Image Co-Attention for Visual Question Answering(ArXiv)**  
 *Jiasen Lu, Jianwei Yang, Dhruv Batra, Devi Parikh*  

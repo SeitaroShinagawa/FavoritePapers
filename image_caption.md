@@ -1,4 +1,20 @@
 #Image to Caption Generation  
+**MSR-VTT: A Large Video Description Dataset for Bridging Video and Language(CVPR2016)**  
+*Jun Xu , Tao Mei , Ting Yao and Yong Rui*  
+[[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xu_MSR-VTT_A_Large_CVPR_2016_paper.pdf)]  
+
+**Jointly Modeling Embedding and Translation to Bridge Video and Language(CVPR2016)**  
+*Yingwei Pan, Tao Mei, Ting Yao, Houqiang Li, and Yong Rui*  
+[[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Pan_Jointly_Modeling_Embedding_CVPR_2016_paper.pdf)]  
+
+**Video Paragraph Captioning Using Hierarchical Recurrent Neural Networks(CVPR2016)**  
+*Haonan Yu Jiang Wang Zhiheng Huang Yi Yang Wei Xu*  
+[[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Yu_Video_Paragraph_Captioning_CVPR_2016_paper.pdf)]  
+
+**Unsupervised Learning from Narrated Instruction Videos(CVPR2016)**  
+*Jean-Baptiste Alayrac Piotr Bojanowski Nishant Agrawal Josef Sivic*  
+[[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Alayrac_Unsupervised_Learning_From_CVPR_2016_paper.pdf)]  
+
 **Movie Description**  
 *Anna Rohrbach, Atousa Torabi, Marcus Rohrbach, Niket Tandon, Christopher Pal, Hugo Larochelle, Aaron Courville, Bernt Schiele*  
 [[paper](http://arxiv.org/abs/1605.03705)]  

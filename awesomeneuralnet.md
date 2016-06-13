@@ -1,4 +1,16 @@
 #Awesome neural networks  
+**Video-Story Composition via Plot Analysis(CVPR2016)**  
+*Jinsoo Choi Tae-Hyun Oh In So Kweon*  
+[[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Choi_Video-Story_Composition_via_CVPR_2016_paper.pdf)]  
+
+**Harnessing Object and Scene Semantics for Large-Scale Video Understanding(CVPR2016)**  
+*Zuxuan Wu, Yanwei Fu, Yu-Gang Jiang, Leonid Sigal*  
+[[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Wu_Harnessing_Object_and_CVPR_2016_paper.pdf)]  
+
+**Track and Transfer: Watching Videos to Simulate Strong Human Supervision for Weakly-Supervised Object Detection(CVPR2016)**  
+*Krishna Kumar Singh, Fanyi Xiao, and Yong Jae Lee*  
+[[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Singh_Track_and_Transfer_CVPR_2016_paper.pdf)]  
+
 **AlphaGo**  
 [[description slide](http://www.slideshare.net/yuk1yoshida/alphago-61311712?ref=https://twitter.com/i/cards/tfw/v1/724576950027620352?cardname=player&earned=true&lang=ja&card_height=130)]  
 

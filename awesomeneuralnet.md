@@ -1,4 +1,15 @@
 #Awesome neural networks  
+**AlphaGo**  
+[[description slide](http://www.slideshare.net/yuk1yoshida/alphago-61311712?ref=https://twitter.com/i/cards/tfw/v1/724576950027620352?cardname=player&earned=true&lang=ja&card_height=130)]  
+
+**Virtual Adversarial Training for Semi-Supervised Text Classification**  
+*Takeru Miyato, Andrew M. Dai, Ian Goodfellow*  
+[[paper](http://arxiv.org/pdf/1605.07725.pdf)]  
+
+**Natural Language Video Description using Deep Recurrent Neural Networks**  
+*Subhashini Venugopalan*  
+[[paper](http://www.cs.utexas.edu/users/ml/papers/venugopalan.proposal15.pdf)]  
+
 **Video-Story Composition via Plot Analysis(CVPR2016)**  
 *Jinsoo Choi , Tae-Hyun Oh , In So Kweon*  
 [[paper](http://rcv.kaist.ac.kr/v2/bbs/board.php?bo_table=rs_publications&wr_id=522)]  

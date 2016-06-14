@@ -1,8 +1,14 @@
+**Psycholinguistic Features for Deceptive Role Detection in Werewolf(NAACL2016)**  
+[[paper](http://m-mitchell.com/NAACL-2016/NAACL-HLT2016/pdf/N16-1047.pdf)] 
+
 **The Manifold Tangent Classifier(NIPS)**  
 *Salah Rifai, Yann N. Dauphin, Pascal Vincent, Yoshua Bengio, Xavier Muller*  
 [[papper](https://papers.nips.cc/paper/4409-the-manifold-tangent-classifier.pdf)]  
 
 #Other materials
+**optical flow**  
+[[qiita](http://qiita.com/icoxfog417/items/357e6e495b7a40da14d8)]  
+
 **Markdown Resume Generator**  
 [[link](https://github.com/there4/markdown-resume)]  
 

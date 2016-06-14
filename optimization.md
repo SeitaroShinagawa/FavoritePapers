@@ -1,5 +1,9 @@
 #Optimization
 
+**Controlling Exploration Improves Training for Deep Neural Networks**  
+*Yasutoshi Ida, Yasuhiro Fujiwara, Sotetsu Iwamura(NTT)*  
+[[paper](https://arxiv.org/abs/1605.09593)]  
+
 **Convex Relaxation Regression: Black-Box Optimization of Smooth Functions by Learning Their Convex Envelopes**(Arxiv2016)    
 [[paper](http://arxiv.org/pdf/1602.02191v2.pdf)  
 

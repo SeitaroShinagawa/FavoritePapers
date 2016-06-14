@@ -1,4 +1,22 @@
 #Image to Caption Generation  
+**Visual Storytelling(NAACL2016)**  
+[[paper](http://m-mitchell.com/NAACL-2016/NAACL-HLT2016/pdf/N16-1147.pdf)]  
+
+**Stating the Obvious: Extracting Visual Common Sense Knowledge(NAACL2016)**  
+[[paper](http://m-mitchell.com/NAACL-2016/NAACL-HLT2016/pdf/N16-1023.pdf)]  
+
+**Unsupervised Visual Sense Disambiguation for Verbs using Multimodal Embeddings(NAACL2016)**  
+[[paper](http://m-mitchell.com/NAACL-2016/NAACL-HLT2016/pdf/N16-1022.pdf)]  
+
+**Black Holes and White Rabbits:Metaphor Identification with Visual Features(NAACL2016bestlong)**  
+[[paper](http://m-mitchell.com/NAACL-2016/NAACL-HLT2016/pdf/N16-1020.pdf)]  
+
+
+
+**Rich Image Captioning in the Wild(CVPR2016workshop)**  
+*Rich Image Captioning in the Wild*  
+[[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w12/papers/Tran_Rich_Image_Captioning_CVPR_2016_paper.pdf)]  
+
 **MSR-VTT: A Large Video Description Dataset for Bridging Video and Language(CVPR2016)**  
 *Jun Xu , Tao Mei , Ting Yao and Yong Rui*  
 [[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Xu_MSR-VTT_A_Large_CVPR_2016_paper.pdf)]  

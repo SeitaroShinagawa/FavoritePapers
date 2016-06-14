@@ -1,4 +1,26 @@
 #Awesome neural networks  
+**Learning to Compose Neural Networks for Question Answering(NAACL2016bestlong)**  
+[[paper](http://m-mitchell.com/NAACL-2016/NAACL-HLT2016/pdf/N16-1181.pdf)]  
+
+**Vision and Feature Norms: Improving automatic feature norm learning through cross-modal maps(NAACL2016)**  
+[[paper](http://m-mitchell.com/NAACL-2016/NAACL-HLT2016/pdf/N16-1071.pdf)]  
+
+**Learning Natural Language Inference with LSTM(NAACL2016)**  
+[[paper](http://m-mitchell.com/NAACL-2016/NAACL-HLT2016/pdf/N16-1170.pdf)]  
+
+**Top-down Tree Long Short-Term Memory Networks(NAACL2016)**  
+[[ppaer](http://m-mitchell.com/NAACL-2016/NAACL-HLT2016/pdf/N16-1035.pdf)]   
+
+**Deep LSTM based Feature Mapping for Query Classification(NAACL2016)**  
+[[paper](http://m-mitchell.com/NAACL-2016/NAACL-HLT2016/pdf/N16-1176.pdf)]    
+
+**Visualizing and Understanding Neural Models in NLP(NAACL2016)**
+[[paper](http://m-mitchell.com/NAACL-2016/NAACL-HLT2016/pdf/N16-1082.pdf)]
+
+**Adversarial Diversity and Hard Positive Generation(CVPR2016workshop)**  
+*Andras Rozsa, Ethan M. Rudd, and Terrance E. Boult*  
+[[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w12/papers/Rozsa_Adversarial_Diversity_and_CVPR_2016_paper.pdf)]  
+
 **Video-Story Composition via Plot Analysis(CVPR2016)**  
 *Jinsoo Choi Tae-Hyun Oh In So Kweon*  
 [[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Choi_Video-Story_Composition_via_CVPR_2016_paper.pdf)]  

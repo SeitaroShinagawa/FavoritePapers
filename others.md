@@ -182,6 +182,11 @@ python local server[[link](http://qiita.com/higuma/items/b23ca9d96dac49999ab9)]
 **keras(Japanese)**  
 [[link](http://keras.io/ja/)]  
 
+libsvm  
+[[code](https://github.com/cjlin1/libsvm)]  
+[[practical guide](http://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)]  
+[[guide slide](http://www.slideshare.net/sleepy_yoshi/svm-13435949)]  
+
 #Application
 Ruby on Rails [[link](http://openbook4.me/projects/92/sections/485)] [[link2](http://qiita.com/ciao/items/0ada6b04c568c77ee275)]
 

@@ -7,6 +7,9 @@ Pei-Hao Su, Stefan Ultes, David Vandyke, Steve Young (Cambridge University)*
 [[paper](http://arxiv.org/pdf/1604.04562.pdf)]  
 
 ##conversation model
+**A Long Short-Term Memory Framework for Predicting Humor in Dialogues(NAACL2016)**  
+[[paper](http://m-mitchell.com/NAACL-2016/NAACL-HLT2016/pdf/N16-1016.pdf)]  
+
 **A Neural Conversation Model**  
 [[GitXiv](http://gitxiv.com/posts/j9FtQgmHAQD8qceub/a-neural-conversational-model)]  
 

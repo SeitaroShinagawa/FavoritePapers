@@ -1,4 +1,7 @@
 #Image Generation  
+**Conditional Image Generation with PixelCNN Decoders**  
+[[paper](http://arxiv.org/abs/1606.05328)]  
+
 **Synthesizing the preferred inputs for neurons in neural networks via deep generator networks**  
 *Anh Nguyen, Alexey Dosovitskiy, Jason Yosinski, Thomas Brox, Jeff Clune*  
 [[paper](http://arxiv.org/abs/1605.09304)]  
@@ -15,9 +18,10 @@
 *Justin Johnson, Alexandre Alahi, Li Fei-Fei*  
 [[paper](http://arxiv.org/pdf/1603.08155.pdf)]  
 
-**A Theory of Generative ConvNet**  
+**A Theory of Generative ConvNet(ICML2016)**  
 *Jianwen Xie, Yang Lu, Song-Chun Zhu, Ying Nian Wu*  
-[[paper](http://arxiv.org/abs/1602.03264)]  
+[[paper](http://jmlr.org/proceedings/papers/v48/xiec16.pdf)]  
+[[ArXiv](http://arxiv.org/abs/1602.03264)]  
 
 **Deep Predictive Coding Networks for Video Prediction and Unsupervised Learning**  
 *William Lotter, Gabriel Kreiman, David Cox*  
@@ -32,9 +36,11 @@
 *Eric Nalisnick, Padhraic Smyth*  
 [[paper](http://arxiv.org/abs/1605.06197)]  
 
-**Generative Adversarial Text to Image Synthesis**  
+**Generative Adversarial Text to Image Synthesis(ICML2016)**  
 *Scott Reed, Zeynep Akata, Xinchen Yan, Lajanugen Logeswaran, Bernt Schiele, Honglak Lee*  
-[[paper](http://arxiv.org/abs/1605.05396)]  
+[[paper](http://jmlr.org/proceedings/papers/v48/reed16.pdf)]  
+[[ArXiv](http://arxiv.org/abs/1605.05396)]
+[[supplements(download)](http://jmlr.org/proceedings/papers/v48/reed16-supp.zip)]  
 
 **Colorful Image Colorization**   
 *Richard Zhang, Phillip Isola, Alexei A. Efros*  
@@ -56,7 +62,8 @@ Generating Abstract Patterns with TensorFlow[[blog](http://blog.otoro.net/2016/0
 
 **One-Shot Generalization in Deep Generative Models**  
 *Danilo Jimenez Rezende, Shakir Mohamed, Ivo Danihelka, Karol Gregor, Daan Wierstra* 
-[[paper](http://arxiv.org/abs/1603.05106)]  
+[[paper](http://jmlr.org/proceedings/papers/v48/rezende16.pdf)]  
+[[ArXiv](http://arxiv.org/abs/1603.05106)]  
 [[video](https://www.youtube.com/watch?v=ptLdYd8FXRA&feature=youtu.be)]  
 [[video](https://www.youtube.com/watch?v=HkDxmnIfWIM)]  
 [[video](https://www.youtube.com/watch?v=6S6Tx_OtvnA)]  
@@ -72,18 +79,21 @@ Generating Abstract Patterns with TensorFlow[[blog](http://blog.otoro.net/2016/0
 [[code](https://github.com/alexjc/neural-doodle/)]  
 [[faster code](https://github.com/DmitryUlyanov/fast-neural-doodle)]  
 
-**Texture Networks: Feed-forward Synthesis of Textures and Stylized Images**  
+**Texture Networks: Feed-forward Synthesis of Textures and Stylized Images(ICML2016)**  
 *Dmitry Ulyanov, Vadim Lebedev, Andrea Vedaldi, Victor Lempitsky*  
-[[paper](http://arxiv.org/abs/1603.03417)]  
+[[paper](http://jmlr.org/proceedings/papers/v48/ulyanov16.pdf)]  
+[[supplement](http://jmlr.org/proceedings/papers/v48/ulyanov16-supp.pdf)]  
+[[ArXiv](http://arxiv.org/abs/1603.03417)]  
 [[code](https://github.com/DmitryUlyanov/texture_nets)]  
  
 **Variational Gaussian Process**(ICLR2016)    
 *Dustin Tran, Rajesh Ranganath, David M. Blei*  
 [[paper](http://arxiv.org/abs/1511.06499v2)]  
 
-**Auxiliary Deep Generative Models**  
+**Auxiliary Deep Generative Models(ICML2016)**  
 *Lars Maaløe, Casper Kaae Sønderby, Søren Kaae Sønderby, Ole Winther*  
-[[paper](http://arxiv.org/abs/1602.05473)]  
+[[paper](http://jmlr.org/proceedings/papers/v48/maaloe16.pdf)]  
+[[ArXiv](http://arxiv.org/abs/1602.05473)]  
 [[GitXiv](http://gitxiv.com/posts/XNf7oNqe47RhBzivu/auxiliary-deep-generative-models)]  
 
 **Generating images with recurrent adversarial networks**(Arxiv2016)  

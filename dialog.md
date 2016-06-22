@@ -1,5 +1,13 @@
 #Dialog Systems
 
+##ac  
+**On-line Active Reward Learning for Policy Optimisation in Spoken Dialogue Systems**  
+*Pei-Hao Su, Milica Gasic, Nikola Mrksic, Lina Rojas-Barahona, Stefan Ultes, David Vandyke, Tsung-Hsien Wen, Steve Young*  
+[[paper](https://arxiv.org/abs/1605.07669v2)]  
+
+
+
+
 ##task oriented  
 **A Network-based End-to-End Trainable Task-oriented Dialogue System**  
 *Tsung-Hsien Wen, Milica Gašic, Nikola Mrkši ´ c, Lina M. Rojas-Barahona, ´

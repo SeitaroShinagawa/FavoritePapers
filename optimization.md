@@ -1,5 +1,14 @@
 #Optimization
 
+**Dropout distillation(ICML2016)**  
+*Samuel Rota Bulò, Lorenzo Porzi, Peter Kontschieder*  
+[[paper](http://jmlr.org/proceedings/papers/v48/bulo16.pdf)]  
+[[supplement](http://jmlr.org/proceedings/papers/v48/bulo16-supp.pdf)]  
+
+**Learning to learn by gradient descent by gradient descent(ArXiv)**  
+*Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Nando de Freitas*  
+[[paper](http://arxiv.org/abs/1606.04474)]  
+
 **Controlling Exploration Improves Training for Deep Neural Networks**  
 *Yasutoshi Ida, Yasuhiro Fujiwara, Sotetsu Iwamura(NTT)*  
 [[paper](https://arxiv.org/abs/1605.09593)]  

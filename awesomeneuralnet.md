@@ -1,4 +1,8 @@
 #Awesome neural networks  
+**Neural Variational Inference for Text Processing(ICML2016)**  
+[[paper](http://jmlr.org/proceedings/papers/v48/miao16.pdf)]  
+[[supplement](http://jmlr.org/proceedings/papers/v48/miao16-supp.pdf)]  
+
 **Learning to Compose Neural Networks for Question Answering(NAACL2016bestlong)**  
 [[paper](http://m-mitchell.com/NAACL-2016/NAACL-HLT2016/pdf/N16-1181.pdf)]  
 

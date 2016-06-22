@@ -1,3 +1,22 @@
+**16 Free Machine Learning Books**  
+[[paper](https://hackerlists.com/free-machine-learning-books/)]  
+
+**Guided Cost Learning: Deep Inverse Optimal Control via Policy Optimization(ICML2016)**  
+[[paper](http://jmlr.org/proceedings/papers/v48/finn16.pdf)]  
+[[supplement](http://jmlr.org/proceedings/papers/v48/finn16-supp.pdf)]  
+
+**Efficient Algorithms for Adversarial Contextual Learning(ICML2016)**  
+[[paper](http://jmlr.org/proceedings/papers/v48/syrgkanis16.pdf)]  
+[[supplement](http://jmlr.org/proceedings/papers/v48/syrgkanis16-supp.pdf)]  
+
+**Learning to Generate with Memory(ICML2016)**  
+[[paper](http://jmlr.org/proceedings/papers/v48/lie16.pdf)]  
+[[supplement](http://jmlr.org/proceedings/papers/v48/lie16-supp.pdf)]  
+
+**Learning High-Level Planning from Text**  
+*S.R.K. Branavan, Nate Kushman, Tao Lei, Regina Barzilay*  
+[[paper](http://delivery.acm.org/10.1145/2400000/2390543/p126-branavan.pdf?ip=163.221.125.223&id=2390543&acc=OPEN&key=D2341B890AD12BFE%2EB1A026EF107101D7%2E4D4702B0C3E38B35%2E6D218144511F3437&CFID=801315471&CFTOKEN=73701779&__acm__=1466058144_0c036bee0280f884f96aa3fdf9dd4cc7)]  
+
 **Psycholinguistic Features for Deceptive Role Detection in Werewolf(NAACL2016)**  
 [[paper](http://m-mitchell.com/NAACL-2016/NAACL-HLT2016/pdf/N16-1047.pdf)] 
 
@@ -6,6 +25,9 @@
 [[papper](https://papers.nips.cc/paper/4409-the-manifold-tangent-classifier.pdf)]  
 
 #Other materials
+**自然言語処理でメタファーをどう扱うか**  
+[[slide](https://speakerdeck.com/pecorarista/zi-ran-yan-yu-chu-li-demetahuawodouxi-uka)]  
+
 **optical flow**  
 [[qiita](http://qiita.com/icoxfog417/items/357e6e495b7a40da14d8)]  
 
@@ -45,6 +67,7 @@ for biginer
 [[link](http://www.slideshare.net/kwp_george/ss-45978508)]  
 [[slide](https://www.sat.t.u-tokyo.ac.jp/~mak/20140319-makino.pdf)]  
 [[video](https://www.youtube.com/watch?v=XsFhA8kyfkI)]  
+[[qiita](http://qiita.com/icoxfog417/items/242439ecd1a477ece312?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=6139efa757-Qiita_newsletter_212_06_15_2016&utm_medium=email&utm_term=0_e44feaa081-6139efa757-33070377)]  
 
 POMDP
 [[paper1](http://ac.els-cdn.com/0022247X6590154X/1-s2.0-0022247X6590154X-main.pdf?_tid=0a32f3fc-c4f9-11e5-852a-00000aab0f01&acdnat=1453901140_340d689860abb358128b650efb6d5f1c)]  

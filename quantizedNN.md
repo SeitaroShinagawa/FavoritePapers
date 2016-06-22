@@ -1,5 +1,8 @@
 #Quantized Neural Networks
 
+**Fixed Point Quantization of Deep Convolutional Networks(ICML2016)**  
+[[paper](http://jmlr.org/proceedings/papers/v48/linb16.pdf)]  
+
 **XNOR-Net: ImageNet Classification Using Binary Convolutional Neural Networks**  
 *Mohammad Rastegari, Vicente Ordonez, Joseph Redmon, Ali Farhadi*  
 [[paper](http://arxiv.org/abs/1603.05279)]  

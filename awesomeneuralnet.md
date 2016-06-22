@@ -1,4 +1,20 @@
 #Awesome neural networks  
+**Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex(ArXiv)**  
+*Qianli Liao, Tomaso Poggio*  
+[[paper](https://arxiv.org/abs/1604.03640)]  
+
+**Virtual Adversarial Training for Semi-Supervised Text Classification(ArXiv)**  
+*Takeru Miyato, Andrew M. Dai, Ian Goodfellow*  
+[[paper](https://arxiv.org/abs/1605.07725)]  
+
+**Control of Memory, Active Perception, and Action in Minecraft(ICML2016)**  
+[[paper](http://jmlr.org/proceedings/papers/v48/oh16.pdf)]  
+[[supplementary](http://jmlr.org/proceedings/papers/v48/oh16-supp.pdf)]  
+
+**Discrete Deep Feature Extraction: A Theory and New Architectures(ICML2016)**  
+[[paper](http://jmlr.org/proceedings/papers/v48/wiatowski16.pdf)]  
+[[supplementary](http://jmlr.org/proceedings/papers/v48/wiatowski16-supp.pdf)]  
+
 **Neural Variational Inference for Text Processing(ICML2016)**  
 [[paper](http://jmlr.org/proceedings/papers/v48/miao16.pdf)]  
 [[supplement](http://jmlr.org/proceedings/papers/v48/miao16-supp.pdf)]  

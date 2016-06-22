@@ -1,18 +1,31 @@
 #Dialog Systems
 
-##ac  
+##active learning   
 **On-line Active Reward Learning for Policy Optimisation in Spoken Dialogue Systems**  
 *Pei-Hao Su, Milica Gasic, Nikola Mrksic, Lina Rojas-Barahona, Stefan Ultes, David Vandyke, Tsung-Hsien Wen, Steve Young*  
 [[paper](https://arxiv.org/abs/1605.07669v2)]  
-
-
-
 
 ##task oriented  
 **A Network-based End-to-End Trainable Task-oriented Dialogue System**  
 *Tsung-Hsien Wen, Milica Gašic, Nikola Mrkši ´ c, Lina M. Rojas-Barahona, ´
 Pei-Hao Su, Stefan Ultes, David Vandyke, Steve Young (Cambridge University)*  
 [[paper](http://arxiv.org/pdf/1604.04562.pdf)]  
+
+**Deep Reinforcement Learning for Dialogue Generation(ArXiv)**  
+*Jiwei Li, Will Monroe, Alan Ritter, Dan Jurafsky*  
+[[paper](http://arxiv.org/abs/1606.01541)]  
+
+**Learning End-to-End Goal-Oriented Dialog(ArXiv)**  
+*Antoine Bordes, Jason Weston*  
+[[peaper](http://arxiv.org/abs/1605.07683)]  
+
+**Dialog-based Language Learning(ArXiv)**  
+*Jason Weston*  
+[[paper](https://arxiv.org/abs/1604.06045)]  
+
+**Learning Language Games through Interaction(ArXiv)**
+*Sida I. Wang, Percy Liang, Christopher D. Manning*
+[[paper](http://arxiv.org/abs/1606.02447)]
 
 ##conversation model
 **A Long Short-Term Memory Framework for Predicting Humor in Dialogues(NAACL2016)**  

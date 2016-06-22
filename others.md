@@ -1,3 +1,14 @@
+##DeepLearner collection
+[[link](https://github.com/dennybritz/deeplearning-papernotes/blob/master/README.md)]  
+
+##GAN tips
+**Improved Techniques for Training GANs(ArXiv)**  
+[[paper](http://arxiv.org/abs/1606.03498)]  
+
+**InfoGAN: Interpretable Representation Learning by Information Maximizing Generative Adversarial Nets(ArXiv)**  
+[[paper](http://arxiv.org/abs/1606.03657)]  
+
+##Papers
 **16 Free Machine Learning Books**  
 [[paper](https://hackerlists.com/free-machine-learning-books/)]  
 
@@ -175,6 +186,7 @@ pixel based image similarity metric
 **Google: Deep Learning Taking machine learning to the next level**  
 *learn how to use Tensorflow*  
 [[link](https://www.udacity.com/course/deep-learning--ud730)]
+[[ArXiv](http://arxiv.org/abs/1605.08695)]  
 
 **Python**  
 [[link](http://paiza.hatenablog.com/entry/2016/03/08/%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AB%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%EF%BC%81Python3%E3%82%92%E7%BF%92%E5%BE%97%E3%81%A7%E3%81%8D%E3%82%8B4%E3%81%A4%E3%81%AE%E5%AD%A6%E7%BF%92%E6%B3%95%E3%81%A811?)]  

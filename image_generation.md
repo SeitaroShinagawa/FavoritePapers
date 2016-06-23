@@ -1,4 +1,7 @@
 #Image Generation  
+**Anticipating Visual Representations from Unlabeled Video(CVPR2016)**
+[[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Vondrick_Anticipating_Visual_Representations_CVPR_2016_paper.pdf)]  
+
 **Conditional Image Generation with PixelCNN Decoders**  
 [[paper](http://arxiv.org/abs/1606.05328)]  
 

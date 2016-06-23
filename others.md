@@ -71,6 +71,7 @@
 [[text](http://link.springer.com/chapter/10.1007%2F978-3-642-00826-9_4)]  
 [[blog](http://hayashiyusuke.jp/info/?p=3512)]  
 [[blog](https://infinitytopos.wordpress.com/)]  
+[[site](http://ds9.jaist.ac.jp:8080/ResearchData/sub/98/kin/IG/toc.html)]
   
 **Reinforcement Learning**  
 for biginer  
@@ -259,5 +260,12 @@ exemplar[[link](http://www.springerexemplar.com/)]
 [[link](http://www.slideshare.net/yutamorishige50/ss-41321443)]  
 
 #Educational Application
-**SAKUMON** (ICML2007)  
+**SAKUMON** (ICWL2007)  
 [[paper](http://www.r.dl.itc.u-tokyo.ac.jp/~nakagawa/academic-res/ICWL2007.pdf)]  
+#Crowdsouecing
+**crowdflower**    
+[[make](https://make.crowdflower.com/sessions/new)]  
+[[task](https://tasks.crowdflower.com/sessions/new)]  
+[[top](https://www.crowdflower.com/)]  
+
+

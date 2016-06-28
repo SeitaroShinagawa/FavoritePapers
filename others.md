@@ -1,3 +1,6 @@
+**Unitary Evolution Recurrent Neural Networks**  
+[[[paper](http://arxiv.org/pdf/1511.06464v4.pdf)]  
+
 **faster-RNN**  
 [[figure](https://github.com/mitmul/chainer-faster-rcnn)]  
 
@@ -75,6 +78,9 @@
 [[blog](http://hayashiyusuke.jp/info/?p=3512)]  
 [[blog](https://infinitytopos.wordpress.com/)]  
 [[site](http://ds9.jaist.ac.jp:8080/ResearchData/sub/98/kin/IG/toc.html)]
+
+**CNN**  
+[[for biginer](https://drive.google.com/file/d/0B04ol8GVySUuMUx2MHJUWjVGQ2s/view?pref=2&pli=1)]  
   
 **Reinforcement Learning**  
 for biginer  

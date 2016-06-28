@@ -1,4 +1,20 @@
 #Awesome neural networks  
+**Meta-Learning with Memory-Augmented Neural Networks(ICML2016)**  
+[[paper](http://jmlr.org/proceedings/papers/v48/santoro16.pdf)]  
+[[supplementary](http://jmlr.org/proceedings/papers/v48/santoro16-supp.pdf)]  
+One-shot learningに注目。新しい情報が入ったときに今までの推論を破壊することなく再学習する方法としてNTMを参考に外部メモリを持ったニューラルネットワークを用いた学習方法を提案?(未読)
+
+**Dynamic Memory Networks for Visual and Textual Question Answering(ICML2016)**  
+[[paper](http://jmlr.org/proceedings/papers/v48/xiong16.pdf)]  
+
+**Associative Long Short-Term Memory(ICML2016)**  
+[[paper](http://jmlr.org/proceedings/papers/v48/danihelka16.pdf)]  
+複素数ベクトルを用いた連想メモリをもつLSTMを提案(未読)  
+
+**Visually Indicated Sounds(ArXiv)**  
+*Andrew Owens, Phillip Isola, Josh McDermott, Antonio Torralba, Edward H. Adelson, William T. Freeman*  
+[[paper](http://arxiv.org/abs/1512.08512)]  
+
 **Bridging the Gaps Between Residual Learning, Recurrent Neural Networks and Visual Cortex(ArXiv)**  
 *Qianli Liao, Tomaso Poggio*  
 [[paper](https://arxiv.org/abs/1604.03640)]  

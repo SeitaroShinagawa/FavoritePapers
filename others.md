@@ -1,3 +1,13 @@
+**人狼知能関係**  
+[[blog](http://inaba.halfmoon.jp/archives/225)]  
+[[人狼BBS](http://www.wolfg.x0.com/)]  
+[[simple werewolf](http://kindai-csg.com/member/contents/jinrou/index.php)] chat-based   
+[[idiap](https://www.idiap.ch/scientific-research/resources/wolf-corpus)] ASR-based  
+[[brenbarn](http://www.brenbarn.net/werewolf/)] chat-based  
+
+**AWS GPUインスタンス使い方と注意点**  
+[[link](https://speakerdeck.com/tominaga443/aws-gpuinsutansufalseshi-ifang-tozhu-yi-dian)]  
+
 **Unitary Evolution Recurrent Neural Networks**  
 [[[paper](http://arxiv.org/pdf/1511.06464v4.pdf)]  
 

@@ -1,4 +1,7 @@
 #Awesome neural networks  
+**真深層ニューラルネットワークによる知識の自動獲得・推論**  
+[[link](http://www.slideshare.net/naoakiokazaki/ss-63594106?utm_source=dlvr.it&utm_medium=twitter)]  
+
 **Meta-Learning with Memory-Augmented Neural Networks(ICML2016)**  
 [[paper](http://jmlr.org/proceedings/papers/v48/santoro16.pdf)]  
 [[supplementary](http://jmlr.org/proceedings/papers/v48/santoro16-supp.pdf)]  

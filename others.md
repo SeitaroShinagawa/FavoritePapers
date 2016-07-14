@@ -1,3 +1,7 @@
+**行列分解**  
+Gated Probabilistic Matrix Factorization:Learning Users’ Attention from Missing Values  
+[[paper](http://ijcai.org/Proceedings/16/Papers/270.pdf)]  
+
 **人狼知能関係**  
 [[blog](http://inaba.halfmoon.jp/archives/225)]  
 [[人狼BBS](http://www.wolfg.x0.com/)]  

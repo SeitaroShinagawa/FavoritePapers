@@ -1,4 +1,13 @@
 #Image Generation  
+**Spatial Transformer Networks(NIPS2015)**  
+[[paper](https://papers.nips.cc/paper/5854-spatial-transformer-networks.pdf)]  
+[[video](https://www.youtube.com/watch?v=Ywv0Xi2-14Y)]  
+[[code](https://github.com/skaae/transformer_network)]  
+
+**Stochastic Backpropagation and Approximate Inference in Deep Generative Models**  
+[[paper](http://arxiv.org/pdf/1401.4082v3.pdf)]  
+missing valueに対する生成モデルによる修復について載っている(付録F)  
+
 **Anticipating Visual Representations from Unlabeled Video(CVPR2016)**
 [[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Vondrick_Anticipating_Visual_Representations_CVPR_2016_paper.pdf)]  
 

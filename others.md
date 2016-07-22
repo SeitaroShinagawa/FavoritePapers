@@ -1,3 +1,15 @@
+**Layer Normalization**  
+*Jimmy Lei Ba, Jamie Ryan Kiros, Geoffrey E. Hinton*  
+[[paper](https://arxiv.org/abs/1607.06450)]  
+[[code](https://github.com/ryankiros/layer-norm)]  
+
+**On Multiplicative Integration with Recurrent Neural Networks**  
+*Yuhuai Wu, Saizheng Zhang, Ying Zhang, Yoshua Bengio, Ruslan Salakhutdinov*  
+[[paper](https://arxiv.org/abs/1606.06630)]  
+
+**A unified framework for information integration based on information geometry(ArXiv)**  
+[[paper](https://arxiv.org/abs/1510.04455)]  
+
 **行列分解**  
 Gated Probabilistic Matrix Factorization:Learning Users’ Attention from Missing Values  
 [[paper](http://ijcai.org/Proceedings/16/Papers/270.pdf)]  

@@ -53,6 +53,7 @@ missing valueに対する生成モデルによる修復について載ってい�
 [[paper](http://jmlr.org/proceedings/papers/v48/reed16.pdf)]  
 [[ArXiv](http://arxiv.org/abs/1605.05396)]
 [[supplements(download)](http://jmlr.org/proceedings/papers/v48/reed16-supp.zip)]  
+[[code](https://github.com/reedscot/icml2016)]  
 
 **Colorful Image Colorization**   
 *Richard Zhang, Phillip Isola, Alexei A. Efros*  

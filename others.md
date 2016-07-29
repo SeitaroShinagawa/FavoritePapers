@@ -1,3 +1,10 @@
+**An overview of gradient descents**  
+[[link](http://sebastianruder.com/optimizing-gradient-descent/)]  
+[[link(ja)](http://postd.cc/optimizing-gradient-descent/)]  
+
+**arxiv user survey report**  
+[[link](https://confluence.cornell.edu/plugins/servlet/mobile#content/view/336364835)]  
+
 **Layer Normalization**  
 *Jimmy Lei Ba, Jamie Ryan Kiros, Geoffrey E. Hinton*  
 [[paper](https://arxiv.org/abs/1607.06450)]  
@@ -305,4 +312,7 @@ exemplar[[link](http://www.springerexemplar.com/)]
 [[task](https://tasks.crowdflower.com/sessions/new)]  
 [[top](https://www.crowdflower.com/)]  
 
+#gui  
+
+[[link](http://vivi.dyndns.org/vivi/docs/Qt/graphics.html)]  
 

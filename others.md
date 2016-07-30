@@ -1,3 +1,6 @@
+**新たなRNNと自然言語処理**  
+[[paper](http://www.slideshare.net/hytae/rnn-63761483)]  
+
 **Deep nets for local manifold learning**  
 [[paper](http://arxiv.org/abs/1607.07110)]  
 

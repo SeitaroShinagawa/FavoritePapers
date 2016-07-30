@@ -1,4 +1,7 @@
 #Image Generation  
+**Instance Normalization: The Missing Ingredient for Fast Stylization**  
+[[paper](https://arxiv.org/abs/1607.08022)]  
+
 **Spatial Transformer Networks(NIPS2015)**  
 [[paper](https://papers.nips.cc/paper/5854-spatial-transformer-networks.pdf)]  
 [[video](https://www.youtube.com/watch?v=Ywv0Xi2-14Y)]  

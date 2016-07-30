@@ -48,5 +48,12 @@ Yahooのホームページ、Yahooニュース、Yahooスポーツ、Yahooファ
 コメントデータ、動画メタデータ、ニコニコ大百科データ  
 [[link](http://www.nii.ac.jp/dsc/idr/nico/nico.html)]  
 
+##face  
+**MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition**  
+[[link](http://arxiv.org/abs/1607.08221)]  
 
- 
+**WIDER FACE: A Face Detection Benchmark**  
+[[link](http://mmlab.ie.cuhk.edu.hk/projects/WIDERFace/)]  
+
+
+

@@ -1,3 +1,7 @@
+##Normalization  
+**Instance Normalization: The Missing Ingredient for Fast Stylization**  
+[[paper](http://arxiv.org/abs/1607.08022)]  
+
 ##Adversarial Examples  
 **Virtual Adversarial Training for Semi-Supervised Text Classification**  
 [[paper](http://arxiv.org/abs/1605.07725)]  

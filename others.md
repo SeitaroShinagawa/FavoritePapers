@@ -1,3 +1,6 @@
+**Deep nets for local manifold learning**  
+[[paper](http://arxiv.org/abs/1607.07110)]  
+
 **An overview of gradient descents**  
 [[link](http://sebastianruder.com/optimizing-gradient-descent/)]  
 [[link(ja)](http://postd.cc/optimizing-gradient-descent/)]  
@@ -259,8 +262,10 @@ python local server[[link](http://qiita.com/higuma/items/b23ca9d96dac49999ab9)]
 [[link](https://github.com/Microsoft/CNTK)]  
 **Cloud Machine Learning**  
 [[article](http://www.publickey1.jp/blog/16/googlecloud_machine_learningtensorflowgcp_next_2016.html)]
-**keras(Japanese)**  
-[[link](http://keras.io/ja/)]  
+**keras**  
+[[Japanese ref](http://keras.io/ja/)]  
+[[link](https://github.com/fchollet/keras-resources)]  
+[[augmentation](https://www.reddit.com/r/MachineLearning/comments/4v0xw2/keras_image_augmentation/)]    
 
 libsvm  
 [[code](https://github.com/cjlin1/libsvm)]  

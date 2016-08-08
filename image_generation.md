@@ -1,6 +1,6 @@
 #Image Generation  
 **Deep Generative Model(DL summer school)**    
-[[slide](http://shakirm.com/slides/DLSummerSchool_Aug2016_compress.pdf)]   
+[[slide](http://www.cs.toronto.edu/~rsalakhu/talk_Montreal_2016_Salakhutdinov.pdf)]   
 
 **Instance Normalization: The Missing Ingredient for Fast Stylization**  
 [[paper](https://arxiv.org/abs/1607.08022)]  

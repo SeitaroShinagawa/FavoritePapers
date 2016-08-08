@@ -1,4 +1,7 @@
 #Awesome neural networks  
+**ニューラルネットワーク、多様体、トポロジ**  
+[[link](http://qiita.com/KojiOhki/items/af2241027b00f892d2bd)]  
+
 **真深層ニューラルネットワークによる知識の自動獲得・推論**  
 [[link](http://www.slideshare.net/naoakiokazaki/ss-63594106?utm_source=dlvr.it&utm_medium=twitter)]  
 

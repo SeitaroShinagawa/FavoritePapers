@@ -1,3 +1,6 @@
+**One-shot Learning with Memory-Augmented Neural Networks**  
+[[link](https://arxiv.org/abs/1605.06065)]  
+
 **Building Machines that Imagine and Reason**  
 [[link](http://shakirm.com/slides/DLSummerSchool_Aug2016_compress.pdf)]  
 

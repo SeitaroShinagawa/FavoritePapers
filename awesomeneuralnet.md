@@ -1,4 +1,8 @@
 #Awesome neural networks  
+**Deep Learning without Poor Local Minima(NIPS2016)**  
+*Kenji Kawaguchi*  
+[[link](https://arxiv.org/abs/1605.07110)]  
+
 **ニューラルネットワーク、多様体、トポロジ**  
 [[link](http://qiita.com/KojiOhki/items/af2241027b00f892d2bd)]  
 

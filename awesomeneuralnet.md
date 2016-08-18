@@ -2,6 +2,8 @@
 **Deep Learning without Poor Local Minima(NIPS2016)**  
 *Kenji Kawaguchi*  
 [[link](https://arxiv.org/abs/1605.07110)]  
+[[reddit](https://www.reddit.com/r/MachineLearning/comments/4ktqeu/160507110_deep_learning_without_poor_local_minima/)]  
+
 
 **ニューラルネットワーク、多様体、トポロジ**  
 [[link](http://qiita.com/KojiOhki/items/af2241027b00f892d2bd)]  

@@ -70,4 +70,4 @@
 
 ##Survey
 [[link](http://www.slideshare.net/metaps_JP/deep-learning-50383383)]  
-
+[[link2](http://www.slideshare.net/YoshitakaUshiku/ss-57148161)]  

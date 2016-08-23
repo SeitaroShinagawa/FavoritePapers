@@ -12,4 +12,8 @@
 
 **DISTRIBUTIONAL SMOOTHING WITH VIRTUAL ADVERSARIAL TRAINING(ICLR2016)**  
 [[paper](http://arxiv.org/abs/1507.00677)]  
-[[code](https://github.com/takerum/vat/)]  
+[[code](https://github.com/takerum/vat/)] 
+
+**猫でも分かるVariational AutoEncoder**  
+[[slideshare](http://www.slideshare.net/ssusere55c63/variational-autoencoder-64515581)]  
+ 

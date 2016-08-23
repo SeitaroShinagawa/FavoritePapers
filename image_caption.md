@@ -71,3 +71,7 @@
 ##Survey
 [[link](http://www.slideshare.net/metaps_JP/deep-learning-50383383)]  
 [[link2](http://www.slideshare.net/YoshitakaUshiku/ss-57148161)]  
+**A Survey of Current Datasets for Vision and Language Research**  
+[[paper](http://cs.rochester.edu/~nasrinm/files/Papers/Survey-Vision-and-Language.pdf)]  
+
+ 

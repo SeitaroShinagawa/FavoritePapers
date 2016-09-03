@@ -1,4 +1,15 @@
 #Awesome neural networks  
+**A guide to convolution arithmetic for deep learning**  
+*Vincent Dumoulin, Francesco Visin*  
+[[link](https://arxiv.org/abs/1603.07285)]  
+
+**Decoupled Neural Interfaces using Synthetic Gradients**  
+*Max Jaderberg, Wojciech Marian Czarnecki, Simon Osindero, Oriol Vinyals, Alex Graves, Koray Kavukcuoglu*  
+[[link](https://arxiv.org/abs/1608.05343)]
+
+**A Latent Variable Model Approach to PMI-based Word Embeddings**  
+[[paper](https://www.transacl.org/ojs/index.php/tacl/article/viewFile/742/204)]  
+
 **Deep Learning without Poor Local Minima(NIPS2016)**  
 *Kenji Kawaguchi*  
 [[link](https://arxiv.org/abs/1605.07110)]  

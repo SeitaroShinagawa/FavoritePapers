@@ -19,6 +19,7 @@ missing valueに対する生成モデルによる修復について載ってい�
 
 **Conditional Image Generation with PixelCNN Decoders**  
 [[paper](http://arxiv.org/abs/1606.05328)]  
+[[slide(ja)](http://www.slideshare.net/beam2d/pixel-recurrent-neural-networks?ref=http://connpass.com/event/34960/presentation/)]  
 
 **Synthesizing the preferred inputs for neurons in neural networks via deep generator networks**  
 *Anh Nguyen, Alexey Dosovitskiy, Jason Yosinski, Thomas Brox, Jeff Clune*  
@@ -45,6 +46,8 @@ missing valueに対する生成モデルによる修復について載ってい�
 *William Lotter, Gabriel Kreiman, David Cox*  
 [[paper](https://arxiv.org/abs/1605.08104)]  
 [[blog](http://karasunoblog.blog20.fc2.com/blog-entry-46.html)]  
+[[project](https://coxlab.github.io/prednet/)]  
+[[code](https://github.com/coxlab/prednet)]  
 
 **Towards Conceptual Compression(Arxiv)**  
 *Karol Gregor, Frederic Besse, Danilo Jimenez Rezende, Ivo Danihelka, Daan Wierstra*  
@@ -60,6 +63,7 @@ missing valueに対する生成モデルによる修復について載ってい�
 [[ArXiv](http://arxiv.org/abs/1605.05396)]
 [[supplements(download)](http://jmlr.org/proceedings/papers/v48/reed16-supp.zip)]  
 [[code](https://github.com/reedscot/icml2016)]  
+[[slide(ja)](http://niconare.nicovideo.jp/watch/kn1626)]  
 
 **Colorful Image Colorization**   
 *Richard Zhang, Phillip Isola, Alexei A. Efros*  
@@ -118,6 +122,8 @@ Generating Abstract Patterns with TensorFlow[[blog](http://blog.otoro.net/2016/0
 **Generating images with recurrent adversarial networks**(Arxiv2016)  
 *Daniel Jiwoong Im, Chris Dongjoo Kim, Hui Jiang, Roland Memisevic*  
 [[paper](http://arxiv.org/abs/1602.05110)]  
+DRAW with GAN.GANはモデルの良さを評価するのが難しいという難点があるが、これをBattle between GANs（2つのGANを戦わせる）という方法で評価することを試みた。  
+M1={G1,D1},M2={G2,D2}を用いて{G1,D1},{G1,D2},{G2,D1},{G2,D2}の4モデルで学習.r_test(testset classification error)が1に近いときにGeneratorのclassification errorを比較して、生成モデルを評価しているが、これDiscreminatorの分布を同じにした方が良いのでは、と思った（同じにするという意味で）。
 
 **Deep Visual Analogy-Making**  
 [[code](https://github.com/carpedm20/visual-analogy-tensorflow)]  

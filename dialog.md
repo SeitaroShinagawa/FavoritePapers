@@ -1,5 +1,10 @@
 #Dialog Systems
 
+##Question Answering  
+**Machine Comprehension Using Match-LSTM and Answer Pointer**  
+*Shuohang Wang, Jing Jiang*  
+[[link](http://arxiv.org/abs/1608.07905)]  
+
 ##active learning   
 **On-line Active Reward Learning for Policy Optimisation in Spoken Dialogue Systems**  
 *Pei-Hao Su, Milica Gasic, Nikola Mrksic, Lina Rojas-Barahona, Stefan Ultes, David Vandyke, Tsung-Hsien Wen, Steve Young*  

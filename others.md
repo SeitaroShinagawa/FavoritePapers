@@ -1,3 +1,20 @@
+**Learning Language Games through Interaction()**  
+*Sida I. Wang, Percy Liang, Christopher D. Manning*  
+[[paper](http://arxiv.org/abs/1606.02447)]  
+[[project](http://shrdlurn.sidaw.xyz/)]  
+[[slideshare](http://www.slideshare.net/unnonouno/nlplearning-language-games-through-interactionsida-i-wang-percy-liang-christopher-d-manning)]  
+
+**情報幾何の基礎とEMアルゴリズムの解釈**  
+[[link](http://www.slideshare.net/levelfour/em-64165852)]  
+
+**Physical Causality of Action Verbs in Grounded Language Understanding(ACL2016)**  
+*Qiaozi Gao† Malcolm Doering‡∗ Shaohua Yang† Joyce Y. Chai†*  
+[[paper](https://www.aclweb.org/anthology/P/P16/P16-1171.pdf)]  
+[[slideshare](http://www.slideshare.net/levelfour/physical-causality-of-action-verbs-in-grounded-language-understanding-65806596/1)]  
+
+**Deep Learningライブラリ 色々つかってみた感想まとめ**  
+[[link](https://speakerdeck.com/contaconta/deep-learningraiburari-se-tukatutemitagan-xiang-matome)]  
+
 **Unsupervised Learning of Video Representations using LSTMs(ICML)**  
 [[paper](http://www.jmlr.org/proceedings/papers/v37/srivastava15.html)]  
 

@@ -1,6 +1,15 @@
 #Dialog Systems
 
 ##Question Answering  
+**Generating Natural Questions About an Image(ACL2016)**  
+*Nasrin Mostafazadeh, Ishan Misra, Jacob Devlin, Margaret Mitchell,Xiaodong He, Lucy Vanderwende*    
+[[paper](http://aclweb.org/anthology/P/P16/P16-1170.pdf)]  
+[[slide(ja)](http://www.lr.pi.titech.ac.jp/~sasano/acl2016suzukake/slides/10.pdf)]  
+
+**Generating Factoid Questions With Recurrent Neural Networks: The 30M Factoid Question-Answer Corpus(ACL2016)**  
+[[paper](http://aclweb.org/anthology/P/P16/P16-1056.pdf)]  
+[[slide(ja)](http://www.lr.pi.titech.ac.jp/~sasano/acl2016suzukake/slides/09.pdf)]  
+
 **Machine Comprehension Using Match-LSTM and Answer Pointer**  
 *Shuohang Wang, Jing Jiang*  
 [[link](http://arxiv.org/abs/1608.07905)]  

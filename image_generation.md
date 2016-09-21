@@ -1,4 +1,8 @@
 #Image Generation  
+**Generative Visual Manipulation on the Natural Image Manifold(ECCV2016)**  
+*Jun-Yan Zhu, Philipp Kr¨ahenb¨uhl, Eli Shechtman, and Alexei A. Efros1*  
+[[project](https://people.eecs.berkeley.edu/~junyanz/projects/gvm/)]  
+
 **Deep Generative Model(DL summer school)**    
 [[slide](http://www.cs.toronto.edu/~rsalakhu/talk_Montreal_2016_Salakhutdinov.pdf)]   
 

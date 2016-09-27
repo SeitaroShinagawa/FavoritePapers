@@ -1,3 +1,7 @@
+**渡辺澄夫先生資料**  
+[[link1](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/joho-gakushu.html?utm_content=buffer228ec&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]  
+[[link2](http://watanabe-www.math.dis.titech.ac.jp/users/swatanab/2016920.pdf)]  
+
 **Learning Language Games through Interaction()**  
 *Sida I. Wang, Percy Liang, Christopher D. Manning*  
 [[paper](http://arxiv.org/abs/1606.02447)]  

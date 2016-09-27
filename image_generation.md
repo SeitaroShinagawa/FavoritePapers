@@ -1,4 +1,9 @@
 #Image Generation  
+**Generating Videos with Scene Dynamics(NIPS2016)**  
+*Carl Vondrick, Hamed Pirsiavash, Antonio Torralba*  
+[[project](http://web.mit.edu/vondrick/tinyvideo/)]  
+[[code](https://github.com/cvondrick/videogan)]  
+
 **Generative Visual Manipulation on the Natural Image Manifold(ECCV2016)**  
 *Jun-Yan Zhu, Philipp Kr¨ahenb¨uhl, Eli Shechtman, and Alexei A. Efros1*  
 [[project](https://people.eecs.berkeley.edu/~junyanz/projects/gvm/)]  

@@ -1,4 +1,9 @@
 #Image Generation  
+**Learning What and Where to Draw(NIPS2016)**  
+*Scott Reed et al.*  
+[[paper](http://www.scottreed.info/files/nips2016.pdf)]  
+[[code](https://github.com/reedscot/nips2016)]  
+
 **Generating Videos with Scene Dynamics(NIPS2016)**  
 *Carl Vondrick, Hamed Pirsiavash, Antonio Torralba*  
 [[project](http://web.mit.edu/vondrick/tinyvideo/)]  

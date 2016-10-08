@@ -264,6 +264,9 @@ pixel based image similarity metric
 [[ArXiv](http://arxiv.org/abs/1605.08695)]  
 [[tips](http://www.slideshare.net/takahirokubo7792/ss-65413290)]  
 
+**エンジニアとして知っておくと幸せになれる（かもしれない）機械学習とTensorFlowのこと
+[[link](https://speakerdeck.com/rindai87/talk-about-ml-and-dl-for-happy-engineers-life)]  
+
 **Python**  
 [[link](http://paiza.hatenablog.com/entry/2016/03/08/%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AB%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%EF%BC%81Python3%E3%82%92%E7%BF%92%E5%BE%97%E3%81%A7%E3%81%8D%E3%82%8B4%E3%81%A4%E3%81%AE%E5%AD%A6%E7%BF%92%E6%B3%95%E3%81%A811?)]  
 

@@ -1,3 +1,11 @@
+**Generative Adversarial Nets from a Density Ratio Estimation Perspective**  
+*Masatoshi Uehara, Issei Sato, Masahiro Suzuki, Kotaro Nakayama, Yutaka Matsuo*  
+[[paper](https://arxiv.org/abs/1610.02920)]  
+
+**Learning in Implicit Generative Models**  
+*Shakir Mohamed, Balaji Lakshminarayanan*  
+[[paper](https://arxiv.org/abs/1610.03483)]  
+
 **One-shot Learning with Memory-Augmented Neural Networks**  
 [[link](https://arxiv.org/abs/1605.06065)]  
 

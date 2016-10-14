@@ -1,3 +1,7 @@
+**f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization**  
+*Sebastian Nowozin, Botond Cseke, Ryota Tomioka*  
+[[paper](https://arxiv.org/abs/1606.00709)]  
+
 **Generative Adversarial Nets from a Density Ratio Estimation Perspective**  
 *Masatoshi Uehara, Issei Sato, Masahiro Suzuki, Kotaro Nakayama, Yutaka Matsuo*  
 [[paper](https://arxiv.org/abs/1610.02920)]  

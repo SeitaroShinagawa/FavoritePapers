@@ -1,4 +1,8 @@
 #Image Generation  
+**Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network**  
+*Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi*  
+[[paper](https://arxiv.org/abs/1609.04802)]  
+
 **Image-to-Image Translation with Conditional Adversarial Networks**  
 *Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros*  
 [[paper](https://arxiv.org/abs/1611.07004)]  

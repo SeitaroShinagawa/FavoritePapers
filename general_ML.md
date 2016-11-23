@@ -1,3 +1,7 @@
+**A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models**  
+*Chelsea Finn, Paul Christiano, Pieter Abbeel, Sergey Levine*  
+[[paper](https://arxiv.org/pdf/1611.03852.pdf)]  
+
 **Associative Adversarial Networks**  
 *Tarik Arici, Asli Celikyilmaz*  
 [[paper](https://arxiv.org/abs/1611.06953)]  

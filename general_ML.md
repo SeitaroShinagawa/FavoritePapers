@@ -1,3 +1,7 @@
+**Associative Adversarial Networks**  
+*Tarik Arici, Asli Celikyilmaz*  
+[[paper](https://arxiv.org/abs/1611.06953)]  
+
 **f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization**  
 *Sebastian Nowozin, Botond Cseke, Ryota Tomioka*  
 [[paper](https://arxiv.org/abs/1606.00709)]  

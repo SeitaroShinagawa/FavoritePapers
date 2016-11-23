@@ -1,4 +1,9 @@
 #Image Generation  
+**Improved Techniques for Training GANs**  
+*Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen*  
+[[paper](https://arxiv.org/abs/1606.03498)]  
+[[code](https://github.com/openai/improved-gan)]  
+
 NIPS 2016 Workshop on Adversarial Training  
 https://sites.google.com/site/nips2016adversarial/home  
 torchでの評価ツール https://github.com/lopezpaz/metal

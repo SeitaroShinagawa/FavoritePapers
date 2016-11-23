@@ -1,4 +1,13 @@
 #Image Generation  
+**Invertible Conditional GANs for image editing**  
+*Guim Perarnau, Joost van de Weijer, Bogdan Raducanu, Jose M. Álvarez*  
+[[paper](https://arxiv.org/abs/1611.06355)]  
+[[code](https://github.com/Guim3/IcGAN)]  
+現在の画像に条件づけて新しい画像を生成している  
+ただ、下のエンコーダがある必要性が微妙。たぶんどこを変更したかわかりやすくするため？単純なconditionでもいけそう
+上で画像のスタイルを学習して、下で条件付けをしているから、VAE-GANとかなり近い。違うのはinputとoutputが違う画像であること  
+
+
 **Photo-Realistic Single Image Super-Resolution Using a Generative Adversarial Network**  
 *Christian Ledig, Lucas Theis, Ferenc Huszar, Jose Caballero, Andrew Cunningham, Alejandro Acosta, Andrew Aitken, Alykhan Tejani, Johannes Totz, Zehan Wang, Wenzhe Shi*  
 [[paper](https://arxiv.org/abs/1609.04802)]  

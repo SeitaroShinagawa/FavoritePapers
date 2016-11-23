@@ -1,4 +1,8 @@
 #Image Generation  
+NIPS 2016 Workshop on Adversarial Training  
+https://sites.google.com/site/nips2016adversarial/home  
+torchでの評価ツール https://github.com/lopezpaz/metal
+
 **Invertible Conditional GANs for image editing**  
 *Guim Perarnau, Joost van de Weijer, Bogdan Raducanu, Jose M. Álvarez*  
 [[paper](https://arxiv.org/abs/1611.06355)]  

@@ -20,6 +20,10 @@
 [[paper](https://arxiv.org/abs/1605.07669v2)]  
 
 ##task oriented  
+**Coherent Dialogue with Attention-based Language Models**  
+*Hongyuan Mei, Mohit Bansal, Matthew R. Walter*  
+[[paper](https://arxiv.org/abs/1611.06997)]  
+
 **A Network-based End-to-End Trainable Task-oriented Dialogue System**  
 *Tsung-Hsien Wen, Milica Gašic, Nikola Mrkši ´ c, Lina M. Rojas-Barahona, ´
 Pei-Hao Su, Stefan Ultes, David Vandyke, Steve Young (Cambridge University)*  

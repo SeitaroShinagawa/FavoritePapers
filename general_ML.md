@@ -1,3 +1,13 @@
+**MODE REGULARIZED GENERATIVE ADVERSARIAL NETWORKS**  
+[[paper](https://openreview.net/pdf?id=HJKkY35le)]  
+
+**IMPROVING GENERATIVE ADVERSARIAL NETWORKS WITH DENOISING FEATURE MATCHING**  
+[[paper](https://openreview.net/pdf?id=S1X7nhsxl)  
+
+**Unsupervised Learning of Sentence Representations using Convolutional Neural Networks**  
+*Zhe Gan, Yunchen Pu, Ricardo Henao, Chunyuan Li, Xiaodong He, Lawrence Carin*  
+[[paper](https://arxiv.org/abs/1611.07897)]  
+
 **A Connection Between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models**  
 *Chelsea Finn, Paul Christiano, Pieter Abbeel, Sergey Levine*  
 [[paper](https://arxiv.org/pdf/1611.03852.pdf)]  

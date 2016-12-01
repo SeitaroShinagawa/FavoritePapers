@@ -64,7 +64,7 @@ Gated Probabilistic Matrix Factorization:Learning Users’ Attention from Missin
 **Unitary Evolution Recurrent Neural Networks**  
 [[[paper](http://arxiv.org/pdf/1511.06464v4.pdf)]  
 
-**faster-RNN**  
+**faster-RCNN**  
 [[figure](https://github.com/mitmul/chainer-faster-rcnn)]  
 
 ##DeepLearner collection

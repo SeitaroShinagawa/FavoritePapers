@@ -1,4 +1,8 @@
 #Image Generation  
+**Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space**  
+*Anh Nguyen, Jason Yosinski, Yoshua Bengio, Alexey Dosovitskiy, Jeff Clune*  
+[[paper](https://arxiv.org/abs/1612.00005)]  
+
 **Improved Techniques for Training GANs**  
 *Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen*  
 [[paper](https://arxiv.org/abs/1606.03498)]  

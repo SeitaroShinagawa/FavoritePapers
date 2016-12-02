@@ -1,4 +1,8 @@
 #Image Generation  
+**CONDITIONAL IMAGE SYNTHESIS WITH AUXILIARY CLASSIFIER GANS**  
+*Augustus Odena, Christopher Olah & Jonathon Shlens*  
+[[paper](https://arxiv.org/pdf/1610.09585v1.pdf)]    
+
 **Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space**  
 *Anh Nguyen, Jason Yosinski, Yoshua Bengio, Alexey Dosovitskiy, Jeff Clune*  
 [[paper](https://arxiv.org/abs/1612.00005)]  

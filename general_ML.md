@@ -1,3 +1,6 @@
+**Instance Weighting for Domain Adaptation in NLP(ACL2007)**  
+[[paper](http://www.aclweb.org/anthology/P07-1034)]  
+
 **MODE REGULARIZED GENERATIVE ADVERSARIAL NETWORKS**  
 [[paper](https://openreview.net/pdf?id=HJKkY35le)]  
 

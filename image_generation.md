@@ -1,4 +1,11 @@
 #Image Generation  
+**Unsupervised Learning for Physical Interaction through Video Prediction(NIPS2016)**  
+[[paper](https://arxiv.org/pdf/1605.07157v4.pdf)]  
+[[code](https://github.com/tensorflow/models/tree/master/video_prediction)]  
+
+**How to Train a GAN? Tips and tricks to make GANs work**  
+[[code](https://github.com/soumith/ganhacks)]  
+
 **StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks**  
 *Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaolei Huang, Xiaogang Wang, Dimitris Metaxas*  
 [[paper](https://arxiv.org/abs/1612.03242)]  

@@ -37,6 +37,7 @@ torchでの評価ツール https://github.com/lopezpaz/metal
 **Image-to-Image Translation with Conditional Adversarial Networks**  
 *Phillip Isola, Jun-Yan Zhu, Tinghui Zhou, Alexei A. Efros*  
 [[paper](https://arxiv.org/abs/1611.07004)]  
+[[chainer](https://github.com/mattya/chainer-pix2pix)]  
 
 **Learning What and Where to Draw(NIPS2016)**  
 *Scott Reed et al.*  

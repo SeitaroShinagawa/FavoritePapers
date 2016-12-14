@@ -1,3 +1,6 @@
+**[Project] All Code Implementations for NIPS 2016 papers**  
+[[link](https://www.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/)]  
+
 **Instance Weighting for Domain Adaptation in NLP(ACL2007)**  
 [[paper](http://www.aclweb.org/anthology/P07-1034)]  
 

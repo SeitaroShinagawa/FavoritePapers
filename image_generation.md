@@ -1,5 +1,10 @@
 #Image Generation  
-**Unsupervised Learning for Physical Interaction through Video Prediction(NIPS2016)**  
+**Learning Non-Lambertian Object Intrinsics across ShapeNet Categories**  
+*Jian Shi, Yue Dong, Hao Su, Stella X. Yu*  
+[[paper](https://arxiv.org/abs/1612.08510)]  
+質感認識というか質感分離？の話。画像をそれぞれの要素に分離して生成する  
+
+**Unsupervised Learning for Physical Interaction through Video Prediction(NIPS2016)**  
 [[paper](https://arxiv.org/pdf/1605.07157v4.pdf)]  
 [[code](https://github.com/tensorflow/models/tree/master/video_prediction)]  
 

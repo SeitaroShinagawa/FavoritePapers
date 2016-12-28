@@ -1,4 +1,9 @@
 #Image to Caption Generation  
+**Image-Text Multi-Modal Representation Learning by Adversarial Backpropagation**  
+*Gwangbeen Park, Woobin Im*  
+[[paper](https://arxiv.org/abs/1612.08354)]  
+
+
 **Visual Storytelling(NAACL2016)**  
 [[paper](http://m-mitchell.com/NAACL-2016/NAACL-HLT2016/pdf/N16-1147.pdf)]  
 

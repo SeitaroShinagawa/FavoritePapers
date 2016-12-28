@@ -1,5 +1,9 @@
 #Dialog Systems
 
+**Improving Human-Machine Cooperative Visual Search With Soft Highlighting**  
+*Ronald T. Kneusel, Michael C. Mozer*  
+[[paper](https://arxiv.org/abs/1612.08117)]  
+
 ##Question Answering  
 **Generating Natural Questions About an Image(ACL2016)**  
 *Nasrin Mostafazadeh, Ishan Misra, Jacob Devlin, Margaret Mitchell,Xiaodong He, Lucy Vanderwende*    

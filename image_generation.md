@@ -1,8 +1,15 @@
 #Image Generation  
+**Deep Probabilistic Modeling of Natural Images using a Pyramid Decomposition**  
+*Alexander Kolesnikov, Christoph H. Lampert*  
+[[paper](https://arxiv.org/abs/1612.08185)]  
+
 **Learning Non-Lambertian Object Intrinsics across ShapeNet Categories**  
 *Jian Shi, Yue Dong, Hao Su, Stella X. Yu*  
 [[paper](https://arxiv.org/abs/1612.08510)]  
 質感認識というか質感分離？の話。画像をそれぞれの要素に分離して生成する  
+
+**Unsupervised Domain Adaptation by Backpropagation**  
+[[paper](https://arxiv.org/pdf/1409.7495.pdf)]  
 
 **Unsupervised Learning for Physical Interaction through Video Prediction(NIPS2016)**  
 [[paper](https://arxiv.org/pdf/1605.07157v4.pdf)]  

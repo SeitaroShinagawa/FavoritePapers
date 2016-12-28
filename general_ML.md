@@ -1,3 +1,8 @@
+**Language Modeling with Gated Convolutional Networks**  
+*Yann N. Dauphin Angela Fan Michael Auli David Grangier (Facebook AI Research)*  
+[[paper](https://arxiv.org/pdf/1612.08083v1.pdf)]  
+LSTMを凌駕したらしいが果たして・・・  
+
 **[Project] All Code Implementations for NIPS 2016 papers**  
 [[link](https://www.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/)]  
 

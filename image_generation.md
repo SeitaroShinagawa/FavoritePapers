@@ -21,6 +21,7 @@
 **StackGAN: Text to Photo-realistic Image Synthesis with Stacked Generative Adversarial Networks**  
 *Han Zhang, Tao Xu, Hongsheng Li, Shaoting Zhang, Xiaolei Huang, Xiaogang Wang, Dimitris Metaxas*  
 [[paper](https://arxiv.org/abs/1612.03242)]  
+[[code](https://github.com/hanzhanggit/StackGAN)]  
 
 **CONDITIONAL IMAGE SYNTHESIS WITH AUXILIARY CLASSIFIER GANS**  
 *Augustus Odena, Christopher Olah & Jonathon Shlens*  

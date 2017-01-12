@@ -1,4 +1,7 @@
-#Image to Caption Generation  
+#Image to Caption Generation  
+牛久先生bookmark  
+[[link](http://www.ai-gakkai.or.jp/my-bookmark_vol32-no1/?utm_campaign=whats-new&utm_medium=twitter&utm_source=twitter)]  
+
 **Image-Text Multi-Modal Representation Learning by Adversarial Backpropagation**  
 *Gwangbeen Park, Woobin Im*  
 [[paper](https://arxiv.org/abs/1612.08354)]  

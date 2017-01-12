@@ -73,6 +73,13 @@
 [[demo](http://deeplearning.cs.toronto.edu/i2thttp://deeplearning.cs.toronto.edu/i2t)]  
 [[code](https://github.com/ryankiros/visual-semantic-embedding)]  
 
+**Zero-Shot Learning by Convex Combination of Semantic Embeddings**(ICLR2014)    
+[[paper](https://arxiv.org/pdf/1312.5650.pdf)]    
+
+**DeViSE: A Deep Visual-Semantic Embedding Model**(NIPS2013)  
+[[paper](https://papers.nips.cc/paper/5204-devise-a-deep-visual-semantic-embedding-model)]  
+[[slide(ja)(http://www.slideshare.net/beam2d/nips2013-devise)]  
+
 ##Survey
 [[link](http://www.slideshare.net/metaps_JP/deep-learning-50383383)]  
 [[link2](http://www.slideshare.net/YoshitakaUshiku/ss-57148161)]  

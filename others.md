@@ -157,6 +157,8 @@ for biginer
 [[video](https://www.youtube.com/watch?v=XsFhA8kyfkI)]  
 [[qiita](http://qiita.com/icoxfog417/items/242439ecd1a477ece312?utm_source=Qiita%E3%83%8B%E3%83%A5%E3%83%BC%E3%82%B9&utm_campaign=6139efa757-Qiita_newsletter_212_06_15_2016&utm_medium=email&utm_term=0_e44feaa081-6139efa757-33070377)]  
 [[convergence cheatsheet](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/learn-43/lib/photoz/.g/web/glossary/converge.html)]  
+Reinforcement Learning: An Introduction (by Richard S. Sutton and Andrew G. Barto)  
+[[link](https://webdocs.cs.ualberta.ca/~sutton/book/the-book-2nd.html)]  
 
 POMDP
 [[paper1](http://ac.els-cdn.com/0022247X6590154X/1-s2.0-0022247X6590154X-main.pdf?_tid=0a32f3fc-c4f9-11e5-852a-00000aab0f01&acdnat=1453901140_340d689860abb358128b650efb6d5f1c)]  

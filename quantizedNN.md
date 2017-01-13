@@ -1,4 +1,8 @@
-#Quantized Neural Networks
+#Quantized Neural Network
+
+**Scaling Binarized Neural Networks on Reconfigurable Logic**  
+*Nicholas J. Fraser, Yaman Umuroglu, Giulio Gambardella, Michaela Blott, Philip Leong, Magnus Jahre, Kees Vissers*  
+[[paper](https://arxiv.org/abs/1701.03400)]  
 
 **Fixed Point Quantization of Deep Convolutional Networks(ICML2016)**  
 [[paper](http://jmlr.org/proceedings/papers/v48/linb16.pdf)]  

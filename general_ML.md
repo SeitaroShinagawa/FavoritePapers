@@ -1,3 +1,6 @@
+次元削減について  
+[[link](http://paper.hatenadiary.jp/entry/2016/10/31/082145)]  
+
 **Language Modeling with Gated Convolutional Networks**  
 *Yann N. Dauphin Angela Fan Michael Auli David Grangier (Facebook AI Research)*  
 [[paper](https://arxiv.org/pdf/1612.08083v1.pdf)]  

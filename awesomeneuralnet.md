@@ -1,4 +1,12 @@
 #Awesome neural networks  
+**Ensembles of Generative Adversarial Networks**  
+*Yaxing Wang, Lichao Zhang, Joost van de Weijer*  
+[[paper](Yaxing Wang, Lichao Zhang, Joost van de Weijer)]  
+
+**Simplified Gating in Long Short-term Memory (LSTM) Recurrent Neural Networks**  
+*Ensembles of Generative Adversarial Networks*  
+[[paper](https://arxiv.org/abs/1701.03441)]  
+
 **A guide to convolution arithmetic for deep learning**  
 *Vincent Dumoulin, Francesco Visin*  
 [[link](https://arxiv.org/abs/1603.07285)]  

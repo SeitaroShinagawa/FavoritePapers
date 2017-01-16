@@ -1,4 +1,8 @@
 #Image Generation  
+**LayerBuilder: Layer Decomposition for Interactive Image and Video Color Editing**  
+*Sharon Lin, Matthew Fisher, Angela Dai, Pat Hanrahan*  
+[[paper](https://arxiv.org/abs/1701.03754)]  
+
 **Deep Probabilistic Modeling of Natural Images using a Pyramid Decomposition**  
 *Alexander Kolesnikov, Christoph H. Lampert*  
 [[paper](https://arxiv.org/abs/1612.08185)]  

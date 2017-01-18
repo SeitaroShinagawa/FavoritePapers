@@ -1,4 +1,12 @@
 #Image Generation  
+**Image Generation and Editing with Variational Info Generative AdversarialNetworks**  
+*Mahesh Gorijala, Ambedkar Dukkipati*  
+[[paper](https://arxiv.org/abs/1701.04568)]  
+
+**Early Visual Concept Learning with Unsupervised Deep Learning**  
+*Irina Higgins, Loic Matthey, Xavier Glorot, Arka Pal, Benigno Uria, Charles Blundell, Shakir Mohamed, Alexander Lerchner*  
+[[paper](https://arxiv.org/abs/1606.05579)]  
+
 **LayerBuilder: Layer Decomposition for Interactive Image and Video Color Editing**  
 *Sharon Lin, Matthew Fisher, Angela Dai, Pat Hanrahan*  
 [[paper](https://arxiv.org/abs/1701.03754)]  

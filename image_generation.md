@@ -1,4 +1,8 @@
 #Image Generation  
+**Towards Principled Methods for Training Generative Adversarial Networks**  
+*Martin Arjovsky, Léon Bottou*  
+[[paper](https://arxiv.org/abs/1701.04862)]  
+
 **Image Generation and Editing with Variational Info Generative AdversarialNetworks**  
 *Mahesh Gorijala, Ambedkar Dukkipati*  
 [[paper](https://arxiv.org/abs/1701.04568)]  

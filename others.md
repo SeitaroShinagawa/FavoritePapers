@@ -1,4 +1,7 @@
-**グラム先生Dynet解説  
+**単語の埋め込みベクトル集**  
+[[link](http://qiita.com/Hironsan/items/8f7d35f0a36e0f99752c)]  
+
+**グラム先生Dynet解説  
 [[link](https://github.com/neubig/yrsnlp-2016)]  
 
 

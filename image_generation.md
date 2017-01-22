@@ -260,7 +260,7 @@ M1={G1,D1},M2={G2,D2}を用いて{G1,D1},{G1,D2},{G2,D1},{G2,D2}の4モデルで
 [[blog](http://musyoku.github.io/2016/02/22/adversarial-autoencoder/)]  
 [[chainer](https://github.com/musyoku/adversarial-autoencoder)]  
 
-**Autoencoding beyond pixels using a learned similarity metric**   
+**Autoencoding beyond pixels using a learned similarity metric(ICML2016)**   
 [[paper](http://arxiv.org/pdf/1512.09300.pdf)]  
 [[chainer](https://github.com/stitchfix/fauxtograph)]
 

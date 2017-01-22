@@ -1,4 +1,9 @@
 #Image Generation  
+**Unsupervised Learning of 3D Structure from Images(NIPS2016)**  
+*Danilo Jimenez Rezende, S. M. Ali Eslami, Shakir Mohamed, Peter Battaglia, Max Jaderberg, Nicolas Heess*  
+[[paper](https://papers.nips.cc/paper/6600-unsupervised-learning-of-3d-structure-from-images.pdf)]  
+[[ArXiv](https://arxiv.org/abs/1607.00662)]  
+
 **Mode Regularized Generative Adversarial Networks**  
 *Tong Che, Yanran Li, Athul Paul Jacob, Yoshua Bengio, Wenjie Li*  
 [[paper](https://arxiv.org/abs/1612.02136)]  

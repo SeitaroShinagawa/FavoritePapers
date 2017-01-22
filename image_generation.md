@@ -1,4 +1,8 @@
 #Image Generation  
+**Mode Regularized Generative Adversarial Networks**  
+*Tong Che, Yanran Li, Athul Paul Jacob, Yoshua Bengio, Wenjie Li*  
+[[paper](https://arxiv.org/abs/1612.02136)]  
+
 **Towards Principled Methods for Training Generative Adversarial Networks**  
 *Martin Arjovsky, Léon Bottou*  
 [[paper](https://arxiv.org/abs/1701.04862)]  

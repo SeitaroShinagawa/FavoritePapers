@@ -1,4 +1,8 @@
 #Image Generation  
+**Automatic Generation of Typographic Font from a Small Font Subset**  
+[[paper](https://arxiv.org/abs/1701.05703)]  
+文字のフォント生成  
+
 **Unsupervised Learning of 3D Structure from Images(NIPS2016)**  
 *Danilo Jimenez Rezende, S. M. Ali Eslami, Shakir Mohamed, Peter Battaglia, Max Jaderberg, Nicolas Heess*  
 [[paper](https://papers.nips.cc/paper/6600-unsupervised-learning-of-3d-structure-from-images.pdf)]  

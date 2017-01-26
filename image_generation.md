@@ -1,4 +1,7 @@
 #Image Generation  
+**ADVERSARIALLY LEARNED INFERENCE**
+[[paper](https://arxiv.org/abs/1606.00704)]  
+
 **Image Region Forgery Detection: A Deep Learning Approach(SG-CRC2016)**  
 [[paper](http://www1.i2r.a-star.edu.sg/~vriz/Publications/Image%20Region%20Forgery%20Detection%20-%20A%20Deep%20Learning%20Approach.pdf)]  
 **Fast Patch-based Style Transfer of Arbitrary Style**  

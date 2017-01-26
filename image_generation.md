@@ -50,7 +50,7 @@
 **Unsupervised Learning for Physical Interaction through Video Prediction(NIPS2016)**  
 [[paper](https://arxiv.org/pdf/1605.07157v4.pdf)]  
 [[code](https://github.com/tensorflow/models/tree/master/video_prediction)]  
-[[chainer](https://github.com/quadjr/PredNet)]  
+
 
 **How to Train a GAN? Tips and tricks to make GANs work**  
 [[code](https://github.com/soumith/ganhacks)]  
@@ -159,6 +159,7 @@ missing valueに対する生成モデルによる修復について載ってい�
 [[blog](http://karasunoblog.blog20.fc2.com/blog-entry-46.html)]  
 [[project](https://coxlab.github.io/prednet/)]  
 [[code](https://github.com/coxlab/prednet)]  
+[[chainer](https://github.com/quadjr/PredNet)]  
 
 **Towards Conceptual Compression(Arxiv)**  
 *Karol Gregor, Frederic Besse, Danilo Jimenez Rezende, Ivo Danihelka, Daan Wierstra*  

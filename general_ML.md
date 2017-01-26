@@ -1,3 +1,6 @@
+**Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities**  
+[[paper](https://arxiv.org/abs/1701.06264)]  
+
 次元削減について  
 [[link](http://paper.hatenadiary.jp/entry/2016/10/31/082145)]  
 

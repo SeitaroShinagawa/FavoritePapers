@@ -1,4 +1,7 @@
 #Awesome neural networks  
+**Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis**  
+[[paper](https://arxiv.org/abs/1701.05927)]  
+
 **Ensembles of Generative Adversarial Networks**  
 *Yaxing Wang, Lichao Zhang, Joost van de Weijer*  
 [[paper](Yaxing Wang, Lichao Zhang, Joost van de Weijer)]  

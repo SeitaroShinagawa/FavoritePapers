@@ -1,3 +1,6 @@
+**Kaggle Kernel**  
+[[link](https://www.kaggle.com/kernels)]  
+
 **単語の埋め込みベクトル集**  
 [[link](http://qiita.com/Hironsan/items/8f7d35f0a36e0f99752c)]  
 

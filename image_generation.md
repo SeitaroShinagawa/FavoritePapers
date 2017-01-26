@@ -160,6 +160,7 @@ missing valueに対する生成モデルによる修復について載ってい�
 [[project](https://coxlab.github.io/prednet/)]  
 [[code](https://github.com/coxlab/prednet)]  
 [[chainer](https://github.com/quadjr/PredNet)]  
+[[slide_ja](http://www.slideshare.net/kojiochiai/pred-net)]  
 
 **Towards Conceptual Compression(Arxiv)**  
 *Karol Gregor, Frederic Besse, Danilo Jimenez Rezende, Ivo Danihelka, Daan Wierstra*  

@@ -1,4 +1,7 @@
 #Image to Caption Generation  
+**Incorporating Global Visual Features into Attention-Based Neural Machine Translation**  
+[[paper](https://arxiv.org/abs/1701.06521)]  
+
 牛久先生bookmark  
 [[link](http://www.ai-gakkai.or.jp/my-bookmark_vol32-no1/?utm_campaign=whats-new&utm_medium=twitter&utm_source=twitter)]  
 

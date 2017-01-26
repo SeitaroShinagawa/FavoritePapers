@@ -1,4 +1,8 @@
 #Image to Caption Generation  
+**Learning to Decode for Future Success**  
+[[paper](https://arxiv.org/abs/1701.06549)]  
+not image captioning, but it may be useful for?
+
 **Incorporating Global Visual Features into Attention-Based Neural Machine Translation**  
 [[paper](https://arxiv.org/abs/1701.06521)]  
 

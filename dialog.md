@@ -1,4 +1,7 @@
 #Dialog Systems
+**A Multichannel Convolutional Neural Network For Cross-language Dialog State Tracking**  
+[[paper](https://arxiv.org/abs/1701.06247)]  
+
 **Hierarchical Recurrent Attention Network for Response Generation**  
 [[paper](https：//arxiv.org/abs/1701.07149)]  
 

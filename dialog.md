@@ -1,4 +1,6 @@
 #Dialog Systems
+**Hierarchical Recurrent Attention Network for Response Generation**  
+[[paper](https：//arxiv.org/abs/1701.07149)]  
 
 **Improving Human-Machine Cooperative Visual Search With Soft Highlighting**  
 *Ronald T. Kneusel, Michael C. Mozer*  

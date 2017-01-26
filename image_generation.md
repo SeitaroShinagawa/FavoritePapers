@@ -1,4 +1,6 @@
 #Image Generation  
+**Image Region Forgery Detection: A Deep Learning Approach(SG-CRC2016)**  
+[[paper](http://www1.i2r.a-star.edu.sg/~vriz/Publications/Image%20Region%20Forgery%20Detection%20-%20A%20Deep%20Learning%20Approach.pdf)]  
 **Fast Patch-based Style Transfer of Arbitrary Style**  
 *Tian Qi Chen, Mark Schmidt*  
 [[paper](https://arxiv.org/abs/1612.04337)]  

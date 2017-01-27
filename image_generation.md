@@ -1,4 +1,7 @@
 #Image Generation  
+**Benchmarking in Manipulation Research: The YCB Object & Model Set(IROS2016 Tutorial)**  
+[[link](http://ycb-benchmarks.opensourcerobots.org/object-models/)]  
+
 **ADVERSARIALLY LEARNED INFERENCE**
 [[paper](https://arxiv.org/abs/1606.00704)]  
 

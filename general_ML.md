@@ -1,3 +1,7 @@
+**A More General Robust Loss Function**  
+*Jonathan T. Barron*  
+[[paper](https://arxiv.org/abs/1701.03077)]  
+
 **Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities**  
 [[paper](https://arxiv.org/abs/1701.06264)]  
 

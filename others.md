@@ -171,6 +171,7 @@ POMDP
 [[paper2](http://www.cs.ubc.ca/~nando/550-2006/handouts/sondikPOMDP.pdf)]  
 
 Active Learning  
+[[survey](http://burrsettles.com/pub/settles.activelearning.pdf)]  
 [[slide](http://www.slideshare.net/shuyo/introduction-to-active-learning-25787487)]  
 
 survey

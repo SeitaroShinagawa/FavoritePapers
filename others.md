@@ -1,3 +1,6 @@
+**Chainerでファインチューニングするときの個人的ベストプラクティス**  
+[[link](http://qiita.com/tabe2314/items/6c0c1b769e12ab1e2614)]  
+
 **CNN による画像分類で使われる前処理・テスト時処理まとめ**  
 [[link](http://iwiwi.hatenadiary.jp/entry/2016/12/31/162059)]  
 

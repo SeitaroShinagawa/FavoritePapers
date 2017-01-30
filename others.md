@@ -1,3 +1,6 @@
+**Benchmarking State-of-the-Art Deep Learning Software Tool**  
+[[paper](https://arxiv.org/abs/1608.07249v6)]  
+
 **Kaggle Kernel**  
 [[link](https://www.kaggle.com/kernels)]  
 

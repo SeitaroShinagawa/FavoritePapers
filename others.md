@@ -1,3 +1,6 @@
+**IIBMP2016 深層生成モデルによる表現学習**  
+[[slide](http://www.slideshare.net/pfi/iibmp2016-okanohara-deep-generative-models-for-representation-learning)]  
+
 **Chainerでファインチューニングするときの個人的ベストプラクティス**  
 [[link](http://qiita.com/tabe2314/items/6c0c1b769e12ab1e2614)]  
 

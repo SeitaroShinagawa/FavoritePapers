@@ -1,3 +1,9 @@
+**CNN による画像分類で使われる前処理・テスト時処理まとめ**  
+[[link](http://iwiwi.hatenadiary.jp/entry/2016/12/31/162059)]  
+
+**機械学習の重要なアプローチ：ベイズ理論**  
+[[link](http://s0sem0y.hatenablog.com/entry/2017/01/29/062150)]  
+
 **Benchmarking State-of-the-Art Deep Learning Software Tool**  
 [[paper](https://arxiv.org/abs/1608.07249v6)]  
 

@@ -1,4 +1,7 @@
 #Image Generation  
+**Wasserstein GAN**  
+[[paper](https://arxiv.org/abs/1701.07875)]  
+
 **Benchmarking in Manipulation Research: The YCB Object & Model Set(ICRA2016 Tutorial)**  
 [[link](http://ycb-benchmarks.opensourcerobots.org/object-models/)]  
 

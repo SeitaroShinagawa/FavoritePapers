@@ -1,5 +1,8 @@
 #Quantized Neural Network
 
+**BinaryNetとBinarized Deep Neural Network**  
+[[paper](https://tkng.org/b/2016/02/12/binarynet-and-binarized-neural-network/)]  
+
 **Scaling Binarized Neural Networks on Reconfigurable Logic**  
 *Nicholas J. Fraser, Yaman Umuroglu, Giulio Gambardella, Michaela Blott, Philip Leong, Magnus Jahre, Kees Vissers*  
 [[paper](https://arxiv.org/abs/1701.03400)]  

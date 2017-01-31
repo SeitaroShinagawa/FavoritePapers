@@ -61,6 +61,10 @@ Pei-Hao Su, Stefan Ultes, David Vandyke, Steve Young (Cambridge University)*
 **A Neural Conversation Model**  
 [[GitXiv](http://gitxiv.com/posts/j9FtQgmHAQD8qceub/a-neural-conversational-model)]  
 
+##evaluation
+**Adversarial Evaluation of Dialogue Models**  
+[[paper(https://arxiv.org/abs/1701.08198)]  
+
 #Corpus  
 **A Survey of Available Corpora For Building Data-Driven Dialogue Systems**  
 *Iulian Vlad Serban, Ryan Lowe, Laurent Charlin, Joelle Pineau*  

@@ -1,4 +1,7 @@
 #Awesome neural networks  
+**Faceness-Net: Face Detection through Deep Facial Part Responses**  
+[[paper](https://arxiv.org/abs/1701.08393)]  
+
 **Learning Particle Physics by Example: Location-Aware Generative Adversarial Networks for Physics Synthesis**  
 [[paper](https://arxiv.org/abs/1701.05927)]  
 

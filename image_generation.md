@@ -1,4 +1,7 @@
 #Image Generation  
+**Artist Agent: A Reinforcement Learning Approach to Automatic Stroke Generation in Oriental Ink Painting**  
+[[paper](https://arxiv.org/abs/1206.4634)]   
+
 **Wasserstein GAN**  
 [[paper](https://arxiv.org/abs/1701.07875)]  
 

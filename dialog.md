@@ -1,4 +1,7 @@
 #Dialog Systems
+**Adversarial Learning for Neural Dialogue Generation**  
+[[paper](https://arxiv.org/abs/1701.06547)]  
+
 **A Multichannel Convolutional Neural Network For Cross-language Dialog State Tracking**  
 [[paper](https://arxiv.org/abs/1701.06247)]  
 

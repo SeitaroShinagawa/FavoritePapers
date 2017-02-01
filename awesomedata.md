@@ -1,5 +1,8 @@
 #Awesome dataset
 
+**pokemon dataset**  
+[[paper](https://www.kaggle.com/abcsds/pokemon)]  
+
 **collection of vision and language**  
 [[link](http://visionandlanguage.net)]  
 

@@ -13,6 +13,10 @@
 [[paper](https://arxiv.org/abs/1612.08117)]  
 
 ##Question Answering  
+**Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation**  
+*Nasrin Mostafazadeh, Chris Brockett, Bill Dolan, Michel Galley, Jianfeng Gao, Georgios P. Spithourakis, Lucy Vanderwende*  
+[[paper](https://arxiv.org/abs/1701.08251v1)]  
+
 **Generating Natural Questions About an Image(ACL2016)**  
 *Nasrin Mostafazadeh, Ishan Misra, Jacob Devlin, Margaret Mitchell,Xiaodong He, Lucy Vanderwende*    
 [[paper](http://aclweb.org/anthology/P/P16/P16-1170.pdf)]  

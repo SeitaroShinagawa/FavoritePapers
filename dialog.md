@@ -12,6 +12,11 @@
 *Ronald T. Kneusel, Michael C. Mozer*  
 [[paper](https://arxiv.org/abs/1612.08117)]  
 
+##Understanding  
+**Graph-Based Semi-Supervised Conditional Random Fields For Spoken Language Understanding Using Unaligned Data**  
+*Mohammad Aliannejadi, Masoud Kiaeeha, Shahram Khadivi, Saeed Shiry Ghidary*  
+[[paper](https://arxiv.org/abs/1701.08533v1)]  
+
 ##Question Answering  
 **Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation**  
 *Nasrin Mostafazadeh, Chris Brockett, Bill Dolan, Michel Galley, Jianfeng Gao, Georgios P. Spithourakis, Lucy Vanderwende*  

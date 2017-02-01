@@ -1,4 +1,8 @@
 #Image Generation  
+**Large-scale Classification of Fine-Art Paintings: Learning The Right Metric on The Right Feature**  
+*Babak Saleh, Ahmed Elgammal*  
+[[paper](https://arxiv.org/abs/1505.00855)]  
+
 **Artist Agent: A Reinforcement Learning Approach to Automatic Stroke Generation in Oriental Ink Painting**  
 [[paper](https://arxiv.org/abs/1206.4634)]   
 

@@ -1,4 +1,8 @@
 #Image Generation  
+**Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks**  
+*Lars Mescheder, Sebastian Nowozin, Andreas Geiger*  
+[[paper](https://arxiv.org/abs/1701.04722)]  
+
 **Large-scale Classification of Fine-Art Paintings: Learning The Right Metric on The Right Feature**  
 *Babak Saleh, Ahmed Elgammal*  
 [[paper](https://arxiv.org/abs/1505.00855)]  

@@ -4,6 +4,9 @@
 **Chainerでファインチューニングするときの個人的ベストプラクティス**  
 [[link](http://qiita.com/tabe2314/items/6c0c1b769e12ab1e2614)]  
 
+**ニューラルネットワークの学習の工夫**  
+[[link](http://s0sem0y.hatenablog.com/entry/2017/01/31/041148)]  
+
 **CNN による画像分類で使われる前処理・テスト時処理まとめ**  
 [[link](http://iwiwi.hatenadiary.jp/entry/2016/12/31/162059)]  
 

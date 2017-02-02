@@ -22,3 +22,7 @@
 ##Visualization
 **Visualizing Data using t-SNE**  
 [[peper](http://jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)]  
+
+**Understanding trained CNNs by indexing neuron selectivity**  
+*Ivet Rafegas, Maria Vanrell, Luis A. Alexandre*  
+[[paper](https://arxiv.org/abs/1702.00382v1)]  

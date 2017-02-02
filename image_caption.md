@@ -1,4 +1,8 @@
 #Image to Caption Generation  
+**ImageNet MPEG-7 Visual Descriptors - Technical Report**  
+*Frédéric Rayar*  
+[[paper](https://arxiv.org/abs/1702.00187v1)]  
+
 **Learning to Decode for Future Success**  
 [[paper](https://arxiv.org/abs/1701.06549)]  
 not image captioning, but it may be useful for?

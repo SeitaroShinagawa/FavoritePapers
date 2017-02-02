@@ -1,4 +1,7 @@
 #Action Recognition
+**Going Deeper into Action Recognition: A Survey**  
+*Samitha Herath, Mehrtash Harandi, Fatih Porikli*  
+[[paper](https://arxiv.org/abs/1605.04988v2)]  
 
 **A Large-Scale Video Benchmark for Human Activity Understanding**  
 [[link](http://activity-net.org/)]

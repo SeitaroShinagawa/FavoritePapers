@@ -352,6 +352,9 @@ by Simon Peyton Jones(MSR,Cambridge)
 [[video](https://www.youtube.com/watch?v=g3dkRsTqdDA)]  
 [[松尾ぐみの論文の書き方](http://tam5917.hatenablog.com/entry/2016/03/04/235315)]  
 
+**presentation**  
+[[link](http://kanamori.cs.tsukuba.ac.jp/docs/presentation_faqs.html)]  
+
 **paper search**  
 PoEC[[link](http://www.cl.ecei.tohoku.ac.jp/poec/sentsearch/)]  
 exemplar[[link](http://www.springerexemplar.com/)]  

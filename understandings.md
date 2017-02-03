@@ -26,3 +26,7 @@
 **Understanding trained CNNs by indexing neuron selectivity**  
 *Ivet Rafegas, Maria Vanrell, Luis A. Alexandre*  
 [[paper](https://arxiv.org/abs/1702.00382v1)]  
+
+**Generative Adversarial Networks recover features in astrophysical images of galaxies beyond the deconvolution limit**  
+*Kevin Schawinski, Ce Zhang, Hantian Zhang, Lucas Fowler, Gokula Krishnan Santhanam*  
+[[paper](https://arxiv.org/abs/1702.00403)]  

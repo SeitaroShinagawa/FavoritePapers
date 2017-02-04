@@ -1,4 +1,8 @@
 #Image Generation  
+**Pixel Recursive Super Resolution**  
+*Ryan Dahl, Mohammad Norouzi, Jonathon Shlens*  
+[[paper](https://arxiv.org/abs/1702.00783)]  
+
 **Adversarial Variational Bayes: Unifying Variational Autoencoders and Generative Adversarial Networks**  
 *Lars Mescheder, Sebastian Nowozin, Andreas Geiger*  
 [[paper](https://arxiv.org/abs/1701.04722)]  

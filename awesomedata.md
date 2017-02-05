@@ -51,6 +51,10 @@ Yahooのホームページ、Yahooニュース、Yahooスポーツ、Yahooファ
 コメントデータ、動画メタデータ、ニコニコ大百科データ  
 [[link](http://www.nii.ac.jp/dsc/idr/nico/nico.html)]  
 
+**RPG tsuku-ru 2D characters**  
+[[link](http://yurudora.com/tkool/)]  
+[[link](http://kobom.blog.fc2.com/)]  
+
 ##face  
 **MS-Celeb-1M: A Dataset and Benchmark for Large-Scale Face Recognition**  
 [[link](http://arxiv.org/abs/1607.08221)]  

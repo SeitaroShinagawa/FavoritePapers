@@ -30,3 +30,10 @@
 **Generative Adversarial Networks recover features in astrophysical images of galaxies beyond the deconvolution limit**  
 *Kevin Schawinski, Ce Zhang, Hantian Zhang, Lucas Fowler, Gokula Krishnan Santhanam*  
 [[paper](https://arxiv.org/abs/1702.00403)]  
+
+**DeepIU: An Architecture for Image Understanding(ACS2016)**  
+[[paper](http://www.cogsys.org/papers/ACS2016/Papers/Aditya_et.al-ACS-2016.pdf)]  
+
+**Symbolic and structural models for image understanding Part II: Ontologies and description logics(IJCAI tutorial)**  
+[[slide](http://perso.telecom-paristech.fr/~bloch/IJCAI/slides_IJCAI_Tutorial_DL.pdf)]  
+

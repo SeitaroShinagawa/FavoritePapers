@@ -1,9 +1,14 @@
-#Image Generation 
+#Image Generation  
+**Blocks World Revisited: Image Understanding Using Qualitative Geometry and Mechanics**  
+[[paper](http://www.cs.cmu.edu/~abhinavg/blocksworld/blocksworld.pdf)]  
+
+
 **Contextual RNN-GANs for Abstract Reasoning Diagram Generation(AAAI2017)**  
 [[paper](https://arxiv.org/abs/1609.09444)]  
 
 **Phrase-Based Presentation Slides Generation for Academic Papers(AAAI2017)**  
-[paper]()]  
+
+**Explainable Image Understanding using Vision and Reasoning(AAAI2017)**  
 
 **SlidesGen: Automatic Generation of Presentation Slides for a Technical Paper Using Summarization**  
 [[paper](http://www.aaai.org/ocs/index.php/FLAIRS/2009/paper/viewFile/22/303)]  

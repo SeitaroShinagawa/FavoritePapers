@@ -1,4 +1,7 @@
 #Image Generation  
+**はじめてのGAN**  
+[[link](http://elix-tech.github.io/ja/2017/02/06/gan.html)]  
+
 **Pixel Recursive Super Resolution**  
 *Ryan Dahl, Mohammad Norouzi, Jonathon Shlens*  
 [[paper](https://arxiv.org/abs/1702.00783)]  

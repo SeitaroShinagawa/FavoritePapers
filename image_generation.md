@@ -1,4 +1,19 @@
-#Image Generation  
+#Image Generation 
+**Contextual RNN-GANs for Abstract Reasoning Diagram Generation(AAAI2017)**  
+[[paper](https://arxiv.org/abs/1609.09444)]  
+
+**Phrase-Based Presentation Slides Generation for Academic Papers(AAAI2017)**  
+[paper]()]  
+
+**academic_paper2slide survey**  
+[[paper(http://ijcsit.com/docs/Volume%207/vol7issue1/ijcsit2016070105.pdf)]  
+
+**PPSGen: Learning to Generate Presentation Slides for Academic Papers**  
+
+
+**PPSGen: Learning-Based Presentation Slides Generation for Academic Papers(APRIL 2015)**  
+[[paper](https://www.computer.org/csdl/trans/tk/2015/04/06906256.pdf)]  
+
 **はじめてのGAN**  
 [[link](http://elix-tech.github.io/ja/2017/02/06/gan.html)]  
 

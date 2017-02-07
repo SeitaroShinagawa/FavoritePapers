@@ -100,4 +100,6 @@ not image captioning, but it may be useful for?
 **A Survey of Current Datasets for Vision and Language Research**  
 [[paper](http://cs.rochester.edu/~nasrinm/files/Papers/Survey-Vision-and-Language.pdf)]  
 
- 
+##generation from root word  
+**A Deep Learning Approach for Arabic Caption Generation using Roots-Words(AAAI2017)**  
+

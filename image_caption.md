@@ -1,4 +1,11 @@
-#Image to Caption Generation  
+#Image to Caption Generation
+**Text-guided Attention Model for Image Captioning(AAAI2017)**  
+*Jonghwan Mun, Minsu Cho, Bohyung Han*  
+[[paper](https://arxiv.org/abs/1612.03557)]  
+
+**Attention Correctness: Machine Perception vs Human Annotations in Neural Image Captioning(AAAI2017)**  
+[[paper]()]  
+
 **ImageNet MPEG-7 Visual Descriptors - Technical Report**  
 *Frédéric Rayar*  
 [[paper](https://arxiv.org/abs/1702.00187v1)]  

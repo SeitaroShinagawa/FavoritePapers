@@ -354,6 +354,7 @@ Ruby on Rails [[link](http://openbook4.me/projects/92/sections/485)] [[link2](ht
 by Simon Peyton Jones(MSR,Cambridge)
 [[video](https://www.youtube.com/watch?v=g3dkRsTqdDA)]  
 [[松尾ぐみの論文の書き方](http://tam5917.hatenablog.com/entry/2016/03/04/235315)]  
+[[link](http://readingmonkey.blog45.fc2.com/blog-entry-563.html)]  
 
 **presentation**  
 [[link](http://kanamori.cs.tsukuba.ac.jp/docs/presentation_faqs.html)]  

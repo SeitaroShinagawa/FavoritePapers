@@ -1,4 +1,8 @@
 #Awesome neural networks  
+**Deep Learning with Darwin: Evolutionary Synthesis of Deep Neural Networks**  
+*Mohammad Javad Shafiee, Akshaya Mishra, Alexander Wong*  
+[[paper](https://arxiv.org/abs/1606.04393)]  
+
 **Faceness-Net: Face Detection through Deep Facial Part Responses**  
 [[paper](https://arxiv.org/abs/1701.08393)]  
 

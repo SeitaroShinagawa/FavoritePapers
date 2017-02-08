@@ -1,4 +1,8 @@
 #Image Generation  
+**Message Passing Multi-Agent GANs**  
+*Arnab Ghosh, Viveka Kulharia, Vinay Namboodiri*  
+[[paper](https://arxiv.org/abs/1612.01294)]  
+
 **Blocks World Revisited: Image Understanding Using Qualitative Geometry and Mechanics**  
 [[paper](http://www.cs.cmu.edu/~abhinavg/blocksworld/blocksworld.pdf)]  
 

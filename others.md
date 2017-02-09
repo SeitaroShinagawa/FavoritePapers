@@ -381,6 +381,9 @@ exemplar[[link](http://www.springerexemplar.com/)]
 [[link](http://www.slideshare.net/ShinnosukeTakamichi/ss-48987441?qid=ff1f7468-8bb2-4704-a043-5a577d39493c&v=&b=&from_search=1)]  
 [[link](http://www.slideshare.net/yutamorishige50/ss-41321443)]  
 
+**manga like figure generation using matplotlib**  
+[[link(http://www.procrasist.com/entry/python-xkcd)]  
+
 #Educational Application
 **SAKUMON** (ICWL2007)  
 [[paper](http://www.r.dl.itc.u-tokyo.ac.jp/~nakagawa/academic-res/ICWL2007.pdf)]  
@@ -391,6 +394,9 @@ exemplar[[link](http://www.springerexemplar.com/)]
 [[top](https://www.crowdflower.com/)]  
 
 #gui  
-
+**Qt**  
 [[link](http://vivi.dyndns.org/vivi/docs/Qt/graphics.html)]  
-
+**Processing**  
+[[link](https://processing.org/)]  
+**Dynamic Draw**  
+[[link](http://www.dynamicdraw.com/jp/)]  

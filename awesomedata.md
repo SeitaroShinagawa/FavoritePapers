@@ -43,6 +43,10 @@
 浮世絵、文献
 [[link](http://digitalcollections.nypl.org)]  
 
+**メトロポリタン美術館**  
+CC0(creative commons zero)の絵画データセット(37万5000点)  
+[[link](http://metmuseum.org/about-the-met/policies-and-documents/image-resources)]  
+
 **Yahoo! WEBSCOPE**  
 Yahooのホームページ、Yahooニュース、Yahooスポーツ、YahooファイナンスとYahoo不動産  
 [[link](http://webscope.sandbox.yahoo.com)]  

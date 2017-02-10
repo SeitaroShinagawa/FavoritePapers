@@ -1,4 +1,7 @@
 #Image Generation  
+**Attribute-controlled face photo synthesis from simple line drawing**  
+[[paper](https://arxiv.org/abs/1702.02805)]  
+
 **Message Passing Multi-Agent GANs**  
 *Arnab Ghosh, Viveka Kulharia, Vinay Namboodiri*  
 [[paper](https://arxiv.org/abs/1612.01294)]  

@@ -52,6 +52,7 @@
 
 **Wasserstein GAN**  
 [[paper](https://arxiv.org/abs/1701.07875)]  
+[[chainer](https://github.com/hvy/chainer-wasserstein-gan)]  
 
 **Adversarially Learned Inference**  
 [[link](https://ishmaelbelghazi.github.io/ALI/)]  

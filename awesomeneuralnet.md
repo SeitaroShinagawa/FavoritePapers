@@ -1,4 +1,7 @@
 #Awesome neural networks  
+**YOLO**  
+[[chainer_v2](https://github.com/leetenki/YOLOv2)]  
+
 **Deep Learning with Darwin: Evolutionary Synthesis of Deep Neural Networks**  
 *Mohammad Javad Shafiee, Akshaya Mishra, Alexander Wong*  
 [[paper](https://arxiv.org/abs/1606.04393)]  

@@ -137,6 +137,7 @@
 *Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen*  
 [[paper](https://arxiv.org/abs/1606.03498)]  
 [[code](https://github.com/openai/improved-gan)]  
+[[inception-score(chainer)](https://github.com/hvy/chainer-inception-score)]  
 
 NIPS 2016 Workshop on Adversarial Training  
 https://sites.google.com/site/nips2016adversarial/home  

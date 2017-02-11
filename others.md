@@ -1,3 +1,9 @@
+**FPGA高位合成**  
+[[slide](http://www.slideshare.net/marsee101/vivado-hlsopen-cv)]  
+
+**自動テスト**  
+[[link](http://daily.belltail.jp/?p=2109)]  
+
 **IIBMP2016 深層生成モデルによる表現学習**  
 [[slide](http://www.slideshare.net/pfi/iibmp2016-okanohara-deep-generative-models-for-representation-learning)]  
 

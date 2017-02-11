@@ -154,6 +154,9 @@ Gated Probabilistic Matrix Factorization:Learning Users’ Attention from Missin
 **関西CV・PRML勉強会**    
 [[link](https://drive.google.com/folderview?id=0B0GZVJQs_R7nNzY3ZWNlZjgtNjliMC00YzExLWE5ZTMtODI4YzQ5ZTgxZTU4&usp=drive_web&ddrp=1&hl=ja)]  
 
+**recipe API**  
+[[paper](https://developer.edamam.com/)]  
+
 **Introduction to Information Retrieval**  
 [[link](http://nlp.stanford.edu/IR-book/)]  
 

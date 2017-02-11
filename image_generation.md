@@ -1,4 +1,7 @@
 #Image Generation  
+**Scribbler: Controlling Deep Image Synthesis with Sketch and Color**  
+[[paper](http://scribbler.eye.gatech.edu/)]  
+
 **Attribute-controlled face photo synthesis from simple line drawing**  
 [[paper](https://arxiv.org/abs/1702.02805)]  
 

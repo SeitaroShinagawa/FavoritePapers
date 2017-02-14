@@ -1,4 +1,8 @@
 #Image Generation  
+**Generative Mixture of Networks**  
+*Ershad Banijamali, Ali Ghodsi, Pascal Poupart*  
+[[paper](https://arxiv.org/abs/1702.03307)]  
+
 **Crossing Nets: Dual Generative Models with a Shared Latent Space for Hand Pose Estimation**  
 *Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao*  
 [[paper](https://arxiv.org/abs/1702.03431v1)]  

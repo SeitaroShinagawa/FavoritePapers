@@ -1,3 +1,7 @@
+**Offline bilingual word vectors, orthogonal transformations and the inverted softmax**  
+*Samuel L. Smith, David H. P. Turban, Steven Hamblin, Nils Y. Hammerla*  
+[[paper](https://arxiv.org/abs/1702.03859)]  
+
 **Tensorflow Fold**  
 [[link](http://maruyama097.blogspot.jp/2017/02/tensorflow-fold.html)]  
 

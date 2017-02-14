@@ -1,3 +1,7 @@
+**Parallel Long Short-Term Memory for Multi-stream Classification**  
+*Mohamed Bouaziz, Mohamed Morchid, Richard Dufour, Georges Linarès, Renato De Mori*  
+[[paper](https://arxiv.org/abs/1702.03402)]  
+
 **Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models**  
 *Sergey Ioffe*  
 [[paper](https://arxiv.org/abs/1702.03275)]  

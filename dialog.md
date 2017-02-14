@@ -1,4 +1,8 @@
 #Dialog Systems
+**Batch Policy Gradient Methods for Improving Neural Conversation Models**  
+*Kirthevasan Kandasamy, Yoram Bachrach, Ryota Tomioka, Daniel Tarlow, David Carter*  
+[[paper](https://arxiv.org/abs/1702.03334)]  
+
 **Learning through Dialogue Interactions by Asking Questions**  
 *Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, Jason Weston*  
 [[paper](https://arxiv.org/abs/1612.04936)]  

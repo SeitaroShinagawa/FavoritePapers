@@ -1,4 +1,8 @@
 #Image Generation  
+**Crossing Nets: Dual Generative Models with a Shared Latent Space for Hand Pose Estimation**  
+*Chengde Wan, Thomas Probst, Luc Van Gool, Angela Yao*  
+[[paper](https://arxiv.org/abs/1702.03431v1)]  
+
 **Cognitive Mapping and Planning for Visual Navigation**  
 *Saurabh Gupta, James Davidson, Sergey Levine, Rahul Sukthankar, Jitendra Malik*  
 [[paper](https://arxiv.org/abs/1702.03920v1)]  

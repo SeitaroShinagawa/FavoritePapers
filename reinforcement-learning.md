@@ -1,4 +1,8 @@
 #reinforcement learning
+**Adversarial Attacks on Neural Network Policies**  
+[[project](http://rll.berkeley.edu/adversarial/)]  
+[[twitter-comments](https://twitter.com/icoxfog417/status/830280548853506048)]  
+
 **Multi-agent Reinforcement Learning in Sequential Social Dilemmas**  
 [[paper](https://storage.googleapis.com/deepmind-media/papers/multi-agent-rl-in-ssd.pdf)]  
 [[blog](https://deepmind.com/blog/understanding-agent-cooperation/)]  

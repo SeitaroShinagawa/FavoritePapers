@@ -1,4 +1,8 @@
 #Dialog Systems
+**Learning through Dialogue Interactions by Asking Questions**  
+*Jiwei Li, Alexander H. Miller, Sumit Chopra, Marc'Aurelio Ranzato, Jason Weston*  
+[[paper](https://arxiv.org/abs/1612.04936)]  
+
 **Adversarial Learning for Neural Dialogue Generation**  
 [[paper](https://arxiv.org/abs/1701.06547)]  
 

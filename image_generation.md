@@ -1,4 +1,8 @@
 #Image Generation  
+**Cognitive Mapping and Planning for Visual Navigation**  
+*Saurabh Gupta, James Davidson, Sergey Levine, Rahul Sukthankar, Jitendra Malik*  
+[[paper](https://arxiv.org/abs/1702.03920v1)]  
+
 **Stable and Controllable Neural Texture Synthesis and Style Transfer Using Histogram Losses**  
 *Eric Risser, Pierre Wilmot, Connelly Barnes*  
 [[paper](https://arxiv.org/abs/1701.08893)]  

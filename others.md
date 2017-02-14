@@ -1,3 +1,6 @@
+**Tensorflow Fold**  
+[[link](http://maruyama097.blogspot.jp/2017/02/tensorflow-fold.html)]  
+
 **FPGA高位合成**  
 [[slide](http://www.slideshare.net/marsee101/vivado-hlsopen-cv)]  
 

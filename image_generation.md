@@ -1,4 +1,8 @@
 #Image Generation  
+**Unrolled Generative Adversarial Networks**  
+[[paper]()]  
+[[blog](http://musyoku.github.io/2017/01/29/Unrolled-Generative-Adversarial-Networks/)]  
+
 **Scribbler: Controlling Deep Image Synthesis with Sketch and Color**  
 [[paper](http://scribbler.eye.gatech.edu/)]  
 

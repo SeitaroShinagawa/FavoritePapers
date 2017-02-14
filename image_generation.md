@@ -1,4 +1,8 @@
 #Image Generation  
+**ArtGAN: Artwork Synthesis with Conditional Categorial GANs**  
+*Wei Ren Tan, Chee Seng Chan, Hernan Aguirre, Kiyoshi Tanaka*  
+[[paper](https://arxiv.org/abs/1702.03410)]  
+
 **Multitask diffusion adaptation over networks with common latent representations**  
 *Jie Chen, Cédric Richard, Ali H. Sayed*  
 [[paper](https://arxiv.org/abs/1702.03614)]  

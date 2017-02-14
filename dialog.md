@@ -26,7 +26,13 @@
 [[paper](https://arxiv.org/abs/1701.08533v1)]  
 
 ##Question Answering  
-**[[paper](https://arxiv.org/abs/1606.01847)]**  
+**Stacked Attention Networks for Image Question Answering**  
+*Zichao Yang, Xiaodong He, Jianfeng Gao, Li Deng, Alex Smola*  
+[[paper](https://arxiv.org/abs/1511.02274)]  
+
+**Multimodal Compact Bilinear Pooling for Visual Question Answering and Visual Grounding**  
+*Akira Fukui, Dong Huk Park, Daylen Yang, Anna Rohrbach, Trevor Darrell, Marcus Rohrbach*  
+[[paper](https://arxiv.org/abs/1606.01847)]  
 [[code(caffe)](https://github.com/akirafukui/vqa-mcb)]  
 
 **Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation**  

@@ -1,4 +1,8 @@
 #Image Generation  
+**Multitask diffusion adaptation over networks with common latent representations**  
+*Jie Chen, Cédric Richard, Ali H. Sayed*  
+[[paper](https://arxiv.org/abs/1702.03614)]  
+
 **Generative Mixture of Networks**  
 *Ershad Banijamali, Ali Ghodsi, Pascal Poupart*  
 [[paper](https://arxiv.org/abs/1702.03307)]  

@@ -1,3 +1,7 @@
+**Supervised Learning for Controlled Dynamical System Learning**  
+*Ahmed Hefny, Carlton Downey, Geoffrey J. Gordon*  
+[[paper](https://arxiv.org/abs/1702.03537)]  
+
 **Parallel Long Short-Term Memory for Multi-stream Classification**  
 *Mohamed Bouaziz, Mohamed Morchid, Richard Dufour, Georges Linarès, Renato De Mori*  
 [[paper](https://arxiv.org/abs/1702.03402)]  

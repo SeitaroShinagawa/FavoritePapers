@@ -12,7 +12,6 @@
 **Blocks World Revisited: Image Understanding Using Qualitative Geometry and Mechanics**  
 [[paper](http://www.cs.cmu.edu/~abhinavg/blocksworld/blocksworld.pdf)]  
 
-
 **Contextual RNN-GANs for Abstract Reasoning Diagram Generation(AAAI2017)**  
 [[paper](https://arxiv.org/abs/1609.09444)]  
 
@@ -53,6 +52,7 @@
 **Wasserstein GAN**  
 [[paper](https://arxiv.org/abs/1701.07875)]  
 [[chainer](https://github.com/hvy/chainer-wasserstein-gan)]  
+[[chianer2](https://github.com/musyoku/wasserstein-gan)]  
 
 **Adversarially Learned Inference**  
 [[link](https://ishmaelbelghazi.github.io/ALI/)]  

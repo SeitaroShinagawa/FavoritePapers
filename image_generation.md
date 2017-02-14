@@ -1,4 +1,8 @@
 #Image Generation  
+**Stable and Controllable Neural Texture Synthesis and Style Transfer Using Histogram Losses**  
+*Eric Risser, Pierre Wilmot, Connelly Barnes*  
+[[paper](https://arxiv.org/abs/1701.08893)]  
+
 **Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities**  
 *Guo-Jun Qi*  
 [[paper](https://arxiv.org/abs/1701.06264v2)]  

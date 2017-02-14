@@ -26,6 +26,9 @@
 [[paper](https://arxiv.org/abs/1701.08533v1)]  
 
 ##Question Answering  
+**[[paper](https://arxiv.org/abs/1606.01847)]**  
+[[code(caffe)](https://github.com/akirafukui/vqa-mcb)]  
+
 **Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation**  
 *Nasrin Mostafazadeh, Chris Brockett, Bill Dolan, Michel Galley, Jianfeng Gao, Georgios P. Spithourakis, Lucy Vanderwende*  
 [[paper](https://arxiv.org/abs/1701.08251v1)]  
@@ -91,6 +94,7 @@ Pei-Hao Su, Stefan Ultes, David Vandyke, Steve Young (Cambridge University)*
 [[paper](http://arxiv.org/abs/1512.05742)]  
 
 ##Dialog Annotation
+
 **Best of both worlds: human-machine collaboration for object annotation** (CVPR2015)  
 *Olga Russakovsky@1, Li-Jia Li@2, Li Fei-Fei@1*  (@1:Stanford University, @2:Yahoo! Labs)  
 [[project page](http://ai.stanford.edu/~olga/best_of_both_worlds.html)]  

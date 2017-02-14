@@ -6,8 +6,10 @@
 **Video Frame Synthesis using Deep Voxel Flow**  
 [[project](https://liuziwei7.github.io/projects/VoxelFlow.html?utm_content=buffera7283&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]  
 [[paper](https://arxiv.org/pdf/1702.02463.pdf)]  
+UCF101の動画認識データセットで訓練、UCF101とTHUMOS Challenge 2015のtestsetで評価  
 
-**Unrolled Generative Adversarial Networks**  
+
+**Unrolled Generative Adversarial Networks**  
 [[paper]()]  
 [[blog](http://musyoku.github.io/2017/01/29/Unrolled-Generative-Adversarial-Networks/)]  
 

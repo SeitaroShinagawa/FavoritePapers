@@ -1,3 +1,7 @@
+**Batch Renormalization: Towards Reducing Minibatch Dependence in Batch-Normalized Models**  
+*Sergey Ioffe*  
+[[paper](https://arxiv.org/abs/1702.03275)]  
+
 **A More General Robust Loss Function**  
 *Jonathan T. Barron*  
 [[paper](https://arxiv.org/abs/1701.03077)]  

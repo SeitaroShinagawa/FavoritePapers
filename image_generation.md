@@ -5,6 +5,7 @@
 
 **Video Frame Synthesis using Deep Voxel Flow**  
 [[project](https://liuziwei7.github.io/projects/VoxelFlow.html?utm_content=buffera7283&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]  
+[[paper](https://arxiv.org/pdf/1702.02463.pdf)]  
 
 **Unrolled Generative Adversarial Networks**  
 [[paper]()]  

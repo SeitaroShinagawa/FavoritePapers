@@ -1,4 +1,8 @@
 #Image Generation  
+**Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities**  
+*Guo-Jun Qi*  
+[[paper](https://arxiv.org/abs/1701.06264v2)]  
+
 **Video Frame Synthesis using Deep Voxel Flow**  
 [[project](https://liuziwei7.github.io/projects/VoxelFlow.html?utm_content=buffera7283&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]  
 

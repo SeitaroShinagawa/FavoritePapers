@@ -1,4 +1,7 @@
 #Quantized Neural Network
+**Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights**  
+*Aojun Zhou, Anbang Yao, Yiwen Guo, Lin Xu, Yurong Chen*  
+[[paper](https://arxiv.org/abs/1702.03044)]  
 
 **BinaryNetとBinarized Deep Neural Network**  
 [[paper](https://tkng.org/b/2016/02/12/binarynet-and-binarized-neural-network/)]  

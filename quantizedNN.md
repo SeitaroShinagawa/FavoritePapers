@@ -1,4 +1,8 @@
 #Quantized Neural Network
+**YodaNN: An Architecture for Ultra-Low Power Binary-Weight CNN Acceleration**  
+*Renzo Andri, Lukas Cavigelli, Davide Rossi, Luca Benini*  
+[[paper](https://arxiv.org/abs/1606.05487v2)]  
+
 **Incremental Network Quantization: Towards Lossless CNNs with Low-Precision Weights**  
 *Aojun Zhou, Anbang Yao, Yiwen Guo, Lin Xu, Yurong Chen*  
 [[paper](https://arxiv.org/abs/1702.03044)]  

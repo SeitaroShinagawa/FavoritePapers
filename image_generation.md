@@ -1,4 +1,8 @@
 #Image Generation  
+**One-Step Time-Dependent Future Video Frame Prediction with a Convolutional Encoder-Decoder Neural Network**  
+*Vedran Vukotić, Silvia-Laura Pintea, Christian Raymond, Guillaume Gravier, Jan Van Gemert*  
+[[paper](https://arxiv.org/abs/1702.04125)]  
+
 **ArtGAN: Artwork Synthesis with Conditional Categorial GANs**  
 *Wei Ren Tan, Chee Seng Chan, Hernan Aguirre, Kiyoshi Tanaka*  
 [[paper](https://arxiv.org/abs/1702.03410)]  

@@ -353,6 +353,9 @@ libsvm
 [[practical guide](http://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)]  
 [[guide slide](http://www.slideshare.net/sleepy_yoshi/svm-13435949)]  
 
+sh  
+[[link](https://amoffat.github.io/sh/)]  
+
 #Application
 Ruby on Rails [[link](http://openbook4.me/projects/92/sections/485)] [[link2](http://qiita.com/ciao/items/0ada6b04c568c77ee275)]
 

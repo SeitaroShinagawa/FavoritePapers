@@ -1,4 +1,8 @@
 #Image Generation  
+**Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization**  
+*Xun Huang, Serge Belongie*  
+[[paper](https://openreview.net/pdf?id=B1fUVMzKg)]  
+
 **One-Step Time-Dependent Future Video Frame Prediction with a Convolutional Encoder-Decoder Neural Network**  
 *Vedran Vukotić, Silvia-Laura Pintea, Christian Raymond, Guillaume Gravier, Jan Van Gemert*  
 [[paper](https://arxiv.org/abs/1702.04125)]  

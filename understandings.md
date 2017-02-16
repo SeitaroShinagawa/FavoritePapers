@@ -20,6 +20,10 @@
 
 
 ##Visualization
+**Visualizing Deep Neural Network Decisions: Prediction Difference Analysis**  
+*Luisa M Zintgraf, Taco S Cohen, Tameem Adel, Max Welling*  
+[[paper](https://arxiv.org/abs/1702.04595v1)]  
+
 **Visualizing Data using t-SNE**  
 [[peper](http://jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)]  
 

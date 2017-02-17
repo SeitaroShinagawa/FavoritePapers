@@ -1,3 +1,7 @@
+**Harmonic Networks: Deep Translation and Rotation Equivariance**  
+*Daniel Worrall Stephan Garbin Daniyar Turmukhambetov Gabriel J. Brostow*  
+[[project](http://visual.cs.ucl.ac.uk/pubs/harmonicNets/)]  
+
 **Feature Space Modeling Through Surrogate Illumination**  
 *Adam Gaier, Alexander Asteroth, Jean-Baptiste Mouret*  
 [[paper](https://arxiv.org/abs/1702.03713)]  

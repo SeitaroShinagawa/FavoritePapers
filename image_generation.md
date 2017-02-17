@@ -1,4 +1,8 @@
 #Image Generation  
+**SSPP-DAN: Deep Domain Adaptation Network for Face Recognition with Single Sample Per Person**  
+*Sungeun Hong, Woobin Im, Jongbin Ryu, Hyun S. Yang*  
+[[paper](https://arxiv.org/abs/1702.04069v2)]  
+
 **Generative Temporal Models with Memory**  
 *Mevlana Gemici, Chia-Chun Hung, Adam Santoro, Greg Wayne, Shakir Mohamed, Danilo J. Rezende, David Amos, Timothy Lillicrap*  
 [[paper](https://arxiv.org/abs/1702.04649)]  

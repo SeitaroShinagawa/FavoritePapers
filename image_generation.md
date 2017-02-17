@@ -1,4 +1,8 @@
 #Image Generation  
+**Generative Temporal Models with Memory**  
+*Mevlana Gemici, Chia-Chun Hung, Adam Santoro, Greg Wayne, Shakir Mohamed, Danilo J. Rezende, David Amos, Timothy Lillicrap*  
+[[paper](https://arxiv.org/abs/1702.04649)]  
+
 **Arbitrary Style Transfer in Real-time with Adaptive Instance Normalization**  
 *Xun Huang, Serge Belongie*  
 [[paper](https://openreview.net/pdf?id=B1fUVMzKg)]  

@@ -1,4 +1,8 @@
 #Awesome dataset
+**Aerial Informatics and Robotics Platform**  
+ドローンのシミュレーションプラットフォーム  
+[[link](https://www.microsoft.com/en-us/research/project/aerial-informatics-robotics-platform/)]  
+
 **You-tube 8M**  
 for action understandings  
 [[link](https://research.google.com/youtube8m/)]   

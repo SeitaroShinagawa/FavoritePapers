@@ -1,3 +1,7 @@
+**Recognizing Dynamic Scenes with Deep Dual Descriptor based on Key Frames and Key Segments**  
+*Sungeun Hong, Jongbin Ryu, Woobin Im, Hyun S. Yang*  
+[[paper](https://arxiv.org/abs/1702.04479v2)]  
+
 **Offline bilingual word vectors, orthogonal transformations and the inverted softmax**  
 *Samuel L. Smith, David H. P. Turban, Steven Hamblin, Nils Y. Hammerla*  
 [[paper](https://arxiv.org/abs/1702.03859)]  

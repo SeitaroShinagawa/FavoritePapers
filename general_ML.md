@@ -1,3 +1,7 @@
+**PathNet: Evolution Channels Gradient Descent in Super Neural Networks**  
+*Chrisantha Fernando, Dylan Banarse, Charles Blundell, Yori Zwols, David Ha, Andrei A. Rusu, Alexander Pritzel, Daan Wierstra*  
+[[paper](https://arxiv.org/abs/1701.08734)]  
+
 **Harmonic Networks: Deep Translation and Rotation Equivariance**  
 *Daniel Worrall Stephan Garbin Daniyar Turmukhambetov Gabriel J. Brostow*  
 [[project](http://visual.cs.ucl.ac.uk/pubs/harmonicNets/)]  

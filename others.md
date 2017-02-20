@@ -1,3 +1,7 @@
+**Emergence of Language with Multi-agent Games: Learning to Communicate with Sequences of Symbols**  
+*Serhii Havrylov, Ivan Titov*  
+[[paper](https://openreview.net/forum?id=SkaxnKEYg&noteId=SkaxnKEYg)]  
+
 **Recognizing Dynamic Scenes with Deep Dual Descriptor based on Key Frames and Key Segments**  
 *Sungeun Hong, Jongbin Ryu, Woobin Im, Hyun S. Yang*  
 [[paper](https://arxiv.org/abs/1702.04479v2)]  

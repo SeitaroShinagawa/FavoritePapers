@@ -1,4 +1,8 @@
 #Image Generation  
+**Photo Filter Recommendation by Category-Aware Aesthetic Learning**  
+*Wei-Tse Sun, Ting-Hsuan Chao, Yin-Hsi Kuo, Winston H. Hsu*  
+[[paper](https://arxiv.org/abs/1608.05339)]  
+
 **SSPP-DAN: Deep Domain Adaptation Network for Face Recognition with Single Sample Per Person**  
 *Sungeun Hong, Woobin Im, Jongbin Ryu, Hyun S. Yang*  
 [[paper](https://arxiv.org/abs/1702.04069v2)]  

@@ -1,4 +1,9 @@
 #reinforcement learning
+**The Game Imitation: Deep Supervised Convolutional Networks for Quick Video Game AI**  
+*Zhao Chen, Darvin Yi*  
+スマブラ64  
+[[paper](https://arxiv.org/abs/1702.05663)]  
+
 **Adversarial Attacks on Neural Network Policies**  
 [[project](http://rll.berkeley.edu/adversarial/)]  
 [[twitter-comments](https://twitter.com/icoxfog417/status/830280548853506048)]  

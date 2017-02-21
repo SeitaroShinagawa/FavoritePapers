@@ -1,3 +1,11 @@
+**Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks**  
+*Luo Chunjie, Zhan jianfeng, Wang lei, Yang Qiang*  
+[[paper](https://arxiv.org/abs/1702.05870)]  
+
+**Dataset Augmentation in Feature Space**  
+*Terrance DeVries, Graham W. Taylor*  
+[[paper](https://arxiv.org/abs/1702.05538)]  
+
 **PathNet: Evolution Channels Gradient Descent in Super Neural Networks**  
 *Chrisantha Fernando, Dylan Banarse, Charles Blundell, Yori Zwols, David Ha, Andrei A. Rusu, Alexander Pritzel, Daan Wierstra*  
 [[paper](https://arxiv.org/abs/1701.08734)]  

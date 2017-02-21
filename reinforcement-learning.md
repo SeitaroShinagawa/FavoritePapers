@@ -2,6 +2,7 @@
 **The Game Imitation: Deep Supervised Convolutional Networks for Quick Video Game AI**  
 *Zhao Chen, Darvin Yi*  
 スマブラ64  
+not reinforcement learning  
 [[paper](https://arxiv.org/abs/1702.05663)]  
 
 **Adversarial Attacks on Neural Network Policies**  

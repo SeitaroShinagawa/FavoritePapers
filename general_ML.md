@@ -1,3 +1,7 @@
+**Zero-Shot Learning posed as a Missing Data Problem**  
+*Bo Zhao, Botong Wu, Tianfu Wu, Yizhou Wang*  
+[[paper](https://arxiv.org/abs/1612.00560v2)]  
+
 **Cosine Normalization: Using Cosine Similarity Instead of Dot Product in Neural Networks**  
 *Luo Chunjie, Zhan jianfeng, Wang lei, Yang Qiang*  
 [[paper](https://arxiv.org/abs/1702.05870)]  

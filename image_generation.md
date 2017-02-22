@@ -1,4 +1,8 @@
 #Image Generation  
+**PixelNet: Representation of the pixels, by the pixels, and for the pixels**  
+*Aayush Bansal, Xinlei Chen, Bryan Russell, Abhinav Gupta. Deva Ramanan*  
+[[paper](https://arxiv.org/abs/1702.06506)]  
+
 **Amortised MAP Inference for Image Super-resolution**  
 *Casper Kaae Sønderby, Jose Caballero, Lucas Theis, Wenzhe Shi, Ferenc Huszár*  
 [[paper](https://arxiv.org/abs/1610.04490v3)]  

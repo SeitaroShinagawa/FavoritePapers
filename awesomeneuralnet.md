@@ -1,4 +1,8 @@
 #Awesome neural networks  
+**Predicting non-linear dynamics: a stable local learning scheme for recurrent spiking neural networks**  
+*Aditya Gilra, Wulfram Gerstner*  
+[[paper](https://arxiv.org/abs/1702.06463)]  
+
 **YOLO**  
 [[chainer_v2](https://github.com/leetenki/YOLOv2)]  
 

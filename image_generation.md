@@ -1,4 +1,6 @@
 #Image Generation  
+color palet[[link](http://colormind.io/blog/)]  
+
 **PixelNet: Representation of the pixels, by the pixels, and for the pixels**  
 *Aayush Bansal, Xinlei Chen, Bryan Russell, Abhinav Gupta. Deva Ramanan*  
 [[paper](https://arxiv.org/abs/1702.06506)]  

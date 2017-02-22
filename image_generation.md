@@ -1,4 +1,8 @@
 #Image Generation  
+**Amortised MAP Inference for Image Super-resolution**  
+*Casper Kaae Sønderby, Jose Caballero, Lucas Theis, Wenzhe Shi, Ferenc Huszár*  
+[[paper](https://arxiv.org/abs/1610.04490v3)]  
+
 **Photo Filter Recommendation by Category-Aware Aesthetic Learning**  
 *Wei-Tse Sun, Ting-Hsuan Chao, Yin-Hsi Kuo, Winston H. Hsu*  
 [[paper](https://arxiv.org/abs/1608.05339)]  

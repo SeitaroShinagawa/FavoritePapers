@@ -1,4 +1,8 @@
 #Image Generation  
+**Counterfactual Control for Free from Generative Models**  
+*Nicholas Guttenberg, Yen Yu, Ryota Kanai*  
+[[paper](https://arxiv.org/abs/1702.06676)]  
+
 color palet[[link](http://colormind.io/blog/)]  
 
 **PixelNet: Representation of the pixels, by the pixels, and for the pixels**  

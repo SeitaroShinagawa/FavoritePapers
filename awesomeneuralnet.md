@@ -1,4 +1,8 @@
 #Awesome neural networks  
+**Audio Super-Resolution using Neural Networks**  
+*Volodymyr Kuleshov, S. Zayd Enam, Stefano Ermon*  
+[[paper](https://openreview.net/forum?id=S1gNakBFx&noteId=S1gNakBFx)]  
+
 **Predicting non-linear dynamics: a stable local learning scheme for recurrent spiking neural networks**  
 *Aditya Gilra, Wulfram Gerstner*  
 [[paper](https://arxiv.org/abs/1702.06463)]  

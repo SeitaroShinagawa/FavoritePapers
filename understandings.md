@@ -20,6 +20,10 @@
 
 
 ##Visualization
+**Visualizing Residual Networks**  
+*Brian Chu, Daylen Yang, Ravi Tadinada*  
+[[paper](https://arxiv.org/abs/1701.02362v1)]  
+
 **Visualizing Deep Neural Network Decisions: Prediction Difference Analysis**  
 *Luisa M Zintgraf, Taco S Cohen, Tameem Adel, Max Welling*  
 [[paper](https://arxiv.org/abs/1702.04595v1)]  

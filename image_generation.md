@@ -1,4 +1,8 @@
 #Image Generation  
+**Synthesising Dynamic Textures using Convolutional Neural Networks**  
+*Christina M. Funke, Leon A. Gatys, Alexander S. Ecker, Matthias Bethge*  
+[[paper](https://arxiv.org/abs/1702.07006)]  
+
 **Counterfactual Control for Free from Generative Models**  
 *Nicholas Guttenberg, Yen Yu, Ryota Kanai*  
 [[paper](https://arxiv.org/abs/1702.06676)]  

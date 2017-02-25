@@ -368,6 +368,10 @@ libsvm
 sh  
 [[link](https://amoffat.github.io/sh/)]  
 
+[[emotiv](https://www.emotiv.com/)] tools  
+[[emokit](https://github.com/openyou/emokit)]  
+[[emofox](https://bitbucket.org/MattTheGr8/emofox)]  
+
 #Application
 Ruby on Rails [[link](http://openbook4.me/projects/92/sections/485)] [[link2](http://qiita.com/ciao/items/0ada6b04c568c77ee275)]
 

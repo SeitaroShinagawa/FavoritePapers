@@ -24,6 +24,7 @@
 **Binarized Neural Networks**  
 *Itay Hubara, Daniel Soudry, Ran El Yaniv*  
 [[paper](http://arxiv.org/abs/1602.02505)]  
+[[slide](https://www.slideshare.net/shotarosano5/binarized-neural-networks?ref=https://www.rco.recruit.co.jp/career/engineer/blog/nipsicdm2016yomi/)]  
 
 **BinaryNet: Training Deep Neural Networks with Weights and Activations Constrained to +1 or -1**  
 *Matthieu Courbariaux, Yoshua Bengio*  

@@ -1,3 +1,6 @@
+**Dynamic Filter Networks**  
+[[slide](https://www.slideshare.net/daynap1204/dynamic-filter-networks-72013752?ref=https://www.rco.recruit.co.jp/career/engineer/blog/nipsicdm2016yomi/)]  
+
 **Zero-Shot Learning posed as a Missing Data Problem**  
 *Bo Zhao, Botong Wu, Tianfu Wu, Yizhou Wang*  
 [[paper](https://arxiv.org/abs/1612.00560v2)]  

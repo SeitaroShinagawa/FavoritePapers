@@ -1,4 +1,7 @@
 #Awesome neural networks  
+**Wei Liu, et al. "SSD: Single shot multibox detector." ECCV2016.**  
+[[chainer](https://github.com/Hakuyume/chainer-ssd/)]  
+
 **Audio Super-Resolution using Neural Networks**  
 *Volodymyr Kuleshov, S. Zayd Enam, Stefano Ermon*  
 [[paper](https://openreview.net/forum?id=S1gNakBFx&noteId=S1gNakBFx)]  

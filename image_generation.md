@@ -1,4 +1,8 @@
 #Image Generation  
+**Least Squares Generative Adversarial Networks**  
+*Xudong Mao, Qing Li, Haoran Xie, Raymond Y.K. Lau, Zhen Wang*  
+[[paper](https://arxiv.org/abs/1611.04076)]  
+
 **Stick-Breaking Variational Autoencoders**  
 *Eric Nalisnick, Padhraic Smyth*  
 [[paper](https://arxiv.org/abs/1605.06197)]  

@@ -1,4 +1,8 @@
 #Image to Caption Generation
+**Rationalization: A Neural Machine Translation Approach to Generating Natural Language Explanations**  
+*Brent Harrison, Upol Ehsan, Mark O. Riedl*  
+[[paper](https://arxiv.org/abs/1702.07826)]  
+
 **Comparative Study of CNN and RNN for Natural Language Processing**  
 [[paper](https://arxiv.org/pdf/1702.01923v1.pdf)]  
 

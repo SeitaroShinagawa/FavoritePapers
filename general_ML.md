@@ -1,3 +1,7 @@
+**Adaptive Neural Networks for Fast Test-Time Prediction**  
+*Tolga Bolukbasi, Joseph Wang, Ofer Dekel, Venkatesh Saligrama*  
+[[paper](https://arxiv.org/abs/1702.07811)]  
+
 **Dynamic Filter Networks**  
 [[slide](https://www.slideshare.net/daynap1204/dynamic-filter-networks-72013752?ref=https://www.rco.recruit.co.jp/career/engineer/blog/nipsicdm2016yomi/)]  
 

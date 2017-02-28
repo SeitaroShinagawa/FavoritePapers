@@ -1,4 +1,8 @@
 #Image Generation  
+**Stick-Breaking Variational Autoencoders**  
+*Eric Nalisnick, Padhraic Smyth*  
+[[paper](https://arxiv.org/abs/1605.06197)]  
+
 **Face Aging With Conditional Generative Adversarial Networks**  
 *Grigory Antipov, Moez Baccouche, Jean-Luc Dugelay*  
 [[paper](https://arxiv.org/abs/1702.01983)]  

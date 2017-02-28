@@ -1,4 +1,8 @@
 #Image Generation  
+**Generative Adversarial Active Learning**  
+*Jia-Jie Zhu, Jose Bento*  
+[[paper](https://arxiv.org/abs/1702.07956)]  
+
 **Synthesising Dynamic Textures using Convolutional Neural Networks**  
 *Christina M. Funke, Leon A. Gatys, Alexander S. Ecker, Matthias Bethge*  
 [[paper](https://arxiv.org/abs/1702.07006)]  

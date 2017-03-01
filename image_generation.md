@@ -1,4 +1,9 @@
 #Image Generation  
+**Deep and Hierarchical Implicit Models**  
+*Dustin Tran, Rajesh Ranganath, David M. Blei*  
+[[paper](https://arxiv.org/abs/1702.08896)]  
+[[blog](http://dustintran.com/blog/deep-and-hierarchical-implicit-models)]  
+
 **Boundary-Seeking Generative Adversarial Networks**  
 *R Devon Hjelm, Athul Paul Jacob, Tong Che, Kyunghyun Cho, Yoshua Bengio*  
 [[paper](https://arxiv.org/abs/1702.08431)]  

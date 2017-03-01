@@ -1,4 +1,8 @@
 #Image Generation  
+**Boundary-Seeking Generative Adversarial Networks**  
+*R Devon Hjelm, Athul Paul Jacob, Tong Che, Kyunghyun Cho, Yoshua Bengio*  
+[[paper](https://arxiv.org/abs/1702.08431)]  
+
 **Least Squares Generative Adversarial Networks**  
 *Xudong Mao, Qing Li, Haoran Xie, Raymond Y.K. Lau, Zhen Wang*  
 [[paper](https://arxiv.org/abs/1611.04076)]  

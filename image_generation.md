@@ -151,6 +151,7 @@ UCF101の動画認識データセットで訓練、UCF101とTHUMOS Challenge 201
 [[chianer2](https://github.com/musyoku/wasserstein-gan)]  
 [[blog](http://www.alexirpan.com/2017/02/22/wasserstein-gan.html?utm_content=buffer41896&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]  
 [[blog](https://vincentherrmann.github.io/blog/wasserstein/?utm_content=buffer10f66&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]  
+[[blog](http://www.monthly-hack.com/entry/2017/02/28/200546)]  
 
 **Adversarially Learned Inference**  
 [[link](https://ishmaelbelghazi.github.io/ALI/)]  

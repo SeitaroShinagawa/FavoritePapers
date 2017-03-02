@@ -1,4 +1,8 @@
 #Image Generation  
+**Deep Image Harmonization**  
+*Yi-Hsuan Tsai, Xiaohui Shen, Zhe Lin, Kalyan Sunkavalli, Xin Lu, Ming-Hsuan Yang*  
+[[paper](https://arxiv.org/abs/1703.00069v1)]  
+
 **Deep and Hierarchical Implicit Models**  
 *Dustin Tran, Rajesh Ranganath, David M. Blei*  
 [[paper](https://arxiv.org/abs/1702.08896)]  

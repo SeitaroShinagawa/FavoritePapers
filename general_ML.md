@@ -1,3 +1,7 @@
+**Variational Inference using Implicit Distributions**  
+*Ferenc Huszár*  
+[[paper](https://arxiv.org/abs/1702.08235)]  
+
 **Depth Creates No Bad Local Minima**  
 *Haihao Lu, Kenji Kawaguchi*  
 [[paper](https://arxiv.org/abs/1702.08580)]  

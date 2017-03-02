@@ -1,3 +1,7 @@
+**Generative Adversarial Networks in Estimation of Distribution Algorithms for Combinatorial Optimization**  
+*Malte Probst*  
+[[paper](https://arxiv.org/abs/1509.09235)]  
+
 **Adaptive Neural Networks for Fast Test-Time Prediction**  
 *Tolga Bolukbasi, Joseph Wang, Ofer Dekel, Venkatesh Saligrama*  
 [[paper](https://arxiv.org/abs/1702.07811)]  

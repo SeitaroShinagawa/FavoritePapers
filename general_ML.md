@@ -1,3 +1,7 @@
+**Depth Creates No Bad Local Minima**  
+*Haihao Lu, Kenji Kawaguchi*  
+[[paper](https://arxiv.org/abs/1702.08580)]  
+
 **Generative Adversarial Networks in Estimation of Distribution Algorithms for Combinatorial Optimization**  
 *Malte Probst*  
 [[paper](https://arxiv.org/abs/1509.09235)]  

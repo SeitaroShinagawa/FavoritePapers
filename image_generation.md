@@ -1,4 +1,8 @@
 #Image Generation  
+**Learning Visual Storylines with Skipping Recurrent Neural Networks**  
+*Gunnar A. Sigurdsson, Xinlei Chen, Abhinav Gupta*  
+[[paper](https://arxiv.org/abs/1604.04279)]  
+
 **Deep Image Harmonization**  
 *Yi-Hsuan Tsai, Xiaohui Shen, Zhe Lin, Kalyan Sunkavalli, Xin Lu, Ming-Hsuan Yang*  
 [[paper](https://arxiv.org/abs/1703.00069v1)]  

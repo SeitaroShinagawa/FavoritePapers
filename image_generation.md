@@ -1,4 +1,8 @@
 #Image Generation  
+**GENERATING INTERPRETABLE IMAGES WITH CONTROLLABLE STRUCTURE**  
+*S. Reed, A. van den Oord, N. Kalchbrenner, V. Bapst, M. Botvinick, N. de Freitas*  
+[[paper](http://www.scottreed.info/files/iclr2017.pdf)]  
+
 **Learning Visual Storylines with Skipping Recurrent Neural Networks**  
 *Gunnar A. Sigurdsson, Xinlei Chen, Abhinav Gupta*  
 [[paper](https://arxiv.org/abs/1604.04279)]  
@@ -499,6 +503,7 @@ M1={G1,D1},M2={G2,D2}を用いて{G1,D1},{G1,D2},{G2,D1},{G2,D2}の4モデルで
 [[reproduced code2](https://github.com/skaae/lasagne-draw)]*doesn't work well...?*  
 [[reproduced code3](https://github.com/uaca/deepy)] 
 [[blog](http://evjang.com/articles/draw)]  
+[[video](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Learning-What-and-Where-to-Draw)]  
 
 **Unveiling the Dreams of Word Embeddings: Towards Language-Driven Image Generation**(Arxiv2015)  
 *Angeliki Lazaridou, Dat Tien Nguyen, Raffaella Bernardi, Marco Baroni*  

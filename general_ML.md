@@ -1,3 +1,7 @@
+**A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models**  
+*Chelsea Finn, Paul Christiano, Pieter Abbeel, Sergey Levine*  
+[[paper](https://arxiv.org/abs/1611.03852)]  
+
 **Variational Inference using Implicit Distributions**  
 *Ferenc Huszár*  
 [[paper](https://arxiv.org/abs/1702.08235)]  

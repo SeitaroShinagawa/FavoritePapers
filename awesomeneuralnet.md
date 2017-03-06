@@ -1,4 +1,8 @@
 #Awesome neural networks  
+**Virtual vs. Real: Trading Off Simulations and Physical Experiments in Reinforcement Learning with Bayesian Optimization**  
+*Alonso Marco, Felix Berkenkamp, Philipp Hennig, Angela P. Schoellig, Andreas Krause, Stefan Schaal, Sebastian Trimpe*  
+[[paper](https://arxiv.org/abs/1703.01250)]  
+
 **Progressive Attention Networks for Visual Attribute Prediction**  
 *Paul Hongsuck Seo, Zhe Lin, Scott Cohen, Xiaohui Shen, Bohyung Han*  
 [[paper](https://arxiv.org/abs/1606.02393v4)]  

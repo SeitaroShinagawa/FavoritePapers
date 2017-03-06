@@ -1,4 +1,8 @@
 #Image to Caption Generation
+**Controllable Text Generation**  
+*Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov, Eric P. Xing*  
+[[paper](https://arxiv.org/abs/1703.00955)]  
+
 **Hierarchical Boundary-Aware Neural Encoder for Video Captioning**  
 *Lorenzo Baraldi, Costantino Grana, Rita Cucchiara*  
 [[paper](https://arxiv.org/abs/1611.09312v2)]  

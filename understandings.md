@@ -4,6 +4,11 @@
 [[supplement](http://jmlr.org/proceedings/papers/v48/mandt16-supp.pdf)]  
 
 ##Deep Neural Networks
+**All-but-the-Top: Simple and Effective Postprocessing for Word Representations**  
+*Jiaqi Mu, Suma Bhat, Pramod Viswanath*  
+[[paper](https://arxiv.org/abs/1702.01417)]  
+[[ArXivtimes](https://github.com/arXivTimes/arXivTimes/issues/203)]  
+
 **Why Regularized Auto-Encoders Learn Sparse Representation?(ICML2016)**  
 [[paper](http://jmlr.org/proceedings/papers/v48/arpita16.pdf)]  
 [[supplementary](http://jmlr.org/proceedings/papers/v48/arpita16-supp.pdf)]  

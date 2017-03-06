@@ -1,4 +1,8 @@
 #Awesome neural networks  
+**Deep Variational Bayes Filters: Unsupervised Learning of State Space Models from Raw Data**  
+*Maximilian Karl, Maximilian Soelch, Justin Bayer, Patrick van der Smagt*  
+[[paper](https://arxiv.org/abs/1605.06432)]  
+
 **Virtual vs. Real: Trading Off Simulations and Physical Experiments in Reinforcement Learning with Bayesian Optimization**  
 *Alonso Marco, Felix Berkenkamp, Philipp Hennig, Angela P. Schoellig, Andreas Krause, Stefan Schaal, Sebastian Trimpe*  
 [[paper](https://arxiv.org/abs/1703.01250)]  

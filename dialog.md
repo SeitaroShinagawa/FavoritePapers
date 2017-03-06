@@ -57,7 +57,11 @@
 *Pei-Hao Su, Milica Gasic, Nikola Mrksic, Lina Rojas-Barahona, Stefan Ultes, David Vandyke, Tsung-Hsien Wen, Steve Young*  
 [[paper](https://arxiv.org/abs/1605.07669v2)]  
 
-##task oriented  
+##task oriented
+**End-to-End Task-Completion Neural Dialogue Systems**  
+*Xuijun Li, Yun-Nung Chen, Lihong Li, Jianfeng Gao*  
+[[paper](https://arxiv.org/abs/1703.01008)]  
+
 **Coherent Dialogue with Attention-based Language Models**  
 *Hongyuan Mei, Mohit Bansal, Matthew R. Walter*  
 [[paper](https://arxiv.org/abs/1611.06997)]  

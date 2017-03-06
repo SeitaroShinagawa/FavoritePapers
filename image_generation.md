@@ -1,4 +1,8 @@
 #Image Generation  
+**Generalization and Equilibrium in Generative Adversarial Nets (GANs)**  
+*Sanjeev Arora, Rong Ge, Yingyu Liang, Tengyu Ma, Yi Zhang*  
+[[paper](https://arxiv.org/abs/1703.00573)]  
+
 **Unsupervised Image-to-Image Translation Networks**  
 *Ming-Yu Liu, Thomas Breuel, Jan Kautz*  
 [[paper](https://arxiv.org/abs/1703.00848v1)]  

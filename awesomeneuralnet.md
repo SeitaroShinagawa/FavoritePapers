@@ -1,4 +1,8 @@
 #Awesome neural networks  
+**Progressive Attention Networks for Visual Attribute Prediction**  
+*Paul Hongsuck Seo, Zhe Lin, Scott Cohen, Xiaohui Shen, Bohyung Han*  
+[[paper](https://arxiv.org/abs/1606.02393v4)]  
+
 **Wei Liu, et al. "SSD: Single shot multibox detector." ECCV2016.**  
 [[chainer](https://github.com/Hakuyume/chainer-ssd/)]  
 

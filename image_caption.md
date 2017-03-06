@@ -1,4 +1,8 @@
 #Image to Caption Generation
+**Hierarchical Boundary-Aware Neural Encoder for Video Captioning**  
+*Lorenzo Baraldi, Costantino Grana, Rita Cucchiara*  
+[[paper](https://arxiv.org/abs/1611.09312v2)]  
+
 **Rationalization: A Neural Machine Translation Approach to Generating Natural Language Explanations**  
 *Brent Harrison, Upol Ehsan, Mark O. Riedl*  
 [[paper](https://arxiv.org/abs/1702.07826)]  

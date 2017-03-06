@@ -1,4 +1,8 @@
 #Image Generation  
+**Learning Robot Activities from First-Person Human Videos Using Convolutional Future Regression**  
+*Jangwon Lee, Michael S. Ryoo*  
+[[paper](https://arxiv.org/abs/1703.01040)]  
+
 **Generalization and Equilibrium in Generative Adversarial Nets (GANs)**  
 *Sanjeev Arora, Rong Ge, Yingyu Liang, Tengyu Ma, Yi Zhang*  
 [[paper](https://arxiv.org/abs/1703.00573)]  

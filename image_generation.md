@@ -1,4 +1,8 @@
 #Image Generation  
+**Diversified Texture Synthesis with Feed-forward Networks**  
+*Yijun Li, Chen Fang, Jimei Yang, Zhaowen Wang, Xin Lu, Ming-Hsuan Yang*  
+[[paper](https://arxiv.org/abs/1703.01664)]  
+
 **Learning Robot Activities from First-Person Human Videos Using Convolutional Future Regression**  
 *Jangwon Lee, Michael S. Ryoo*  
 [[paper](https://arxiv.org/abs/1703.01040)]  

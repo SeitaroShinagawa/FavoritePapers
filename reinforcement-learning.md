@@ -1,4 +1,7 @@
 #reinforcement learning
+**Neural Episodic Control**  
+[[paper](https://arxiv.org/pdf/1703.01988.pdf)]  
+
 **The Game Imitation: Deep Supervised Convolutional Networks for Quick Video Game AI**  
 *Zhao Chen, Darvin Yi*  
 スマブラ64  

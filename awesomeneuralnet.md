@@ -1,4 +1,9 @@
 #Awesome neural networks  
+**Ambient Sound Provides Supervision for Visual Learning(ECCV2016)**  
+*Andrew Owens, Jiajun Wu, Josh H. McDermott, William T. Freeman, Antonio Torralba*  
+[[paper](https://arxiv.org/abs/1608.07017)]  
+[[project](http://andrewowens.com/ambient/index.html)]  
+
 **Deep Variational Bayes Filters: Unsupervised Learning of State Space Models from Raw Data**  
 *Maximilian Karl, Maximilian Soelch, Justin Bayer, Patrick van der Smagt*  
 [[paper](https://arxiv.org/abs/1605.06432)]  

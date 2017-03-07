@@ -1,4 +1,8 @@
 #Awesome neural networks  
+**Visual Relationship Detection with Language Priors**  
+[[project](http://cs.stanford.edu/people/ranjaykrishna/vrd/)]  
+[[code](https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection)]  
+
 **Ambient Sound Provides Supervision for Visual Learning(ECCV2016)**  
 *Andrew Owens, Jiajun Wu, Josh H. McDermott, William T. Freeman, Antonio Torralba*  
 [[paper](https://arxiv.org/abs/1608.07017)]  

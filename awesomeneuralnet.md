@@ -1,4 +1,8 @@
 #Awesome neural networks  
+**Learning without Forgetting(ECCV2016)**  
+*Zhizhong Li, Derek Hoiem*  
+[[paper](https://arxiv.org/abs/1606.09282)]  
+
 **The Curious Robot: Learning Visual Representations via Physical Interactions(ECCV2016)**  
 *Lerrel Pinto, Dhiraj Gandhi, Yuanfeng Han, Yong-Lae Park, Abhinav Gupta*  
 [[paper](https://arxiv.org/abs/1604.01360)]  

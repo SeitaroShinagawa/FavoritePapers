@@ -1,4 +1,9 @@
 #Awesome dataset
+**Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding(ECCV2016)**  
+*Gunnar A. Sigurdsson, Gül Varol, Xiaolong Wang, Ali Farhadi, Ivan Laptev, Abhinav Gupta*  
+[[paper](https://arxiv.org/abs/1604.01753)]  
+[[link](http://allenai.org/plato/charades/)]  
+
 **AudioSet**  
 [[link](https://research.google.com/audioset/)]    
 

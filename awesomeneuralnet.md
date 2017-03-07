@@ -1,5 +1,9 @@
 #Awesome neural networks  
-**Visual Relationship Detection with Language Priors**  
+**The Curious Robot: Learning Visual Representations via Physical Interactions(ECCV2016)**  
+*Lerrel Pinto, Dhiraj Gandhi, Yuanfeng Han, Yong-Lae Park, Abhinav Gupta*  
+[[paper](https://arxiv.org/abs/1604.01360)]  
+
+**Visual Relationship Detection with Language Priors(ECCV2016)**  
 [[project](http://cs.stanford.edu/people/ranjaykrishna/vrd/)]  
 [[code](https://github.com/Prof-Lu-Cewu/Visual-Relationship-Detection)]  
 

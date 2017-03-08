@@ -1,7 +1,11 @@
 #Awesome neural networks  
+**Suggesting Sounds for Images from Video Collections**  
+[[project](https://www.disneyresearch.com/publication/sounds-for-images/)]  
+
 **Learning to Track at 100 FPS with Deep Regression Networks(ECCV2016)**  
 *David Held, Sebastian Thrun, Silvio Savarese*  
-[[paper](https://arxiv.org/abs/1604.01802)]
+[[paper](https://arxiv.org/abs/1604.01802)]  
+2フレームからの差分を利用した物体トラッキング  
 codeあり  
 
 **Learning without Forgetting(ECCV2016)**  

@@ -1,4 +1,12 @@
 #Image Generation  
+**Generative Adversarial Nets with Labeled Data by Activation Maximization**  
+*Zhiming Zhou, Shu Rong, Han Cai, Weinan Zhang, Yong Yu, Jun Wang*  
+[[paper](https://arxiv.org/abs/1703.02000v1)]  
+
+**Loss-Sensitive Generative Adversarial Networks on Lipschitz Densities**  
+*Guo-Jun Qi*  
+[[paper](https://arxiv.org/abs/1701.06264v4)]  
+
 **Shuffle and Learn: Unsupervised Learning using Temporal Order Verification(ECCV2016)**  
 *Ishan Misra, C. Lawrence Zitnick, Martial Hebert*  
 [[paper](https://arxiv.org/abs/1603.08561)]  

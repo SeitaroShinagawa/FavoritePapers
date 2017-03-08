@@ -129,7 +129,7 @@ color palet[[link](http://colormind.io/blog/)]
 [[paper](https://arxiv.org/pdf/1702.02463.pdf)]  
 UCF101の動画認識データセットで訓練、UCF101とTHUMOS Challenge 2015のtestsetで評価  
 
-**Unrolled Generative Adversarial Networks**  
+**Unrolled Generative Adversarial Networks**  
 [[paper](https://arxiv.org/abs/1611.02163)]  
 [[blog](http://musyoku.github.io/2017/01/29/Unrolled-Generative-Adversarial-Networks/)]  
 [[demo](https://github.com/poolio/unrolled_gan)]  

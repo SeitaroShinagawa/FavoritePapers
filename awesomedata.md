@@ -1,4 +1,7 @@
 #Awesome dataset
+**Large-scale Fashion (DeepFashion) Database(ECCV2016)**  
+[[paper](http://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html)]  
+
 **Hollywood in Homes: Crowdsourcing Data Collection for Activity Understanding(ECCV2016)**  
 *Gunnar A. Sigurdsson, Gül Varol, Xiaolong Wang, Ali Farhadi, Ivan Laptev, Abhinav Gupta*  
 [[paper](https://arxiv.org/abs/1604.01753)]  

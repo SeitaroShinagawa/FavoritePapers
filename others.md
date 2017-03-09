@@ -1,3 +1,6 @@
+**Terminal Markdown Viewer**  
+[[link](https://github.com/axiros/terminal_markdown_viewer)]  
+
 **Widget based progress bar for Jupyter (IPython Notebook)**  
 [[link](https://github.com/tqdm/tqdm)]  
 [[link](https://github.com/alexanderkuk/log-progress)]  

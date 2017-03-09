@@ -1,3 +1,7 @@
+**Orthogonalized ALS: A Theoretically Principled Tensor Decomposition Algorithm for Practical Use**  
+*Vatsal Sharan, Gregory Valiant*  
+[[paper](https://arxiv.org/abs/1703.01804)]  
+
 **A Connection between Generative Adversarial Networks, Inverse Reinforcement Learning, and Energy-Based Models**  
 *Chelsea Finn, Paul Christiano, Pieter Abbeel, Sergey Levine*  
 [[paper](https://arxiv.org/abs/1611.03852)]  

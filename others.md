@@ -1,3 +1,7 @@
+**Widget based progress bar for Jupyter (IPython Notebook)**  
+[[link](https://github.com/tqdm/tqdm)]  
+[[link](https://github.com/alexanderkuk/log-progress)]  
+
 **chainercv**  
 [[link](https://github.com/pfnet/chainercv)]  
 

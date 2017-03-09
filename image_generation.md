@@ -57,6 +57,7 @@
 **Least Squares Generative Adversarial Networks**  
 *Xudong Mao, Qing Li, Haoran Xie, Raymond Y.K. Lau, Zhen Wang*  
 [[paper](https://arxiv.org/abs/1611.04076)]  
+[[blog](http://musyoku.github.io/2017/03/06/Least-Squares-Generative-Adversarial-Networks/)]  
 
 **Stick-Breaking Variational Autoencoders**  
 *Eric Nalisnick, Padhraic Smyth*  

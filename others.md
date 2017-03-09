@@ -374,6 +374,10 @@ libsvm
 sh  
 [[link](https://amoffat.github.io/sh/)]  
 
+python2commandline  
+[[link](https://github.com/google/python-fire)]  
+
+emotiv  
 [[emotiv](https://www.emotiv.com/)] tools  
 [[emokit](https://github.com/openyou/emokit)]  
 [[emofox](https://bitbucket.org/MattTheGr8/emofox)]  

@@ -418,6 +418,10 @@ exemplar[[link](http://www.springerexemplar.com/)]
 英文校正ツール  
 [[link](https://app.grammarly.com/)]  
 
+**correcting with google translate**  
+[[article](http://www.gizmodo.jp/2017/03/google_translate_spreadsheet.html)]  
+[[blog](http://aki.shirai.as/2017/02/google-translate-and-spreadsheet-for-international-submission/)]  
+
 **kaggle**  
 [[link](https://www.kaggle.com/c/diabetic-retinopathy-detection/forums/t/15845/3rd-place-solution-report)]  
 [[Tips](http://www.slideshare.net/markpeng/general-tips-for-participating-kaggle-competitions?ref=https://twitter.com/i/cards/tfw/v1/707584669391278081?cardname=player&earned=true&lang=ja)]  

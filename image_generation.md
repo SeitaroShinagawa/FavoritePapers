@@ -1,4 +1,8 @@
 #Image Generation  
+**LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation**  
+*Jianwei Yang, Anitha Kannan, Dhruv Batra, Devi Parikh*  
+[[paper](https://arxiv.org/abs/1703.01560v1)]  
+
 **Generative Adversarial Nets with Labeled Data by Activation Maximization**  
 *Zhiming Zhou, Shu Rong, Han Cai, Weinan Zhang, Yong Yu, Jun Wang*  
 [[paper](https://arxiv.org/abs/1703.02000v1)]  

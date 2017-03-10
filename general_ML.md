@@ -1,3 +1,6 @@
+**Universal adversarial perturbations**  
+[[paper](https://arxiv.org/pdf/1610.08401.pdf)]  
+
 **Orthogonalized ALS: A Theoretically Principled Tensor Decomposition Algorithm for Practical Use**  
 *Vatsal Sharan, Gregory Valiant*  
 [[paper](https://arxiv.org/abs/1703.01804)]  

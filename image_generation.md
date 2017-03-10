@@ -1,4 +1,8 @@
 #Image Generation  
+**Compressed Sensing using Generative Models**   
+*Ashish Bora, Ajil Jalal, Eric Price, Alexandros G. Dimakis*  
+[[paper](https://arxiv.org/abs/1703.03208)]  
+
 **LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation**  
 *Jianwei Yang, Anitha Kannan, Dhruv Batra, Devi Parikh*  
 [[paper](https://arxiv.org/abs/1703.01560v1)]  

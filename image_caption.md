@@ -1,4 +1,9 @@
 #Image to Caption Generation
+**Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning**  
+*Jiasen Lu, Caiming Xiong, Devi Parikh, Richard Socher*  
+[[paper](https://arxiv.org/abs/1612.01887)]  
+[[arXivTimes](https://github.com/arXivTimes/arXivTimes/issues/238)]  
+
 **Controllable Text Generation**  
 *Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov, Eric P. Xing*  
 [[paper](https://arxiv.org/abs/1703.00955)]  

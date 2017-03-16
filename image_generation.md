@@ -1,4 +1,8 @@
 #Image Generation  
+**Learning to Discover Cross-Domain Relations with Generative Adversarial Networks**  
+*Taeksoo Kim, Moonsu Cha, Hyunsoo Kim, Jungkwon Lee, Jiwon Kim*  
+[[paper](https://arxiv.org/abs/1703.05192v1)]  
+
 **Compressed Sensing using Generative Models**   
 *Ashish Bora, Ajil Jalal, Eric Price, Alexandros G. Dimakis*  
 [[paper](https://arxiv.org/abs/1703.03208)]  

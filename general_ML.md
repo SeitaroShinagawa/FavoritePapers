@@ -1,3 +1,7 @@
+**Zero-Shot Recognition using Dual Visual-Semantic Mapping Paths**  
+*Yanan Li, Donghui Wang, Huanhang Hu, Yuetan Lin, Yueting Zhuang*  
+[[paper](https://arxiv.org/abs/1703.05002v1)]  
+
 **Universal adversarial perturbations**  
 [[paper](https://arxiv.org/pdf/1610.08401.pdf)]  
 

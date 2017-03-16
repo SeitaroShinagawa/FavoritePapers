@@ -1,3 +1,7 @@
+**Transfer Learning by Asymmetric Image Weighting for Segmentation across Scanners**  
+*Veronika Cheplygina, Annegreet van Opbroek, M. Arfan Ikram, Meike W. Vernooij, Marleen de Bruijne*  
+[[paper](https://arxiv.org/abs/1703.04981v1)]  
+
 **Zero-Shot Recognition using Dual Visual-Semantic Mapping Paths**  
 *Yanan Li, Donghui Wang, Huanhang Hu, Yuetan Lin, Yueting Zhuang*  
 [[paper](https://arxiv.org/abs/1703.05002v1)]  

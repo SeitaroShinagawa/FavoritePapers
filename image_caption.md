@@ -1,4 +1,8 @@
-#Image to Caption Generation
+#Image to Caption Generation  
+**Zero-Shot Recognition using Dual Visual-Semantic Mapping Paths**  
+*Yanan Li, Donghui Wang, Huanhang Hu, Yuetan Lin, Yueting Zhuang*  
+[[paper](https://arxiv.org/abs/1703.05002v2)]  
+
 **Knowing When to Look: Adaptive Attention via A Visual Sentinel for Image Captioning**  
 *Jiasen Lu, Caiming Xiong, Devi Parikh, Richard Socher*  
 [[paper](https://arxiv.org/abs/1612.01887)]  

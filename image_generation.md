@@ -1,4 +1,8 @@
 #Image Generation  
+**I2T2I: Learning Text to Image Synthesis with Textual Data Augmentation**  
+*Hao Dong, Jingqing Zhang, Douglas McIlwraith, Yike Guo*  
+[[paper](https://arxiv.org/abs/1703.06676v1)]  
+
 **Learning to Discover Cross-Domain Relations with Generative Adversarial Networks**  
 *Taeksoo Kim, Moonsu Cha, Hyunsoo Kim, Jungkwon Lee, Jiwon Kim*  
 [[paper](https://arxiv.org/abs/1703.05192v1)]  

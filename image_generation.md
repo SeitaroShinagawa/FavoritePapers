@@ -1,4 +1,8 @@
 #Image Generation  
+**GP-GAN: Towards Realistic High-Resolution Image Blending**  
+*Huikai Wu, Shuai Zheng, Junge Zhang, Kaiqi Huang*  
+[[paper](https://arxiv.org/abs/1703.07195)]  
+
 **I2T2I: Learning Text to Image Synthesis with Textual Data Augmentation**  
 *Hao Dong, Jingqing Zhang, Douglas McIlwraith, Yike Guo*  
 [[paper](https://arxiv.org/abs/1703.06676v1)]  

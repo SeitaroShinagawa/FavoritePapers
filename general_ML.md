@@ -2,6 +2,10 @@
 *Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, Yichen Wei*  
 [[paper](https://arxiv.org/abs/1703.06211)]  
 
+**On the Expressive Power of Overlapping Operations of Deep Networks**  
+*Or Sharir, Amnon Shashua*  
+[[paper](https://arxiv.org/abs/1703.02065)]  
+
 **Transfer Learning by Asymmetric Image Weighting for Segmentation across Scanners**  
 *Veronika Cheplygina, Annegreet van Opbroek, M. Arfan Ikram, Meike W. Vernooij, Marleen de Bruijne*  
 [[paper](https://arxiv.org/abs/1703.04981v1)]  

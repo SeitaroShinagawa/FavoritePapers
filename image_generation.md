@@ -1,4 +1,8 @@
 #Image Generation  
+**ZM-Net: Real-time Zero-shot Image Manipulation Network**  
+*Hao Wang, Xiaodan Liang, Hao Zhang, Dit-Yan Yeung, Eric P. Xing*  
+[[paper](https://arxiv.org/abs/1703.07255)]  
+
 **RoomNet: End-to-End Room Layout Estimation**  
 *Chen-Yu Lee, Vijay Badrinarayanan, Tomasz Malisiewicz, Andrew Rabinovich*  
 [[paper](https://arxiv.org/abs/1703.06241)]  

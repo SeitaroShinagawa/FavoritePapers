@@ -2,6 +2,10 @@
 *Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, Yichen Wei*  
 [[paper](https://arxiv.org/abs/1703.06211)]  
 
+**Overcoming model simplifications when quantifying predictive uncertainty**  
+*George M. Mathews, John Vial*  
+[[paper](https://arxiv.org/abs/1703.07198)]  
+
 **On the Expressive Power of Overlapping Operations of Deep Networks**  
 *Or Sharir, Amnon Shashua*  
 [[paper](https://arxiv.org/abs/1703.02065)]  

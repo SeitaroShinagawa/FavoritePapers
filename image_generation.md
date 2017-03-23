@@ -1,4 +1,8 @@
 #Image Generation  
+**RoomNet: End-to-End Room Layout Estimation**  
+*Chen-Yu Lee, Vijay Badrinarayanan, Tomasz Malisiewicz, Andrew Rabinovich*  
+[[paper](https://arxiv.org/abs/1703.06241)]  
+
 **GP-GAN: Towards Realistic High-Resolution Image Blending**  
 *Huikai Wu, Shuai Zheng, Junge Zhang, Kaiqi Huang*  
 [[paper](https://arxiv.org/abs/1703.07195)]  

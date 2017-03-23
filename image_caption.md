@@ -1,4 +1,8 @@
 #Image to Caption Generation  
+**Recurrent Topic-Transition GAN for Visual Paragraph Generation**  
+*Xiaodan Liang, Zhiting Hu, Hao Zhang, Chuang Gan, Eric P. Xing*  
+[[paper](https://arxiv.org/abs/1703.07022v1)]  
+
 **Zero-Shot Recognition using Dual Visual-Semantic Mapping Paths**  
 *Yanan Li, Donghui Wang, Huanhang Hu, Yuetan Lin, Yueting Zhuang*  
 [[paper](https://arxiv.org/abs/1703.05002v2)]  

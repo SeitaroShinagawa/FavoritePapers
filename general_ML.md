@@ -1,3 +1,7 @@
+**Guided Perturbations: Self Corrective Behavior in Convolutional Neural Networks**  
+*Swami Sankaranarayanan, Arpit Jain, Ser Nam Lim*  
+[[paper](https://arxiv.org/abs/1703.07928)]  
+
 **Deformable Convolutional Networks**  
 *Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, Yichen Wei*  
 [[paper](https://arxiv.org/abs/1703.06211)]  

@@ -1,4 +1,7 @@
 #Awesome neural networks  
+**Attentionの耐えられない短さ**  
+[[link](http://qiita.com/icoxfog417/items/f170666d81f773e4b1a7)]  
+
 **Suggesting Sounds for Images from Video Collections**  
 [[project](https://www.disneyresearch.com/publication/sounds-for-images/)]  
 

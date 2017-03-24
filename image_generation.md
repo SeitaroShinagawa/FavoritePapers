@@ -1,4 +1,8 @@
 #Image Generation  
+**Generative Adversarial Residual Pairwise Networks for One Shot Learning**  
+*Akshay Mehrotra, Ambedkar Dukkipati*  
+[[paper](https://arxiv.org/abs/1703.08033)]  
+
 **ZM-Net: Real-time Zero-shot Image Manipulation Network**  
 *Hao Wang, Xiaodan Liang, Hao Zhang, Dit-Yan Yeung, Eric P. Xing*  
 [[paper](https://arxiv.org/abs/1703.07255)]  

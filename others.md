@@ -414,6 +414,9 @@ by Simon Peyton Jones(MSR,Cambridge)
 [[松尾ぐみの論文の書き方](http://tam5917.hatenablog.com/entry/2016/03/04/235315)]  
 [[link](http://readingmonkey.blog45.fc2.com/blog-entry-563.html)]  
 
+**how to peer review**  
+[[link](http://scienceandtechnology.jp/archives/12812)]  
+
 **presentation**  
 [[link](http://kanamori.cs.tsukuba.ac.jp/docs/presentation_faqs.html)]  
 

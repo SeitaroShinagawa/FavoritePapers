@@ -1,4 +1,8 @@
 #Multimodal  
+**Recurrent Multimodal Interaction for Referring Image Segmentation**  
+*Chenxi Liu, Zhe Lin, Xiaohui Shen, Jimei Yang, Xin Lu, Alan Yuille*  
+[[paper](https://arxiv.org/abs/1703.07939)]  
+
 **Visually grounded learning of keyword prediction from untranscribed speech**  
 *Herman Kamper, Shane Settle, Gregory Shakhnarovich, Karen Livescu*  
 [[paper](https://arxiv.org/abs/1703.08136v1)]  

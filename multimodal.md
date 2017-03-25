@@ -1,4 +1,8 @@
 #Multimodal  
+**Visually grounded learning of keyword prediction from untranscribed speech**  
+*Herman Kamper, Shane Settle, Gregory Shakhnarovich, Karen Livescu*  
+[[paper](https://arxiv.org/abs/1703.08136v1)]  
+
 **Cross-modal Deep Metric Learning with Multi-task Regularization**  
 *Xin Huang, Yuxin Peng*  
 [[paper](https://arxiv.org/abs/1703.07026)]  

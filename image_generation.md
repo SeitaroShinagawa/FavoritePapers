@@ -1,4 +1,8 @@
 #Image Generation  
+**Multi-style Generative Network for Real-time Transfer**  
+*Hang Zhang, Kristin Dana*  
+[[paper](https://arxiv.org/abs/1703.06953)]  
+
 **Generative Adversarial Residual Pairwise Networks for One Shot Learning**  
 *Akshay Mehrotra, Ambedkar Dukkipati*  
 [[paper](https://arxiv.org/abs/1703.08033)]  

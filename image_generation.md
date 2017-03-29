@@ -1,4 +1,8 @@
 #Image Generation  
+**Adversarial Transformation Networks: Learning to Generate Adversarial Examples**  
+*Shumeet Baluja, Ian Fischer*  
+[[paper](https://arxiv.org/abs/1703.09387)]  
+
 **Multi-style Generative Network for Real-time Transfer**  
 *Hang Zhang, Kristin Dana*  
 [[paper](https://arxiv.org/abs/1703.06953)]  

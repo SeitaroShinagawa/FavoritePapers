@@ -1,4 +1,8 @@
 #Image Generation  
+**One Network to Solve Them All --- Solving Linear Inverse Problems using Deep Projection Models**  
+*J. H. Rick Chang, Chun-Liang Li, Barnabas Poczos, B. V. K. Vijaya Kumar, Aswin C. Sankaranarayanan*  
+[[paper](https://arxiv.org/abs/1703.09912)]  
+
 **Adversarial Transformation Networks: Learning to Generate Adversarial Examples**  
 *Shumeet Baluja, Ian Fischer*  
 [[paper](https://arxiv.org/abs/1703.09387)]  

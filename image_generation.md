@@ -1,4 +1,17 @@
 #Image Generation  
+**Deep Image Matting**  
+*Ning Xu, Brian Price, Scott Cohen, Thomas Huang*  
+[[paper](https://arxiv.org/abs/1703.03872)]  
+
+**Unrestricted Facial Geometry Reconstruction Using Image-to-Image Translation**  
+*Matan Sela, Elad Richardson, Ron Kimmel*  
+[[paper](https://arxiv.org/abs/1703.10131)]  
+
+**Deep Photo Style Transfer**  
+*Fujun Luan, Sylvain Paris, Eli Shechtman, Kavita Bala*  
+[[paper](https://arxiv.org/abs/1703.07511)]  
+[[code](https://github.com/luanfujun/deep-photo-styletransfer)]  
+
 **One Network to Solve Them All --- Solving Linear Inverse Problems using Deep Projection Models**  
 *J. H. Rick Chang, Chun-Liang Li, Barnabas Poczos, B. V. K. Vijaya Kumar, Aswin C. Sankaranarayanan*  
 [[paper](https://arxiv.org/abs/1703.09912)]  

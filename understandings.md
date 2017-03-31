@@ -50,3 +50,15 @@
 **Symbolic and structural models for image understanding Part II: Ontologies and description logics(IJCAI tutorial)**  
 [[slide](http://perso.telecom-paristech.fr/~bloch/IJCAI/slides_IJCAI_Tutorial_DL.pdf)]  
 
+#language emergence
+**Emergence of Grounded Compositional Language in Multi-Agent Populations**  
+*Igor Mordatch, Pieter Abbeel*  
+[[paper](https://arxiv.org/abs/1703.04908)]  
+[[blog](https://blog.openai.com/learning-to-communicate/)]  
+
+**A Paradigm for Situated and Goal-Driven Language Learning**  
+*Jon Gauthier, Igor Mordatch*  
+[[paper](https://arxiv.org/abs/1610.03585)]  
+
+**Emergence of Gricean Maxims from Multi-Agent Decision Theory**  
+[[paper](https://nlp.stanford.edu/pubs/cards-naacl2013.pdf)]  

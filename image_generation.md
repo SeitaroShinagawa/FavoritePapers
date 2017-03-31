@@ -1,4 +1,9 @@
 #Image Generation  
+**Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks**  
+[[paper](https://arxiv.org/pdf/1703.10593.pdf)]  
+[[code](https://github.com/junyanz/CycleGAN)]  
+[[project](https://junyanz.github.io/CycleGAN/)]  
+
 **Deep Image Matting**  
 *Ning Xu, Brian Price, Scott Cohen, Thomas Huang*  
 [[paper](https://arxiv.org/abs/1703.03872)]  

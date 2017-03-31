@@ -1,4 +1,8 @@
 #Awesome neural networks  
+**A Deep Compositional Framework for Human-like Language Acquisition in Virtual Environment**  
+*Haonan Yu, Haichao Zhang, Wei Xu*  
+[[paper](https://arxiv.org/abs/1703.09831)]  
+
 **Attentionの耐えられない短さ**  
 [[link](http://qiita.com/icoxfog417/items/f170666d81f773e4b1a7)]  
 

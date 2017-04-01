@@ -26,6 +26,10 @@
 [[paper](https://arxiv.org/abs/1701.08533v1)]  
 
 ##Question Answering  
+**Semi-Supervised QA with Generative Domain-Adaptive Nets**  
+*Zhilin Yang, Junjie Hu, Ruslan Salakhutdinov, William W. Cohen*  
+[[paper](https://arxiv.org/abs/1702.02206)]  
+
 **Learning Models for Actions and Person-Object Interactions with Transfer to Question Answering(ECCV2016)**  
 *Arun Mallya, Svetlana Lazebnik*  
 [[paper](https://arxiv.org/abs/1604.04808)]  

@@ -1,4 +1,8 @@
 #Image Generation  
+**SeGAN: Segmenting and Generating the Invisible**  
+*Kiana Ehsani, Roozbeh Mottaghi, Ali Farhadi*  
+[[paper](https://arxiv.org/abs/1703.10239)]  
+
 **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks**  
 [[paper](https://arxiv.org/pdf/1703.10593.pdf)]  
 [[code](https://github.com/junyanz/CycleGAN)]  

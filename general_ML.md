@@ -1,3 +1,7 @@
+**Overcoming catastrophic forgetting in neural networks**  
+[[paper](http://www.pnas.org/content/114/13/3521.full.pdf)]  
+[[blog](http://rylanschaeffer.github.io/content/research/overcoming_catastrophic_forgetting/main.html)]  
+
 **Guided Perturbations: Self Corrective Behavior in Convolutional Neural Networks**  
 *Swami Sankaranarayanan, Arpit Jain, Ser Nam Lim*  
 [[paper](https://arxiv.org/abs/1703.07928)]  

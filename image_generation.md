@@ -1,4 +1,8 @@
 #Image Generation  
+**BEGAN: Boundary Equilibrium Generative Adversarial Networks**  
+*David Berthelot, Tom Schumm, Luke Metz*  
+[[paper](https://arxiv.org/abs/1703.10717)]  
+
 **SeGAN: Segmenting and Generating the Invisible**  
 *Kiana Ehsani, Roozbeh Mottaghi, Ali Farhadi*  
 [[paper](https://arxiv.org/abs/1703.10239)]  

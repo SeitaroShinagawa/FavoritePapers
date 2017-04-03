@@ -1,4 +1,8 @@
 #Image Generation  
+**InverseFaceNet: Deep Single-Shot Inverse Face Rendering From A Single Image**  
+*Hyeongwoo Kim, Michael Zollhöfer, Ayush Tewari, Justus Thies, Christian Richardt, Christian Theobalt*  
+[[paper](https://arxiv.org/abs/1703.10956)]  
+
 **BEGAN: Boundary Equilibrium Generative Adversarial Networks**  
 *David Berthelot, Tom Schumm, Luke Metz*  
 [[paper](https://arxiv.org/abs/1703.10717)]  

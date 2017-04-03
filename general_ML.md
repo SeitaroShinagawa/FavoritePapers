@@ -1,3 +1,7 @@
+**Improved multitask learning through synaptic intelligence**  
+*Friedemann Zenke, Ben Poole, Surya Ganguli*  
+[[paper](https://arxiv.org/abs/1703.04200)]  
+
 **Overcoming catastrophic forgetting in neural networks**  
 [[paper](http://www.pnas.org/content/114/13/3521.full.pdf)]  
 [[blog](http://rylanschaeffer.github.io/content/research/overcoming_catastrophic_forgetting/main.html)]  

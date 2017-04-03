@@ -1,3 +1,7 @@
+**Applying Ricci Flow to Manifold Learning**  
+*Yangyang Li*  
+[[paper](https://arxiv.org/abs/1703.10675)]  
+
 **Improved multitask learning through synaptic intelligence**  
 *Friedemann Zenke, Ben Poole, Surya Ganguli*  
 [[paper](https://arxiv.org/abs/1703.04200)]  

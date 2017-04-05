@@ -1,3 +1,6 @@
+**Single Shot Multibox Detector (SSD)**  
+[[code](https://github.com/perrying/ssd-torch7)]  
+
 **Distill**  
 [[link](http://distill.pub/about/)]  
 

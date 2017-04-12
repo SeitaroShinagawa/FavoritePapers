@@ -1,4 +1,7 @@
-#Action Recognition
+#Action Recognition  
+**動的な人物/物体認識技術 -Dense Trajectories- **  
+[[slide](https://www.slideshare.net/HirokatsuKataoka/dt-tutorial)]  
+
 **Going Deeper into Action Recognition: A Survey**  
 *Samitha Herath, Mehrtash Harandi, Fatih Porikli*  
 [[paper](https://arxiv.org/abs/1605.04988v2)]  

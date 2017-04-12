@@ -1,4 +1,8 @@
 #Image Generation  
+**Adversarial Generator-Encoder Networks**  
+*Dmitry Ulyanov, Andrea Vedaldi, Victor Lempitsky*  
+[[paper](https://arxiv.org/abs/1704.02304)]  
+
 **InverseFaceNet: Deep Single-Shot Inverse Face Rendering From A Single Image**  
 *Hyeongwoo Kim, Michael Zollhöfer, Ayush Tewari, Justus Thies, Christian Richardt, Christian Theobalt*  
 [[paper](https://arxiv.org/abs/1703.10956)]  

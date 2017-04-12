@@ -1,4 +1,8 @@
 #Awesome neural networks  
+**SEGAN: Speech Enhancement Generative Adversarial Network**  
+*Santiago Pascual, Antonio Bonafonte, Joan Serrà*  
+[[paper](https://arxiv.org/abs/1703.09452)]  
+
 **A Deep Compositional Framework for Human-like Language Acquisition in Virtual Environment**  
 *Haonan Yu, Haichao Zhang, Wei Xu*  
 [[paper](https://arxiv.org/abs/1703.09831)]  

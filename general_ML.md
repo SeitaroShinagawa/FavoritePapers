@@ -1,3 +1,8 @@
+**Overcoming Catastrophic Forgetting in Neural Networks**  
+[[paper](https://arxiv.org/abs/1612.00796)]  
+[[blog](http://rylanschaeffer.github.io/content/research/overcoming_catastrophic_forgetting/main.html)]  
+[[qiita](http://qiita.com/yu4u/items/8b1e4f1c04460b89cac2)]  
+
 **Applying Ricci Flow to Manifold Learning**  
 *Yangyang Li*  
 [[paper](https://arxiv.org/abs/1703.10675)]  

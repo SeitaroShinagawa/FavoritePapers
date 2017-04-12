@@ -327,7 +327,10 @@ pixel based image similarity metric
 [[python code](https://github.com/jterrace/pyssim)]  
 
 ##Educational Video  
-**Coursera Machine Learning** (Japanese subtitle avaiable)  
+**Educational Videos Collections**  
+[[link](https://github.com/Developer-Y/cs-video-courses)]  
+
+**Coursera Machine Learning** (Japanese subtitle avaiable)  
 [[link](https://www.coursera.org/learn/machine-learning)]  
  
 **Bayes Inference and Graphical Model** (Japanese)  

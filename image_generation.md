@@ -1,4 +1,10 @@
 #Image Generation  
+**A Neural Representation of Sketch Drawings**  
+*David Ha, Douglas Eck*  
+[[paper](https://arxiv.org/abs/1704.03477)]  
+[[data collection app?](https://www.autodraw.com/)]  
+[[data collection app?](https://quickdraw.withgoogle.com/)]  
+
 **Adversarial Generator-Encoder Networks**  
 *Dmitry Ulyanov, Andrea Vedaldi, Victor Lempitsky*  
 [[paper](https://arxiv.org/abs/1704.02304)]  

@@ -17,6 +17,7 @@
 *David Berthelot, Tom Schumm, Luke Metz*  
 [[paper](https://arxiv.org/abs/1703.10717)]  
 [[blog](https://blog.heuritech.com/2017/04/11/began-state-of-the-art-generation-of-faces-with-generative-adversarial-networks/)]  
+[[code](https://github.com/Heumi/BEGAN-tensorflow)]  
 
 **SeGAN: Segmenting and Generating the Invisible**  
 *Kiana Ehsani, Roozbeh Mottaghi, Ali Farhadi*  

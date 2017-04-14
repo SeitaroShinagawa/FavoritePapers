@@ -355,6 +355,9 @@ pixel based image similarity metric
 [[link](http://paiza.hatenablog.com/entry/2016/03/08/%E5%88%9D%E5%BF%83%E8%80%85%E3%81%AB%E3%81%8A%E3%81%99%E3%81%99%E3%82%81%EF%BC%81Python3%E3%82%92%E7%BF%92%E5%BE%97%E3%81%A7%E3%81%8D%E3%82%8B4%E3%81%A4%E3%81%AE%E5%AD%A6%E7%BF%92%E6%B3%95%E3%81%A811?)]  
 
 ##Tools
+**graph-tool**  
+[[link](http://soymsk.hatenablog.com/entry/2015/02/01/205149)]  
+
 **Sentencepiece**  
 [[qiita](http://qiita.com/taku910/items/7e52f1e58d0ea6e7859c)]  
 

@@ -1,4 +1,4 @@
-#Dialog Systems
+#Dialog Systems  
 **Batch Policy Gradient Methods for Improving Neural Conversation Models**  
 *Kirthevasan Kandasamy, Yoram Bachrach, Ryota Tomioka, Daniel Tarlow, David Carter*  
 [[paper](https://arxiv.org/abs/1702.03334)]  
@@ -26,6 +26,10 @@
 [[paper](https://arxiv.org/abs/1701.08533v1)]  
 
 ##Question Answering  
+**Creativity: Generating Diverse Questions using Variational Autoencoders**  
+*Unnat Jain, Ziyu Zhang, Alexander Schwing*  
+[[paper](https://arxiv.org/abs/1704.03493)]  
+
 **Semi-Supervised QA with Generative Domain-Adaptive Nets**  
 *Zhilin Yang, Junjie Hu, Ruslan Salakhutdinov, William W. Cohen*  
 [[paper](https://arxiv.org/abs/1702.02206)]  

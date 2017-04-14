@@ -1,3 +1,7 @@
+**Learning Two-Branch Neural Networks for Image-Text Matching Tasks**  
+*Liwei Wang, Yin Li, Svetlana Lazebnik*  
+[[paper](https://arxiv.org/abs/1704.03470)]  
+
 #Image to Caption Generation  
 **Recurrent Topic-Transition GAN for Visual Paragraph Generation**  
 *Xiaodan Liang, Zhiting Hu, Hao Zhang, Chuang Gan, Eric P. Xing*  

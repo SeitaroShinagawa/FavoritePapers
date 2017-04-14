@@ -1,4 +1,8 @@
 #Image Generation  
+**Neural Face Editing with Intrinsic Image Disentangling**  
+*Zhixin Shu, Ersin Yumer, Sunil Hadap, Kalyan Sunkavalli, Eli Shechtman, Dimitris Samaras*  
+[[paper](https://arxiv.org/abs/1704.04131)]  
+
 **A Neural Representation of Sketch Drawings**  
 *David Ha, Douglas Eck*  
 [[paper](https://arxiv.org/abs/1704.03477)]  

@@ -1,3 +1,7 @@
+**Deep Reinforcement Learning-based Image Captioning with Embedding Reward**  
+*Zhou Ren, Xiaoyu Wang, Ning Zhang, Xutao Lv, Li-Jia Li*  
+[[paper](https://arxiv.org/pdf/1704.03899.pdf)]  
+
 **Deep Compositional Captioning: Describing Novel Object Categories without Paired Training Data(CVPR2016)**  
 [[paper](http://www.cs.utexas.edu/~ml/papers/hendricks.cvpr16.pdf)]  
 

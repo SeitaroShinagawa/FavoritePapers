@@ -1,3 +1,6 @@
+**自然言語処理における前処理の種類とその威力**  
+[[qiita](http://qiita.com/Hironsan/items/2466fe0f344115aff177)]  
+
 **Single Shot Multibox Detector (SSD)**  
 [[code](https://github.com/perrying/ssd-torch7)]  
 

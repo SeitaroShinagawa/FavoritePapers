@@ -1,5 +1,9 @@
-#Image Generation  
-**Multi-View Image Generation from a Single-View**  
+#Image Generation  
+**Multimodal Prediction and Personalization of Photo Edits with Deep Generative Models**  
+*Ardavan Saeedi, Matthew D. Hoffman, Stephen J. DiVerdi, Asma Ghandeharioun, Matthew J. Johnson, Ryan P. Adams*  
+[[paper](https://arxiv.org/abs/1704.04997)]  
+
+**Multi-View Image Generation from a Single-View**  
 *Bo Zhao, Xiao Wu, Zhi-Qi Cheng, Hao Liu, Jiashi Feng*  
 [[paper](https://arxiv.org/abs/1704.04886)]  
 

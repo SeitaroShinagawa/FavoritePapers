@@ -1,5 +1,9 @@
 #Image Generation  
-**Neural Face Editing with Intrinsic Image Disentangling**  
+**Multi-View Image Generation from a Single-View**  
+*Bo Zhao, Xiao Wu, Zhi-Qi Cheng, Hao Liu, Jiashi Feng*  
+[[paper](https://arxiv.org/abs/1704.04886)]  
+
+**Neural Face Editing with Intrinsic Image Disentangling**  
 *Zhixin Shu, Ersin Yumer, Sunil Hadap, Kalyan Sunkavalli, Eli Shechtman, Dimitris Samaras*  
 [[paper](https://arxiv.org/abs/1704.04131)]  
 

@@ -26,6 +26,10 @@
 [[paper](https://arxiv.org/abs/1701.08533v1)]  
 
 ##Question Answering  
+**Learning to Reason: End-to-End Module Networks for Visual Question Answering**  
+*Ronghang Hu, Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Kate Saenko*  
+[[paper](https://arxiv.org/abs/1704.05526v1)]  
+
 **Ask Your Neurons: A Neural-based Approach to Answering Questions about Images(ICCV2015)**  
 *Mateusz Malinowski, Marcus Rohrbach, Mario Fritz*  
 [[paper](https://arxiv.org/abs/1505.01121)]  

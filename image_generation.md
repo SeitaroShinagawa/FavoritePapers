@@ -1,4 +1,7 @@
 #Image Generation  
+**Unsupervised Creation of Parameterized Avatars**  
+*Lior Wolf, Yaniv Taigman, Adam Polyak*  
+[[paper](https://arxiv.org/abs/1704.05693)]  
 
 **Learning to Generate Long-term Future via Hierarchical Prediction**  
 *Ruben Villegas, Jimei Yang, Yuliang Zou, Sungryull Sohn, Xunyu Lin, Honglak Lee*  

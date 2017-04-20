@@ -1,3 +1,7 @@
+**OpenCVによるアニメ顔画像検出**  
+[[link](https://github.com/musyoku/cv-animeface)]  
+[[lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface)]  
+
 **自然言語処理における前処理の種類とその威力**  
 [[qiita](http://qiita.com/Hironsan/items/2466fe0f344115aff177)]  
 

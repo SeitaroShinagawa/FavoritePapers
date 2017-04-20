@@ -1,4 +1,13 @@
-#Image Generation  
+#Image Generation  
+
+**Learning to Generate Long-term Future via Hierarchical Prediction**  
+*Ruben Villegas, Jimei Yang, Yuliang Zou, Sungryull Sohn, Xunyu Lin, Honglak Lee*  
+[[paper](https://arxiv.org/abs/1704.05831)]  
+
+**Network of Experts for Large-Scale Image Categorization**  
+*Karim Ahmed, Mohammad Haris Baig, Lorenzo Torresani*  
+[[paper](https://arxiv.org/abs/1604.06119v3)]  
+
 **Multimodal Prediction and Personalization of Photo Edits with Deep Generative Models**  
 *Ardavan Saeedi, Matthew D. Hoffman, Stephen J. DiVerdi, Asma Ghandeharioun, Matthew J. Johnson, Ryan P. Adams*  
 [[paper](https://arxiv.org/abs/1704.04997)]  

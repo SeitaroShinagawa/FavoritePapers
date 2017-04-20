@@ -1,6 +1,11 @@
-#reinforcement learning
-**Neural Episodic Control**  
-[[paper](https://arxiv.org/pdf/1703.01988.pdf)]  
+#reinforcement learning  
+
+**Beating Atari with Natural Language Guided Reinforcement Learning**  
+*Russell Kaplan, Christopher Sauer, Alexander Sosa*  
+[[paper](https://arxiv.org/abs/1704.05539)]  
+
+**Neural Episodic Control**  　
+[[paper](https://arxiv.org/pdf/1703.01988.pdf)]  
 
 **The Game Imitation: Deep Supervised Convolutional Networks for Quick Video Game AI**  
 *Zhao Chen, Darvin Yi*  

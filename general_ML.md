@@ -1,3 +1,7 @@
+**Softmax GAN**  
+*Min Lin*  
+[[paper](https://arxiv.org/abs/1704.06191)]  
+
 **Overcoming Catastrophic Forgetting in Neural Networks**  
 [[paper](https://arxiv.org/abs/1612.00796)]  
 [[blog](http://rylanschaeffer.github.io/content/research/overcoming_catastrophic_forgetting/main.html)]  

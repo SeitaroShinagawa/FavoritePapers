@@ -1,3 +1,7 @@
+**Fast Generation for Convolutional Autoregressive Models**  
+*Prajit Ramachandran, Tom Le Paine, Pooya Khorrami, Mohammad Babaeizadeh, Shiyu Chang, Yang Zhang, Mark A. Hasegawa-Johnson, Roy H. Campbell, Thomas S. Huang*  
+[[paper](https://arxiv.org/abs/1704.06001)]  
+
 **Softmax GAN**  
 *Min Lin*  
 [[paper](https://arxiv.org/abs/1704.06191)]  

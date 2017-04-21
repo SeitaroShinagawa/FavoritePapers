@@ -26,7 +26,12 @@
 [[paper](https://arxiv.org/abs/1701.08533v1)]  
 
 ##Question Answering  
-**Learning to Reason: End-to-End Module Networks for Visual Question Answering**  
+**Visual Dialog**  
+*Abhishek Das, Satwik Kottur, Khushi Gupta, Avi Singh, Deshraj Yadav, José M. F. Moura, Devi Parikh, Dhruv Batra*  
+[[paper](https://arxiv.org/abs/1611.08669)]  
+[[code](https://github.com/batra-mlp-lab/visdial)]  
+
+**Learning to Reason: End-to-End Module Networks for Visual Question Answering**  
 *Ronghang Hu, Jacob Andreas, Marcus Rohrbach, Trevor Darrell, Kate Saenko*  
 [[paper](https://arxiv.org/abs/1704.05526v1)]  
 

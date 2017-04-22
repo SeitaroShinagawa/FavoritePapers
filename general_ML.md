@@ -1,3 +1,7 @@
+**SafetyNet: Detecting and Rejecting Adversarial Examples Robustly**  
+*Jiajun Lu, Theerasit Issaranon, David Forsyth*  
+[[paper](https://arxiv.org/abs/1704.00103)]  
+
 **Fast Generation for Convolutional Autoregressive Models**  
 *Prajit Ramachandran, Tom Le Paine, Pooya Khorrami, Mohammad Babaeizadeh, Shiyu Chang, Yang Zhang, Mark A. Hasegawa-Johnson, Roy H. Campbell, Thomas S. Huang*  
 [[paper](https://arxiv.org/abs/1704.06001)]  

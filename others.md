@@ -1,3 +1,6 @@
+**pytorch-cheatsheet**  
+[[link](https://github.com/bfortuner/pytorch-cheatsheet/blob/master/pytorch-cheatsheet.ipynb?utm_content=bufferef38a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]  
+
 **OpenCVによるアニメ顔画像検出**  
 [[link](https://github.com/musyoku/cv-animeface)]  
 [[lbpcascade_animeface](https://github.com/nagadomi/lbpcascade_animeface)]  

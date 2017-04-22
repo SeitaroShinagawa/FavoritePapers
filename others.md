@@ -1,3 +1,7 @@
+**Training object class detectors with click supervision**  
+*Dim P. Papadopoulos, Jasper R. R. Uijlings, Frank Keller, Vittorio Ferrari*  
+[[paper](https://arxiv.org/abs/1704.06189)]  
+
 **pytorch-cheatsheet**  
 [[link](https://github.com/bfortuner/pytorch-cheatsheet/blob/master/pytorch-cheatsheet.ipynb?utm_content=bufferef38a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]  
 

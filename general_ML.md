@@ -1,3 +1,7 @@
+**A recurrent neural network without chaos**(ICLR2017)  
+*Thomas Laurent, James von Brecht*  
+[[paper](https://arxiv.org/abs/1612.06212)]  
+
 **SafetyNet: Detecting and Rejecting Adversarial Examples Robustly**  
 *Jiajun Lu, Theerasit Issaranon, David Forsyth*  
 [[paper](https://arxiv.org/abs/1704.00103)]  

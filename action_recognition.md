@@ -1,4 +1,8 @@
 #Action Recognition  
+**Detecting and Recognizing Human-Object Interactions**  
+*Georgia Gkioxari, Ross Girshick, Piotr Dollár, Kaiming He*  
+[[paper](https://arxiv.org/abs/1704.07333v1)]  
+
 **Realtime_Multi-Person_Pose_Estimation**  
 [[code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)]  
 

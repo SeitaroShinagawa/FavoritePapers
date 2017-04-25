@@ -1,4 +1,8 @@
 #Awesome neural networks  
+**Time-Contrastive Networks: Self-Supervised Learning from Multi-View Observation**  
+*Pierre Sermanet, Corey Lynch, Jasmine Hsu, Sergey Levine*  
+[[paper](https://arxiv.org/abs/1704.06888)]  
+
 **SEGAN: Speech Enhancement Generative Adversarial Network**  
 *Santiago Pascual, Antonio Bonafonte, Joan Serrà*  
 [[paper](https://arxiv.org/abs/1703.09452)]  

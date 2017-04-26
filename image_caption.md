@@ -1,3 +1,7 @@
+**Prominent Object Detection and Recognition: A Saliency-based Pipeline**  
+*Hamed R. Tavakoli, Jorma Laaksonen*  
+[[paper](https://arxiv.org/abs/1704.07402)]  
+
 **Deep Reinforcement Learning-based Image Captioning with Embedding Reward**  
 *Zhou Ren, Xiaoyu Wang, Ning Zhang, Xutao Lv, Li-Jia Li*  
 [[paper](https://arxiv.org/pdf/1704.03899.pdf)]  

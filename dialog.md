@@ -26,6 +26,9 @@
 [[paper](https://arxiv.org/abs/1701.08533v1)]  
 
 ##Question Answering  
+**GuessWhat?! Visual object discovery through multi-modal dialogue(CVPR2017)**  
+[[paper](https://arxiv.org/abs/1611.08481)]  
+
 **A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input(NIPS2014)**  
 [[paper](https://papers.nips.cc/paper/5411-a-multi-world-approach-to-question-answering-about-real-world-scenes-based-on-uncertain-input.pdf)]  
 

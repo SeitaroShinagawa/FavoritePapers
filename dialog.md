@@ -26,7 +26,10 @@
 [[paper](https://arxiv.org/abs/1701.08533v1)]  
 
 ##Question Answering  
-**Visual Dialog**  
+**A Multi-World Approach to Question Answering about Real-World Scenes based on Uncertain Input(NIPS2014)**  
+[[paper](https://papers.nips.cc/paper/5411-a-multi-world-approach-to-question-answering-about-real-world-scenes-based-on-uncertain-input.pdf)]  
+
+**Visual Dialog**  
 *Abhishek Das, Satwik Kottur, Khushi Gupta, Avi Singh, Deshraj Yadav, José M. F. Moura, Devi Parikh, Dhruv Batra*  
 [[paper](https://arxiv.org/abs/1611.08669)]  
 [[code](https://github.com/batra-mlp-lab/visdial)]  

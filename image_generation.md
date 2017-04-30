@@ -1,3 +1,6 @@
+**Globally and Locally Consistent Image Completion(SIGGRAPH2017)**  
+[[project](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/)]  
+
 #Image Generation  
 **Unsupervised Creation of Parameterized Avatars**  
 *Lior Wolf, Yaniv Taigman, Adam Polyak*  

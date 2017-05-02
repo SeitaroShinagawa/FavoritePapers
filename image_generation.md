@@ -1,3 +1,8 @@
+**The Pose Knows: Video Forecasting by Generating Pose Futures**  
+*Jacob Walker, Kenneth Marino, Abhinav Gupta, Martial Hebert*  
+[[paper](https://arxiv.org/abs/1705.00053)]  
+人の映像を予測して生成するのに人体のボーンの動きを元に生成する方法の提案
+
 **Globally and Locally Consistent Image Completion(SIGGRAPH2017)**  
 [[project](http://hi.cs.waseda.ac.jp/~iizuka/projects/completion/en/)]    
 

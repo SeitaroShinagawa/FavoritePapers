@@ -1,3 +1,7 @@
+**Visual Attribute Transfer through Deep Image Analogy**  
+*Jing Liao, Yuan Yao, Lu Yuan, Gang Hua, Sing Bing Kang*  
+[[paper](https://arxiv.org/abs/1705.01088)]  
+
 **Outline Colorization through Tandem Adversarial Networks**  
 *Kevin Frans*  
 [[paper](https://arxiv.org/abs/1704.08834)]  

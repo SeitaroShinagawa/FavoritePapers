@@ -1,3 +1,7 @@
+**Outline Colorization through Tandem Adversarial Networks**  
+*Kevin Frans*  
+[[paper](https://arxiv.org/abs/1704.08834)]  
+
 **The Pose Knows: Video Forecasting by Generating Pose Futures**  
 *Jacob Walker, Kenneth Marino, Abhinav Gupta, Martial Hebert*  
 [[paper](https://arxiv.org/abs/1705.00053)]  

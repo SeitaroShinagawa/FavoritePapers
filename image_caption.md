@@ -1,3 +1,9 @@
+**Dense-Captioning Events in Videos**  
+*Ranjay Krishna, Kenji Hata, Frederic Ren, Li Fei-Fei, Juan Carlos Niebles*  
+[[paper](https://arxiv.org/abs/1705.00754)]  
+[[project](http://cs.stanford.edu/people/ranjaykrishna/densevid/)]  
+[[ArXivTimes](https://github.com/arXivTimes/arXivTimes/issues/297)]  
+
 **Prominent Object Detection and Recognition: A Saliency-based Pipeline**  
 *Hamed R. Tavakoli, Jorma Laaksonen*  
 [[paper](https://arxiv.org/abs/1704.07402)]  

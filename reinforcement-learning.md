@@ -1,5 +1,8 @@
 #reinforcement learning  
 
+**Phase-Functioned Neural Networks for Character Control**  
+[[paper](http://theorangeduck.com/media/uploads/other_stuff/phasefunction.pdf)]  
+
 **Beating Atari with Natural Language Guided Reinforcement Learning**  
 *Russell Kaplan, Christopher Sauer, Alexander Sosa*  
 [[paper](https://arxiv.org/abs/1704.05539)]  

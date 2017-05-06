@@ -1,3 +1,7 @@
+**Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Generative Adversarial Networks**  
+*Yifan Liu, Zengchang Qin, Zhenbo Luo, Hua Wang*  
+[[paper](https://arxiv.org/abs/1705.01908)]  
+
 **Visual Attribute Transfer through Deep Image Analogy**  
 *Jing Liao, Yuan Yao, Lu Yuan, Gang Hua, Sing Bing Kang*  
 [[paper](https://arxiv.org/abs/1705.01088)]  

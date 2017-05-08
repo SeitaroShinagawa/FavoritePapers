@@ -1,3 +1,7 @@
+**Cross-lingual Distillation for Text Classification**  
+*Ruochen Xu, Yiming Yang*  
+[[paper](https://arxiv.org/abs/1705.02073)]  
+
 **Detecting Adversarial Samples Using Density Ratio Estimates**  
 *Lovedeep Gondara*  
 [[paper](https://arxiv.org/abs/1705.02224)]  

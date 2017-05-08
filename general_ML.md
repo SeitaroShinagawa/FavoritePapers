@@ -1,3 +1,7 @@
+**Detecting Adversarial Samples Using Density Ratio Estimates**  
+*Lovedeep Gondara*  
+[[paper](https://arxiv.org/abs/1705.02224)]  
+
 **A recurrent neural network without chaos**(ICLR2017)  
 *Thomas Laurent, James von Brecht*  
 [[paper](https://arxiv.org/abs/1612.06212)]  

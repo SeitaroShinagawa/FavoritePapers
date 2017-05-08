@@ -26,6 +26,10 @@
 [[paper](https://arxiv.org/abs/1701.08533v1)]  
 
 ##Question Answering  
+**Machine Comprehension by Text-to-Text Neural Question Generation**  
+*Xingdi Yuan, Tong Wang, Caglar Gulcehre, Alessandro Sordoni, Philip Bachman, Sandeep Subramanian, Saizheng Zhang, Adam Trischler*  
+[[paper](https://arxiv.org/abs/1705.02012)]  
+
 **GuessWhat?! Visual object discovery through multi-modal dialogue(CVPR2017)**  
 [[paper](https://arxiv.org/abs/1611.08481)]  
 

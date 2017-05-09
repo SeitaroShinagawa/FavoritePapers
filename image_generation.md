@@ -1,3 +1,7 @@
+**Real-Time User-Guided Image Colorization with Learned Deep Priors**  
+*Richard Zhang, Jun-Yan Zhu, Phillip Isola, Xinyang Geng, Angela S. Lin, Tianhe Yu, Alexei A. Efros*  
+[[paper](https://arxiv.org/abs/1705.02999v1)]  
+
 **Auto-painter: Cartoon Image Generation from Sketch by Using Conditional Generative Adversarial Networks**  
 *Yifan Liu, Zengchang Qin, Zhenbo Luo, Hua Wang*  
 [[paper](https://arxiv.org/abs/1705.01908)]  

@@ -1,3 +1,7 @@
+**Poisson Image Editing**  
+[[paper](https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf)]  
+領域を切り取って貼り付ける。そのあと、外側の情報から、内側の画素値を推定し、滑らかに合成する手法  
+
 **Real-Time User-Guided Image Colorization with Learned Deep Priors**  
 *Richard Zhang, Jun-Yan Zhu, Phillip Isola, Xinyang Geng, Angela S. Lin, Tianhe Yu, Alexei A. Efros*  
 [[paper](https://arxiv.org/abs/1705.02999v1)]  

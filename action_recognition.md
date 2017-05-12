@@ -2,10 +2,10 @@
 **Detecting and Recognizing Human-Object Interactions**  
 *Georgia Gkioxari, Ross Girshick, Piotr Dollár, Kaiming He*  
 [[paper](https://arxiv.org/abs/1704.07333v1)]  
-[[code](http://qiita.com/nnn112358/items/a4490d85dac5827db53b)]  
 
 **Realtime_Multi-Person_Pose_Estimation**  
 [[code](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)]  
+[[qiita](http://qiita.com/nnn112358/items/a4490d85dac5827db53b)]  
 
 **動的な人物/物体認識技術 -Dense Trajectories- **  
 [[slide](https://www.slideshare.net/HirokatsuKataoka/dt-tutorial)]  

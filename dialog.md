@@ -26,6 +26,10 @@
 [[paper](https://arxiv.org/abs/1701.08533v1)]  
 
 ##Question Answering  
+**Inferring and Executing Programs for Visual Reasoning**  
+*Justin Johnson, Bharath Hariharan, Laurens van der Maaten, Judy Hoffman, Li Fei-Fei, C. Lawrence Zitnick, Ross Girshick*  
+[[paper](https://arxiv.org/abs/1705.03633)]  
+
 **Machine Comprehension by Text-to-Text Neural Question Generation**  
 *Xingdi Yuan, Tong Wang, Caglar Gulcehre, Alessandro Sordoni, Philip Bachman, Sandeep Subramanian, Saizheng Zhang, Adam Trischler*  
 [[paper](https://arxiv.org/abs/1705.02012)]  

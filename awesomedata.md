@@ -1,4 +1,7 @@
 #Awesome dataset  
+**CLEVR: A Diagnostic Dataset for Compositional Language and Elementary Visual Reasoning(CVPR2017)**  
+[[project](http://cs.stanford.edu/people/jcjohns/clevr/)]  
+
 **triviaQA: A Large Scale Dataset for Reading Comprehension and Question Answering**  
 [[link](http://nlp.cs.washington.edu/triviaqa/)]  
 

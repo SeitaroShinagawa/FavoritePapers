@@ -1,3 +1,6 @@
+**藤吉先生 動画像理解技術とその応用**  
+[[link](http://www.vision.cs.chubu.ac.jp/vu/pdf/VU.pdf)]  
+
 **Training object class detectors with click supervision**  
 *Dim P. Papadopoulos, Jasper R. R. Uijlings, Frank Keller, Vittorio Ferrari*  
 [[paper](https://arxiv.org/abs/1704.06189)]  

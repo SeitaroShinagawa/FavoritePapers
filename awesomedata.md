@@ -1,4 +1,7 @@
 #Awesome dataset  
+**Simple Vector Drawing Datasets**  
+[[link](https://github.com/hardmaru/sketch-rnn-datasets)]  
+
 **The Behance Artistic Media Dataset**  
 [[link](https://bam-dataset.org/)]  
 

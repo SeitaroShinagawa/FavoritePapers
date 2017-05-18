@@ -1,3 +1,7 @@
+**Neural Style Transfer: A Review**  
+*Yongcheng Jing, Yezhou Yang, Zunlei Feng, Jingwen Ye, Mingli Song*  
+[[paper](https://arxiv.org/abs/1705.04058)]  
+
 **Poisson Image Editing**  
 [[paper](https://www.cs.jhu.edu/~misha/Fall07/Papers/Perez03.pdf)]  
 [[code](https://github.com/cheind/poisson-image-editing)]  

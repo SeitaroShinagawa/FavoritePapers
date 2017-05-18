@@ -1,3 +1,7 @@
+**Sort Story: Sorting Jumbled Images and Captions into Stories**  
+*Harsh Agrawal, Arjun Chandrasekaran, Dhruv Batra, Devi Parikh, Mohit Bansal*  
+[[paper](https://arxiv.org/abs/1606.07493v5)]  
+
 **Dense-Captioning Events in Videos**  
 *Ranjay Krishna, Kenji Hata, Frederic Ren, Li Fei-Fei, Juan Carlos Niebles*  
 [[paper](https://arxiv.org/abs/1705.00754)]  

@@ -463,6 +463,9 @@ exemplar[[link](http://www.springerexemplar.com/)]
 英文校正ツール  
 [[link](https://app.grammarly.com/)]  
 
+**to correct misuse phrase**  
+[[link](http://englishplus.com/grammar/mistcont.htm)]  
+
 **correcting with google translate**  
 [[article](http://www.gizmodo.jp/2017/03/google_translate_spreadsheet.html)]  
 [[blog](http://aki.shirai.as/2017/02/google-translate-and-spreadsheet-for-international-submission/)]  

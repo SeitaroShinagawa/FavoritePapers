@@ -26,6 +26,10 @@
 [[paper](https://arxiv.org/abs/1701.08533v1)]  
 
 ##Question Answering  
+**Survey of Visual Question Answering: Datasets and Techniques**  
+*Akshay Kumar Gupta*  
+[[paper](https://arxiv.org/abs/1705.03865)]  
+
 **Inferring and Executing Programs for Visual Reasoning**  
 *Justin Johnson, Bharath Hariharan, Laurens van der Maaten, Judy Hoffman, Li Fei-Fei, C. Lawrence Zitnick, Ross Girshick*  
 [[paper](https://arxiv.org/abs/1705.03633)]  

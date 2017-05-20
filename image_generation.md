@@ -1,3 +1,7 @@
+**Learning Texture Manifolds with the Periodic Spatial GAN**  
+*Urs Bergmann, Nikolay Jetchev, Roland Vollgraf*  
+[[paper](https://arxiv.org/abs/1705.06566v1)]  
+
 **Neural Style Transfer: A Review**  
 *Yongcheng Jing, Yezhou Yang, Zunlei Feng, Jingwen Ye, Mingli Song*  
 [[paper](https://arxiv.org/abs/1705.04058)]  

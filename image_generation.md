@@ -1,3 +1,8 @@
+**Texture Synthesis with Spatial Generative Adversarial Networks**  
+*Nikolay Jetchev, Urs Bergmann, Roland Vollgraf*  
+[[paper](https://arxiv.org/abs/1611.08207)]  
+[[code](https://github.com/ubergmann/spatial_gan)]  
+
 **Learning Texture Manifolds with the Periodic Spatial GAN**  
 *Urs Bergmann, Nikolay Jetchev, Roland Vollgraf*  
 [[paper](https://arxiv.org/abs/1705.06566v1)]  

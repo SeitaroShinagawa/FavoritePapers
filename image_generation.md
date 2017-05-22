@@ -1,3 +1,7 @@
+**Pixel Deconvolutional Networks**  
+*Hongyang Gao, Hao Yuan, Zhengyang Wang, Shuiwang Ji*  
+[[paper](https://arxiv.org/abs/1705.06820)]  
+
 **Texture Synthesis with Spatial Generative Adversarial Networks**  
 *Nikolay Jetchev, Urs Bergmann, Roland Vollgraf*  
 [[paper](https://arxiv.org/abs/1611.08207)]  

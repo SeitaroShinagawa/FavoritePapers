@@ -1,3 +1,7 @@
+**Real Time Image Saliency for Black Box Classifiers**  
+*Piotr Dabkowski, Yarin Gal*  
+[[paper](https://arxiv.org/abs/1705.07857)]  
+
 **Cross-lingual Distillation for Text Classification**  
 *Ruochen Xu, Yiming Yang*  
 [[paper](https://arxiv.org/abs/1705.02073)]  

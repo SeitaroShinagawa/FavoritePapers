@@ -1,3 +1,7 @@
+**Annealed Generative Adversarial Networks**  
+*Arash Mehrjou, Bernhard Schölkopf, Saeed Saremi*  
+[[paper](https://arxiv.org/abs/1705.07505)]  
+
 **Real Time Image Saliency for Black Box Classifiers**  
 *Piotr Dabkowski, Yarin Gal*  
 [[paper](https://arxiv.org/abs/1705.07857)]  

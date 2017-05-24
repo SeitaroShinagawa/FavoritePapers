@@ -1,6 +1,10 @@
-**PixelCNN models with Auxiliary Variables for Natural Image Modeling**  
+**PixelVAE: A Latent Variable Model for Natural Images(ICLR2017)**  
+*Ishaan Gulrajani, Kundan Kumar, Faruk Ahmed, Adrien Ali Taiga, Francesco Visin, David Vazquez, Aaron Courville*
+[[paper](https://arxiv.org/abs/1611.05013)]  
+
+**PixelCNN models with Auxiliary Variables for Natural Image Modeling(ICML2017)**  
 *Alexander Kolesnikov (IST Austria) · Christoph Lampert (IST Austria)*  
-[[paper](https://arxiv.org/abs/1612.08185)]  
+[[ArXiv](https://arxiv.org/abs/1612.08185)]  
 
 **Stabilizing GAN Training with Multiple Random Projections**  
 *Behnam Neyshabur, Srinadh Bhojanapalli, Ayan Chakrabarti*  

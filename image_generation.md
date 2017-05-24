@@ -1,3 +1,7 @@
+**PixelCNN models with Auxiliary Variables for Natural Image Modeling**  
+*Alexander Kolesnikov (IST Austria) · Christoph Lampert (IST Austria)*  
+[[paper](https://arxiv.org/abs/1612.08185)]  
+
 **Stabilizing GAN Training with Multiple Random Projections**  
 *Behnam Neyshabur, Srinadh Bhojanapalli, Ayan Chakrabarti*  
 [[paper](https://arxiv.org/abs/1705.07831)]  

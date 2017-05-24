@@ -41,7 +41,7 @@
 [[paper](https://arxiv.org/abs/1612.01887)]  
 [[arXivTimes](https://github.com/arXivTimes/arXivTimes/issues/238)]  
 
-**Controllable Text Generation**  
+**Controllable Text Generation(ICML2017)**  
 *Zhiting Hu, Zichao Yang, Xiaodan Liang, Ruslan Salakhutdinov, Eric P. Xing*  
 [[paper](https://arxiv.org/abs/1703.00955)]  
 

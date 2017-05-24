@@ -1,6 +1,6 @@
 **PixelVAE: A Latent Variable Model for Natural Images(ICLR2017)**  
-*Ishaan Gulrajani, Kundan Kumar, Faruk Ahmed, Adrien Ali Taiga, Francesco Visin, David Vazquez, Aaron Courville*
-[[paper](https://arxiv.org/abs/1611.05013)]  
+*Ishaan Gulrajani, Kundan Kumar, Faruk Ahmed, Adrien Ali Taiga, Francesco Visin, David Vazquez, Aaron Courville*  
+[[paper](https://arxiv.org/abs/1611.05013)] 
 
 **PixelCNN models with Auxiliary Variables for Natural Image Modeling(ICML2017)**  
 *Alexander Kolesnikov (IST Austria) · Christoph Lampert (IST Austria)*  

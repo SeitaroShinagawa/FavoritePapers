@@ -1,3 +1,7 @@
+**Stabilizing GAN Training with Multiple Random Projections**  
+*Behnam Neyshabur, Srinadh Bhojanapalli, Ayan Chakrabarti*  
+[[paper](https://arxiv.org/abs/1705.07831)]  
+
 **VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning**  
 *Akash Srivastava, Lazar Valkov, Chris Russell, Michael Gutmann, Charles Sutton*  
 [[paper](https://arxiv.org/abs/1705.07761)]  

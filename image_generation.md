@@ -1,3 +1,7 @@
+**VEEGAN: Reducing Mode Collapse in GANs using Implicit Variational Learning**  
+*Akash Srivastava, Lazar Valkov, Chris Russell, Michael Gutmann, Charles Sutton*  
+[[paper](https://arxiv.org/abs/1705.07761)]  
+
 **Pixel Deconvolutional Networks**  
 *Hongyang Gao, Hao Yuan, Zhengyang Wang, Shuiwang Ji*  
 [[paper](https://arxiv.org/abs/1705.06820)]  
@@ -33,6 +37,7 @@
 **Visual Attribute Transfer through Deep Image Analogy**  
 *Jing Liao, Yuan Yao, Lu Yuan, Gang Hua, Sing Bing Kang*  
 [[paper](https://arxiv.org/abs/1705.01088)]  
+[[code](https://github.com/msracver/Deep-Image-Analogy)]  
 
 **Outline Colorization through Tandem Adversarial Networks**  
 *Kevin Frans*  

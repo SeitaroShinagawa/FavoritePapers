@@ -1,3 +1,7 @@
+**Nonlinear Information Bottleneck**  
+*Artemy Kolchinsky, Brendan D. Tracey, David H. Wolpert*  
+[[paper](https://arxiv.org/abs/1705.02436)]  
+
 **Grounded Recurrent Neural Networks**  
 *Ankit Vani, Yacine Jernite, David Sontag*  
 [[paper](https://arxiv.org/abs/1705.08557)]  

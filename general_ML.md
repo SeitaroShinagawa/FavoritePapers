@@ -1,3 +1,7 @@
+**Grounded Recurrent Neural Networks**  
+*Ankit Vani, Yacine Jernite, David Sontag*  
+[[paper](https://arxiv.org/abs/1705.08557)]  
+
 **Annealed Generative Adversarial Networks**  
 *Arash Mehrjou, Bernhard Schölkopf, Saeed Saremi*  
 [[paper](https://arxiv.org/abs/1705.07505)]  

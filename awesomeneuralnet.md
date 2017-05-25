@@ -1,4 +1,8 @@
 #Awesome neural networks  
+**Convolutional Sequence to Sequence Learning**  
+*Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, Yann N. Dauphin*  
+[[paper](https://arxiv.org/abs/1705.03122)]  
+
 **Time-Contrastive Networks: Self-Supervised Learning from Multi-View Observation**  
 *Pierre Sermanet, Corey Lynch, Jasmine Hsu, Sergey Levine*  
 [[paper](https://arxiv.org/abs/1704.06888)]  

@@ -1,3 +1,7 @@
+**Continual Learning with Deep Generative Replay**  
+*Hanul Shin, Jung Kwon Lee, Jaehong Kim, Jiwon Kim*  
+[[paper](https://arxiv.org/abs/1705.08690)]  
+
 **Nonlinear Information Bottleneck**  
 *Artemy Kolchinsky, Brendan D. Tracey, David H. Wolpert*  
 [[paper](https://arxiv.org/abs/1705.02436)]  

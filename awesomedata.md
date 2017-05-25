@@ -1,4 +1,8 @@
 #Awesome dataset  
+**MANGA109**  
+[[link](http://www.manga109.org/index.php)]  
+日本の漫画データセット、学術利用目的のみ使用可能、アノテーションツール有り  
+
 **Simple Vector Drawing Datasets**  
 [[link](https://github.com/hardmaru/sketch-rnn-datasets)]  
 

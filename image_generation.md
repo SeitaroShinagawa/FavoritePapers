@@ -1,3 +1,7 @@
+**Exploring the structure of a real-time, arbitrary neural artistic stylization network**  
+*Golnaz Ghiasi, Honglak Lee, Manjunath Kudlur, Vincent Dumoulin, Jonathon Shlens*  
+[[paper](https://arxiv.org/abs/1705.06830)]  
+
 **PixelVAE: A Latent Variable Model for Natural Images(ICLR2017)**  
 *Ishaan Gulrajani, Kundan Kumar, Faruk Ahmed, Adrien Ali Taiga, Francesco Visin, David Vazquez, Aaron Courville*  
 [[paper](https://arxiv.org/abs/1611.05013)] 

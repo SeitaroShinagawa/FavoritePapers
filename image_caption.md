@@ -1,3 +1,7 @@
+**Show, Adapt and Tell: Adversarial Training of Cross-domain Image Captioner**  
+*Tseng-Hung Chen, Yuan-Hong Liao, Ching-Yao Chuang, Wan-Ting Hsu, Jianlong Fu, Min Sun*  
+[[paper](https://arxiv.org/abs/1705.00930)]  
+
 **Generating Sentences from a Continuous Space**  
 *Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio*  
 [[paper](https://arxiv.org/abs/1511.06349)]  

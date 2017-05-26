@@ -1,3 +1,7 @@
+**Generating Sentences from a Continuous Space**  
+*Samuel R. Bowman, Luke Vilnis, Oriol Vinyals, Andrew M. Dai, Rafal Jozefowicz, Samy Bengio*  
+[[paper](https://arxiv.org/abs/1511.06349)]  
+
 **FOIL it! Find One mismatch between Image and Language caption**  
 *Ravi Shekhar, Sandro Pezzelle, Yauhen Klimovich, Aurelie Herbelot, Moin Nabi, Enver Sangineto, Raffaella Bernardi*  
 [[paper](https://arxiv.org/abs/1705.01359)]  

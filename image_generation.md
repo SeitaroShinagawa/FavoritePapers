@@ -1,3 +1,8 @@
+**How to Train Your DRAGAN**  
+*Naveen Kodali, Jacob Abernethy, James Hays, Zsolt Kira*  
+[[paper](https://arxiv.org/abs/1705.07215)]  
+[[code](https://github.com/kodalinaveen3/DRAGAN)]  
+
 **Exploring the structure of a real-time, arbitrary neural artistic stylization network**  
 *Golnaz Ghiasi, Honglak Lee, Manjunath Kudlur, Vincent Dumoulin, Jonathon Shlens*  
 [[paper](https://arxiv.org/abs/1705.06830)]  

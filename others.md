@@ -1,3 +1,6 @@
+**Jupyter Notebookでプレゼンをするとっても便利な方法**  
+[[qiita](http://qiita.com/cvusk/items/d425751ba663dc8c6517)]  
+
 **藤吉先生 動画像理解技術とその応用**  
 [[link](http://www.vision.cs.chubu.ac.jp/vu/pdf/VU.pdf)]  
 

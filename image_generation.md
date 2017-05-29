@@ -1,3 +1,7 @@
+**Improved Training of Wasserstein GANs**  
+[[paper](https://arxiv.org/abs/1704.00028)] 
+[[pytorch](https://github.com/caogang/wgan-gp)]  
+
 **Stabilizing Training of Generative Adversarial Networks through Regularization**  
 *Kevin Roth, Aurelien Lucchi, Sebastian Nowozin, Thomas Hofmann*  
 [[paper](https://arxiv.org/abs/1705.09367)]  

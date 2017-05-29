@@ -1,3 +1,7 @@
+**Stabilizing Training of Generative Adversarial Networks through Regularization**  
+*Kevin Roth, Aurelien Lucchi, Sebastian Nowozin, Thomas Hofmann*  
+[[paper](https://arxiv.org/abs/1705.09367)]  
+
 **How to Train Your DRAGAN**  
 *Naveen Kodali, Jacob Abernethy, James Hays, Zsolt Kira*  
 [[paper](https://arxiv.org/abs/1705.07215)]  

@@ -1,3 +1,7 @@
+**Pose Guided Person Image Generation**  
+*Liqian Ma, Xu Jia, Qianru Sun, Bernt Schiele, Tinne Tuytelaars, Luc Van Gool*  
+[[paper](https://arxiv.org/abs/1705.09368)]  
+
 **Improved Training of Wasserstein GANs**  
 [[paper](https://arxiv.org/abs/1704.00028)] 
 [[pytorch](https://github.com/caogang/wgan-gp)]  

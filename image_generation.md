@@ -1,3 +1,7 @@
+**Conditional CycleGAN for Attribute Guided Face Image Generation**  
+*Yongyi Lu, Yu-Wing Tai, Chi-Keung Tang*  
+[[paper](https://arxiv.org/abs/1705.09966)]  
+
 **Pose Guided Person Image Generation**  
 *Liqian Ma, Xu Jia, Qianru Sun, Bernt Schiele, Tinne Tuytelaars, Luc Van Gool*  
 [[paper](https://arxiv.org/abs/1705.09368)]  

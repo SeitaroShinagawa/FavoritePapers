@@ -414,6 +414,9 @@ python local server[[link](http://qiita.com/higuma/items/b23ca9d96dac49999ab9)]
 [[link](https://github.com/fchollet/keras-resources)]  
 [[augmentation](https://www.reddit.com/r/MachineLearning/comments/4v0xw2/keras_image_augmentation/)]    
 
+**Tensorflow tutorial**  
+[[link](https://github.com/rasbt/deep-learning-book/tree/master/code/model_zoo)]  
+
 libsvm  
 [[code](https://github.com/cjlin1/libsvm)]  
 [[practical guide](http://www.csie.ntu.edu.tw/~cjlin/papers/guide/guide.pdf)]  

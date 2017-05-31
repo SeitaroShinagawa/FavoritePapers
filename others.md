@@ -1,3 +1,6 @@
+**WebDNN: Fastest DNN Execution Framework on Web Browser**  
+[[link](https://github.com/mil-tokyo/webdnn/blob/master/README_ja.md)]  
+
 **Jupyter Notebookでプレゼンをするとっても便利な方法**  
 [[qiita](http://qiita.com/cvusk/items/d425751ba663dc8c6517)]  
 

@@ -1,3 +1,7 @@
+**Neural Embeddings of Graphs in Hyperbolic Space**  
+*Benjamin Paul Chamberlain, James Clough, Marc Peter Deisenroth*  
+[[paper](https://arxiv.org/abs/1705.10359)]  
+
 **Continual Learning with Deep Generative Replay**  
 *Hanul Shin, Jung Kwon Lee, Jaehong Kim, Jiwon Kim*  
 [[paper](https://arxiv.org/abs/1705.08690)]  

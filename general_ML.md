@@ -1,3 +1,7 @@
+**The Cramer Distance as a Solution to Biased Wasserstein Gradients**  
+*Marc G. Bellemare, Ivo Danihelka, Will Dabney, Shakir Mohamed, Balaji Lakshminarayanan, Stephan Hoyer, Rémi Munos*  
+[[paper](https://arxiv.org/abs/1705.10743)]  
+
 **Deep Learning is Robust to Massive Label Noise**  
 *David Rolnick, Andreas Veit, Serge Belongie, Nir Shavit*  
 [[paper](https://arxiv.org/abs/1705.10694)]  

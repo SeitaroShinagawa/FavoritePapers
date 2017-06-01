@@ -1,3 +1,7 @@
+**Deep Learning is Robust to Massive Label Noise**  
+*David Rolnick, Andreas Veit, Serge Belongie, Nir Shavit*  
+[[paper](https://arxiv.org/abs/1705.10694)]  
+
 **Neural Embeddings of Graphs in Hyperbolic Space**  
 *Benjamin Paul Chamberlain, James Clough, Marc Peter Deisenroth*  
 [[paper](https://arxiv.org/abs/1705.10359)]  

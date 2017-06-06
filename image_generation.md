@@ -1,3 +1,7 @@
+**On Unifying Deep Generative Models**  
+*Zhiting Hu, Zichao Yang, Ruslan Salakhutdinov, Eric P. Xing*  
+[[paper](https://arxiv.org/abs/1706.00550)]  
+
 **Conditional CycleGAN for Attribute Guided Face Image Generation**  
 *Yongyi Lu, Yu-Wing Tai, Chi-Keung Tang*  
 [[paper](https://arxiv.org/abs/1705.09966)]  

@@ -1,3 +1,7 @@
+**Teaching Machines to Describe Images via Natural Language Feedback**  
+*Huan Ling, Sanja Fidler*  
+[[paper](https://arxiv.org/abs/1706.00130v2)]  
+
 **Show, Adapt and Tell: Adversarial Training of Cross-domain Image Captioner**  
 *Tseng-Hung Chen, Yuan-Hong Liao, Ching-Yao Chuang, Wan-Ting Hsu, Jianlong Fu, Min Sun*  
 [[paper](https://arxiv.org/abs/1705.00930)]  

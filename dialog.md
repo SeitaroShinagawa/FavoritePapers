@@ -26,6 +26,10 @@
 [[paper](https://arxiv.org/abs/1701.08533v1)]  
 
 ##Question Answering  
+**A simple neural network module for relational reasoning**  
+*Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap*  
+[[paper](https://arxiv.org/abs/1706.01427)]  
+
 **Survey of Visual Question Answering: Datasets and Techniques**  
 *Akshay Kumar Gupta*  
 [[paper](https://arxiv.org/abs/1705.03865)]  

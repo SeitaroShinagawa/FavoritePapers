@@ -1,3 +1,7 @@
+**Self-Normalizing Neural Networks**  
+*Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter*  
+[[paper](https://arxiv.org/abs/1706.02515)]  
+
 **The Cramer Distance as a Solution to Biased Wasserstein Gradients**  
 *Marc G. Bellemare, Ivo Danihelka, Will Dabney, Shakir Mohamed, Balaji Lakshminarayanan, Stephan Hoyer, Rémi Munos*  
 [[paper](https://arxiv.org/abs/1705.10743)]  

@@ -1,5 +1,9 @@
 #reinforcement learning  
 
+**Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments**  
+*Ryan Lowe, Yi Wu, Aviv Tamar, Jean Harb, Pieter Abbeel, Igor Mordatch*  
+[[paper](https://arxiv.org/abs/1706.02275)]  
+
 **Phase-Functioned Neural Networks for Character Control**  
 [[paper](http://theorangeduck.com/media/uploads/other_stuff/phasefunction.pdf)]  
 

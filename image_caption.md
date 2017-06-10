@@ -1,3 +1,6 @@
+**YouTube2Text: Recognizing and Describing Arbitrary Activities Using Semantic Hierarchies and Zero-shot Recognition(CVPR2013)**  
+[[paper](https://www.cs.utexas.edu/~vsub/pdf/YouTube2Text_Recognizing_and_2013_ICCV_paper.pdf)]  
+
 **Teaching Machines to Describe Images via Natural Language Feedback**  
 *Huan Ling, Sanja Fidler*  
 [[paper](https://arxiv.org/abs/1706.00130v2)]  

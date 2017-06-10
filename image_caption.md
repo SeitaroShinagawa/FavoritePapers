@@ -1,3 +1,6 @@
+**Deep Compositional Captioning: Describing Novel Object Categories without Paired Training Data(CVPR2016)**  
+[[paper](http://www.cs.utexas.edu/~ml/papers/hendricks.cvpr16.pdf)]  
+
 **YouTube2Text: Recognizing and Describing Arbitrary Activities Using Semantic Hierarchies and Zero-shot Recognition(CVPR2013)**  
 [[paper](https://www.cs.utexas.edu/~vsub/pdf/YouTube2Text_Recognizing_and_2013_ICCV_paper.pdf)]  
 

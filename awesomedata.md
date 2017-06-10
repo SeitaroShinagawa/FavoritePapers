@@ -1,4 +1,9 @@
 #Awesome dataset  
+**The Kinetics Human Action Video Dataset**  
+*Will Kay, Joao Carreira, Karen Simonyan, Brian Zhang, Chloe Hillier, Sudheendra Vijayanarasimhan, Fabio Viola, Tim Green, Trevor Back, Paul Natsev, Mustafa Suleyman, Andrew Zisserman*  
+[[paper](https://arxiv.org/abs/1705.06950)]  
+[[project](https://deepmind.com/research/open-source/open-source-datasets/kinetics/)]  
+
 **MANGA109**  
 [[link](http://www.manga109.org/index.php)]  
 日本の漫画データセット、学術利用目的のみ使用可能、アノテーションツール有り  

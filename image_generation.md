@@ -1,3 +1,7 @@
+**Beyond Deep Residual Learning for Image Restoration: Persistent Homology-Guided Manifold Simplification**  
+*Woong Bae, Jaejun Yoo, Jong Chul Ye*  
+[[paper](https://arxiv.org/abs/1611.06345)]  
+
 **On Unifying Deep Generative Models**  
 *Zhiting Hu, Zichao Yang, Ruslan Salakhutdinov, Eric P. Xing*  
 [[paper](https://arxiv.org/abs/1706.00550)]  

@@ -1,4 +1,8 @@
-#Awesome neural networks  
+#Awesome neural networks  
+**Attention Is All You Need**  
+*Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin*  
+[[paper](https://arxiv.org/abs/1706.03762)]  
+
 **Convolutional Sequence to Sequence Learning**  
 *Jonas Gehring, Michael Auli, David Grangier, Denis Yarats, Yann N. Dauphin*  
 [[paper](https://arxiv.org/abs/1705.03122)]  

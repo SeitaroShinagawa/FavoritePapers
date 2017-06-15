@@ -1,3 +1,7 @@
+**Fader Networks: Manipulating Images by Sliding Attributes**  
+*Guillaume Lample, Neil Zeghidour, Nicolas Usunier, Antoine Bordes, Ludovic Denoyer, Marc'Aurelio Ranzato*  
+[[paper](https://arxiv.org/abs/1706.00409)]  
+
 **Beyond Deep Residual Learning for Image Restoration: Persistent Homology-Guided Manifold Simplification**  
 *Woong Bae, Jaejun Yoo, Jong Chul Ye*  
 [[paper](https://arxiv.org/abs/1611.06345)]  

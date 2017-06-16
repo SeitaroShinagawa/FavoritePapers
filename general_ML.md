@@ -1,3 +1,7 @@
+**Hyperparameter Optimization: A Spectral Approach**  
+*Elad Hazan, Adam Klivans, Yang Yuan*  
+[[paper](https://arxiv.org/abs/1706.00764)]  
+
 **Self-Normalizing Neural Networks**  
 *Günter Klambauer, Thomas Unterthiner, Andreas Mayr, Sepp Hochreiter*  
 [[paper](https://arxiv.org/abs/1706.02515)]  

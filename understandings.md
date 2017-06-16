@@ -1,9 +1,9 @@
-##Algorithm  
+## Algorithm  
 **A Variational Analysis of Stochastic Gradient Algorithms(ICML2016)**  
 [[paper](http://jmlr.org/proceedings/papers/v48/mandt16.pdf)]  
 [[supplement](http://jmlr.org/proceedings/papers/v48/mandt16-supp.pdf)]  
 
-##Deep Neural Networks
+## Deep Neural Networks
 **All-but-the-Top: Simple and Effective Postprocessing for Word Representations**  
 *Jiaqi Mu, Suma Bhat, Pramod Viswanath*  
 [[paper](https://arxiv.org/abs/1702.01417)]  
@@ -24,7 +24,11 @@
 [[paper](http://jmlr.org/proceedings/papers/v48/shang16.pdf)]  
 
 
-##Visualization
+## Visualization
+**Network Dissection: Quantifying Interpretability of Deep Visual Representations**  
+*David Bau*, Bolei Zhou*, Aditya Khosla, Aude Oliva, Antonio Torralba*   
+[[project](http://netdissect.csail.mit.edu/)]   
+
 **Visualizing Residual Networks**  
 *Brian Chu, Daylen Yang, Ravi Tadinada*  
 [[paper](https://arxiv.org/abs/1701.02362v1)]  

@@ -1,4 +1,4 @@
-#Dialog Systems  
+# Dialog Systems  
 **Batch Policy Gradient Methods for Improving Neural Conversation Models**  
 *Kirthevasan Kandasamy, Yoram Bachrach, Ryota Tomioka, Daniel Tarlow, David Carter*  
 [[paper](https://arxiv.org/abs/1702.03334)]  
@@ -20,12 +20,17 @@
 *Ronald T. Kneusel, Michael C. Mozer*  
 [[paper](https://arxiv.org/abs/1612.08117)]  
 
-##Understanding  
+## Understanding  
 **Graph-Based Semi-Supervised Conditional Random Fields For Spoken Language Understanding Using Unaligned Data**  
 *Mohammad Aliannejadi, Masoud Kiaeeha, Shahram Khadivi, Saeed Shiry Ghidary*  
 [[paper](https://arxiv.org/abs/1701.08533v1)]  
 
-##Question Answering  
+## generation model  
+**Learning Discourse-level Diversity for Neural Dialog Models using Conditional Variational Autoencoders**  
+*Tiancheng Zhao, Ran Zhao, Maxine Eskenazi*  
+[[paper](https://arxiv.org/abs/1703.10960)]  
+
+## Question Answering  
 **A simple neural network module for relational reasoning**  
 *Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap*  
 [[paper](https://arxiv.org/abs/1706.01427)]  
@@ -99,12 +104,12 @@
 *Shuohang Wang, Jing Jiang*  
 [[link](http://arxiv.org/abs/1608.07905)]  
 
-##active learning   
+## active learning   
 **On-line Active Reward Learning for Policy Optimisation in Spoken Dialogue Systems**  
 *Pei-Hao Su, Milica Gasic, Nikola Mrksic, Lina Rojas-Barahona, Stefan Ultes, David Vandyke, Tsung-Hsien Wen, Steve Young*  
 [[paper](https://arxiv.org/abs/1605.07669v2)]  
 
-##task oriented
+## task oriented
 **End-to-End Task-Completion Neural Dialogue Systems**  
 *Xuijun Li, Yun-Nung Chen, Lihong Li, Jianfeng Gao*  
 [[paper](https://arxiv.org/abs/1703.01008)]  
@@ -134,24 +139,23 @@ Pei-Hao Su, Stefan Ultes, David Vandyke, Steve Young (Cambridge University)*
 *Sida I. Wang, Percy Liang, Christopher D. Manning*
 [[paper](http://arxiv.org/abs/1606.02447)]
 
-##conversation model
+## conversation model
 **A Long Short-Term Memory Framework for Predicting Humor in Dialogues(NAACL2016)**  
 [[paper](http://m-mitchell.com/NAACL-2016/NAACL-HLT2016/pdf/N16-1016.pdf)]  
 
 **A Neural Conversation Model**  
 [[GitXiv](http://gitxiv.com/posts/j9FtQgmHAQD8qceub/a-neural-conversational-model)]  
 
-##evaluation
+## evaluation
 **Adversarial Evaluation of Dialogue Models**  
 [[paper(https://arxiv.org/abs/1701.08198)]  
 
-#Corpus  
+# Corpus  
 **A Survey of Available Corpora For Building Data-Driven Dialogue Systems**  
 *Iulian Vlad Serban, Ryan Lowe, Laurent Charlin, Joelle Pineau*  
 [[paper](http://arxiv.org/abs/1512.05742)]  
 
-##Dialog Annotation
-
+## Dialog Annotation
 **Best of both worlds: human-machine collaboration for object annotation** (CVPR2015)  
 *Olga Russakovsky@1, Li-Jia Li@2, Li Fei-Fei@1*  (@1:Stanford University, @2:Yahoo! Labs)  
 [[project page](http://ai.stanford.edu/~olga/best_of_both_worlds.html)]  
@@ -161,7 +165,7 @@ Pei-Hao Su, Stefan Ultes, David Vandyke, Steve Young (Cambridge University)*
 *Christian Rupprecht@1,2, Lo¨ıc Peter@1, Nassir Navab@1,2* (@1:Technische Universitat M¨ unchen, @2:Johns Hopkins University)  
 [[paper](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Rupprecht_Image_Segmentation_in_2015_CVPR_paper.pdf)][[demo](http://campar.in.tum.de/pub/rupprecht2015cvpr/rupprecht2015cvpr.video.mp4)]  
 
-##Game Theory  
+## Game Theory  
 **Game Theory (Open Access textbook with 165 solved exercises)**  
 [[book](http://arxiv.org/abs/1512.06808?utm_campaign=Contact+SNS+For+More+Referrer&utm_medium=twitter&utm_source=snsanalytics)]  
 

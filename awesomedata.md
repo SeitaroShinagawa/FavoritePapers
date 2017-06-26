@@ -1,4 +1,7 @@
 #Awesome dataset  
+**日本声優統計学会 声優統計コーパス**  
+[[link](http://voice-statistics.github.io/)]  
+
 **IKEA DATASET(Dataset for IKEA 3D models and aligned images)**  
 [[link](http://ikea.csail.mit.edu/)]  
 

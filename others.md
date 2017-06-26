@@ -1,3 +1,6 @@
+**これだけ覚えておけばOK！シェルスクリプトで冪等性を担保するためのTips集**  
+[[qiita](http://qiita.com/yn-misaki/items/3ec0605cba228a7d5c9a)]  
+
 **WebDNN: Fastest DNN Execution Framework on Web Browser**  
 [[link](https://github.com/mil-tokyo/webdnn/blob/master/README_ja.md)]  
 

@@ -1,3 +1,7 @@
+**Learning from Complementary Labels**  
+*Takashi Ishida, Gang Niu, Masashi Sugiyama*  
+[[paper](https://arxiv.org/pdf/1705.07541.pdf)]  
+
 **Hyperparameter Optimization: A Spectral Approach**  
 *Elad Hazan, Adam Klivans, Yang Yuan*  
 [[paper](https://arxiv.org/abs/1706.00764)]  

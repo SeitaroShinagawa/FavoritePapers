@@ -1,4 +1,7 @@
 #Awesome dataset  
+**MF2 Training Dataset**  
+[[link](http://megaface.cs.washington.edu/dataset/download_training.html)]  
+
 **日本声優統計学会 声優統計コーパス**  
 [[link](http://voice-statistics.github.io/)]  
 

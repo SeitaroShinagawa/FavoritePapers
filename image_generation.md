@@ -1,3 +1,7 @@
+**Perceptual Adversarial Networks for Image-to-Image Transformation**  
+*Chaoyue Wang, Chang Xu, Chaohui Wang, Dacheng Tao*  
+[[paper](https://arxiv.org/abs/1706.09138)]  
+
 **Fader Networks: Manipulating Images by Sliding Attributes**  
 *Guillaume Lample, Neil Zeghidour, Nicolas Usunier, Antoine Bordes, Ludovic Denoyer, Marc'Aurelio Ranzato*  
 [[paper](https://arxiv.org/abs/1706.00409)]  

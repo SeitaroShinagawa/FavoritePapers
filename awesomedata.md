@@ -1,4 +1,7 @@
 #Awesome dataset  
+**pixel level annotation of MS-COCO**  
+[[link](https://github.com/nightrome/cocostuff)]  
+
 **MF2 Training Dataset**  
 [[link](http://megaface.cs.washington.edu/dataset/download_training.html)]  
 

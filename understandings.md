@@ -4,6 +4,14 @@
 [[supplement](http://jmlr.org/proceedings/papers/v48/mandt16-supp.pdf)]  
 
 ## Deep Neural Networks
+**Spectrally-normalized margin bounds for neural networks**  
+*Peter Bartlett, Dylan J. Foster, Matus Telgarsky*  
+[[paper](https://arxiv.org/abs/1706.08498)]  
+
+**Exploring Generalization in Deep Learning**  
+*Behnam Neyshabur, Srinadh Bhojanapalli, David McAllester, Nathan Srebro*  
+[[paper](https://arxiv.org/abs/1706.08947)]  
+
 **A Closer Look at Memorization in Deep Networks**  
 *Devansh Arpit, Stanisław Jastrzębski, Nicolas Ballas, David Krueger, Emmanuel Bengio, Maxinder S. Kanwal, Tegan Maharaj, Asja Fischer, Aaron Courville, Yoshua Bengio, Simon Lacoste-Julien*  
 [[paper](https://arxiv.org/abs/1706.05394)]  

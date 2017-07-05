@@ -1,3 +1,7 @@
+**LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation**  
+*Jianwei Yang, Anitha Kannan, Dhruv Batra, Devi Parikh*  
+[[paper](https://arxiv.org/abs/1703.01560v2)]  
+
 **Perceptual Adversarial Networks for Image-to-Image Transformation**  
 *Chaoyue Wang, Chang Xu, Chaohui Wang, Dacheng Tao*  
 [[paper](https://arxiv.org/abs/1706.09138)]  

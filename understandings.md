@@ -6,7 +6,7 @@
 ## Deep Neural Networks
 **Methods for Interpreting and Understanding Deep Neural Networks(survey)**  
 *Grégoire Montavon, Wojciech Samek, Klaus-Robert Müller*  
-[[paper](https://arxiv.org/abs/1706.00909)]  
+[[paper](https://arxiv.org/abs/1706.07979)]  
 
 **Spectrally-normalized margin bounds for neural networks**  
 *Peter Bartlett, Dylan J. Foster, Matus Telgarsky*  

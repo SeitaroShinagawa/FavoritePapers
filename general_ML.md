@@ -1,3 +1,7 @@
+**Variance Regularizing Adversarial Learning**  
+*Karan Grewal, R Devon Hjelm, Yoshua Bengio*  
+[[paper](https://arxiv.org/abs/1707.00309)]  
+
 **Learning by Association - A versatile semi-supervised training method for neural networks**  
 *Philip Häusser, Alexander Mordvintsev, Daniel Cremers*  
 [[paper](https://arxiv.org/abs/1706.00909)]  

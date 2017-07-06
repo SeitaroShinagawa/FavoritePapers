@@ -1,3 +1,7 @@
+**Hierarchical Model for Long-term Video Prediction**  
+*Peter Wang, Zhongxia Yan, Jeff Zhang*  
+[[paper](https://arxiv.org/abs/1706.08665v1)]  
+
 **Skeleton-aided Articulated Motion Generation**  
 *Yichao Yan, Jingwei Xu, Bingbing Ni, Xiaokang Yang*  
 [[paper](https://arxiv.org/abs/1707.01058)]  

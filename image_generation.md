@@ -1,3 +1,7 @@
+**Skeleton-aided Articulated Motion Generation**  
+*Yichao Yan, Jingwei Xu, Bingbing Ni, Xiaokang Yang*  
+[[paper](https://arxiv.org/abs/1707.01058)]  
+
 **LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation**  
 *Jianwei Yang, Anitha Kannan, Dhruv Batra, Devi Parikh*  
 [[paper](https://arxiv.org/abs/1703.01560v2)]  

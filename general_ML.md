@@ -1,3 +1,7 @@
+**Learning by Association - A versatile semi-supervised training method for neural networks**  
+*Philip Häusser, Alexander Mordvintsev, Daniel Cremers*  
+[[paper](https://arxiv.org/abs/1706.00909)]  
+
 **Learning from Complementary Labels**  
 *Takashi Ishida, Gang Niu, Masashi Sugiyama*  
 [[paper](https://arxiv.org/pdf/1705.07541.pdf)]  

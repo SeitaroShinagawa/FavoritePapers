@@ -4,6 +4,10 @@
 [[supplement](http://jmlr.org/proceedings/papers/v48/mandt16-supp.pdf)]  
 
 ## Deep Neural Networks
+**Methods for Interpreting and Understanding Deep Neural Networks(survey)**  
+*Grégoire Montavon, Wojciech Samek, Klaus-Robert Müller*  
+[[paper](https://arxiv.org/abs/1706.00909)]  
+
 **Spectrally-normalized margin bounds for neural networks**  
 *Peter Bartlett, Dylan J. Foster, Matus Telgarsky*  
 [[paper](https://arxiv.org/abs/1706.08498)]  

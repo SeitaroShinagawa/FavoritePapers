@@ -1,3 +1,7 @@
+**Dual Supervised Learning**  
+*Yingce Xia, Tao Qin, Wei Chen, Jiang Bian, Nenghai Yu, Tie-Yan Liu*  
+[[paper](https://arxiv.org/abs/1707.00415)]  
+
 **Variance Regularizing Adversarial Learning**  
 *Karan Grewal, R Devon Hjelm, Yoshua Bengio*  
 [[paper](https://arxiv.org/abs/1707.00309)]  

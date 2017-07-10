@@ -1,4 +1,8 @@
-#Multimodal  
+# Multimodal  
+**Conditional generation of multi-modal data using constrained embedding space mapping**  
+*Subhajit Chaudhury, Sakyasingha Dasgupta, Asim Munawar, Md. A. Salam Khan, Ryuki Tachibana*  
+[[paper](https://arxiv.org/abs/1707.00860)]  
+
 **Look, Listen and Learn**  
 *Relja Arandjelović, Andrew Zisserman*  
 [[paper](https://arxiv.org/abs/1705.08168)]  

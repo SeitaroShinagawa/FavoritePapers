@@ -1,5 +1,9 @@
 #reinforcement learning  
 
+**Grounded Language Learning in a Simulated 3D World**  
+*Karl Moritz Hermann, Felix Hill, Simon Green, Fumin Wang, Ryan Faulkner, Hubert Soyer, David Szepesvari, Wojciech Marian Czarnecki, Max Jaderberg, Denis Teplyashin, Marcus Wainwright, Chris Apps, Demis Hassabis, Phil Blunsom*  
+[[paper](https://arxiv.org/abs/1706.06551)]  
+
 **Multi-Agent Actor-Critic for Mixed Cooperative-Competitive Environments**  
 *Ryan Lowe, Yi Wu, Aviv Tamar, Jean Harb, Pieter Abbeel, Igor Mordatch*  
 [[paper](https://arxiv.org/abs/1706.02275)]  

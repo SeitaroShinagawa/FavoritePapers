@@ -1,4 +1,8 @@
 # Dialog Systems  
+**Learning Visual Reasoning Without Strong Priors**  
+*Ethan Perez, Harm de Vries, Florian Strub, Vincent Dumoulin, Aaron Courville*  
+[[paper](https://arxiv.org/pdf/1707.03017.pdf)]  
+
 **Batch Policy Gradient Methods for Improving Neural Conversation Models**  
 *Kirthevasan Kandasamy, Yoram Bachrach, Ryota Tomioka, Daniel Tarlow, David Carter*  
 [[paper](https://arxiv.org/abs/1702.03334)]  

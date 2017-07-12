@@ -1,4 +1,7 @@
 # Dialog Systems  
+**Deal or No Deal? End-to-End Learning for Negotiation Dialogues**  
+[[paper](https://arxiv.org/abs/1707.03141)]  
+
 **Learning Visual Reasoning Without Strong Priors**  
 *Ethan Perez, Harm de Vries, Florian Strub, Vincent Dumoulin, Aaron Courville*  
 [[paper](https://arxiv.org/pdf/1707.03017.pdf)]  

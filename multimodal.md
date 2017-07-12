@@ -1,5 +1,9 @@
 # Multimodal  
-**Conditional generation of multi-modal data using constrained embedding space mapping**  
+**SCAN: Learning Abstract Hierarchical Compositional Visual Concepts**  
+*Irina Higgins, Nicolas Sonnerat, Loic Matthey, Arka Pal, Christopher P Burgess, Matthew Botvinick, Demis Hassabis, Alexander Lerchner*  
+[[paper](https://arxiv.org/abs/1707.03389)]  
+
+**Conditional generation of multi-modal data using constrained embedding space mapping**  
 *Subhajit Chaudhury, Sakyasingha Dasgupta, Asim Munawar, Md. A. Salam Khan, Ryuki Tachibana*  
 [[paper](https://arxiv.org/abs/1707.00860)]  
 

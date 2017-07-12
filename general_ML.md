@@ -1,3 +1,7 @@
+**Meta-Learning with Temporal Convolutions**  
+*Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel*  
+[[paper](https://arxiv.org/abs/1707.03141)]  
+
 **Dual Supervised Learning**  
 *Yingce Xia, Tao Qin, Wei Chen, Jiang Bian, Nenghai Yu, Tie-Yan Liu*  
 [[paper](https://arxiv.org/abs/1707.00415)]  

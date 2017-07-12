@@ -1,3 +1,7 @@
+**Robust Imitation of Diverse Behaviors**  
+*Ziyu Wang, Josh Merel, Scott Reed, Greg Wayne, Nando de Freitas, Nicolas Heess*  
+[paper](https://arxiv.org/abs/1707.02747)]  
+
 **Meta-Learning with Temporal Convolutions**  
 *Nikhil Mishra, Mostafa Rohaninejad, Xi Chen, Pieter Abbeel*  
 [[paper](https://arxiv.org/abs/1707.03141)]  

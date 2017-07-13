@@ -1,4 +1,7 @@
-#Awesome neural networks  
+# Awesome neural networks  
+**The Intentional Unintentional Agent: Learning to Solve Many Continuous Control Tasks Simultaneously**  
+[[paper](https://arxiv.org/abs/1707.03300)]  
+
 **Attention Is All You Need**  
 *Ashish Vaswani, Noam Shazeer, Niki Parmar, Jakob Uszkoreit, Llion Jones, Aidan N. Gomez, Lukasz Kaiser, Illia Polosukhin*  
 [[paper](https://arxiv.org/abs/1706.03762)]  

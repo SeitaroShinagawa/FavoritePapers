@@ -1,3 +1,7 @@
+**Controlling Linguistic Style Aspects in Neural Language Generation**  
+*Jessica Ficler, Yoav Goldberg*  
+[[paper](https://arxiv.org/abs/1707.02633)]  
+
 **Deep Compositional Captioning: Describing Novel Object Categories without Paired Training Data(CVPR2016)**  
 [[paper](http://www.cs.utexas.edu/~ml/papers/hendricks.cvpr16.pdf)]  
 

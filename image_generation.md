@@ -1,3 +1,7 @@
+**SCAN: Learning Abstract Hierarchical Compositional Visual Concepts**  
+*Irina Higgins, Nicolas Sonnerat, Loic Matthey, Arka Pal, Christopher P Burgess, Matthew Botvinick, Demis Hassabis, Alexander Lerchner*  
+[[paper](https://arxiv.org/abs/1707.03389)]  
+
 **Perceptual Adversarial Networks for Image-to-Image Transformation**  
 *Chaoyue Wang, Chang Xu, Chaohui Wang, Dacheng Tao*  
 [[paper](https://arxiv.org/abs/1706.09138)]  

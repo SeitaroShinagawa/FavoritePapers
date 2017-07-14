@@ -1,4 +1,8 @@
 # Multimodal  
+**Self-supervised learning of visual features through embedding images into text topic spaces(CVPR2017)**  
+[[paper](https://arxiv.org/pdf/1705.08631.pdf)]  
+[[code](https://github.com/lluisgomez/TextTopicNet)]  
+
 **SCAN: Learning Abstract Hierarchical Compositional Visual Concepts**  
 *Irina Higgins, Nicolas Sonnerat, Loic Matthey, Arka Pal, Christopher P Burgess, Matthew Botvinick, Demis Hassabis, Alexander Lerchner*  
 [[paper](https://arxiv.org/abs/1707.03389)]  

@@ -1,3 +1,6 @@
+**Disentangled Representation Learning GAN for Pose-Invariant Face Recognition(CVPR2017)**  
+[[paper](http://cvlab.cse.msu.edu/pdfs/Tran_Yin_Liu_CVPR2017.pdf)]  
+
 **SCAN: Learning Abstract Hierarchical Compositional Visual Concepts**  
 *Irina Higgins, Nicolas Sonnerat, Loic Matthey, Arka Pal, Christopher P Burgess, Matthew Botvinick, Demis Hassabis, Alexander Lerchner*  
 [[paper](https://arxiv.org/abs/1707.03389)]  

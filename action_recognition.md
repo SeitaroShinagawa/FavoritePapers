@@ -1,4 +1,7 @@
 #Action Recognition  
+**Coarse-to-Fine Volumetric Prediction for Single-Image 3D Human Pose**  
+[[project](https://www.seas.upenn.edu/~pavlakos/projects/volumetric/)]  
+
 **Detecting and Recognizing Human-Object Interactions**  
 *Georgia Gkioxari, Ross Girshick, Piotr Dollár, Kaiming He*  
 [[paper](https://arxiv.org/abs/1704.07333v1)]  

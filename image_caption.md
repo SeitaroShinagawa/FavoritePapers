@@ -1,3 +1,6 @@
+**Self-critical Sequence Training for Image Captioning(CVPR2017)**  
+[[paper](https://arxiv.org/pdf/1612.00563.pdf)]  
+
 **Controlling Linguistic Style Aspects in Neural Language Generation**  
 *Jessica Ficler, Yoav Goldberg*  
 [[paper](https://arxiv.org/abs/1707.02633)]  

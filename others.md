@@ -1,3 +1,6 @@
+**Seeing Theory**(統計確率の知識の可視化)  
+[[link](http://students.brown.edu/seeing-theory/index.html)]  
+
 **これだけ覚えておけばOK！シェルスクリプトで冪等性を担保するためのTips集**  
 [[qiita](http://qiita.com/yn-misaki/items/3ec0605cba228a7d5c9a)]  
 

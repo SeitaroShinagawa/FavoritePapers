@@ -1,3 +1,7 @@
+**Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation(NIPS2017 submitted)**  
+*YuXuan Liu, Abhishek Gupta, Pieter Abbeel, Sergey Levine*  
+[[paper](https://arxiv.org/abs/1707.03374)]  
+
 **Disentangled Representation Learning GAN for Pose-Invariant Face Recognition(CVPR2017)**  
 [[paper](http://cvlab.cse.msu.edu/pdfs/Tran_Yin_Liu_CVPR2017.pdf)]  
 

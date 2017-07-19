@@ -1,4 +1,8 @@
 # Multimodal  
+**VSE++: Improved Visual-Semantic Embeddings**  
+*Fartash Faghri, David J. Fleet, Jamie Ryan Kiros, Sanja Fidler*  
+[[paper](https://arxiv.org/abs/1707.05612)]  
+
 **Self-supervised learning of visual features through embedding images into text topic spaces(CVPR2017)**  
 [[paper](https://arxiv.org/pdf/1705.08631.pdf)]  
 [[code](https://github.com/lluisgomez/TextTopicNet)]  

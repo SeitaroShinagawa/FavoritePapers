@@ -1,3 +1,6 @@
+**Learning from Synthetic Humans(CVPR2017)**  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Varol_Learning_From_Synthetic_CVPR_2017_paper.pdf)]  
+
 **Imitation from Observation: Learning to Imitate Behaviors from Raw Video via Context Translation(NIPS2017 submitted)**  
 *YuXuan Liu, Abhishek Gupta, Pieter Abbeel, Sergey Levine*  
 [[paper](https://arxiv.org/abs/1707.03374)]  

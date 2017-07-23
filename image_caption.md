@@ -1,3 +1,11 @@
+**End-To-End Concept Word Detection for Video Captioning, Retrieval, and Question Answering(CVPR2017)**  
+*Youngjae Yu, Hyungjin Ko, Jongwook Choi, Gunhee Kim*  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yu_End-To-End_Concept_Word_CVPR_2017_paper.pdf)]  
+
+**StyleNet: Generating Attractive Visual Captions With Styles(CVPR2017)**  
+*Chuang Gan, Zhe Gan, Xiaodong He, Jianfeng Gao, Li Deng*  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Gan_StyleNet_Generating_Attractive_CVPR_2017_paper.pdf)]  
+
 **Dense Captioning With Joint Inference and Visual Context(CVPR2017)**  
 *Linjie Yang, Kevin Tang, Jianchao Yang, Li-Jia Li*  
 [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Dense_Captioning_With_CVPR_2017_paper.pdf)]]  

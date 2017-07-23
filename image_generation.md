@@ -1,3 +1,6 @@
+**Data Generation for Improving Person Re-identification(ACMMM2017)**  
+*Lin Chen (Shanghai Jiao Tong University); Hua Yang (Shanghai Jiao Tong University); Shuang Wu (Shanghai Jiao Tong university); Zhiyong Gao (Shanghai Jiao Tong university)*  
+
 **Sync-DRAW: Automatic Video Generation using Deep Recurrent Attentive Architectures(ACMMM2017)**  
 [[paper](https://arxiv.org/abs/1611.10314)]  
 [[code](https://github.com/syncdraw/Sync-DRAW)]  

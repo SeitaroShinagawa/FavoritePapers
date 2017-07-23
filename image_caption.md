@@ -1,3 +1,7 @@
+**Deep Reinforcement Learning-Based Image Captioning With Embedding Reward(CVPR2017)**  
+*Zhou Ren, Xiaoyu Wang, Ning Zhang, Xutao Lv, Li-Jia Li*  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ren_Deep_Reinforcement_Learning-Based_CVPR_2017_paper.pdf)]  
+
 **Self-critical Sequence Training for Image Captioning(CVPR2017)**  
 [[paper](https://arxiv.org/pdf/1612.00563.pdf)]  
 

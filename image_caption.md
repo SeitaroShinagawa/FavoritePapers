@@ -1,3 +1,8 @@
+**Hierarchical Boundary-Aware Neural Encoder for Video Captioning(CVPR2017)**    
+*Lorenzo Baraldi, Costantino Grana, Rita Cucchiara*  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Baraldi_Hierarchical_Boundary-Aware_Neural_CVPR_2017_paper.pdf)]  
+[[supplement](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Baraldi_Hierarchical_Boundary-Aware_Neural_2017_CVPR_supplemental.pdf)]  
+
 **Attend to You: Personalized Image Captioning With Context Sequence Memory Networks(CVPR2017)**  
 *Cesc Chunseong Park, Byeongchang Kim, Gunhee Kim*  
 [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Park_Attend_to_You_CVPR_2017_paper.pdf)]  

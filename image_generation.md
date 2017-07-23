@@ -1,3 +1,7 @@
+**Learning from Simulated and Unsupervised Images through Adversarial Training(CVPR2017 best paper)**  
+*Ashish Shrivastava, Tomas Pfister, Oncel Tuzel, Josh Susskind, Wenda Wang, Russ Webb*  
+[[paper](https://arxiv.org/abs/1612.07828)]  
+
 **Learning from Synthetic Humans(CVPR2017)**  
 [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Varol_Learning_From_Synthetic_CVPR_2017_paper.pdf)]  
 

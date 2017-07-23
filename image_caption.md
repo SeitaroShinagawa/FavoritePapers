@@ -1,3 +1,8 @@
+**Skeleton Key: Image Captioning by Skeleton-Attribute Decomposition(CVPR2017)**  
+*Yufei Wang, Zhe Lin, Xiaohui Shen, Scott Cohen, Garrison W. Cottrell*  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Skeleton_Key_Image_CVPR_2017_paper.pdf)]  
+[[supp](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Wang_Skeleton_Key_Image_2017_CVPR_supplemental.pdf)]  
+
 **Top-Down Visual Saliency Guided by Captions(CVPR2017)**  
 *Vasili Ramanishka, Abir Das, Jianming Zhang, Kate Saenko*  
 [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ramanishka_Top-Down_Visual_Saliency_CVPR_2017_paper.pdf)]  

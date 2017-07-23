@@ -1,3 +1,11 @@
+**Beyond Instance-Level Image Retrieval: Leveraging Captions to Learn a Global Visual Representation for Semantic Retrieval(CVPR2017)**  
+*Albert Gordo, Diane Larlus*  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Gordo_Beyond_Instance-Level_Image_CVPR_2017_paper.pdf)]  
+
+**Incorporating Copying Mechanism in Image Captioning for Learning Novel Objects(CVPR2017)**  
+*Ting Yao, Yingwei Pan, Yehao Li, Tao Mei*  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yao_Incorporating_Copying_Mechanism_CVPR_2017_paper.pdf)]  
+
 **Video Captioning With Transferred Semantic Attributes(CVPR2017)**  
 *Yingwei Pan, Ting Yao, Houqiang Li, Tao Mei*  
 [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Pan_Video_Captioning_With_CVPR_2017_paper.pdf)]  

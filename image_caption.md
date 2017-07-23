@@ -1,3 +1,7 @@
+**Dense Captioning With Joint Inference and Visual Context(CVPR2017)**  
+*Linjie Yang, Kevin Tang, Jianchao Yang, Li-Jia Li*  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yang_Dense_Captioning_With_CVPR_2017_paper.pdf)]]  
+
 **Weakly Supervised Dense Video Captioning(CVPR2017)**  
 *Zhiqiang Shen, Jianguo Li, Zhou Su, Minjun Li, Yurong Chen, Yu-Gang Jiang, Xiangyang Xue*  
 [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shen_Weakly_Supervised_Dense_CVPR_2017_paper.pdf)]  

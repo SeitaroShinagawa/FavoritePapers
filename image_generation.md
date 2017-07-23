@@ -28,7 +28,7 @@
 *Peter Wang, Zhongxia Yan, Jeff Zhang*  
 [[paper](https://arxiv.org/abs/1706.08665v1)]  
 
-**Skeleton-aided Articulated Motion Generation**  
+**Skeleton-aided Articulated Motion Generation(ACMMM2017)**  
 *Yichao Yan, Jingwei Xu, Bingbing Ni, Xiaokang Yang*  
 [[paper](https://arxiv.org/abs/1707.01058)]  
 

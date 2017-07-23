@@ -1,3 +1,7 @@
+**Transformation-Grounded Image Generation Network for Novel 3D View Synthesis(CVPR2017)**  
+*Eunbyung Park, Jimei Yang, Ersin Yumer, Duygu Ceylan, Alexander C. Berg*  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Park_Transformation-Grounded_Image_Generation_CVPR_2017_paper.pdf)]  
+
 **Stylized Adversarial Autoencoder for Image Generation(ACMMM2017)**  
 *Yiru Zhao (Shanghai Jiao Tong University); Bing Deng (Alibaba Group); Jianqiang Huang (Alibaba Group); Hongtao Lu (Shanghai Jiao Tong University); Xian-Sheng Hua (Alibaba Group)*  
 

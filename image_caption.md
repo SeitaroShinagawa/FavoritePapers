@@ -1,3 +1,7 @@
+**Attend to You: Personalized Image Captioning With Context Sequence Memory Networks(CVPR2017)**  
+*Cesc Chunseong Park, Byeongchang Kim, Gunhee Kim*  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Park_Attend_to_You_CVPR_2017_paper.pdf)]  
+
 **Knowing When to Look: Adaptive Attention via a Visual Sentinel for Image Captioning(CVPR2017)**  
 *Jiasen Lu, Caiming Xiong, Devi Parikh, Richard Socher*  
 [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lu_Knowing_When_to_CVPR_2017_paper.pdf)]  

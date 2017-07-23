@@ -1,3 +1,6 @@
+**Stylized Adversarial Autoencoder for Image Generation(ACMMM2017)**  
+*Yiru Zhao (Shanghai Jiao Tong University); Bing Deng (Alibaba Group); Jianqiang Huang (Alibaba Group); Hongtao Lu (Shanghai Jiao Tong University); Xian-Sheng Hua (Alibaba Group)*  
+
 **Data Generation for Improving Person Re-identification(ACMMM2017)**  
 *Lin Chen (Shanghai Jiao Tong University); Hua Yang (Shanghai Jiao Tong University); Shuang Wu (Shanghai Jiao Tong university); Zhiyong Gao (Shanghai Jiao Tong university)*  
 

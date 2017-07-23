@@ -1,3 +1,8 @@
+**Captioning Images With Diverse Objects(CVPR2017)**  
+*Subhashini Venugopalan, Lisa Anne Hendricks, Marcus Rohrbach, Raymond Mooney, Trevor Darrell, Kate Saenko*  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Venugopalan_Captioning_Images_With_CVPR_2017_paper.pdf)]  
+[[supp](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Venugopalan_Captioning_Images_With_2017_CVPR_supplemental.pdf)]  
+
 **SCA-CNN: Spatial and Channel-Wise Attention in Convolutional Networks for Image Captioning(CVPR2017)**  
 *Long Chen, Hanwang Zhang, Jun Xiao, Liqiang Nie, Jian Shao, Wei Liu, Tat-Seng Chua*  
 [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Chen_SCA-CNN_Spatial_and_CVPR_2017_paper.pdf)]  

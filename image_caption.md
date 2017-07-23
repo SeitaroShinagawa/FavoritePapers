@@ -1,3 +1,11 @@
+**Self-Critical Sequence Training for Image Captioning(CVPR2017)**  
+*Steven J. Rennie, Etienne Marcheret, Youssef Mroueh, Jerret Ross, Vaibhava Goel*  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Rennie_Self-Critical_Sequence_Training_CVPR_2017_paper.pdf)]  
+
+**Bidirectional Beam Search: Forward-Backward Inference in Neural Sequence Models for Fill-In-The-Blank Image Captioning(CVPR2017)**  
+*Qing Sun, Stefan Lee, Dhruv Batra*  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Sun_Bidirectional_Beam_Search_CVPR_2017_paper.pdf)]  
+
 **Beyond Instance-Level Image Retrieval: Leveraging Captions to Learn a Global Visual Representation for Semantic Retrieval(CVPR2017)**  
 *Albert Gordo, Diane Larlus*  
 [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Gordo_Beyond_Instance-Level_Image_CVPR_2017_paper.pdf)]  

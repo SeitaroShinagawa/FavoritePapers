@@ -1,3 +1,6 @@
+**Region-based Image Retrieval Revisited by Semantic Region Specification and Spatial Relationship Recommendation(ACMMM2017)**  
+*Ryota Hinami (The University of Tokyo); Yusuke Matsui (National Institute of Informatics); Shin'Ichi Satoh (National Institute of Informatics)*  
+
 **Robust Imitation of Diverse Behaviors**  
 *Ziyu Wang, Josh Merel, Scott Reed, Greg Wayne, Nando de Freitas, Nicolas Heess*  
 [paper](https://arxiv.org/abs/1707.02747)]  

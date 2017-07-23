@@ -1,3 +1,7 @@
+**Top-Down Visual Saliency Guided by Captions(CVPR2017)**  
+*Vasili Ramanishka, Abir Das, Jianming Zhang, Kate Saenko*  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ramanishka_Top-Down_Visual_Saliency_CVPR_2017_paper.pdf)]  
+
 **Self-Critical Sequence Training for Image Captioning(CVPR2017)**  
 *Steven J. Rennie, Etienne Marcheret, Youssef Mroueh, Jerret Ross, Vaibhava Goel*  
 [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Rennie_Self-Critical_Sequence_Training_CVPR_2017_paper.pdf)]  

@@ -1,3 +1,7 @@
+**Sync-DRAW: Automatic Video Generation using Deep Recurrent Attentive Architectures(ACMMM2017)**  
+[[paper](https://arxiv.org/abs/1611.10314)]  
+[[code](https://github.com/syncdraw/Sync-DRAW)]  
+
 **Learning from Simulated and Unsupervised Images through Adversarial Training(CVPR2017 best paper)**  
 *Ashish Shrivastava, Tomas Pfister, Oncel Tuzel, Josh Susskind, Wenda Wang, Russ Webb*  
 [[paper](https://arxiv.org/abs/1612.07828)]  

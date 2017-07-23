@@ -542,9 +542,11 @@ UCF101の動画認識データセットで訓練、UCF101とTHUMOS Challenge 201
 *Augustus Odena, Christopher Olah & Jonathon Shlens*  
 [[paper](https://arxiv.org/pdf/1610.09585v1.pdf)]    
 
-**Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space**  
+**Plug & Play Generative Networks: Conditional Iterative Generation of Images in Latent Space(CVPR2017)**  
 *Anh Nguyen, Jason Yosinski, Yoshua Bengio, Alexey Dosovitskiy, Jeff Clune*  
 [[paper](https://arxiv.org/abs/1612.00005)]  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Nguyen_Plug__Play_CVPR_2017_paper.pdf)]  
+[[supp](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Nguyen_Plug__Play_2017_CVPR_supplemental.pdf)]  
 
 **Improved Techniques for Training GANs**  
 *Tim Salimans, Ian Goodfellow, Wojciech Zaremba, Vicki Cheung, Alec Radford, Xi Chen*  

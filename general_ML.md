@@ -1,3 +1,6 @@
+**Deep Attribute-preserving Metric Learning for Natural Language Object Retrieval(ACMMM2017)**    
+*Jianan Li (Beijing Institute of Technology); Yunchao Wei (National University of Singapore); Xiaodan Liang (Carnegie Mellon University); Fang Zhao (National University of Singapore); Jianshu Li (National University of Singapore); Tingfa Xu (Beijing Institute of Technology); Jiashi Feng (National University of Singapore)*  
+
 **Region-based Image Retrieval Revisited by Semantic Region Specification and Spatial Relationship Recommendation(ACMMM2017)**  
 *Ryota Hinami (The University of Tokyo); Yusuke Matsui (National Institute of Informatics); Shin'Ichi Satoh (National Institute of Informatics)*  
 

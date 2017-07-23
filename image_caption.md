@@ -1,3 +1,8 @@
+**Weakly Supervised Dense Video Captioning(CVPR2017)**  
+*Zhiqiang Shen, Jianguo Li, Zhou Su, Minjun Li, Yurong Chen, Yu-Gang Jiang, Xiangyang Xue*  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Shen_Weakly_Supervised_Dense_CVPR_2017_paper.pdf)]  
+[[supp](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Shen_Weakly_Supervised_Dense_2017_CVPR_supplemental.pdf)]  
+
 **Hierarchical Boundary-Aware Neural Encoder for Video Captioning(CVPR2017)**    
 *Lorenzo Baraldi, Costantino Grana, Rita Cucchiara*  
 [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Baraldi_Hierarchical_Boundary-Aware_Neural_CVPR_2017_paper.pdf)]  

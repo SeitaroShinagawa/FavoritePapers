@@ -1,3 +1,7 @@
+**Video Captioning With Transferred Semantic Attributes(CVPR2017)**  
+*Yingwei Pan, Ting Yao, Houqiang Li, Tao Mei*  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Pan_Video_Captioning_With_CVPR_2017_paper.pdf)]  
+
 **Captioning Images With Diverse Objects(CVPR2017)**  
 *Subhashini Venugopalan, Lisa Anne Hendricks, Marcus Rohrbach, Raymond Mooney, Trevor Darrell, Kate Saenko*  
 [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Venugopalan_Captioning_Images_With_CVPR_2017_paper.pdf)]  

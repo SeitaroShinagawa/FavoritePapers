@@ -1,3 +1,7 @@
+**Knowing When to Look: Adaptive Attention via a Visual Sentinel for Image Captioning(CVPR2017)**  
+*Jiasen Lu, Caiming Xiong, Devi Parikh, Richard Socher*  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Lu_Knowing_When_to_CVPR_2017_paper.pdf)]  
+
 **Deep Reinforcement Learning-Based Image Captioning With Embedding Reward(CVPR2017)**  
 *Zhou Ren, Xiaoyu Wang, Ning Zhang, Xutao Lv, Li-Jia Li*  
 [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ren_Deep_Reinforcement_Learning-Based_CVPR_2017_paper.pdf)]  

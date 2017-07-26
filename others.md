@@ -1,3 +1,6 @@
+**松尾研PRML輪講資料**  
+[[link](https://www.slideshare.net/matsuolab/)]  
+
 **Image annotation tool**  
 [[link](https://lear.inrialpes.fr/people/klaeser/software_image_annotation)]  
 

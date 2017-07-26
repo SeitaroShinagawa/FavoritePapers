@@ -1,4 +1,8 @@
 # Awesome neural networks  
+**Learning by Association - A versatile semi-supervised training method for neural networks**  
+*Philip Häusser, Alexander Mordvintsev, Daniel Cremers*  
+[[paper](https://arxiv.org/abs/1706.00909)]  
+
 **Person Search With Natural Language Description(CVPR2017)**  
 *Shuang Li, Tong Xiao, Hongsheng Li, Bolei Zhou, Dayu Yue, Xiaogang Wang*  
 [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Person_Search_With_CVPR_2017_paper.pdf)]  

@@ -1,3 +1,6 @@
+**CVPR GAN tutorial**  
+[[link](https://github.com/mingyuliutw/cvpr2017_gan_tutorial)]  
+
 **MMGAN: Manifold Matching Generative Adversarial Network for Generating Images**  
 *Noseong Park, Ankesh Anand, Joel Ruben Antony Moniz, Kookjin Lee, Tanmoy Chakraborty, Jaegul Choo, Hongkyu Park, Youngmin Kim*  
 [[paper](https://arxiv.org/abs/1707.08273)]  

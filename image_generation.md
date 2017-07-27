@@ -1,3 +1,7 @@
+**MMGAN: Manifold Matching Generative Adversarial Network for Generating Images**  
+*Noseong Park, Ankesh Anand, Joel Ruben Antony Moniz, Kookjin Lee, Tanmoy Chakraborty, Jaegul Choo, Hongkyu Park, Youngmin Kim*  
+[[paper](https://arxiv.org/abs/1707.08273)]  
+
 **Transformation-Grounded Image Generation Network for Novel 3D View Synthesis(CVPR2017)**  
 *Eunbyung Park, Jimei Yang, Ersin Yumer, Duygu Ceylan, Alexander C. Berg*  
 [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Park_Transformation-Grounded_Image_Generation_CVPR_2017_paper.pdf)]  

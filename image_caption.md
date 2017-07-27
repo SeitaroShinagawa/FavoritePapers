@@ -1,6 +1,9 @@
+**A Hierarchical Approach for Generating Descriptive Image Paragraphs(CVPR2017)**  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Krause_A_Hierarchical_Approach_CVPR_2017_paper.pdf)]  
+
 **Skeleton Key: Image Captioning by Skeleton-Attribute Decomposition(CVPR2017)**  
 *Yufei Wang, Zhe Lin, Xiaohui Shen, Scott Cohen, Garrison W. Cottrell*  
-[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Wang_Skeleton_Key_Image_CVPR_2017_paper.pdf)]  
+[[paper](http://openhttp://openaccess.thecvf.com/content_cvpr_2017/papers/Krause_A_Hierarchical_Approach_CVPR_2017_paper.pdfaccess.thecvf.com/content_cvpr_2017/papers/Wang_Skeleton_Key_Image_CVPR_2017_paper.pdf)]  
 [[supp](http://openaccess.thecvf.com/content_cvpr_2017/supplemental/Wang_Skeleton_Key_Image_2017_CVPR_supplemental.pdf)]  
 
 **Top-Down Visual Saliency Guided by Captions(CVPR2017)**  

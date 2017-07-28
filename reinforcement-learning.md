@@ -1,4 +1,8 @@
-#reinforcement learning  
+# Reinforcement learning  
+
+**A Distributional Perspective on Reinforcement Learning(ICML2017)**  
+*Marc G. Bellemare, Will Dabney, Rémi Munos*  
+[[paper](https://arxiv.org/abs/1707.06887)]  
 
 **Grounded Language Learning in a Simulated 3D World**  
 *Karl Moritz Hermann, Felix Hill, Simon Green, Fumin Wang, Ryan Faulkner, Hubert Soyer, David Szepesvari, Wojciech Marian Czarnecki, Max Jaderberg, Denis Teplyashin, Marcus Wainwright, Chris Apps, Demis Hassabis, Phil Blunsom*  

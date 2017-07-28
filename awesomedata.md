@@ -1,4 +1,7 @@
 #Awesome dataset  
+**Challenges of Data-to-Document Generation(EMNLP2017)**  
+[[link](http://lstm.seas.harvard.edu/docgen/)]  
+
 **Multi-Attribute Labelled Faces (abbreviated as MALF)**  
 [[link](http://www.cbsr.ia.ac.cn/faceevaluation/)]  
 

@@ -1,3 +1,7 @@
+**Mutual Alignment Transfer Learning**  
+*Markus Wulfmeier, Ingmar Posner, Pieter Abbeel*  
+[[paper](https://arxiv.org/abs/1707.07907)]  
+
 **Deep Attribute-preserving Metric Learning for Natural Language Object Retrieval(ACMMM2017)**    
 *Jianan Li (Beijing Institute of Technology); Yunchao Wei (National University of Singapore); Xiaodan Liang (Carnegie Mellon University); Fang Zhao (National University of Singapore); Jianshu Li (National University of Singapore); Tingfa Xu (Beijing Institute of Technology); Jiashi Feng (National University of Singapore)*  
 

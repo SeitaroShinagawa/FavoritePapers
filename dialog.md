@@ -176,5 +176,8 @@ Pei-Hao Su, Stefan Ultes, David Vandyke, Steve Young (Cambridge University)*
 **Game Theory (Open Access textbook with 165 solved exercises)**  
 [[book](http://arxiv.org/abs/1512.06808?utm_campaign=Contact+SNS+For+More+Referrer&utm_medium=twitter&utm_source=snsanalytics)]  
 
+# tool  
+**PyDial**  
+[[link](http://www.camdial.org/pydial/)]  
 
 

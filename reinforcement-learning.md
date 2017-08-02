@@ -1,5 +1,9 @@
 # Reinforcement learning  
 
+**Deep Transfer in Reinforcement Learning by Language Grounding**  
+*Karthik Narasimhan, Regina Barzilay, Tommi Jaakkola*  
+[[paper](https://arxiv.org/abs/1708.00133)]  
+
 **A Distributional Perspective on Reinforcement Learning(ICML2017)**  
 *Marc G. Bellemare, Will Dabney, Rémi Munos*  
 [[paper](https://arxiv.org/abs/1707.06887)]  

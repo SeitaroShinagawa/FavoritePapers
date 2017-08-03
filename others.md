@@ -1,3 +1,6 @@
+**Deep Learning for Semantic Composition(ACL2017 tutorial)**  
+[[link](http://egrefen.com/docs/acl17tutorial.pdf)]  
+
 **松尾研PRML輪講資料**  
 [[link](https://www.slideshare.net/matsuolab/)]  
 

@@ -346,6 +346,7 @@ Reinforcement Learning Neural Turing Machine
 [[link](http://qiita.com/ynakayama/items/8ed2854bcc3c3633345b)]  
 [[Dive Into Python](http://www.diveintopython.net)]  
 [[Dive Into Python3 Japanese](http://diveintopython3-ja.rdy.jp)]  
+[[duke](https://people.duke.edu/~ccc14/sta-663/index.html)]  
 
 **NMF**  
 [[slide](http://hil.t.u-tokyo.ac.jp/~kameoka/SAP/SAP13_06.pdf)]  

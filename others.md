@@ -467,6 +467,7 @@ by Simon Peyton Jones(MSR,Cambridge)
 [[松尾ぐみの論文の書き方](http://tam5917.hatenablog.com/entry/2016/03/04/235315)]  
 [[link](http://readingmonkey.blog45.fc2.com/blog-entry-563.html)]  
 [[cvpr](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)]  
+[[stanford](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2013/10/CALTECH.RUL_..pdf)]  
 
 **how to peer review**  
 [[link](http://scienceandtechnology.jp/archives/12812)]  

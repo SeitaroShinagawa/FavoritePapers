@@ -1,3 +1,6 @@
+**Gathering Human Feedback**  
+[[link](https://blog.openai.com/gathering_human_feedback/)]  
+
 **Deep Learninng Summer School Slides**  
 [[link](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/slides/)]  
 

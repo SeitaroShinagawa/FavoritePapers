@@ -1,3 +1,6 @@
+**Deep Learninng Summer School Slides**  
+[[link](https://mila.umontreal.ca/en/cours/deep-learning-summer-school-2017/slides/)]  
+
 **Deep Learning for Semantic Composition(ACL2017 tutorial)**  
 [[link](http://egrefen.com/docs/acl17tutorial.pdf)]  
 

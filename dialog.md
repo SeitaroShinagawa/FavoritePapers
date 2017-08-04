@@ -1,4 +1,8 @@
 # Dialog Systems  
+**Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog**  
+*Satwik Kottur, José M.F. Moura, Stefan Lee, Dhruv Batra*  
+[[paper](https://arxiv.org/abs/1706.08502v2)]  
+
 **Deal or No Deal? End-to-End Learning for Negotiation Dialogues**  
 [[paper](https://arxiv.org/abs/1707.03141)]  
 

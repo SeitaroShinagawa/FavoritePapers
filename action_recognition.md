@@ -1,4 +1,8 @@
-#Action Recognition  
+# Action Recognition  
+**Extreme Low Resolution Activity Recognition with Multi-Siamese Embedding Learning**  
+*Michael S. Ryoo, Kiyoon Kim, Hyun Jong Yang*  
+[[paper](https://arxiv.org/abs/1708.00999)]  
+
 **Coarse-to-Fine Volumetric Prediction for Single-Image 3D Human Pose**  
 [[project](https://www.seas.upenn.edu/~pavlakos/projects/volumetric/)]  
 

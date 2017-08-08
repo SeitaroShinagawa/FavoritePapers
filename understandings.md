@@ -4,6 +4,10 @@
 [[supplement](http://jmlr.org/proceedings/papers/v48/mandt16-supp.pdf)]  
 
 ## Deep Neural Networks
+**Understanding Black-box Predictions via Influence Functions(ICML2017 best paper)**  
+*Pang Wei Koh, Percy Liang*  
+[[paper](https://arxiv.org/abs/1703.04730)]  
+
 **Methods for Interpreting and Understanding Deep Neural Networks(survey)**  
 *Grégoire Montavon, Wojciech Samek, Klaus-Robert Müller*  
 [[paper](https://arxiv.org/abs/1706.07979)]  

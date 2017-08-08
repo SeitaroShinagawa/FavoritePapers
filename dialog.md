@@ -1,3 +1,8 @@
+# Works related to Dialog
+**Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings**  
+*He He, Anusha Balakrishnan, Mihail Eric, Percy Liang*  
+[[paper](https://arxiv.org/abs/1704.07130)]   
+
 # Dialog Systems  
 **Natural Language Does Not Emerge 'Naturally' in Multi-Agent Dialog**  
 *Satwik Kottur, José M.F. Moura, Stefan Lee, Dhruv Batra*  

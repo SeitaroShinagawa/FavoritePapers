@@ -4,6 +4,9 @@
 [[paper](https://arxiv.org/abs/1704.07130)]   
 
 # Dialog Systems  
+**Training an adaptive dialogue policy for interactive learning of visually grounded word meanings(SIGDIAL)**  
+[[paper](http://www.aclweb.org/anthology/W16-3643)]  
+
 **Learning how to learn: an adaptive dialogue agent for incrementally learning visually grounded word meanings(ACL NLP best paper award)**  
 [[paper](http://aclweb.org/anthology/W17-2802)]  
 
@@ -192,4 +195,9 @@ Pei-Hao Su, Stefan Ultes, David Vandyke, Steve Young (Cambridge University)*
 **PyDial**  
 [[link](http://www.camdial.org/pydial/)]  
 
+**Babble project**  
+[[link](https://sites.google.com/site/hwinteractionlab/babble)]  
+
+**Dialogue Experimental Toolkit**  
+[[link](http://cogsci.eecs.qmul.ac.uk/diet/)]  
 

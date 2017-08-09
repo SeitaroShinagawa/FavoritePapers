@@ -1,4 +1,6 @@
 # Reinforcement learning  
+**DeepMind and Blizzard open StarCraft II as an AI research environment**  
+[[link](https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/)]  
 
 **Deep Transfer in Reinforcement Learning by Language Grounding**  
 *Karthik Narasimhan, Regina Barzilay, Tommi Jaakkola*  

@@ -1,3 +1,7 @@
+**SurfaceNet: An End-to-end 3D Neural Network for Multiview Stereopsis(ICCV2017)**  
+*Mengqi Ji, Juergen Gall, Haitian Zheng, Yebin Liu, Lu Fang*  
+[[paper](https://arxiv.org/abs/1708.01749)]  
+
 **Generating the Future with Adversarial Transformers(CVPR2017)**  
 [[paper](http://carlvondrick.com/transformer.pdf)]  
 

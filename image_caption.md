@@ -161,7 +161,7 @@
 **Comparative Study of CNN and RNN for Natural Language Processing**  
 [[paper](https://arxiv.org/pdf/1702.01923v1.pdf)]  
 
-**Phrase Localization and Visual Relationship Detection with Comprehensive Linguistic Cues**  
+**Phrase Localization and Visual Relationship Detection with Comprehensive Linguistic Cues(ICCV2017)**  
 *Bryan A. Plummer, Arun Mallya, Christopher M. Cervantes, Julia Hockenmaier, Svetlana Lazebnik*  
 [[paper](https://arxiv.org/abs/1611.06641v2)]  
 

@@ -1,4 +1,8 @@
-#Quantized Neural Network
+# Quantized Neural Network
+**Training Quantized Nets: A Deeper Understanding**  
+*Hao Li, Soham De, Zheng Xu, Christoph Studer, Hanan Samet, Tom Goldstein*  
+[[paper](https://arxiv.org/abs/1706.02379)]  
+
 **YodaNN: An Architecture for Ultra-Low Power Binary-Weight CNN Acceleration**  
 *Renzo Andri, Lukas Cavigelli, Davide Rossi, Luca Benini*  
 [[paper](https://arxiv.org/abs/1606.05487v2)]  

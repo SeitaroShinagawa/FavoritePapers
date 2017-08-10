@@ -1,4 +1,8 @@
 # Reinforcement learning  
+**Neural Episodic Control**  
+*Alexander Pritzel, Benigno Uria, Sriram Srinivasan, Adrià Puigdomènech, Oriol Vinyals, Demis Hassabis, Daan Wierstra, Charles Blundell*    
+[[paper](https://arxiv.org/abs/1703.01988)]  
+
 **DeepMind and Blizzard open StarCraft II as an AI research environment**  
 [[link](https://deepmind.com/blog/deepmind-and-blizzard-open-starcraft-ii-ai-research-environment/)]  
 

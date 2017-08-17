@@ -1,4 +1,7 @@
 # Multimodal  
+**From Red Wine to Red Tomato: Composition with Context**  
+[[paper](http://www.cs.cmu.edu/~imisra/data/composing_cvpr17.pdf)]  
+
 **VSE++: Improved Visual-Semantic Embeddings**  
 *Fartash Faghri, David J. Fleet, Jamie Ryan Kiros, Sanja Fidler*  
 [[paper](https://arxiv.org/abs/1707.05612)]  

@@ -1,4 +1,8 @@
 # Action Recognition  
+**Learning body-affordances to simplify action spaces**  
+*Nicholas Guttenberg, Martin Biehl, Ryota Kanai*  
+[[paper](https://arxiv.org/abs/1708.04391)]  
+
 **Extreme Low Resolution Activity Recognition with Multi-Siamese Embedding Learning**  
 *Michael S. Ryoo, Kiyoon Kim, Hyun Jong Yang*  
 [[paper](https://arxiv.org/abs/1708.00999)]  

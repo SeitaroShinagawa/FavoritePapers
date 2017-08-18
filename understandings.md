@@ -4,6 +4,10 @@
 [[supplement](http://jmlr.org/proceedings/papers/v48/mandt16-supp.pdf)]  
 
 ## Deep Neural Networks
+**Deep Neural Network Capacity**  
+*Aosen Wang, Hua Zhou, Wenyao Xu, Xin Chen*  
+[[paper](https://arxiv.org/abs/1708.05029v1)]  
+
 **Understanding Black-box Predictions via Influence Functions(ICML2017 best paper)**  
 *Pang Wei Koh, Percy Liang*  
 [[paper](https://arxiv.org/abs/1703.04730)]  

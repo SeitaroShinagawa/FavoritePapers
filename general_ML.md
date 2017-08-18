@@ -1,3 +1,6 @@
+**Detecting annotation noise in automatically labelled data**  
+[[paper](http://aclweb.org/anthology/P17-1107)]  
+
 **Mutual Alignment Transfer Learning**  
 *Markus Wulfmeier, Ingmar Posner, Pieter Abbeel*  
 [[paper](https://arxiv.org/abs/1707.07907)]  

@@ -1,4 +1,10 @@
 #Awesome dataset  
+**SynthDigits**  
+[[link](https://drive.google.com/file/d/0B9Z4d7lAwbnTSVR1dEFSRUFxOUU/view)]  
+
+**mnist-m**  
+[[link](https://drive.google.com/file/d/0B9Z4d7lAwbnTNDdNeFlERWRGNVk/view)]    
+
 **Challenges of Data-to-Document Generation(EMNLP2017)**  
 [[link](http://lstm.seas.harvard.edu/docgen/)]  
 

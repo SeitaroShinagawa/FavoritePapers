@@ -1,3 +1,7 @@
+**Style2Vec: Representation Learning for Fashion Items from Style Sets**  
+*Hanbit Lee, Jinseok Seol, Sang-goo Lee*  
+[[paper](https://arxiv.org/abs/1708.04014)]  
+
 **Asymmetric Tri-training for Unsupervised Domain Adaptation**  
 [[paper](https://arxiv.org/pdf/1702.08400.pdf)]  
 [[slide](https://www.slideshare.net/YoshitakaUshiku/asymmetric-tritraining-for-unsupervised-domain-adaptation)]  

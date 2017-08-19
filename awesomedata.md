@@ -1,4 +1,7 @@
 #Awesome dataset  
+**青空文庫形態素解析データ集**  
+[[link](http://aozora-word.hahasoha.net/index.html)]  
+
 **SynthDigits**  
 [[link](https://drive.google.com/file/d/0B9Z4d7lAwbnTSVR1dEFSRUFxOUU/view)]  
 

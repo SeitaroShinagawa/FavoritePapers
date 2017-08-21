@@ -1,3 +1,8 @@
+**PixelNN: Example-based Image Synthesis**  
+*Aayush Bansal, Yaser Sheikh, Deva Ramanan*  
+[[paper](https://arxiv.org/abs/1708.05349v1)]  
+[[project](http://www.cs.cmu.edu/~aayushb/pixelNN/)]  
+
 **Towards the Automatic Anime Characters Creation with Generative Adversarial Networks**  
 *Yanghua Jin, Jiakai Zhang, Minjun Li, Yingtao Tian, Huachun Zhu, Zhihao Fang*  
 [[paper](https://arxiv.org/abs/1708.05509)]  

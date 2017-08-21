@@ -1,3 +1,7 @@
+**Towards the Automatic Anime Characters Creation with Generative Adversarial Networks**  
+*Yanghua Jin, Jiakai Zhang, Minjun Li, Yingtao Tian, Huachun Zhu, Zhihao Fang*  
+[[paper](https://arxiv.org/abs/1708.05509)]  
+
 **Style2Vec: Representation Learning for Fashion Items from Style Sets**  
 *Hanbit Lee, Jinseok Seol, Sang-goo Lee*  
 [[paper](https://arxiv.org/abs/1708.04014)]  

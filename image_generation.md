@@ -1,3 +1,7 @@
+**Semi-supervised Conditional GANs**  
+*Kumar Sricharan, Raja Bala, Matthew Shreve, Hui Ding, Kumar Saketh, Jin Sun*  
+[[paper](https://arxiv.org/abs/1708.05789?utm_content=bufferd2ea1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]  
+
 **PixelNN: Example-based Image Synthesis**  
 *Aayush Bansal, Yaser Sheikh, Deva Ramanan*  
 [[paper](https://arxiv.org/abs/1708.05349v1)]  

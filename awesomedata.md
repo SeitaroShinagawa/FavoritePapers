@@ -1,4 +1,7 @@
-#Awesome dataset  
+# Awesome dataset  
+**favicons**  
+[[link](https://www.kaggle.com/colinmorris/favicons)]  
+
 **青空文庫形態素解析データ集**  
 [[link](http://aozora-word.hahasoha.net/index.html)]  
 

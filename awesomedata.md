@@ -1,4 +1,7 @@
 # Awesome dataset  
+**Google speech command dataset**  
+[[link](https://research.googleblog.com/2017/08/launching-speech-commands-dataset.html)]  
+
 **favicons**  
 [[link](https://www.kaggle.com/colinmorris/favicons)]  
 

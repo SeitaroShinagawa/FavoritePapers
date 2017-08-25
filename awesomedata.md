@@ -130,10 +130,11 @@ You-tube動画のbounding box付きのデータセット
 [[paper](http://arxiv.org/abs/1603.06807)]  
 [[corpus](http://agarciaduran.org/)]  
 
-##Othersw
+## Others
 **Japanese Art**  
-浮世絵、文献
-[[link](http://digitalcollections.nypl.org)]  
+浮世絵、文献  
+[[link](https://ukiyo-e.org/)]  
+[[link](http://digitalcollections.nypl.org)]  　
 
 **メトロポリタン美術館**  
 CC0(creative commons zero)の絵画データセット(37万5000点)  

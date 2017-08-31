@@ -1,3 +1,7 @@
+**Coulomb GANs: Provably Optimal Nash Equilibria via Potential Fields**  
+*Thomas Unterthiner, Bernhard Nessler, Günter Klambauer, Martin Heusel, Hubert Ramsauer, Sepp Hochreiter*  
+[[paper](https://arxiv.org/abs/1708.08819)]  
+
 **Semi-supervised Conditional GANs**  
 *Kumar Sricharan, Raja Bala, Matthew Shreve, Hui Ding, Kumar Saketh, Jin Sun*  
 [[paper](https://arxiv.org/abs/1708.05789?utm_content=bufferd2ea1&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]  

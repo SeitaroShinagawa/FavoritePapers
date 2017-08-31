@@ -1,3 +1,7 @@
+**Generative Attribute Controller with Conditional Filtered Generative Adversarial Networks**  
+*Takuhiro Kaneko Kaoru Hiramatsu Kunio Kashino*  
+[[paper](http://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/gpa/index.html)]  
+
 **Coulomb GANs: Provably Optimal Nash Equilibria via Potential Fields**  
 *Thomas Unterthiner, Bernhard Nessler, Günter Klambauer, Martin Heusel, Hubert Ramsauer, Sepp Hochreiter*  
 [[paper](https://arxiv.org/abs/1708.08819)]  

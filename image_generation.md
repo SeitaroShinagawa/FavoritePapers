@@ -1,3 +1,8 @@
+**Abnormal Event Detection in Videos using Generative Adversarial Nets**  
+*Mahdyar Ravanbakhsh, Moin Nabi, Enver Sangineto, Lucio Marcenaro, Carlo Regazzoni, Nicu Sebe*  
+[[paper](https://arxiv.org/abs/1708.09644)]  
+GANを用いた異常検知  
+
 **Generative Attribute Controller with Conditional Filtered Generative Adversarial Networks**  
 *Takuhiro Kaneko Kaoru Hiramatsu Kunio Kashino*  
 [[paper](http://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/gpa/index.html)]  

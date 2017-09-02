@@ -1,4 +1,7 @@
 # Multimodal  
+**Person Search with Natural Language Description**  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Person_Search_With_CVPR_2017_paper.pdf)]  
+
 **From Red Wine to Red Tomato: Composition with Context**  
 [[paper](http://www.cs.cmu.edu/~imisra/data/composing_cvpr17.pdf)]  
 

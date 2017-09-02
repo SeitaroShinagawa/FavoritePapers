@@ -1,4 +1,7 @@
 # Awesome dataset  
+**Places: A 10 million Image Database for Scene Recognition**  
+[[paper](http://places2.csail.mit.edu/PAMI_places.pdf)]  
+
 **Google speech command dataset**  
 [[link](https://research.googleblog.com/2017/08/launching-speech-commands-dataset.html)]  
 

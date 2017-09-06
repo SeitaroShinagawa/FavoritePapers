@@ -1,3 +1,6 @@
+**Dataset Augmentation with Synthetic Images Improves Semantic Segmentation**  
+[[paper](https://arxiv.org/abs/1709.00849v1)]  
+
 **Abnormal Event Detection in Videos using Generative Adversarial Nets**  
 *Mahdyar Ravanbakhsh, Moin Nabi, Enver Sangineto, Lucio Marcenaro, Carlo Regazzoni, Nicu Sebe*  
 [[paper](https://arxiv.org/abs/1708.09644)]  

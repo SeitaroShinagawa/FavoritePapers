@@ -1,5 +1,9 @@
 # Reinforcement learning  
-**Neural Episodic Control**  
+**Curiosity-driven Exploration by Self-supervised Prediction**  
+*Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell*  
+[[paper](https://arxiv.org/abs/1705.05363)]  
+
+**Neural Episodic Control**  
 *Alexander Pritzel, Benigno Uria, Sriram Srinivasan, Adrià Puigdomènech, Oriol Vinyals, Demis Hassabis, Daan Wierstra, Charles Blundell*    
 [[paper](https://arxiv.org/abs/1703.01988)]  
 

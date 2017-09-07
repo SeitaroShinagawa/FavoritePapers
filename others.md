@@ -1,3 +1,6 @@
+**Resembla: Word-based Japanese similar sentence search library**  
+[[link](https://github.com/tuem/resembla)]  
+
 **Augmentor**  (image augmentation library)  
 [[link](https://github.com/mdbloice/Augmentor?utm_content=buffer349eb&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]  
 

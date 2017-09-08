@@ -1,3 +1,6 @@
+**Neural Text-Entity Encoder (NTEE)**  
+[[link](https://github.com/studio-ousia/ntee)]  
+
 **Resembla: Word-based Japanese similar sentence search library**  
 [[link](https://github.com/tuem/resembla)]  
 

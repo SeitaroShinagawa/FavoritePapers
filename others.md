@@ -1,3 +1,7 @@
+**Django REST Framework**  
+[[link](http://www.django-rest-framework.org/)]  
+[[Django REST Frameworkを使って爆速でAPIを実装する](http://qiita.com/kimihiro_n/items/86e0a9e619720e57ecd8)]  
+
 **Neural Text-Entity Encoder (NTEE)**  
 [[link](https://github.com/studio-ousia/ntee)]  
 

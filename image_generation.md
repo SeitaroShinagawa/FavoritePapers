@@ -1,3 +1,6 @@
+**Visual Forecasting by Imitating Dynamics in Natural Sequences(ICCV2017)**  
+[[paper](https://arxiv.org/pdf/1708.05827.pdf)]  
+
 **Dataset Augmentation with Synthetic Images Improves Semantic Segmentation**  
 [[paper](https://arxiv.org/abs/1709.00849v1)]  
 

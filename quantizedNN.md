@@ -1,4 +1,8 @@
 # Quantized Neural Network
+**Embedded Binarized Neural Networks**  
+*Bradley McDanel, Surat Teerapittayanon, H.T. Kung*  
+[[paper](https://arxiv.org/abs/1709.02260v1)]  
+
 **Training Quantized Nets: A Deeper Understanding**  
 *Hao Li, Soham De, Zheng Xu, Christoph Studer, Hanan Samet, Tom Goldstein*  
 [[paper](https://arxiv.org/abs/1706.02379)]  

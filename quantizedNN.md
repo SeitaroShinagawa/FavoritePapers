@@ -1,4 +1,8 @@
 # Quantized Neural Network
+**Verifying Properties of Binarized Deep Neural Networks**  
+*Nina Narodytska, Shiva Prasad Kasiviswanathan, Leonid Ryzhyk, Mooly Sagiv, Toby Walsh*  
+[[paper](https://arxiv.org/abs/1709.06662)]  
+
 **Embedded Binarized Neural Networks**  
 *Bradley McDanel, Surat Teerapittayanon, H.T. Kung*  
 [[paper](https://arxiv.org/abs/1709.02260v1)]  

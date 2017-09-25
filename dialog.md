@@ -53,6 +53,10 @@
 [[paper](https://arxiv.org/abs/1703.10960)]  
 
 ## Question Answering  
+**FiLM: Visual Reasoning with a General Conditioning Layer**  
+*Ethan Perez, Florian Strub, Harm de Vries, Vincent Dumoulin, Aaron Courville*  
+[[paper](https://arxiv.org/abs/1709.07871)]  
+
 **A simple neural network module for relational reasoning**  
 *Adam Santoro, David Raposo, David G.T. Barrett, Mateusz Malinowski, Razvan Pascanu, Peter Battaglia, Timothy Lillicrap*  
 [[paper](https://arxiv.org/abs/1706.01427)]  

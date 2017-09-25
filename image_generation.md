@@ -1,3 +1,7 @@
+**Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping**  
+*Konstantinos Bousmalis, Alex Irpan, Paul Wohlhart, Yunfei Bai, Matthew Kelcey, Mrinal Kalakrishnan, Laura Downs, Julian Ibarz, Peter Pastor, Kurt Konolige, Sergey Levine, Vincent Vanhoucke*  
+[[paper](https://arxiv.org/abs/1709.07857)]  
+
 **Visual Forecasting by Imitating Dynamics in Natural Sequences(ICCV2017)**  
 [[paper](https://arxiv.org/pdf/1708.05827.pdf)]  
 

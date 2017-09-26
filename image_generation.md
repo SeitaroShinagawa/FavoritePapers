@@ -1,3 +1,7 @@
+**Class-Splitting Generative Adversarial Networks**  
+*Guillermo L. Grinblat, Lucas C. Uzal, Pablo M. Granitto*  
+[[paper](https://arxiv.org/abs/1709.07359)]  
+
 **Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping**  
 *Konstantinos Bousmalis, Alex Irpan, Paul Wohlhart, Yunfei Bai, Matthew Kelcey, Mrinal Kalakrishnan, Laura Downs, Julian Ibarz, Peter Pastor, Kurt Konolige, Sergey Levine, Vincent Vanhoucke*  
 [[paper](https://arxiv.org/abs/1709.07857)]  

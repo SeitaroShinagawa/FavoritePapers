@@ -4,6 +4,10 @@
 [[paper](https://arxiv.org/abs/1704.07130)]   
 
 # Dialog Systems  
+**A Knowledge-Grounded Neural Conversation Model**  
+*Marjan Ghazvininejad, Chris Brockett, Ming-Wei Chang, Bill Dolan, Jianfeng Gao, Wen-tau Yih, Michel Galley*  
+[[paper](https://arxiv.org/abs/1702.01932)]  
+
 **Training an adaptive dialogue policy for interactive learning of visually grounded word meanings(SIGDIAL)**  
 [[paper](http://www.aclweb.org/anthology/W16-3643)]  
 

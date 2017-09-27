@@ -1,4 +1,8 @@
 # Natural Language Processing  
+**Long Text Generation via Adversarial Training with Leaked Information**  
+*Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Yong Yu, Jun Wang*  
+[[paper](https://arxiv.org/abs/1709.08624)]  
+
 **Generating Sentences by Editing Prototypes**  
 *Kelvin Guu, Tatsunori B. Hashimoto, Yonatan Oren, Percy Liang*  
 [[paper](https://arxiv.org/abs/1709.08878)]  

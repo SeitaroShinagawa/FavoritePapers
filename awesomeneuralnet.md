@@ -1,4 +1,8 @@
 # Awesome neural networks  
+**Using Simulation and Domain Adaptation to Improve Efficiency of Deep Robotic Grasping**  
+*Konstantinos Bousmalis, Alex Irpan, Paul Wohlhart, Yunfei Bai, Matthew Kelcey, Mrinal Kalakrishnan, Laura Downs, Julian Ibarz, Peter Pastor, Kurt Konolige, Sergey Levine, Vincent Vanhoucke*  
+[[paper](https://arxiv.org/abs/1709.07857v2)]  
+
 **Learning by Association - A versatile semi-supervised training method for neural networks**  
 *Philip Häusser, Alexander Mordvintsev, Daniel Cremers*  
 [[paper](https://arxiv.org/abs/1706.00909)]  

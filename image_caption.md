@@ -1,7 +1,3 @@
-**Captioning Images with Diverse Objects(CVPR2017)**  
-*Subhashini Venugopalan, Lisa Anne Hendricks, Marcus Rohrbach, Raymond Mooney, Trevor Darrell, Kate Saenko*  
-[[paper](https://arxiv.org/abs/1606.07770)]  
-
 **A Hierarchical Approach for Generating Descriptive Image Paragraphs(CVPR2017)**  
 [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Krause_A_Hierarchical_Approach_CVPR_2017_paper.pdf)]  
 

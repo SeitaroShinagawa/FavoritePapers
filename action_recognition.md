@@ -1,4 +1,8 @@
 # Action Recognition  
+**A simple yet effective baseline for 3d human pose estimation(ICCV2017)**  
+*Julieta Martinez, Rayat Hossain, Javier Romero, James J. Little*  
+[[paper](https://arxiv.org/abs/1705.03098)]   
+
 **Learning body-affordances to simplify action spaces**  
 *Nicholas Guttenberg, Martin Biehl, Ryota Kanai*  
 [[paper](https://arxiv.org/abs/1708.04391)]  

@@ -1,5 +1,8 @@
-**Facets**  
-[[link](https://pair-code.github.io/facets/)]  
+**language detection(java)**  
+[[link](https://github.com/shuyo/language-detection)]  
+
+**Facets**  
+[[link](https://pair-code.github.io/facets/)]  
 
 **Django REST Framework**  
 [[link](http://www.django-rest-framework.org/)]  

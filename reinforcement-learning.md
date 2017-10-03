@@ -1,4 +1,8 @@
 # Reinforcement learning  
+**Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**  
+*Aravind Rajeswaran, Vikash Kumar, Abhishek Gupta, John Schulman, Emanuel Todorov, Sergey Levine*  
+[[paper](https://arxiv.org/abs/1709.10087)]  
+
 **Curiosity-driven Exploration by Self-supervised Prediction**  
 *Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell*  
 [[paper](https://arxiv.org/abs/1705.05363)]  

@@ -1,3 +1,7 @@
+**Temporal Generative Adversarial Nets with Singular Value Clipping**  
+*Masaki Saito, Eiichi Matsumoto, Shunta Saito*  
+[[paper](https://arxiv.org/abs/1611.06624)]  
+
 **Class-Splitting Generative Adversarial Networks**  
 *Guillermo L. Grinblat, Lucas C. Uzal, Pablo M. Granitto*  
 [[paper](https://arxiv.org/abs/1709.07359)]  

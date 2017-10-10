@@ -1,3 +1,7 @@
+**Video Generation From Text**  
+*Yitong Li, Martin Renqiang Min, Dinghan Shen, David Carlson, Lawrence Carin*  
+[[paper](https://arxiv.org/abs/1710.00421)]  
+
 **Temporal Generative Adversarial Nets with Singular Value Clipping**  
 *Masaki Saito, Eiichi Matsumoto, Shunta Saito*  
 [[paper](https://arxiv.org/abs/1611.06624)]  

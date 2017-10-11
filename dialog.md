@@ -3,6 +3,9 @@
 *He He, Anusha Balakrishnan, Mihail Eric, Percy Liang*  
 [[paper](https://arxiv.org/abs/1704.07130)]   
 
+**Becoming the Expert - Interactive Multi-Class Machine Teaching(CVPR2015)**  
+[[project](http://visual.cs.ucl.ac.uk/pubs/interactiveMachineTeaching/)]  
+
 # Dialog Systems  
 **A Knowledge-Grounded Neural Conversation Model**  
 *Marjan Ghazvininejad, Chris Brockett, Ming-Wei Chang, Bill Dolan, Jianfeng Gao, Wen-tau Yih, Michel Galley*  

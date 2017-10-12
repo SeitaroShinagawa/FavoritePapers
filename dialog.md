@@ -60,6 +60,9 @@
 [[paper](https://arxiv.org/abs/1703.10960)]  
 
 ## Question Answering  
+**Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation**  
+[[paper](https://arxiv.org/abs/1701.08251)]  
+
 **FiLM: Visual Reasoning with a General Conditioning Layer**  
 *Ethan Perez, Florian Strub, Harm de Vries, Vincent Dumoulin, Aaron Courville*  
 [[paper](https://arxiv.org/abs/1709.07871)]  

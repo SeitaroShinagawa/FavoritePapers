@@ -191,6 +191,10 @@ Pei-Hao Su, Stefan Ultes, David Vandyke, Steve Young (Cambridge University)*
 [[paper(https://arxiv.org/abs/1701.08198)]  
 
 # Corpus  
+**DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset**  
+*Yanran Li, Hui Su, Xiaoyu Shen, Wenjie Li, Ziqiang Cao, Shuzi Niu*  
+[[paper](https://arxiv.org/abs/1710.03957)]  
+
 **A Survey of Available Corpora For Building Data-Driven Dialogue Systems**  
 *Iulian Vlad Serban, Ryan Lowe, Laurent Charlin, Joelle Pineau*  
 [[paper](http://arxiv.org/abs/1512.05742)]  

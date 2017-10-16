@@ -1,3 +1,6 @@
+**PRML解答集**  
+[[link](http://prml.yutorihiro.com/)]  
+
 **language detection(java)**  
 [[link](https://github.com/shuyo/language-detection)]  
 

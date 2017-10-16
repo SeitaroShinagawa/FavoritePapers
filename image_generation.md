@@ -1,3 +1,6 @@
+**MocoGAN**  
+[[code](https://github.com/DLHacks/mocogan)]  
+
 **Video Generation From Text**  
 *Yitong Li, Martin Renqiang Min, Dinghan Shen, David Carlson, Lawrence Carin*  
 [[paper](https://arxiv.org/abs/1710.00421)]  

@@ -1,3 +1,8 @@
+**Text2Action: Generative Adversarial Synthesis from Language to Action**  
+*Hyemin Ahn, Timothy Ha, Yunho Choi, Hwiyeon Yoo, Songhwai Oh*  
+[[paper](https://arxiv.org/abs/1710.05298)]  
+not image but action  
+
 **MocoGAN**  
 [[code](https://github.com/DLHacks/mocogan)]  
 

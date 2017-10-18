@@ -1,3 +1,7 @@
+**Describing Natural Images Containing Novel Objects with Knowledge Guided Assitance**  
+*Aditya Mogadala, Umanga Bista, Lexing Xie, Achim Rettinger*  
+[[paper](https://arxiv.org/abs/1710.06303v1)]  
+
 **A Hierarchical Approach for Generating Descriptive Image Paragraphs(CVPR2017)**  
 [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Krause_A_Hierarchical_Approach_CVPR_2017_paper.pdf)]  
 

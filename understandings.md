@@ -4,6 +4,10 @@
 [[supplement](http://jmlr.org/proceedings/papers/v48/mandt16-supp.pdf)]  
 
 ## Deep Neural Networks
+**Understanding Generalization and Stochastic Gradient Descent**  
+*Samuel L. Smith, Quoc V. Le*  
+[[paper](https://arxiv.org/abs/1710.06451)]  
+
 **Deep Neural Network Capacity**  
 *Aosen Wang, Hua Zhou, Wenyao Xu, Xin Chen*  
 [[paper](https://arxiv.org/abs/1708.05029v1)]  

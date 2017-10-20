@@ -4,6 +4,10 @@
 [[supplement](http://jmlr.org/proceedings/papers/v48/mandt16-supp.pdf)]  
 
 ## Deep Neural Networks
+**On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima**  
+*Nitish Shirish Keskar, Dheevatsa Mudigere, Jorge Nocedal, Mikhail Smelyanskiy, Ping Tak Peter Tang*  
+[[paper](https://arxiv.org/abs/1609.04836)]  
+
 **Understanding Generalization and Stochastic Gradient Descent**  
 *Samuel L. Smith, Quoc V. Le*  
 [[paper](https://arxiv.org/abs/1710.06451)]  

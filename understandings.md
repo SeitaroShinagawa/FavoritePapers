@@ -3,6 +3,10 @@
 [[paper](http://jmlr.org/proceedings/papers/v48/mandt16.pdf)]  
 [[supplement](http://jmlr.org/proceedings/papers/v48/mandt16-supp.pdf)]  
 
+**An Information Theoretic Perspective on Multiple Classifier Systems**
+[[paper](https://pdfs.semanticscholar.org/1ff2/239cdebdf97ccfac2d2759355ed9c6f52888.pdf)]  
+アンサンブル  
+
 ## Deep Neural Networks
 **On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima**  
 *Nitish Shirish Keskar, Dheevatsa Mudigere, Jorge Nocedal, Mikhail Smelyanskiy, Ping Tak Peter Tang*  

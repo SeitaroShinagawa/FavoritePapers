@@ -8,6 +8,10 @@
 アンサンブル  
 
 ## Deep Neural Networks
+**Many Paths to Equilibrium: GANs Do Not Need to Decrease a Divergence At Every Step**  
+*William Fedus, Mihaela Rosca, Balaji Lakshminarayanan, Andrew M. Dai, Shakir Mohamed, Ian Goodfellow*  
+[[paper](https://arxiv.org/abs/1710.08446)]  
+
 **On Large-Batch Training for Deep Learning: Generalization Gap and Sharp Minima**  
 *Nitish Shirish Keskar, Dheevatsa Mudigere, Jorge Nocedal, Mikhail Smelyanskiy, Ping Tak Peter Tang*  
 [[paper](https://arxiv.org/abs/1609.04836)]  

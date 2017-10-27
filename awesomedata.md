@@ -1,4 +1,7 @@
 # Awesome dataset  
+**JSUT (Japanese speech corpus of Saruwatari Lab, University of Tokyo)**  
+[[link](https://sites.google.com/site/shinnosuketakamichi/publication/jsut)]  
+
 **AVA(google action recognition dataset)**  
 [[link](https://research.google.com/ava/explore.html)]  
 

@@ -1,3 +1,6 @@
+**PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION**  
+[[paper](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)]  
+
 **Text2Action: Generative Adversarial Synthesis from Language to Action**  
 *Hyemin Ahn, Timothy Ha, Yunho Choi, Hwiyeon Yoo, Songhwai Oh*  
 [[paper](https://arxiv.org/abs/1710.05298)]  

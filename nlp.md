@@ -1,4 +1,8 @@
 # Natural Language Processing  
+**Deconvolutional Paragraph Representation Learning**  
+*Yizhe Zhang, Dinghan Shen, Guoyin Wang, Zhe Gan, Ricardo Henao, Lawrence Carin*  
+[[paper](https://arxiv.org/abs/1708.04729)]  
+
 **Long Text Generation via Adversarial Training with Leaked Information**  
 *Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Yong Yu, Jun Wang*  
 [[paper](https://arxiv.org/abs/1709.08624)]  

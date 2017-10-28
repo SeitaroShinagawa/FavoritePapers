@@ -2,6 +2,7 @@
 **Deconvolutional Paragraph Representation Learning**  
 *Yizhe Zhang, Dinghan Shen, Guoyin Wang, Zhe Gan, Ricardo Henao, Lawrence Carin*  
 [[paper](https://arxiv.org/abs/1708.04729)]  
+[[introduce](http://shunk031.me/paper-survey/paper-summary/NLP/Deconvolutional_Paragraph_Representation_Learning)]  
 
 **Long Text Generation via Adversarial Training with Leaked Information**  
 *Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Yong Yu, Jun Wang*  

@@ -1,3 +1,6 @@
+**微分幾何講義ノート**  
+[[link](https://people.maths.ox.ac.uk/hitchin/hitchinnotes/manifolds2012.pdf)]  
+
 **PRML解答集**  
 [[link](http://prml.yutorihiro.com/)]  
 

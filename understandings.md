@@ -10,7 +10,7 @@
 ## Deep Neural Networks  
 **How deep learning works --The geometry of deep learning**  
 *Xiao Dong, Jiasong Wu, Ling Zhou*  
-[[paper](https://arxiv.org/abs/1710.10784?utm_content=bufferbf568&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]  
+[[paper](https://arxiv.org/abs/1710.10784)]  
 
 **Many Paths to Equilibrium: GANs Do Not Need to Decrease a Divergence At Every Step**  
 *William Fedus, Mihaela Rosca, Balaji Lakshminarayanan, Andrew M. Dai, Shakir Mohamed, Ian Goodfellow*  

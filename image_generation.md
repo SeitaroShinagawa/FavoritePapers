@@ -1,3 +1,7 @@
+**Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions**  
+*Scott Reed, Yutian Chen, Thomas Paine, Aäron van den Oord, S. M. Ali Eslami, Danilo Rezende, Oriol Vinyals, Nando de Freitas*  
+[[paper](https://arxiv.org/abs/1710.10304)]  
+
 **PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION**  
 [[paper](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)]  
 

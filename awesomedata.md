@@ -1,4 +1,8 @@
 # Awesome dataset  
+**PubMed 200k RCT dataset: a large dataset for sequential sentence classification**    
+Abstracts of papers?    
+[[link](https://github.com/Franck-Dernoncourt/pubmed-rct)]  
+
 **JSUT (Japanese speech corpus of Saruwatari Lab, University of Tokyo)**  
 [[link](https://sites.google.com/site/shinnosuketakamichi/publication/jsut)]  
 

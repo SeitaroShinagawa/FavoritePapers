@@ -8,6 +8,9 @@
 アンサンブル  
 
 ## Deep Neural Networks  
+**Understanding Hidden Memories of Recurrent Neural Networks**  
+[[paper](http://www.myaooo.com/wp-content/uploads/2017/08/understanding-hidden-memories-camera.pdf)]  
+
 **How deep learning works --The geometry of deep learning**  
 *Xiao Dong, Jiasong Wu, Ling Zhou*  
 [[paper](https://arxiv.org/abs/1710.10784)]  

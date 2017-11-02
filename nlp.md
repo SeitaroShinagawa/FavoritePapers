@@ -1,4 +1,12 @@
 # Natural Language Processing  
+**Generating Natural Adversarial Examples**  
+*Zhengli Zhao, Dheeru Dua, Sameer Singh*  
+[[paper](https://arxiv.org/abs/1710.11342)]  
+
+**Paraphrase Generation with Deep Reinforcement Learning**  
+*Zichao Li, Xin Jiang, Lifeng Shang, Hang Li*  
+[[paper](https://arxiv.org/abs/1711.00279)]  
+
 **Deconvolutional Paragraph Representation Learning**  
 *Yizhe Zhang, Dinghan Shen, Guoyin Wang, Zhe Gan, Ricardo Henao, Lawrence Carin*  
 [[paper](https://arxiv.org/abs/1708.04729)]  

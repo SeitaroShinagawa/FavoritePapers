@@ -1,4 +1,8 @@
 # Awesome neural networks  
+**Long-term Forecasting using Tensor-Train RNNs**  
+*Rose Yu, Stephan Zheng, Anima Anandkumar, Yisong Yue*  
+[[paper](https://arxiv.org/abs/1711.00073)]  
+
 **Virtual to Real Reinforcement Learning for Autonomous Driving**  
 [[paper](https://arxiv.org/pdf/1704.03952.pdf)]  
 

@@ -1,3 +1,7 @@
+**Don't Decay the Learning Rate, Increase the Batch Size**  
+*Samuel L. Smith, Pieter-Jan Kindermans, Quoc V. Le*  
+[[paper](https://arxiv.org/abs/1711.00489)]  
+
 **Detecting annotation noise in automatically labelled data**  
 [[paper](http://aclweb.org/anthology/P17-1107)]  
 

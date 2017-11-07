@@ -4,6 +4,7 @@
 
 **PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION**  
 [[paper](http://research.nvidia.com/publication/2017-10_Progressive-Growing-of)]  
+[[pytorch](https://github.com/ptrblck/prog_gans_pytorch_inference)]  
 
 **Text2Action: Generative Adversarial Synthesis from Language to Action**  
 *Hyemin Ahn, Timothy Ha, Yunho Choi, Hwiyeon Yoo, Songhwai Oh*  

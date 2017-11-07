@@ -1,4 +1,8 @@
 # Awesome neural networks  
+**Neural Discrete Representation Learning**  
+*Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu*  
+[[paper](https://arxiv.org/abs/1711.00937)]  
+
 **Long-term Forecasting using Tensor-Train RNNs**  
 *Rose Yu, Stephan Zheng, Anima Anandkumar, Yisong Yue*  
 [[paper](https://arxiv.org/abs/1711.00073)]  

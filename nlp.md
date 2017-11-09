@@ -1,4 +1,8 @@
 # Natural Language Processing  
+**A Continuous Relaxation of Beam Search for End-to-end Training of Neural Sequence Models**  
+*Kartik Goyal, Graham Neubig, Chris Dyer, Taylor Berg-Kirkpatrick*  
+[[paper](https://arxiv.org/abs/1708.00111)]  
+
 **Generating Natural Adversarial Examples**  
 *Zhengli Zhao, Dheeru Dua, Sameer Singh*  
 [[paper](https://arxiv.org/abs/1710.11342)]  

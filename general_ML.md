@@ -1,3 +1,7 @@
+**Metric Learning-based Generative Adversarial Network**  
+*Zi-Yi Dou*  
+[[paper](https://arxiv.org/abs/1711.02792)]   
+
 **Don't Decay the Learning Rate, Increase the Batch Size**  
 *Samuel L. Smith, Pieter-Jan Kindermans, Quoc V. Le*  
 [[paper](https://arxiv.org/abs/1711.00489)]  

@@ -1,4 +1,7 @@
-# Natural Language Processing  
+# Natural Language Processing
+**ニューラル機械翻訳の動向@IBIS2017**  
+[[slide](https://www.slideshare.net/ToshiakiNakazawa/ibis2017)]]
+
 **Non-Autoregressive Neural Machine Translation**  
 *Jiatao Gu, James Bradbury, Caiming Xiong, Victor O.K. Li, Richard Socher*  
 [[paper](https://arxiv.org/abs/1711.02281)]  

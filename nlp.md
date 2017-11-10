@@ -1,4 +1,8 @@
 # Natural Language Processing  
+**Non-Autoregressive Neural Machine Translation**  
+*Jiatao Gu, James Bradbury, Caiming Xiong, Victor O.K. Li, Richard Socher*  
+[[paper](https://arxiv.org/abs/1711.02281)]  
+
 **A Continuous Relaxation of Beam Search for End-to-end Training of Neural Sequence Models**  
 *Kartik Goyal, Graham Neubig, Chris Dyer, Taylor Berg-Kirkpatrick*  
 [[paper](https://arxiv.org/abs/1708.00111)]  

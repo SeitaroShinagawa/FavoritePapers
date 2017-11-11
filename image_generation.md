@@ -1,3 +1,7 @@
+**Bayesian GAN**  
+*Yunus Saatchi, Andrew Gordon Wilson*  
+[[paper](https://arxiv.org/abs/1705.09558)]  
+
 **Few-shot Autoregressive Density Estimation: Towards Learning to Learn Distributions**  
 *Scott Reed, Yutian Chen, Thomas Paine, Aäron van den Oord, S. M. Ali Eslami, Danilo Rezende, Oriol Vinyals, Nando de Freitas*  
 [[paper](https://arxiv.org/abs/1710.10304)]  

@@ -1,4 +1,8 @@
 # Natural Language Processing
+**Neural-Symbolic Learning and Reasoning: A Survey and Interpretation**  
+*Tarek R. Besold, Artur d'Avila Garcez, Sebastian Bader, Howard Bowman, Pedro Domingos, Pascal Hitzler, Kai-Uwe Kuehnberger, Luis C. Lamb, Daniel Lowd, Priscila Machado Vieira Lima, Leo de Penning, Gadi Pinkas, Hoifung Poon, Gerson Zaverucha*  
+[[paper](https://arxiv.org/abs/1711.03902)]  
+
 **ニューラル機械翻訳の動向@IBIS2017**  
 [[slide](https://www.slideshare.net/ToshiakiNakazawa/ibis2017)]]
 

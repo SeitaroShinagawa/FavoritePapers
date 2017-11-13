@@ -7,6 +7,10 @@
 [[project](http://visual.cs.ucl.ac.uk/pubs/interactiveMachineTeaching/)]  
 
 # Dialog Systems  
+**Visual Reference Resolution using Attention Memory for Visual Dialog**  
+*Paul Hongsuck Seo, Andreas Lehrmann, Bohyung Han, Leonid Sigal*  
+[[paper](https://arxiv.org/abs/1709.07992)]  
+
 **A Knowledge-Grounded Neural Conversation Model**  
 *Marjan Ghazvininejad, Chris Brockett, Ming-Wei Chang, Bill Dolan, Jianfeng Gao, Wen-tau Yih, Michel Galley*  
 [[paper](https://arxiv.org/abs/1702.01932)]  

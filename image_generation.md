@@ -1,3 +1,7 @@
+**CyCADA: Cycle-Consistent Adversarial Domain Adaptation**  
+*Judy Hoffman, Eric Tzeng, Taesung Park, Jun-Yan Zhu, Phillip Isola, Kate Saenko, Alexei A. Efros, Trevor Darrell*  
+[paper](https://arxiv.org/abs/1711.03213)]  
+
 **Bayesian GAN**  
 *Yunus Saatchi, Andrew Gordon Wilson*  
 [[paper](https://arxiv.org/abs/1705.09558)]  

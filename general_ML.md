@@ -1,3 +1,7 @@
+**Deep Hyperspherical Learning**  
+*Weiyang Liu, Yan-Ming Zhang, Xingguo Li, Zhiding Yu, Bo Dai, Tuo Zhao, Le Song*  
+[[paper](https://arxiv.org/abs/1711.03189)]  
+
 **Metric Learning-based Generative Adversarial Network**  
 *Zi-Yi Dou*  
 [[paper](https://arxiv.org/abs/1711.02792)]   

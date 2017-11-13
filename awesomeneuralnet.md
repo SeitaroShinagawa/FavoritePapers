@@ -1,4 +1,8 @@
 # Awesome neural networks  
+**DLPaper2Code: Auto-generation of Code from Deep Learning Research Papers**  
+*Akshay Sethi, Anush Sankaran, Naveen Panwar, Shreya Khare, Senthil Mani*  
+[[paper](https://arxiv.org/abs/1711.03543)]  
+
 **Neural Discrete Representation Learning**  
 *Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu*  
 [[paper](https://arxiv.org/abs/1711.00937)]  

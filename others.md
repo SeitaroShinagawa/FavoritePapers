@@ -1,3 +1,7 @@
+**Gtrace**  
+continuous emotion annotation to time-series data  
+[[link](https://sites.google.com/site/roddycowie/work-resources)]  
+
 **ArXiv api in python**  
 [[link](https://github.com/lukasschwab/arxiv.py)]  
 

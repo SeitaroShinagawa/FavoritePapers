@@ -511,6 +511,7 @@ by Simon Peyton Jones(MSR,Cambridge)
 [[link](http://readingmonkey.blog45.fc2.com/blog-entry-563.html)]  
 [[cvpr](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)]  
 [[stanford](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2013/10/CALTECH.RUL_..pdf)]  
+[[table](https://www.inf.ethz.ch/personal/markusp/teaching/guides/guide-tables.pdf)]  
 
 **how to peer review**  
 [[link](http://scienceandtechnology.jp/archives/12812)]  

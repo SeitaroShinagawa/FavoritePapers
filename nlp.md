@@ -1,4 +1,8 @@
 # Natural Language Processing
+**QuickEdit: Editing Text & Translations via Simple Delete Actions**  
+*David Grangier, Michael Auli*  
+[[paper](https://arxiv.org/abs/1711.04805)]  
+
 **Neural-Symbolic Learning and Reasoning: A Survey and Interpretation**  
 *Tarek R. Besold, Artur d'Avila Garcez, Sebastian Bader, Howard Bowman, Pedro Domingos, Pascal Hitzler, Kai-Uwe Kuehnberger, Luis C. Lamb, Daniel Lowd, Priscila Machado Vieira Lima, Leo de Penning, Gadi Pinkas, Hoifung Poon, Gerson Zaverucha*  
 [[paper](https://arxiv.org/abs/1711.03902)]  

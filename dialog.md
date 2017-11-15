@@ -64,6 +64,10 @@
 [[paper](https://arxiv.org/abs/1703.10960)]  
 
 ## Question Answering  
+**High-Order Attention Models for Visual Question Answering(NIPS2017)**  
+*Idan Schwartz, Alexander G. Schwing, Tamir Hazan*  
+[[paper](https://arxiv.org/abs/1711.04323v1)]  
+
 **Image-Grounded Conversations: Multimodal Context for Natural Question and Response Generation**  
 [[paper](https://arxiv.org/abs/1701.08251)]  
 

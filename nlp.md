@@ -1,4 +1,8 @@
 # Natural Language Processing
+**Controllable Abstractive Summarization**  
+*Angela Fan, David Grangier, Michael Auli*  
+[[paper](https://arxiv.org/abs/1711.05217)]  
+
 **QuickEdit: Editing Text & Translations via Simple Delete Actions**  
 *David Grangier, Michael Auli*  
 [[paper](https://arxiv.org/abs/1711.04805)]  

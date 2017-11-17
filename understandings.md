@@ -8,6 +8,10 @@
 アンサンブル  
 
 ## Deep Neural Networks  
+**High-dimensional dynamics of generalization error in neural networks**  
+*Madhu S. Advani, Andrew M. Saxe*  
+[[paper](https://arxiv.org/abs/1710.03667)]  
+
 **Understanding Hidden Memories of Recurrent Neural Networks**  
 [[paper](http://www.myaooo.com/wp-content/uploads/2017/08/understanding-hidden-memories-camera.pdf)]  
 

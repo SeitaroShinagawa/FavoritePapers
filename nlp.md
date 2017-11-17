@@ -1,4 +1,8 @@
 # Natural Language Processing
+**Breaking the Softmax Bottleneck: A High-Rank RNN Language Model**  
+*Zhilin Yang, Zihang Dai, Ruslan Salakhutdinov, William W. Cohen*  
+[[paper](https://arxiv.org/abs/1711.03953)]  
+
 **Controllable Abstractive Summarization**  
 *Angela Fan, David Grangier, Michael Auli*  
 [[paper](https://arxiv.org/abs/1711.05217)]  

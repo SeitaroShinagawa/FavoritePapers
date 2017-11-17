@@ -1,3 +1,7 @@
+**Latent Constraints: Learning to Generate Conditionally from Unconditional Generative Models**  
+*Jesse Engel, Matthew Hoffman, Adam Roberts*  
+[[paper](https://arxiv.org/abs/1711.05772)]  
+
 **CyCADA: Cycle-Consistent Adversarial Domain Adaptation**  
 *Judy Hoffman, Eric Tzeng, Taesung Park, Jun-Yan Zhu, Phillip Isola, Kate Saenko, Alexei A. Efros, Trevor Darrell*  
 [paper](https://arxiv.org/abs/1711.03213)]  

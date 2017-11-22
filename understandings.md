@@ -8,6 +8,10 @@
 アンサンブル  
 
 ## Deep Neural Networks  
+**Deep Learning for Physical Processes: Incorporating Prior Scientific Knowledge**  
+*Emmanuel de Bezenac, Arthur Pajot, Patrick Gallinari*  
+[[paper](https://arxiv.org/abs/1711.07970)]  
+
 **High-dimensional dynamics of generalization error in neural networks**  
 *Madhu S. Advani, Andrew M. Saxe*  
 [[paper](https://arxiv.org/abs/1710.03667)]  

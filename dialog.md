@@ -64,6 +64,10 @@
 [[paper](https://arxiv.org/abs/1703.10960)]  
 
 ## Question Answering  
+**Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning**  
+*Qi Wu, Peng Wang, Chunhua Shen, Ian Reid, Anton van den Hengel*  
+[[paper](https://arxiv.org/abs/1711.07613)]  
+
 **Asking the Difficult Questions: Goal-Oriented Visual Question Generation via Intermediate Rewards**  
 *Junjie Zhang, Qi Wu, Chunhua Shen, Jian Zhang, Jianfeng Lu, Anton van den Hengel*  
 [[paper](https://arxiv.org/abs/1711.07614v1)]  

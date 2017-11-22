@@ -1,7 +1,7 @@
 # Awesome neural networks  
-**DLPaper2Code: Auto-generation of Code from Deep Learning Research Papers**  
-*Akshay Sethi, Anush Sankaran, Naveen Panwar, Shreya Khare, Senthil Mani*  
-[[paper](https://arxiv.org/abs/1711.03543)]  
+**Parallel WaveNet: Fast High-Fidelity Speech Synthesis**  
+[[project](https://deepmind.com/blog/high-fidelity-speech-synthesis-wavenet/)]   
+[[paper](https://deepmind.com/documents/131/Distilling_WaveNet.pdf)]  
 
 **Neural Discrete Representation Learning**  
 *Aaron van den Oord, Oriol Vinyals, Koray Kavukcuoglu*  

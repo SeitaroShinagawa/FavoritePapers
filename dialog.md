@@ -64,6 +64,10 @@
 [[paper](https://arxiv.org/abs/1703.10960)]  
 
 ## Question Answering  
+**Asking the Difficult Questions: Goal-Oriented Visual Question Generation via Intermediate Rewards**  
+*Junjie Zhang, Qi Wu, Chunhua Shen, Jian Zhang, Jianfeng Lu, Anton van den Hengel*  
+[[paper](https://arxiv.org/abs/1711.07614v1)]  
+
 **High-Order Attention Models for Visual Question Answering(NIPS2017)**  
 *Idan Schwartz, Alexander G. Schwing, Tamir Hazan*  
 [[paper](https://arxiv.org/abs/1711.04323v1)]  

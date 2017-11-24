@@ -1,4 +1,7 @@
 # Natural Language Processing
+**Character-Level Language Modeling with Recurrent Highway Hypernetworks**  
+[[paper](http://papers.nips.cc/paper/6919-language-modeling-with-recurrent-highway-hypernetworks.pdf)]]  
+
 **Breaking the Softmax Bottleneck: A High-Rank RNN Language Model**  
 *Zhilin Yang, Zihang Dai, Ruslan Salakhutdinov, William W. Cohen*  
 [[paper](https://arxiv.org/abs/1711.03953)]  

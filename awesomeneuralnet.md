@@ -1,4 +1,8 @@
 # Awesome neural networks  
+**Shift: A Zero FLOP, Zero Parameter Alternative to Spatial Convolutions**  
+*Bichen Wu, Alvin Wan, Xiangyu Yue, Peter Jin, Sicheng Zhao, Noah Golmant, Amir Gholaminejad, Joseph Gonzalez, Kurt Keutzer*  
+[[paper](https://arxiv.org/abs/1711.08141)]  
+
 **Parallel WaveNet: Fast High-Fidelity Speech Synthesis**  
 [[project](https://deepmind.com/blog/high-fidelity-speech-synthesis-wavenet/)]   
 [[paper](https://deepmind.com/documents/131/Distilling_WaveNet.pdf)]  

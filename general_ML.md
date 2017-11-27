@@ -1,3 +1,7 @@
+**Causal Generative Neural Networks**  
+*Olivier Goudet, Diviyan Kalainathan, Philippe Caillou, Isabelle Guyon, David Lopez-Paz, Michèle Sebag*  
+[[paper](https://arxiv.org/abs/1711.08936)]  
+
 **Deep Hyperspherical Learning**  
 *Weiyang Liu, Yan-Ming Zhang, Xingguo Li, Zhiding Yu, Bo Dai, Tuo Zhao, Le Song*  
 [[paper](https://arxiv.org/abs/1711.03189)]  

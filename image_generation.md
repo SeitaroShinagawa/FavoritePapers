@@ -1,3 +1,7 @@
+**IVE-GAN: Invariant Encoding Generative Adversarial Networks**  
+*Robin Winter, Djork-Arné Clevert*  
+[[paper](https://arxiv.org/abs/1711.08646)]  
+
 **StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation**  
 *Yunjey Choi, Minje Choi, Munyoung Kim, Jung-Woo Ha, Sunghun Kim, Jaegul Choo*  
 [[paper](https://arxiv.org/abs/1711.09020)]  

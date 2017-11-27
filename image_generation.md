@@ -1,3 +1,7 @@
+**StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation**  
+*Yunjey Choi, Minje Choi, Munyoung Kim, Jung-Woo Ha, Sunghun Kim, Jaegul Choo*  
+[[paper](https://arxiv.org/abs/1711.09020)]  
+
 **Latent Constraints: Learning to Generate Conditionally from Unconditional Generative Models**  
 *Jesse Engel, Matthew Hoffman, Adam Roberts*  
 [[paper](https://arxiv.org/abs/1711.05772)]  

@@ -1,3 +1,7 @@
+**Be Your Own Prada: Fashion Synthesis with Structural Coherence**  
+*Shizhan Zhu, Sanja Fidler, Raquel Urtasun, Dahua Lin, Chen Change Loy*  
+[[paepr](https://arxiv.org/abs/1710.07346)]  
+
 **IVE-GAN: Invariant Encoding Generative Adversarial Networks**  
 *Robin Winter, Djork-Arné Clevert*  
 [[paper](https://arxiv.org/abs/1711.08646)]  

@@ -1,3 +1,7 @@
+**Are GANs Created Equal? A Large-Scale Study**  
+*Mario Lucic, Karol Kurach, Marcin Michalski, Sylvain Gelly, Olivier Bousquet*  
+[[paper](https://arxiv.org/abs/1711.10337)]  
+
 **Be Your Own Prada: Fashion Synthesis with Structural Coherence**  
 *Shizhan Zhu, Sanja Fidler, Raquel Urtasun, Dahua Lin, Chen Change Loy*  
 [[paepr](https://arxiv.org/abs/1710.07346)]  

@@ -1,3 +1,9 @@
+**Variational Memory Addressing in Generative Models(NIPS2017)**  
+[[paper](https://papers.nips.cc/paper/6981-variational-memory-addressing-in-generative-models)]  
+
+**Gradient Episodic Memory for Continual Learning(NIPS2017)**  
+[[paper](https://papers.nips.cc/paper/7225-gradient-episodic-memory-for-continual-learning)]  
+
 **Active Bias: Training More Accurate Neural Networks by Emphasizing High Variance Samples**  
 [[paper](https://papers.nips.cc/paper/6701-active-bias-training-a-more-accurate-neural-network-by-emphasizing-high-variance-samples)]  
 

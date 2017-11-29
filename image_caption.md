@@ -1,3 +1,6 @@
+**Contrastive Learning for Image Captioning**  
+[[paper](https://papers.nips.cc/paper/6691-contrastive-learning-for-image-captioning)]  
+
 **Describing Natural Images Containing Novel Objects with Knowledge Guided Assitance**  
 *Aditya Mogadala, Umanga Bista, Lexing Xie, Achim Rettinger*  
 [[paper](https://arxiv.org/abs/1710.06303v1)]  

@@ -1,4 +1,8 @@
 # Awesome neural networks  
+**Locally Smoothed Neural Networks**  
+*Liang Pang, Yanyan Lan, Jun Xu, Jiafeng Guo, Xueqi Cheng*  
+[[paper](https://arxiv.org/abs/1711.08132)]  
+
 **Shift: A Zero FLOP, Zero Parameter Alternative to Spatial Convolutions**  
 *Bichen Wu, Alvin Wan, Xiangyu Yue, Peter Jin, Sicheng Zhao, Noah Golmant, Amir Gholaminejad, Joseph Gonzalez, Kurt Keutzer*  
 [[paper](https://arxiv.org/abs/1711.08141)]  

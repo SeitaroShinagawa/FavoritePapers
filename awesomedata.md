@@ -1,4 +1,7 @@
 # Awesome dataset  
+**Mozilla speech recognition dataset**  
+[[link](https://voice.mozilla.org/data)]  
+
 **UCF101**  
 [[link](http://crcv.ucf.edu/data/UCF101.php)]  
 

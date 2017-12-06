@@ -1,3 +1,8 @@
+**One-Sided Unsupervised Domain Mapping**  
+*Sagie Benaim, Lior Wolf*  
+[[paper](https://arxiv.org/abs/1706.00826)]  
+[[code](https://github.com/sagiebenaim/DistanceGAN)]  
+
 **Are GANs Created Equal? A Large-Scale Study**  
 *Mario Lucic, Karol Kurach, Marcin Michalski, Sylvain Gelly, Olivier Bousquet*  
 [[paper](https://arxiv.org/abs/1711.10337)]  

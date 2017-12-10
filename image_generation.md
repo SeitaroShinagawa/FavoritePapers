@@ -1,3 +1,7 @@
+**Neural Color Transfer between Images**  
+*Mingming He, Jing Liao, Lu Yuan, Pedro V. Sander*  
+[[paper](https://arxiv.org/abs/1710.00756)]  
+
 **One-Sided Unsupervised Domain Mapping**  
 *Sagie Benaim, Lior Wolf*  
 [[paper](https://arxiv.org/abs/1706.00826)]  

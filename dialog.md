@@ -64,6 +64,10 @@
 [[paper](https://arxiv.org/abs/1703.10960)]  
 
 ## Question Answering  
+**IQA: Visual Question Answering in Interactive Environments**  
+*Daniel Gordon, Aniruddha Kembhavi, Mohammad Rastegari, Joseph Redmon, Dieter Fox, Ali Farhadi*  
+[[paper](https://arxiv.org/abs/1712.03316)]  
+
 **Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning**  
 *Qi Wu, Peng Wang, Chunhua Shen, Ian Reid, Anton van den Hengel*  
 [[paper](https://arxiv.org/abs/1711.07613)]  

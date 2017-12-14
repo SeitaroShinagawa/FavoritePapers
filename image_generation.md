@@ -1,3 +1,7 @@
+**PacGAN: The power of two samples in generative adversarial networks**  
+*Zinan Lin, Ashish Khetan, Giulia Fanti, Sewoong Oh*  
+[[paper](https://arxiv.org/abs/1712.04086)]  
+
 **Logo Synthesis and Manipulation with Clustered Generative Adversarial Networks**  
 *Alexander Sage, Eirikur Agustsson, Radu Timofte, Luc Van Gool*  
 [[paper](https://arxiv.org/abs/1712.04407)]  

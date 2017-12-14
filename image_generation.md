@@ -1,3 +1,7 @@
+**Logo Synthesis and Manipulation with Clustered Generative Adversarial Networks**  
+*Alexander Sage, Eirikur Agustsson, Radu Timofte, Luc Van Gool*  
+[[paper](https://arxiv.org/abs/1712.04407)]  
+
 **Conditional Generative Adversarial Networks for Emoji Synthesis with Word Embedding Manipulation**  
 *Dianna Radpour, Vivek Bheda*  
 [[paper](https://arxiv.org/abs/1712.04421v2)]  

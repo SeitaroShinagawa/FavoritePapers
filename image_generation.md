@@ -1,3 +1,7 @@
+**Conditional Generative Adversarial Networks for Emoji Synthesis with Word Embedding Manipulation**  
+*Dianna Radpour, Vivek Bheda*  
+[[paper](https://arxiv.org/abs/1712.04421v2)]  
+
 **Neural Color Transfer between Images**  
 *Mingming He, Jing Liao, Lu Yuan, Pedro V. Sander*  
 [[paper](https://arxiv.org/abs/1710.00756)]  

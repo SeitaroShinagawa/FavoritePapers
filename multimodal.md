@@ -1,4 +1,7 @@
 # Multimodal  
+**Visual to Sound: Generating Natural Sound for Videos in the Wild**  
+[[project](http://bvision11.cs.unc.edu/bigpen/yipin/visual2sound_webpage/visual2sound.html)]  
+
 **Vision-and-Language Navigation: Interpreting visually-grounded navigation instructions in real environments**  
 *Peter Anderson, Qi Wu, Damien Teney, Jake Bruce, Mark Johnson, Niko Sünderhauf, Ian Reid, Stephen Gould, Anton van den Hengel*  
 [[paper](https://arxiv.org/abs/1711.07280)]  

@@ -1,4 +1,8 @@
-# Natural Language Processing**  
+# Natural Language Processing  
+
+**Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation**  
+*Albert Gatt, Emiel Krahmer*  
+[[paper](https://arxiv.org/abs/1703.09902)]  
 
 **A User-Study on Online Adaptation of Neural Machine Translation to Human Post-Edits**   
 [[paper](https://arxiv.org/abs/1712.04853)]  

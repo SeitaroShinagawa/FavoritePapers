@@ -1,3 +1,6 @@
+**微分・積分の先にあるもの― 変分法入門 ―**  
+[[link](http://high-school.c.u-tokyo.ac.jp/20160205.pdf)]  
+
 **ニューラルネットの学習過程の可視化を題材に、Jupyter + Bokeh で動的な描画を行う方法の紹介**  
 [[link](http://r9y9.github.io/blog/2017/12/14/jupyter-bokeh/)]  
 

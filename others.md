@@ -1,4 +1,4 @@
-**Computational Optimal Transport**  
+**Computational Optimal Transport**  
 [[paper](https://optimaltransport.github.io/)]  
 
 **微分・積分の先にあるもの― 変分法入門 ―**  

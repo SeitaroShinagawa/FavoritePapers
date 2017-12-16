@@ -1,7 +1,7 @@
 **Towards Diverse and Natural Image Descriptions via a Conditional GAN(ICCV2017)**  
 *Bo Dai, Sanja Fidler, Raquel Urtasun, Dahua Lin*  
 [[paper](https://arxiv.org/abs/1703.06029)]  
-[[slide]()]  
+[[slide](https://www.slideshare.net/toshikisakai982/cviccv2017towards-diverse-and-natural-image-descriptions-via-a-conditional-gan)]  
 
 **Contrastive Learning for Image Captioning**  
 [[paper](https://papers.nips.cc/paper/6691-contrastive-learning-for-image-captioning)]  

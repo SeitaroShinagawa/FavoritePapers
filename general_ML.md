@@ -1,3 +1,7 @@
+**MentorNet: Regularizing Very Deep Neural Networks on Corrupted Labels**  
+*Lu Jiang, Zhengyuan Zhou, Thomas Leung, Li-Jia Li, Li Fei-Fei*  
+[[paper](https://arxiv.org/abs/1712.05055)]  
+
 **Investigating the Impact of Data Volume and Domain Similarity on Transfer Learning Applications**  
 [[paper](https://arxiv.org/abs/1712.04008)]  
 

@@ -1,3 +1,6 @@
+**ニューラルネットの学習過程の可視化を題材に、Jupyter + Bokeh で動的な描画を行う方法の紹介**  
+[[link](http://r9y9.github.io/blog/2017/12/14/jupyter-bokeh/)]  
+
 **Gtrace**  
 continuous emotion annotation to time-series data  
 [[link](https://sites.google.com/site/roddycowie/work-resources)]  

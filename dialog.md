@@ -6,6 +6,9 @@
 **Becoming the Expert - Interactive Multi-Class Machine Teaching(CVPR2015)**  
 [[project](http://visual.cs.ucl.ac.uk/pubs/interactiveMachineTeaching/)]  
 
+**Paper Collection of Multi-Agent Reinforcement Learning**  
+[[link](https://github.com/LantaoYu/MARL-Papers)]  
+
 # Dialog Systems  
 **Visual Reference Resolution using Attention Memory for Visual Dialog**  
 *Paul Hongsuck Seo, Andreas Lehrmann, Bohyung Han, Leonid Sigal*  

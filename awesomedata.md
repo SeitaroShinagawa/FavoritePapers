@@ -1,4 +1,9 @@
 # Awesome dataset  
+**The KIT Motion-Language Dataset**  
+*Matthias Plappert, Christian Mandery, Tamim Asfour*  
+[[paper](https://arxiv.org/abs/1607.03827)]  
+[[dataset](https://motion-annotation.humanoids.kit.edu/)]  
+
 **Mozilla speech recognition dataset**  
 [[link](https://voice.mozilla.org/data)]  
 

@@ -1,4 +1,8 @@
 # Works related to Dialog
+**Multi-Agent Cooperation and the Emergence of (Natural) Language**  
+*Angeliki Lazaridou, Alexander Peysakhovich, Marco Baroni*  
+[[paper](https://arxiv.org/abs/1612.07182)]  
+
 **Learning Symmetric Collaborative Dialogue Agents with Dynamic Knowledge Graph Embeddings**  
 *He He, Anusha Balakrishnan, Mihail Eric, Percy Liang*  
 [[paper](https://arxiv.org/abs/1704.07130)]   

@@ -181,6 +181,7 @@ GANを用いた異常検知
 **LR-GAN: Layered Recursive Generative Adversarial Networks for Image Generation**  
 *Jianwei Yang, Anitha Kannan, Dhruv Batra, Devi Parikh*  
 [[paper](https://arxiv.org/abs/1703.01560v2)]  
+[[code](https://github.com/jwyang/lr-gan.pytorch)]  
 
 **Perceptual Adversarial Networks for Image-to-Image Transformation**  
 *Chaoyue Wang, Chang Xu, Chaohui Wang, Dacheng Tao*  

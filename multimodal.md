@@ -1,4 +1,8 @@
 # Multimodal  
+**Learning Modality-Invariant Representations for Speech and Images**  
+*Kenneth Leidal, David Harwath, James Glass*  
+[[paper](https://arxiv.org/abs/1712.03897)]  
+
 **Visual to Sound: Generating Natural Sound for Videos in the Wild**  
 [[project](http://bvision11.cs.unc.edu/bigpen/yipin/visual2sound_webpage/visual2sound.html)]  
 

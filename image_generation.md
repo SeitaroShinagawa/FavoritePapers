@@ -1,3 +1,7 @@
+**Stabilizing Adversarial Nets With Prediction Methods**  
+*Abhay Yadav, Sohil Shah, Zheng Xu, David Jacobs, Tom Goldstein*  
+[[paper](https://arxiv.org/abs/1705.07364)]  
+
 **PacGAN: The power of two samples in generative adversarial networks**  
 *Zinan Lin, Ashish Khetan, Giulia Fanti, Sewoong Oh*  
 [[paper](https://arxiv.org/abs/1712.04086)]  

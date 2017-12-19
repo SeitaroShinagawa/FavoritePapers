@@ -1,4 +1,7 @@
 # Awesome dataset  
+**End-to-end Recovery of Human Shape and Pose**  
+[[link](https://akanazawa.github.io/hmr/)]  
+
 **The KIT Motion-Language Dataset**  
 *Matthias Plappert, Christian Mandery, Tamim Asfour*  
 [[paper](https://arxiv.org/abs/1607.03827)]  

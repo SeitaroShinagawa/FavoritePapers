@@ -71,6 +71,10 @@
 [[paper](https://arxiv.org/abs/1703.10960)]  
 
 ## Question Answering  
+**The NarrativeQA Reading Comprehension Challenge**  
+*Tomáš Kočiský, Jonathan Schwarz, Phil Blunsom, Chris Dyer, Karl Moritz Hermann, Gábor Melis, Edward Grefenstette*  
+[[paper](https://arxiv.org/abs/1712.07040v1)]  
+
 **IQA: Visual Question Answering in Interactive Environments**  
 *Daniel Gordon, Aniruddha Kembhavi, Mohammad Rastegari, Joseph Redmon, Dieter Fox, Ali Farhadi*  
 [[paper](https://arxiv.org/abs/1712.03316)]  

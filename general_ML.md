@@ -1,3 +1,7 @@
+**Learning with Imprinted Weights**  
+*Hang Qi, Matthew Brown, David G. Lowe*  
+[[paper](https://arxiv.org/abs/1712.07136)]  
+
 **MentorNet: Regularizing Very Deep Neural Networks on Corrupted Labels**  
 *Lu Jiang, Zhengyuan Zhou, Thomas Leung, Li-Jia Li, Li Fei-Fei*  
 [[paper](https://arxiv.org/abs/1712.05055)]  

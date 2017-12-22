@@ -1,3 +1,7 @@
+**Deformable Shape Completion with Graph Convolutional Autoencoders**  
+*Or Litany, Alex Bronstein, Michael Bronstein, Ameesh Makadia*  
+[[paper](https://arxiv.org/abs/1712.00268v3)]  
+
 **Differential Generative Adversarial Networks: Synthesizing Non-linear Facial Variations with Limited Number of Training Data**  
 *Geonmo Gu, Seong Tae Kim, Kihyun Kim, Wissam J. Baddar, Yong Man Ro*  
 [[paper](https://arxiv.org/abs/1711.10267v3)]  

@@ -1,3 +1,7 @@
+**Differential Generative Adversarial Networks: Synthesizing Non-linear Facial Variations with Limited Number of Training Data**  
+*Geonmo Gu, Seong Tae Kim, Kihyun Kim, Wissam J. Baddar, Yong Man Ro*  
+[[paper](https://arxiv.org/abs/1711.10267v3)]  
+
 **Stabilizing Adversarial Nets With Prediction Methods**  
 *Abhay Yadav, Sohil Shah, Zheng Xu, David Jacobs, Tom Goldstein*  
 [[paper](https://arxiv.org/abs/1705.07364)]  

@@ -1,5 +1,9 @@
 # Natural Language Processing  
 
+**Language Generation with Recurrent Generative Adversarial Networks without Pre-training**  
+*Ofir Press, Amir Bar, Ben Bogin, Jonathan Berant, Lior Wolf*  
+[[paper](https://arxiv.org/abs/1706.01399)]  
+
 **Survey of the State of the Art in Natural Language Generation: Core tasks, applications and evaluation**  
 *Albert Gatt, Emiel Krahmer*  
 [[paper](https://arxiv.org/abs/1703.09902)]  

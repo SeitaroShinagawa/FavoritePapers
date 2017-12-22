@@ -1,4 +1,8 @@
 # Multimodal  
+**Learning Sight from Sound: Ambient Sound Provides Supervision for Visual Learning**  
+*Andrew Owens, Jiajun Wu, Josh H. McDermott, William T. Freeman, Antonio Torralba*  
+[[paper](https://arxiv.org/abs/1712.07271v1)]  
+
 **Learning Modality-Invariant Representations for Speech and Images**  
 *Kenneth Leidal, David Harwath, James Glass*  
 [[paper](https://arxiv.org/abs/1712.03897)]  

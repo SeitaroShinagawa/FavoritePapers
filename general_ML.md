@@ -1,3 +1,8 @@
+**Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results(NIPS2017)**  
+*Antti Tarvainen, Harri Valpola*  
+[[paper](https://arxiv.org/abs/1703.01780)]  
+[[project](https://github.com/CuriousAI/mean-teacher)]  
+
 **Learning with Imprinted Weights**  
 *Hang Qi, Matthew Brown, David G. Lowe*  
 [[paper](https://arxiv.org/abs/1712.07136)]  

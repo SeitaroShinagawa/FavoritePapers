@@ -1,3 +1,6 @@
+**Baysian optimization tool**  
+[[link](https://github.com/fmfn/BayesianOptimization)]  
+
 **The Human Annotation Tool**  
 [[link](https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/shape/hat/)]  
 

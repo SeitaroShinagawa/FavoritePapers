@@ -1,3 +1,7 @@
+**CSGNet: Neural Shape Parser for Constructive Solid Geometry**  
+*Gopal Sharma, Rishabh Goyal, Difan Liu, Evangelos Kalogerakis, Subhransu Maji*  
+[[paper](https://arxiv.org/abs/1712.08290)]   
+
 **Deformable Shape Completion with Graph Convolutional Autoencoders**  
 *Or Litany, Alex Bronstein, Michael Bronstein, Ameesh Makadia*  
 [[paper](https://arxiv.org/abs/1712.00268v3)]  

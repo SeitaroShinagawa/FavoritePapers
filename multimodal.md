@@ -1,4 +1,8 @@
 # Multimodal  
+
+**Resolving Language and Vision Ambiguities Together: Joint Segmentation & Prepositional Attachment Resolution in Captioned Scenes(EMNLP2016)**  
+[[paper](http://www.aclweb.org/anthology/D16-1156)]  
+
 **Learning Sight from Sound: Ambient Sound Provides Supervision for Visual Learning**  
 *Andrew Owens, Jiajun Wu, Josh H. McDermott, William T. Freeman, Antonio Torralba*  
 [[paper](https://arxiv.org/abs/1712.07271v1)]  

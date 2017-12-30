@@ -1,5 +1,8 @@
 # Multimodal  
 
+**Unsupervised Visual Sense Disambiguation for Verbs using Multimodal Embeddings(NAACL2016)**  
+[[paper](http://www.aclweb.org/anthology/N16-1022)]  
+
 **Resolving Language and Vision Ambiguities Together: Joint Segmentation & Prepositional Attachment Resolution in Captioned Scenes(EMNLP2016)**  
 [[paper](http://www.aclweb.org/anthology/D16-1156)]  
 

@@ -1,5 +1,8 @@
 # Natural Language Processing  
 
+**Generating Disambiguating Paraphrases for Structurally Ambiguous Sentences**  
+[[paper](http://aclweb.org/anthology/W16-1718)]  
+
 **Language Generation with Recurrent Generative Adversarial Networks without Pre-training**  
 *Ofir Press, Amir Bar, Ben Bogin, Jonathan Berant, Lior Wolf*  
 [[paper](https://arxiv.org/abs/1706.01399)]  

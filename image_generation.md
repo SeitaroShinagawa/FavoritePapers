@@ -1,3 +1,7 @@
+**AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks**  
+*Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He*  
+[[paper](https://arxiv.org/abs/1711.10485)]  
+
 **CSGNet: Neural Shape Parser for Constructive Solid Geometry**  
 *Gopal Sharma, Rishabh Goyal, Difan Liu, Evangelos Kalogerakis, Subhransu Maji*  
 [[paper](https://arxiv.org/abs/1712.08290)]   

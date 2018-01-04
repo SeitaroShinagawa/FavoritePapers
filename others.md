@@ -1,3 +1,7 @@
+**python pptx**  
+[[qiita](https://qiita.com/code_440/items/22e8539da465686496d3)]  
+[[code](http://python-pptx.readthedocs.io/en/latest/#)]  
+
 **Marp:Markdown Presentation Writer**  
 [[link](https://yhatt.github.io/marp/)]  
 

@@ -1,3 +1,7 @@
+**Deep Learning: A Critical Appraisal**  
+*Gary Marcus*  
+[[paper(https://arxiv.org/abs/1801.00631)]  
+
 **python pptx**  
 [[qiita](https://qiita.com/code_440/items/22e8539da465686496d3)]  
 [[code](http://python-pptx.readthedocs.io/en/latest/#)]  

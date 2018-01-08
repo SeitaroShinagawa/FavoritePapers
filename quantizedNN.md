@@ -1,4 +1,8 @@
 # Quantized Neural Network
+**Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference**  
+*Benoit Jacob, Skirmantas Kligys, Bo Chen, Menglong Zhu, Matthew Tang, Andrew Howard, Hartwig Adam, Dmitry Kalenichenko*  
+[[paper](https://arxiv.org/abs/1712.05877)]  
+
 **Verifying Properties of Binarized Deep Neural Networks**  
 *Nina Narodytska, Shiva Prasad Kasiviswanathan, Leonid Ryzhyk, Mooly Sagiv, Toby Walsh*  
 [[paper](https://arxiv.org/abs/1709.06662)]  

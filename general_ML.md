@@ -1,3 +1,7 @@
+**Overcoming catastrophic forgetting with hard attention to the task**  
+*Joan Serrà, Dídac Surís, Marius Miron, Alexandros Karatzoglou*  
+[[paper](https://arxiv.org/abs/1801.01423)]  
+
 **Mean teachers are better role models: Weight-averaged consistency targets improve semi-supervised deep learning results(NIPS2017)**  
 *Antti Tarvainen, Harri Valpola*  
 [[paper](https://arxiv.org/abs/1703.01780)]  

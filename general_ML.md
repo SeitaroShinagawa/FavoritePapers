@@ -1,3 +1,7 @@
+**Learning to Compose Domain-Specific Transformations for Data Augmentation**  
+*Alexander J. Ratner, Henry R. Ehrenberg, Zeshan Hussain, Jared Dunnmon, Christopher Ré*  
+[[paper](https://arxiv.org/abs/1709.01643)]  
+
 **Overcoming catastrophic forgetting with hard attention to the task**  
 *Joan Serrà, Dídac Surís, Marius Miron, Alexandros Karatzoglou*  
 [[paper](https://arxiv.org/abs/1801.01423)]  

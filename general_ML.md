@@ -1,3 +1,7 @@
+**Deep Learning for Sampling from Arbitrary Probability Distributions**  
+*Felix Horger, Tobias Würfl, Vincent Christlein, Andreas Maier*  
+[[paper](https://arxiv.org/abs/1801.04211)]  
+
 **Learning to Compose Domain-Specific Transformations for Data Augmentation**  
 *Alexander J. Ratner, Henry R. Ehrenberg, Zeshan Hussain, Jared Dunnmon, Christopher Ré*  
 [[paper](https://arxiv.org/abs/1709.01643)]  

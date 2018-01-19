@@ -1,3 +1,7 @@
+**Graphical Models for Processing Missing Data**  
+*Karthika Mohan, Judea Pearl*  
+[[paper](https://arxiv.org/abs/1801.03583)]  
+
 **Deep Learning for Sampling from Arbitrary Probability Distributions**  
 *Felix Horger, Tobias Würfl, Vincent Christlein, Andreas Maier*  
 [[paper](https://arxiv.org/abs/1801.04211)]  

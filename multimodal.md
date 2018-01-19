@@ -1,5 +1,9 @@
 # Multimodal  
 
+**Interactively Picking Real-World Objects with Unconstrained Spoken Language Instructions**  
+*Jun Hatori, Yuta Kikuchi, Sosuke Kobayashi, Kuniyuki Takahashi, Yuta Tsuboi, Yuya Unno, Wilson Ko, Jethro Tan*  
+[[paper](https://arxiv.org/abs/1710.06280)]  
+
 **Unsupervised Visual Sense Disambiguation for Verbs using Multimodal Embeddings(NAACL2016)**  
 [[paper](http://www.aclweb.org/anthology/N16-1022)]  
 

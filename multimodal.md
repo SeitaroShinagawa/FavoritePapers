@@ -1,4 +1,18 @@
-# Multimodal  
+# Multimodal   
+**Natural Language Communication with Robots (NAACL2016)**  
+[[paper](http://www.aclweb.org/anthology/N16-1089)]  
+
+**Source-Target Inference Models for Spatial Instruction Understanding (AAAI2018)**  
+*Hao Tan, Mohit Bansal*  
+[[paper](https://arxiv.org/abs/1707.03804)]  
+
+**Learning Interpretable Spatial Operations in a Rich 3D Blocks World (AAAI2018)**  
+*Yonatan Bisk, Kevin J. Shih, Yejin Choi, Daniel Marcu*  
+[[paper](https://arxiv.org/abs/1712.03463)]  
+
+**Grounded Language Learning in a Simulated 3D World**  
+*Karl Moritz Hermann, Felix Hill, Simon Green, Fumin Wang, Ryan Faulkner, Hubert Soyer, David Szepesvari, Wojciech Marian Czarnecki, Max Jaderberg, Denis Teplyashin, Marcus Wainwright, Chris Apps, Demis Hassabis, Phil Blunsom*  
+[[paper](https://arxiv.org/abs/1706.06551)]  
 
 **Interactively Picking Real-World Objects with Unconstrained Spoken Language Instructions**  
 *Jun Hatori, Yuta Kikuchi, Sosuke Kobayashi, Kuniyuki Takahashi, Yuta Tsuboi, Yuya Unno, Wilson Ko, Jethro Tan*  

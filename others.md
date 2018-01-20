@@ -1,3 +1,7 @@
+**RISE**  
+slide style of jupyter notebook
+[[link](https://damianavila.github.io/RISE/installation.html)]  
+
 **MuJoCo Plugin and Unity Integration**  
 [[link](http://www.mujoco.org/book/unity.html)]  
 

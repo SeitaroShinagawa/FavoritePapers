@@ -91,7 +91,7 @@ not image but action
 **MocoGAN**  
 [[code](https://github.com/DLHacks/mocogan)]  
 
-**Video Generation From Text**  
+**Video Generation From Text (AAAI2018)**  
 *Yitong Li, Martin Renqiang Min, Dinghan Shen, David Carlson, Lawrence Carin*  
 [[paper](https://arxiv.org/abs/1710.00421)]  
 

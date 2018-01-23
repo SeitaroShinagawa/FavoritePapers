@@ -1,5 +1,9 @@
 # Natural Language Processing  
 
+**Long Text Generation via Adversarial Training with Leaked Information (AAAI2018)**  
+*Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Jun Wang, Yong Yu*  
+[[paper](https://arxiv.org/abs/1709.08624)]  
+
 **Generating Disambiguating Paraphrases for Structurally Ambiguous Sentences**  
 [[paper](http://aclweb.org/anthology/W16-1718)]  
 

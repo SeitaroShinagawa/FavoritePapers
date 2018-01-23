@@ -1,3 +1,7 @@
+**Show, Reward and Tell: Automatic Generation of Narrative Paragraph from Photo Stream by Adversarial Training (AAAI2018)**  
+*Jing Wang, Jianlong Fu, Jinhui Tang, Zechao Li, Tao Mei*  
+[[paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/11/AAAI2018_Jing_CameraReady_V3-1.pdf)]  
+
 **Towards Diverse and Natural Image Descriptions via a Conditional GAN(ICCV2017)**  
 *Bo Dai, Sanja Fidler, Raquel Urtasun, Dahua Lin*  
 [[paper](https://arxiv.org/abs/1703.06029)]  

@@ -1,5 +1,9 @@
 # Natural Language Processing  
 
+**Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory(AAAI2018)**  
+*Hao Zhou, Minlie Huang, Tianyang Zhang, Xiaoyan Zhu, Bing Liu*  
+[[paper](https://arxiv.org/abs/1704.01074)]  
+
 **Emergence of Grounded Compositional Language in Multi-Agent Populations (AAAI2018)**  
 *Igor Mordatch, Pieter Abbeel*  
 [[paper](https://arxiv.org/abs/1703.04908)]  

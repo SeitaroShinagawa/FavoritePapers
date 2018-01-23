@@ -1,5 +1,9 @@
 # Natural Language Processing  
 
+**A Deep Generative Framework for Paraphrase Generation (AAAI2018)**  
+*Ankush Gupta, Arvind Agarwal, Prawaan Singh, Piyush Rai*  
+[[paper](https://arxiv.org/abs/1709.05074)]  
+
 **Long Text Generation via Adversarial Training with Leaked Information (AAAI2018)**  
 *Jiaxian Guo, Sidi Lu, Han Cai, Weinan Zhang, Jun Wang, Yong Yu*  
 [[paper](https://arxiv.org/abs/1709.08624)]  

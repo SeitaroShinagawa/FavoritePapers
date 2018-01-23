@@ -1,5 +1,9 @@
 # Natural Language Processing  
 
+**Emergence of Grounded Compositional Language in Multi-Agent Populations (AAAI2018)**  
+*Igor Mordatch, Pieter Abbeel*  
+[[paper](https://arxiv.org/abs/1703.04908)]  
+
 **A Deep Generative Framework for Paraphrase Generation (AAAI2018)**  
 *Ankush Gupta, Arvind Agarwal, Prawaan Singh, Piyush Rai*  
 [[paper](https://arxiv.org/abs/1709.05074)]  

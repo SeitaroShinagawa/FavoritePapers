@@ -1,3 +1,10 @@
+**Learning Adversarial 3D Model Generation With 2D Image Enhancer (AAAI2018)**  
+*Jing Zhu, Jin Xie, Yi Fang*  
+
+**Learning a Probabilistic Latent Space of Object Shapes via 3D Generative-Adversarial Modeling (NIPS2016)**  
+*Jiajun Wu*, Chengkai Zhang*, Tianfan Xue, William T. Freeman, and Joshua B. Tenenbaum*  
+[[project](http://3dgan.csail.mit.edu/)]  
+
 **AttnGAN: Fine-Grained Text to Image Generation with Attentional Generative Adversarial Networks**  
 *Tao Xu, Pengchuan Zhang, Qiuyuan Huang, Han Zhang, Zhe Gan, Xiaolei Huang, Xiaodong He*  
 [[paper](https://arxiv.org/abs/1711.10485)]  

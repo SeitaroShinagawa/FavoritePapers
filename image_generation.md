@@ -1,3 +1,7 @@
+**High Resolution Face Completion with Multiple Controllable Attributes via Fully End-to-End Progressive Generative Adversarial Networks**  
+*Zeyuan Chen, Shaoliang Nie, Tianfu Wu, Christopher G. Healey*  
+[[paper](https://arxiv.org/abs/1801.07632)]  
+
 **Learning Adversarial 3D Model Generation With 2D Image Enhancer (AAAI2018)**  
 *Jing Zhu, Jin Xie, Yi Fang*  
 

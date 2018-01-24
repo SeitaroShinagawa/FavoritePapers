@@ -1,5 +1,9 @@
 # Natural Language Processing  
 
+**Table-to-text Generation by Structure-aware Seq2seq Learning (AAAI2018)**  
+*Tianyu Liu, Kexiang Wang, Lei Sha, Baobao Chang, Zhifang Sui*  
+[[paper](https://arxiv.org/abs/1711.09724)]  
+
 **Emotional Chatting Machine: Emotional Conversation Generation with Internal and External Memory(AAAI2018)**  
 *Hao Zhou, Minlie Huang, Tianyang Zhang, Xiaoyan Zhu, Bing Liu*  
 [[paper](https://arxiv.org/abs/1704.01074)]  

@@ -1,5 +1,9 @@
 # Natural Language Processing  
 
+**MaskGAN: Better Text Generation via Filling in the ______ (ICLR2018 submitted)**  
+*William Fedus, Ian Goodfellow, Andrew M. Dai*  
+[[paper](https://arxiv.org/abs/1801.07736)]  
+
 **Table-to-text Generation by Structure-aware Seq2seq Learning (AAAI2018)**  
 *Tianyu Liu, Kexiang Wang, Lei Sha, Baobao Chang, Zhifang Sui*  
 [[paper](https://arxiv.org/abs/1711.09724)]  

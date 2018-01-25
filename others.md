@@ -1,3 +1,6 @@
+**googliser (Image search and saving tool)**  
+[[link](https://github.com/teracow/googliser)]  
+
 **MIT AGI lectures**  
 [[link](https://agi.mit.edu/)]  
 

@@ -1,5 +1,8 @@
+**MIT AGI lectures**  
+[[link](https://agi.mit.edu/)]  
+
 **RISE**  
-slide style of jupyter notebook
+slide style of jupyter notebook  
 [[link](https://damianavila.github.io/RISE/installation.html)]  
 
 **MuJoCo Plugin and Unity Integration**  

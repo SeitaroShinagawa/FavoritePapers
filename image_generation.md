@@ -1,3 +1,7 @@
+**Inferring Semantic Layout for Hierarchical Text-to-Image Synthesis**  
+*Seunghoon Hong, Dingdong Yang, Jongwook Choi, Honglak Lee*  
+[[paper](https://arxiv.org/abs/1801.05091)]  
+
 **High Resolution Face Completion with Multiple Controllable Attributes via Fully End-to-End Progressive Generative Adversarial Networks**  
 *Zeyuan Chen, Shaoliang Nie, Tianfu Wu, Christopher G. Healey*  
 [[paper](https://arxiv.org/abs/1801.07632)]  

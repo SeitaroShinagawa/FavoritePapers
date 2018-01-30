@@ -1,3 +1,7 @@
+**Deep Interactive Evolution**  
+*Philip Bontrager, Wending Lin, Julian Togelius, Sebastian Risi*  
+[[paper](https://arxiv.org/abs/1801.08230)]  
+
 **Inferring Semantic Layout for Hierarchical Text-to-Image Synthesis**  
 *Seunghoon Hong, Dingdong Yang, Jongwook Choi, Honglak Lee*  
 [[paper](https://arxiv.org/abs/1801.05091)]  

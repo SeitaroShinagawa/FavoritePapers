@@ -1,3 +1,6 @@
+**Academic PhraseBank**  
+[[link](http://www.phrasebank.manchester.ac.uk/)]  
+
 **googliser (Image search and saving tool)**  
 [[link](https://github.com/teracow/googliser)]  
 

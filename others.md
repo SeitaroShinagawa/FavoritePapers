@@ -1,3 +1,6 @@
+**Picture collage maker in Python**  
+[[link](https://github.com/delimitry/collage_maker)]  
+
 **Academic PhraseBank**  
 [[link](http://www.phrasebank.manchester.ac.uk/)]  
 

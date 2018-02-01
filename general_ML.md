@@ -1,3 +1,7 @@
+**Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery(IPMI2017)**  
+*Thomas Schlegl, Philipp Seeböck, Sebastian M. Waldstein, Ursula Schmidt-Erfurth, Georg Langs*  
+[[paper](https://arxiv.org/abs/1703.05921)]  
+
 **Graphical Models for Processing Missing Data**  
 *Karthika Mohan, Judea Pearl*  
 [[paper](https://arxiv.org/abs/1801.03583)]  

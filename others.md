@@ -557,6 +557,9 @@ by Simon Peyton Jones(MSR,Cambridge)
 [[cvpr](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)]  
 [[stanford](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2013/10/CALTECH.RUL_..pdf)]  
 [[table](https://www.inf.ethz.ch/personal/markusp/teaching/guides/guide-tables.pdf)]  
+[[link](https://www.slideshare.net/KeiGomi/ss-81275254)]  
+[[link](http://blog.chase-dream.com/2013/02/03/3113)]  
+[[cvpr](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)]  
 
 **how to peer review**  
 [[link](http://scienceandtechnology.jp/archives/12812)]  

@@ -1,4 +1,8 @@
 # Multimodal   
+**Netizen-Style Commenting on Fashion Photos: Dataset and Diversity Measures(WWW2018)**  
+*Wen Hua Lin, Kuan-Ting Chen, Hung Yueh Chiang, Winston Hsu*  
+[[paper](https://arxiv.org/abs/1801.10300)]  
+
 **Natural Language Communication with Robots (NAACL2016)**  
 [[paper](http://www.aclweb.org/anthology/N16-1089)]  
 

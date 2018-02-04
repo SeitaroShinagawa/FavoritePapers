@@ -1,5 +1,8 @@
 # Natural Language Processing  
 
+**Anchors: High-Precision Model-Agnostic Explanations (AAAI2018)**  
+[[paper](http://sameersingh.org/files/papers/anchors-aaai18.pdf)]  
+
 **MaskGAN: Better Text Generation via Filling in the ______ (ICLR2018 submitted)**  
 *William Fedus, Ian Goodfellow, Andrew M. Dai*  
 [[paper](https://arxiv.org/abs/1801.07736)]  

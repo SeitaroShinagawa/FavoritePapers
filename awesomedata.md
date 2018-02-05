@@ -1,4 +1,7 @@
 # Awesome dataset  
+**Pokemon splites**  
+[[link](https://github.com/PokeAPI/sprites/)]  
+
 **3D reconstruction data list**  
 [[link](https://github.com/openMVG/awesome_3DReconstruction_list)]  
 

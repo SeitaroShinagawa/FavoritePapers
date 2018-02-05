@@ -559,6 +559,7 @@ by Simon Peyton Jones(MSR,Cambridge)
 [[table](https://www.inf.ethz.ch/personal/markusp/teaching/guides/guide-tables.pdf)]  
 [[link](https://www.slideshare.net/KeiGomi/ss-81275254)]  
 [[link](http://blog.chase-dream.com/2013/02/03/3113)]  
+[[スタンフォードで学んだ研究の生産性を上げる4つの方法](https://note.mu/ryosuzuki/n/ndae1d84d6103)]  
 
 **how to peer review**  
 [[link](http://scienceandtechnology.jp/archives/12812)]  

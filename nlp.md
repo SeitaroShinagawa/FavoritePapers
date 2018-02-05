@@ -1,5 +1,9 @@
 # Natural Language Processing  
 
+**Adaptive Memory Networks**  
+*Daniel Li, Asim Kadav*  
+[[paper](https://arxiv.org/abs/1802.00510)]  
+
 **Anchors: High-Precision Model-Agnostic Explanations (AAAI2018)**  
 [[paper](http://sameersingh.org/files/papers/anchors-aaai18.pdf)]  
 

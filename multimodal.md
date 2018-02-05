@@ -1,4 +1,8 @@
 # Multimodal   
+**Gated-Attention Architectures for Task-Oriented Language Grounding**  
+*Devendra Singh Chaplot, Kanthashree Mysore Sathyendra, Rama Kumar Pasumarthi, Dheeraj Rajagopal, Ruslan Salakhutdinov*  
+[[paper](https://arxiv.org/abs/1706.07230)]  
+
 **Netizen-Style Commenting on Fashion Photos: Dataset and Diversity Measures(WWW2018)**  
 *Wen Hua Lin, Kuan-Ting Chen, Hung Yueh Chiang, Winston Hsu*  
 [[paper](https://arxiv.org/abs/1801.10300)]  

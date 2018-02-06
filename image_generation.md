@@ -1,3 +1,7 @@
+**Face Destylization**  
+*Fatemeh Shiri, Xin Yu, Fatih Porikli, Piotr Koniusz*  
+[[paper](https://arxiv.org/abs/1802.01237)]  
+
 **Image2GIF: Generating Cinemagraphs using Recurrent Deep Q-Networks(WACV2018)**  
 *Yipin Zhou, Yale Song, Tamara L. Berg*  
 [[paper](https://arxiv.org/abs/1801.09042)]  

@@ -1,4 +1,8 @@
 # Reinforcement learning  
+**IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures**  
+*Lasse Espeholt, Hubert Soyer, Remi Munos, Karen Simonyan, Volodymir Mnih, Tom Ward, Yotam Doron, Vlad Firoiu, Tim Harley, Iain Dunning, Shane Legg, Koray Kavukcuoglu*  
+[[paper](https://arxiv.org/abs/1802.01561)]  
+
 **Learning Complex Dexterous Manipulation with Deep Reinforcement Learning and Demonstrations**  
 *Aravind Rajeswaran, Vikash Kumar, Abhishek Gupta, John Schulman, Emanuel Todorov, Sergey Levine*  
 [[paper](https://arxiv.org/abs/1709.10087)]  

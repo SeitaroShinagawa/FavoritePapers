@@ -1,3 +1,7 @@
+**UMAP: Uniform Manifold Approximation and Projection for Dimension Reduction**  
+*Leland McInnes, John Healy*  
+[[paper](https://arxiv.org/abs/1802.03426)]  
+
 **Picture collage maker in Python**  
 [[link](https://github.com/delimitry/collage_maker)]  
 

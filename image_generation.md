@@ -1,3 +1,6 @@
+**Generative Image Inpainting with Contextual Attention**  
+[[project](http://jhyu.me/posts/2018/01/20/generative-inpainting.html)]  
+
 **Face Destylization**  
 *Fatemeh Shiri, Xin Yu, Fatih Porikli, Piotr Koniusz*  
 [[paper](https://arxiv.org/abs/1802.01237)]  

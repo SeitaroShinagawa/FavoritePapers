@@ -1,4 +1,8 @@
 # Reinforcement learning  
+**EMERGENCE OF LINGUISTIC COMMUNICATION FROM REFERENTIAL GAMES WITH SYMBOLIC AND PIXEL INPUT**  
+[[paper](https://openreview.net/pdf?id=HJGv1Z-AW)]  
+[[slide](https://www.slideshare.net/RikuArakawa/iclr2018-emergence-of-linguistic-communication-from-referential-games-with-symbolic-and-pixel-input)]  
+
 **IMPALA: Scalable Distributed Deep-RL with Importance Weighted Actor-Learner Architectures**  
 *Lasse Espeholt, Hubert Soyer, Remi Munos, Karen Simonyan, Volodymir Mnih, Tom Ward, Yotam Doron, Vlad Firoiu, Tim Harley, Iain Dunning, Shane Legg, Koray Kavukcuoglu*  
 [[paper](https://arxiv.org/abs/1802.01561)]  

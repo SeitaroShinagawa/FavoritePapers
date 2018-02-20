@@ -1,4 +1,7 @@
 # Awesome dataset  
+**MoCap dataset(motion capture)**  
+[[link](http://mocap.cs.cmu.edu/)]  
+
 **Pokemon splites**  
 [[link](https://github.com/PokeAPI/sprites/)]  
 

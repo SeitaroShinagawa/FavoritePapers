@@ -1,3 +1,6 @@
+**FastPhotoStyle**  
+[[code](https://github.com/NVIDIA/FastPhotoStyle)]  
+
 **Generative Image Inpainting with Contextual Attention**  
 [[project](http://jhyu.me/posts/2018/01/20/generative-inpainting.html)]  
 

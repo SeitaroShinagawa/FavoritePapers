@@ -1,3 +1,6 @@
+**数式の読み方、大学で学ぶ数式**    
+[[link](http://www.comp.tmu.ac.jp/yosihiro/teaching/how-to-read.pdf)]  
+
 **convnet-drawer**  
 [[link](https://github.com/yu4u/convnet-drawer)]  
 

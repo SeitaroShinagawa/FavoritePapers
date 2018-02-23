@@ -1,4 +1,7 @@
 # Multimodal   
+**From Language to Programs: Bridging Reinforcement Learning and Maximum Marginal Likelihood(ACL2017)**  
+[[paper](http://aclweb.org/anthology/P/P17/P17-1097.pdf)]  
+
 **Gated-Attention Architectures for Task-Oriented Language Grounding**  
 *Devendra Singh Chaplot, Kanthashree Mysore Sathyendra, Rama Kumar Pasumarthi, Dheeraj Rajagopal, Ruslan Salakhutdinov*  
 [[paper](https://arxiv.org/abs/1706.07230)]  

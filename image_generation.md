@@ -466,7 +466,6 @@ GANを用いた異常検知
 *Ishan Misra, C. Lawrence Zitnick, Martial Hebert*  
 [[paper](https://arxiv.org/abs/1603.08561)]  
 [[code](https://github.com/imisra/shuffle-tuple)]  
-開始・終了フレームが与えられたときにその間のフレームを予測  
 
 **Diversified Texture Synthesis with Feed-forward Networks**  
 *Yijun Li, Chen Fang, Jimei Yang, Zhaowen Wang, Xin Lu, Ming-Hsuan Yang*  

@@ -1,4 +1,7 @@
 # Works related to Dialog
+**Emergent Translation in Multi-Agent Communication(ICLR2018)**  
+[[paper](https://openreview.net/forum?id=H1vEXaxA-)]  
+
 **Multi-Agent Cooperation and the Emergence of (Natural) Language**  
 *Angeliki Lazaridou, Alexander Peysakhovich, Marco Baroni*  
 [[paper](https://arxiv.org/abs/1612.07182)]  

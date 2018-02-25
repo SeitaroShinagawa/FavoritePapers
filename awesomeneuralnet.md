@@ -1,4 +1,8 @@
 # Awesome neural networks  
+**Machine Theory of Mind**  
+*Neil C. Rabinowitz, Frank Perbet, H. Francis Song, Chiyuan Zhang, S.M. Ali Eslami, Matthew Botvinick*  
+[[paper](https://arxiv.org/abs/1802.07740)]  
+
 **Locally Smoothed Neural Networks**  
 *Liang Pang, Yanyan Lan, Jun Xu, Jiafeng Guo, Xueqi Cheng*  
 [[paper](https://arxiv.org/abs/1711.08132)]  

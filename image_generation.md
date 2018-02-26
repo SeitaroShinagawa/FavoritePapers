@@ -1,3 +1,7 @@
+**Disentangling by Factorising**  
+*Hyunjik Kim, Andriy Mnih*  
+[[paper](https://arxiv.org/abs/1802.05983)]  
+
 **FastPhotoStyle**  
 [[code](https://github.com/NVIDIA/FastPhotoStyle)]  
 

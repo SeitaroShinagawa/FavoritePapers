@@ -1,3 +1,7 @@
+**Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data**  
+*Amjad Almahairi, Sai Rajeswar, Alessandro Sordoni, Philip Bachman, Aaron Courville*  
+[[paper](https://arxiv.org/abs/1802.10151)]  
+
 **Disentangling by Factorising**  
 *Hyunjik Kim, Andriy Mnih*  
 [[paper](https://arxiv.org/abs/1802.05983)]  

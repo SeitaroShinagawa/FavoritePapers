@@ -74,6 +74,10 @@
 [[paper](https://arxiv.org/abs/1703.10960)]  
 
 ## Question Answering  
+**VizWiz Grand Challenge: Answering Visual Questions from Blind People**  
+*Danna Gurari, Qing Li, Abigale J. Stangl, Anhong Guo, Chi Lin, Kristen Grauman, Jiebo Luo, Jeffrey P. Bigham*  
+[[paper](https://arxiv.org/abs/1802.08218)]  
+
 **The NarrativeQA Reading Comprehension Challenge**  
 *Tomáš Kočiský, Jonathan Schwarz, Phil Blunsom, Chris Dyer, Karl Moritz Hermann, Gábor Melis, Edward Grefenstette*  
 [[paper](https://arxiv.org/abs/1712.07040v1)]  

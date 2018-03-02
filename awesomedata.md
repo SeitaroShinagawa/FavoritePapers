@@ -1,4 +1,9 @@
 # Awesome dataset  
+**BAM! The Behance Artistic Media Dataset for Recognition Beyond Photography**  
+*Michael J. Wilber, Chen Fang, Hailin Jin, Aaron Hertzmann, John Collomosse, Serge Belongie*  
+[[paper](https://arxiv.org/abs/1704.08614)]  
+[[twitter](https://twitter.com/CVpaperChalleng/status/969576741244100608)]  
+
 **VizWiz Grand Challenge: Answering Visual Questions from Blind People**  
 *Danna Gurari, Qing Li, Abigale J. Stangl, Anhong Guo, Chi Lin, Kristen Grauman, Jiebo Luo, Jeffrey P. Bigham*  
 [[link](https://arxiv.org/abs/1802.08218)]  

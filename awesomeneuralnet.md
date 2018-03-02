@@ -1,4 +1,8 @@
 # Awesome neural networks  
+**Learning Longer-term Dependencies in RNNs with Auxiliary Losses**  
+*Trieu H. Trinh, Andrew M. Dai, Thang Luong, Quoc V. Le*  
+[[paper](https://arxiv.org/abs/1803.00144)]  
+
 **Machine Theory of Mind**  
 *Neil C. Rabinowitz, Frank Perbet, H. Francis Song, Chiyuan Zhang, S.M. Ali Eslami, Matthew Botvinick*  
 [[paper](https://arxiv.org/abs/1802.07740)]  

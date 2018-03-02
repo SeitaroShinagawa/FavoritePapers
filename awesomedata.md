@@ -1,4 +1,8 @@
 # Awesome dataset  
+**VizWiz Grand Challenge: Answering Visual Questions from Blind People**  
+*Danna Gurari, Qing Li, Abigale J. Stangl, Anhong Guo, Chi Lin, Kristen Grauman, Jiebo Luo, Jeffrey P. Bigham*  
+[[link](https://arxiv.org/abs/1802.08218)]  
+
 **MoCap dataset(motion capture)**  
 [[link](http://mocap.cs.cmu.edu/)]  
 

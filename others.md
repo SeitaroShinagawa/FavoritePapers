@@ -586,6 +586,7 @@ by Simon Peyton Jones(MSR,Cambridge)
 
 **presentation**  
 [[link](http://kanamori.cs.tsukuba.ac.jp/docs/presentation_faqs.html)]  
+[[link](https://www.slideshare.net/MasanoriMorise/ss-89422938)]  
 
 **paper search**  
 PoEC[[link](http://www.cl.ecei.tohoku.ac.jp/poec/sentsearch/)]  

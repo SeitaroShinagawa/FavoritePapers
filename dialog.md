@@ -74,6 +74,10 @@
 [[paper](https://arxiv.org/abs/1703.10960)]  
 
 ## Question Answering  
+**Inferring and Executing Programs for Visual Reasoning**  
+*Justin Johnson, Bharath Hariharan, Laurens van der Maaten, Judy Hoffman, Li Fei-Fei, C. Lawrence Zitnick, Ross Girshick*  
+[[paper](https://arxiv.org/abs/1705.03633)]  
+
 **VizWiz Grand Challenge: Answering Visual Questions from Blind People**  
 *Danna Gurari, Qing Li, Abigale J. Stangl, Anhong Guo, Chi Lin, Kristen Grauman, Jiebo Luo, Jeffrey P. Bigham*  
 [[paper](https://arxiv.org/abs/1802.08218)]  

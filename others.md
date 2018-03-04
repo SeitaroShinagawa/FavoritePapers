@@ -1,3 +1,4 @@
+
 **opentonz**  
 [[link](https://opentoonz.github.io/)]  
 
@@ -556,14 +557,16 @@ emotiv
 [[emokit](https://github.com/openyou/emokit)]  
 [[emofox](https://bitbucket.org/MattTheGr8/emofox)]  
 
-#Application
+# Application  
 Ruby on Rails [[link](http://openbook4.me/projects/92/sections/485)] [[link2](http://qiita.com/ciao/items/0ada6b04c568c77ee275)]
 
-#some tips
+# some tips  
 **research mind**  
 [[link](http://hflab.k.u-tokyo.ac.jp/staff/hori/essay/kenkyuu.html)]  
 *X->Y Y research is not always simple application of X*  
 [[link](https://web2.ph.utexas.edu/~wktse/Welcome_files/More_Is_Different_Phil_Anderson.pdf)]  
+**ネットによる公開討論会”独創的研究とは”**  
+[[link](http://www.med.osaka-u.ac.jp/pub/molonc/www/old/immune/Originality.html)]    
 
 **research tips**  
 [[slide](http://www.slideshare.net/naoakiokazaki/ss-59403900)]  

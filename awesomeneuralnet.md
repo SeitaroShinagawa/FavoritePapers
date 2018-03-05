@@ -1,4 +1,8 @@
 # Awesome neural networks  
+**A Variational Inequality Perspective on Generative Adversarial Nets**  
+*Gauthier Gidel, Hugo Berard, Pascal Vincent, Simon Lacoste-Julien*  
+[[paper](https://arxiv.org/abs/1802.10551)]  
+
 **Learning Longer-term Dependencies in RNNs with Auxiliary Losses**  
 *Trieu H. Trinh, Andrew M. Dai, Thang Luong, Quoc V. Le*  
 [[paper](https://arxiv.org/abs/1803.00144)]  

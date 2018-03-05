@@ -1,3 +1,7 @@
+**Evolutionary Generative Adversarial Networks**  
+*Chaoyue Wang, Chang Xu, Xin Yao, Dacheng Tao*  
+[[paper](https://arxiv.org/abs/1803.00657)]  
+
 **Augmented CycleGAN: Learning Many-to-Many Mappings from Unpaired Data**  
 *Amjad Almahairi, Sai Rajeswar, Alessandro Sordoni, Philip Bachman, Aaron Courville*  
 [[paper](https://arxiv.org/abs/1802.10151)]  

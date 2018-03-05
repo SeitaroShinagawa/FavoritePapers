@@ -1,4 +1,8 @@
 # Awesome neural networks  
+**An Analysis of Deep Neural Network Models for Practical Applications**  
+*Alfredo Canziani, Adam Paszke, Eugenio Culurciello*  
+[[paper](https://arxiv.org/abs/1605.07678)]  
+
 **A Variational Inequality Perspective on Generative Adversarial Nets**  
 *Gauthier Gidel, Hugo Berard, Pascal Vincent, Simon Lacoste-Julien*  
 [[paper](https://arxiv.org/abs/1802.10551)]  

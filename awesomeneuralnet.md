@@ -1,4 +1,8 @@
 # Awesome neural networks  
+**An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling**  
+*Shaojie Bai, J. Zico Kolter, Vladlen Koltun*  
+[[paper](https://arxiv.org/abs/1803.01271)]  
+
 **An Analysis of Deep Neural Network Models for Practical Applications**  
 *Alfredo Canziani, Adam Paszke, Eugenio Culurciello*  
 [[paper](https://arxiv.org/abs/1605.07678)]  

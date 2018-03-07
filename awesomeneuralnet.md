@@ -1,4 +1,8 @@
 # Awesome neural networks  
+**Quantitatively Evaluating GANs With Divergences Proposed for Training**  
+*Daniel Jiwoong Im, He Ma, Graham Taylor, Kristin Branson*  
+[[paper](https://arxiv.org/abs/1803.01045)]  
+
 **An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling**  
 *Shaojie Bai, J. Zico Kolter, Vladlen Koltun*  
 [[paper](https://arxiv.org/abs/1803.01271)]  

@@ -1,4 +1,7 @@
 # Awesome dataset  
+**Let's Dance: Learning From Online Dance Videos**  
+[[project](https://www.cc.gatech.edu/cpl/projects/dance/)]  
+
 **BAM! The Behance Artistic Media Dataset for Recognition Beyond Photography**  
 *Michael J. Wilber, Chen Fang, Hailin Jin, Aaron Hertzmann, John Collomosse, Serge Belongie*  
 [[paper](https://arxiv.org/abs/1704.08614)]  

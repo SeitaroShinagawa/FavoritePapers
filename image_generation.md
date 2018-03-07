@@ -1,3 +1,7 @@
+**ST-GAN: Spatial Transformer Generative Adversarial Networks for Image Compositing**  
+*Chen-Hsuan Lin, Ersin Yumer, Oliver Wang, Eli Shechtman, Simon Lucey*  
+[[paper](https://arxiv.org/abs/1803.01837v1)]  
+
 **Evolutionary Generative Adversarial Networks**  
 *Chaoyue Wang, Chang Xu, Xin Yao, Dacheng Tao*  
 [[paper](https://arxiv.org/abs/1803.00657)]  

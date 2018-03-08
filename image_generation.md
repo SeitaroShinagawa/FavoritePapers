@@ -1,3 +1,7 @@
+**On Unifying Deep Generative Models**  
+*Zhiting Hu, Zichao Yang, Ruslan Salakhutdinov, Eric P. Xing*  
+[[paper](https://arxiv.org/abs/1706.00550)]  
+
 **Two Birds with One Stone: Transforming and Generating Facial Images with Iterative GAN**  
 *Dan Ma, Bin Liu, Zhao Kang, Jiayu Zhou, Jianke Zhu, Zenglin Xu*  
 [[paper](https://arxiv.org/abs/1711.06078v2)]  

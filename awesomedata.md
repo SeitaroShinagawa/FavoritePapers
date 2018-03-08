@@ -1,4 +1,9 @@
 # Awesome dataset  
+**Totally Looks Like - How Humans Compare, Compared to Machines**  
+*Amir Rosenfeld, Markus D. Solbach, John K. Tsotsos*  
+[[paper](https://arxiv.org/abs/1803.01485)]  
+[[link](https://sites.google.com/view/totally-looks-like-dataset)]   
+
 **Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection(ICCV2017)**  
 [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dwibedi_Cut_Paste_and_ICCV_2017_paper.pdf)]  
 

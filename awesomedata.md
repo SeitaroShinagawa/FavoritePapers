@@ -1,4 +1,7 @@
 # Awesome dataset  
+**Cut, Paste and Learn: Surprisingly Easy Synthesis for Instance Detection(ICCV2017)**  
+[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Dwibedi_Cut_Paste_and_ICCV_2017_paper.pdf)]  
+
 **Let's Dance: Learning From Online Dance Videos**  
 [[project](https://www.cc.gatech.edu/cpl/projects/dance/)]  
 

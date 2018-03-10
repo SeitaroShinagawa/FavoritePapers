@@ -1,3 +1,7 @@
+**Speaking the Same Language: Matching Machine to Human Captions by Adversarial Training (ICCV2017)**  
+*Rakshith Shetty, Marcus Rohrbach, Lisa Anne Hendricks, Mario Fritz, Bernt Schiele*  
+[[paper](https://arxiv.org/abs/1703.10476)]  
+
 **Recurrent Topic-Transition GAN for Visual Paragraph Generation**  
 *Xiaodan Liang, Zhiting Hu, Hao Zhang, Chuang Gan, Eric P. Xing*  
 [[paper](https://arxiv.org/abs/1703.07022)]  

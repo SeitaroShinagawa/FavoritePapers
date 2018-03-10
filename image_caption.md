@@ -1,3 +1,7 @@
+**Boosting Image Captioning with Attributes**  
+*Ting Yao, Yingwei Pan, Yehao Li, Zhaofan Qiu, Tao Mei*  
+[[paper](https://arxiv.org/abs/1611.01646)]  
+
 **Speaking the Same Language: Matching Machine to Human Captions by Adversarial Training (ICCV2017)**  
 *Rakshith Shetty, Marcus Rohrbach, Lisa Anne Hendricks, Mario Fritz, Bernt Schiele*  
 [[paper](https://arxiv.org/abs/1703.10476)]  

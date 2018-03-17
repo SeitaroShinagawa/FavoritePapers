@@ -1,4 +1,7 @@
 # Awesome neural networks  
+**深層ニューラルネットの積分表現理論**  
+[[download](http://altmetrics.ceek.jp/article/hdl.handle.net/2065/00054630)]  
+
 **Quantitatively Evaluating GANs With Divergences Proposed for Training**  
 *Daniel Jiwoong Im, He Ma, Graham Taylor, Kristin Branson*  
 [[paper](https://arxiv.org/abs/1803.01045)]  

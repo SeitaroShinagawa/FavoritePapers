@@ -1,3 +1,6 @@
+**browser based segmentation annotation tool**  
+[[link](https://github.com/kyamagu/js-segment-annotator)]  
+
 **Keras GAN zoo**  
 [[link](https://github.com/eriklindernoren/Keras-GAN)]  
 

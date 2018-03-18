@@ -1,3 +1,6 @@
+**Hierarchical Video Generation from Orthogonal Information(AAAI2018)**  
+[[code](https://github.com/mil-tokyo/FTGAN)]  
+
 **On Unifying Deep Generative Models**  
 *Zhiting Hu, Zichao Yang, Ruslan Salakhutdinov, Eric P. Xing*  
 [[paper](https://arxiv.org/abs/1706.00550)]  

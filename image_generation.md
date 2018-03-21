@@ -1,3 +1,6 @@
+**Learning Category-Specific Mesh Reconstruction from Image Collections**  
+[[project](https://akanazawa.github.io/cmr/)]  
+
 **Hierarchical Video Generation from Orthogonal Information(AAAI2018)**  
 [[code](https://github.com/mil-tokyo/FTGAN)]  
 

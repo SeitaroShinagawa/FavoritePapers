@@ -1,5 +1,9 @@
 # Natural Language Processing  
 
+**Neural Text Generation: Past, Present and Beyond**  
+*Sidi Lu, Yaoming Zhu, Weinan Zhang, Jun Wang, Yong Yu*  
+[[paper](https://arxiv.org/abs/1803.07133)]  
+
 **Adaptive Memory Networks**  
 *Daniel Li, Asim Kadav*  
 [[paper](https://arxiv.org/abs/1802.00510)]  

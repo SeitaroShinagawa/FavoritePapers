@@ -1,3 +1,8 @@
+**Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings**  
+*Kevin Chen, Christopher B. Choy, Manolis Savva, Angel X. Chang, Thomas Funkhouser, Silvio Savarese*  
+[[paper](https://arxiv.org/abs/1803.08495v1)]  
+[[project](http://text2shape.stanford.edu/)]  
+
 **Learning Category-Specific Mesh Reconstruction from Image Collections**  
 [[project](https://akanazawa.github.io/cmr/)]  
 

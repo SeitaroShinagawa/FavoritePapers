@@ -1,4 +1,8 @@
 # Multimodal   
+**Guide Me: Interacting with Deep Networks**  
+*Christian Rupprecht, Iro Laina, Nassir Navab, Gregory D. Hager, Federico Tombari*  
+[[paper](https://arxiv.org/abs/1803.11544)]  
+
 **Multimodal Explanations: Justifying Decisions and Pointing to the Evidence**  
 *Dong Huk Park, Lisa Anne Hendricks, Zeynep Akata, Anna Rohrbach, Bernt Schiele, Trevor Darrell, Marcus Rohrbach*  
 [[paper](https://arxiv.org/abs/1802.08129)]  

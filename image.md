@@ -1,5 +1,10 @@
 # Image
 
+**Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation**  
+*Naoto Inoue, Ryosuke Furuta, Toshihiko Yamasaki, Kiyoharu Aizawa*  
+[[project](https://naoto0804.github.io/cross_domain_detection/)]  
+[[paper](https://arxiv.org/abs/1803.11365)]  
+
 **DeepVoting: A Robust and Explainable Deep Network for Semantic Part Detection under Partial Occlusion**  
 *Zhishuai Zhang, Cihang Xie, Jianyu Wang, Lingxi Xie, Alan L. Yuille*  
 [[paper](https://arxiv.org/abs/1709.04577)]  

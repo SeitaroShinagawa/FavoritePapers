@@ -1,3 +1,7 @@
+**InfoVAE: Information Maximizing Variational Autoencoders**  
+*Shengjia Zhao, Jiaming Song, Stefano Ermon*  
+[[paper](https://arxiv.org/abs/1706.02262)]  
+
 **Unsupervised Anomaly Detection with Generative Adversarial Networks to Guide Marker Discovery(IPMI2017)**  
 *Thomas Schlegl, Philipp Seeböck, Sebastian M. Waldstein, Ursula Schmidt-Erfurth, Georg Langs*  
 [[paper](https://arxiv.org/abs/1703.05921)]  

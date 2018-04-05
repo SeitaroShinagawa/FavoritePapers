@@ -1,3 +1,7 @@
+**Learning to Guide Decoding for Image Captioning (AAAI2018)**  
+*Wenhao Jiang, Lin Ma, Xinpeng Chen, Hanwang Zhang, Wei Liu*  
+[[paper](https://arxiv.org/abs/1804.00887)]  
+
 **Boosting Image Captioning with Attributes**  
 *Ting Yao, Yingwei Pan, Yehao Li, Zhaofan Qiu, Tao Mei*  
 [[paper](https://arxiv.org/abs/1611.01646)]  

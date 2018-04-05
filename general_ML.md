@@ -1,3 +1,7 @@
+**Hyperspherical Variational Auto-Encoders**  
+*Tim R. Davidson, Luca Falorsi, Nicola De Cao, Thomas Kipf, Jakub M. Tomczak*  
+[[paper](https://arxiv.org/abs/1804.00891)]  
+
 **InfoVAE: Information Maximizing Variational Autoencoders**  
 *Shengjia Zhao, Jiaming Song, Stefano Ermon*  
 [[paper](https://arxiv.org/abs/1706.02262)]  

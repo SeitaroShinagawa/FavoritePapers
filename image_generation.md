@@ -1,3 +1,10 @@
+**Image Generation from Scene Graphs (CVPR2018)**  
+*Justin Johnson, Agrim Gupta, Li Fei-Fei*  
+[[paepr](https://arxiv.org/abs/1804.01622)]  
+
+**Learning to write programs that generate images**  
+[[project](https://deepmind.com/blog/learning-to-generate-images/)]  
+
 **Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings**  
 *Kevin Chen, Christopher B. Choy, Manolis Savva, Angel X. Chang, Thomas Funkhouser, Silvio Savarese*  
 [[paper](https://arxiv.org/abs/1803.08495v1)]  

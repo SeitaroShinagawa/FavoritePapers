@@ -1,5 +1,9 @@
 # Image
 
+**Feedback-prop: Convolutional Neural Network Inference under Partial Evidence (CVPR2018)**  
+*Tianlu Wang, Kota Yamaguchi, Vicente Ordonez*  
+[[paper](https://arxiv.org/abs/1710.08049)]  
+
 **Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation**  
 *Naoto Inoue, Ryosuke Furuta, Toshihiko Yamasaki, Kiyoharu Aizawa*  
 [[project](https://naoto0804.github.io/cross_domain_detection/)]  

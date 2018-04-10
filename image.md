@@ -1,5 +1,8 @@
 # Image
 
+**Binge Watching: Scaling Affordance Learning from Sitcoms (CVPR2017)**  
+[[paper](http://www.cs.cmu.edu/~xiaolonw/affordance.html)]  
+
 **Feedback-prop: Convolutional Neural Network Inference under Partial Evidence (CVPR2018)**  
 *Tianlu Wang, Kota Yamaguchi, Vicente Ordonez*  
 [[paper](https://arxiv.org/abs/1710.08049)]  

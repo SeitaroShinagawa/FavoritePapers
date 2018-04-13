@@ -1,4 +1,8 @@
 # Awesome dataset  
+**STAIR Actions: A Video Dataset of Everyday Home Actions**  
+*Yuya Yoshikawa, Jiaqing Lin, Akikazu Takeuchi*  
+[[paper](https://arxiv.org/abs/1804.04326v1)]  
+
 **Totally Looks Like - How Humans Compare, Compared to Machines**  
 *Amir Rosenfeld, Markus D. Solbach, John K. Tsotsos*  
 [[paper](https://arxiv.org/abs/1803.01485)]  

@@ -1,3 +1,8 @@
+**Deep Painterly Harmonization**  
+*Fujun Luan, Sylvain Paris, Eli Shechtman, Kavita Bala*  
+[[paper](https://arxiv.org/abs/1804.03189)]  
+[[code](https://github.com/luanfujun/deep-painterly-harmonization#user-content-examples)]  
+
 **DeSIGN: Design Inspiration from Generative Networks**  
 *Othman Sbai, Mohamed Elhoseiny, Antoine Bordes, Yann LeCun, Camille Couprie*  
 [[paper](https://arxiv.org/abs/1804.00921)]  

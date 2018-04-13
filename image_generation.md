@@ -1,3 +1,7 @@
+**Mix and match networks: encoder-decoder alignment for zero-pair image translation**  
+*Yaxing Wang, Joost van de Weijer, Luis Herranz*  
+[[paper](https://arxiv.org/abs/1804.02199)]  
+
 **Deep Painterly Harmonization**  
 *Fujun Luan, Sylvain Paris, Eli Shechtman, Kavita Bala*  
 [[paper](https://arxiv.org/abs/1804.03189)]  

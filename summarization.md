@@ -1,4 +1,8 @@
 # Summarization
+**A Survey on Neural Network-Based Summarization Methods**  
+*Yue Dong*  
+[[paper](https://arxiv.org/abs/1804.04589)]  
+
 **A Deep Reinforced Model for Abstractive Summarization**   
 *Romain Paulus, Caiming Xiong, Richard Socher*  
 [[paper](https://openreview.net/forum?id=HkAClQgA-)]  

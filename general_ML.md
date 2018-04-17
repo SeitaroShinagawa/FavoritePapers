@@ -1,3 +1,7 @@
+**Adafactor: Adaptive Learning Rates with Sublinear Memory Cost**  
+*Noam Shazeer, Mitchell Stern*  
+[[paper](https://arxiv.org/abs/1804.04235)]  
+
 **Hyperspherical Variational Auto-Encoders**  
 *Tim R. Davidson, Luca Falorsi, Nicola De Cao, Thomas Kipf, Jakub M. Tomczak*  
 [[paper](https://arxiv.org/abs/1804.00891)]  

@@ -1,4 +1,9 @@
 # Awesome neural networks  
+**Can recurrent neural networks warp time?**  
+[[openreview](https://openreview.net/forum?id=SJcKhk-Ab)]  
+[[paper](https://openreview.net/pdf?id=SJcKhk-Ab)]  
+RNNのゲートバイアスの初期化chrono initializationの提案  
+
 **深層ニューラルネットの積分表現理論**  
 [[download](http://altmetrics.ceek.jp/article/hdl.handle.net/2065/00054630)]  
 

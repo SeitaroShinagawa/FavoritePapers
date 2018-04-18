@@ -74,6 +74,11 @@
 [[paper](https://arxiv.org/abs/1703.10960)]  
 
 ## Question Answering  
+**Bottom-Up and Top-Down Attention for Image Captioning and Visual Question Answering (CVPR2018)**  
+[[paper](https://arxiv.org/abs/1707.07998)]  
+[[code](https://github.com/peteanderson80/bottom-up-attention)]  
+CVPR2017 winner
+
 **Inferring and Executing Programs for Visual Reasoning**  
 *Justin Johnson, Bharath Hariharan, Laurens van der Maaten, Judy Hoffman, Li Fei-Fei, C. Lawrence Zitnick, Ross Girshick*  
 [[paper](https://arxiv.org/abs/1705.03633)]  

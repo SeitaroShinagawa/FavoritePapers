@@ -1,3 +1,7 @@
+**A Variational U-Net for Conditional Appearance and Shape Generation(CVPR2018)**  
+*Patrick Esser, Ekaterina Sutter, Björn Ommer*  
+[[paper](https://arxiv.org/abs/1804.04694)]  
+
 **Mix and match networks: encoder-decoder alignment for zero-pair image translation**  
 *Yaxing Wang, Joost van de Weijer, Luis Herranz*  
 [[paper](https://arxiv.org/abs/1804.02199)]  

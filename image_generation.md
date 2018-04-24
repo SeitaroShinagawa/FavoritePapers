@@ -1,3 +1,7 @@
+**Image Inpainting for Irregular Holes Using Partial Convolutions**  
+*Guilin Liu, Fitsum A. Reda, Kevin J. Shih, Ting-Chun Wang, Andrew Tao, Bryan Catanzaro*  
+[[paper](https://arxiv.org/abs/1804.07723)]  
+
 **A Variational U-Net for Conditional Appearance and Shape Generation(CVPR2018)**  
 *Patrick Esser, Ekaterina Sutter, Björn Ommer*  
 [[paper](https://arxiv.org/abs/1804.04694)]  

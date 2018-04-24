@@ -1,3 +1,7 @@
+**Synthesizing Images of Humans in Unseen Poses (CVPR2018)**  
+*Guha Balakrishnan, Amy Zhao, Adrian V. Dalca, Fredo Durand, John Guttag*  
+[[paper](https://arxiv.org/abs/1804.07739v1)]  
+
 **Image Inpainting for Irregular Holes Using Partial Convolutions**  
 *Guilin Liu, Fitsum A. Reda, Kevin J. Shih, Ting-Chun Wang, Andrew Tao, Bryan Catanzaro*  
 [[paper](https://arxiv.org/abs/1804.07723)]  

@@ -1,5 +1,9 @@
 # Natural Language Processing  
 
+**Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer (NAACL2018)**  
+*Juncen Li, Robin Jia, He He, Percy Liang*  
+[[paper](https://arxiv.org/abs/1804.06437)]  
+
 **Neural Text Generation: Past, Present and Beyond**  
 *Sidi Lu, Yaoming Zhu, Weinan Zhang, Jun Wang, Yong Yu*  
 [[paper](https://arxiv.org/abs/1803.07133)]  

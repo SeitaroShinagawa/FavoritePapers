@@ -1,3 +1,7 @@
+**Generating Diverse and Accurate Visual Captions by Comparative Adversarial Learning**  
+*Dianqi Li, Qiuyuan Huang, Xiaodong He, Lei Zhang, Ming-Ting Sun*  
+[[paper](https://arxiv.org/abs/1804.00861)]  
+
 **Learning to Guide Decoding for Image Captioning (AAAI2018)**  
 *Wenhao Jiang, Lin Ma, Xinpeng Chen, Hanwang Zhang, Wei Liu*  
 [[paper](https://arxiv.org/abs/1804.00887)]  

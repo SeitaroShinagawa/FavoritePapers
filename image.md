@@ -1,5 +1,8 @@
 # Image
 
+**RotationNet: Joint Object Categorization and Pose Estimation Using Multiviews from Unsupervised Viewpoints (CVPR2018)**  
+[[project](https://kanezaki.github.io/rotationnet/)
+
 **Binge Watching: Scaling Affordance Learning from Sitcoms (CVPR2017)**  
 [[paper](http://www.cs.cmu.edu/~xiaolonw/affordance.html)]  
 

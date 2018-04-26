@@ -1,5 +1,9 @@
 # Image
 
+**Dynamic Few-Shot Visual Learning without Forgetting (CVPR2018)**  
+*Spyros Gidaris, Nikos Komodakis*  
+[[paper](https://arxiv.org/abs/1804.09458v1)]  
+
 **RotationNet: Joint Object Categorization and Pose Estimation Using Multiviews from Unsupervised Viewpoints (CVPR2018)**  
 [[project](https://kanezaki.github.io/rotationnet/)
 

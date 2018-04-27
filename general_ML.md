@@ -1,3 +1,7 @@
+Reinforced Co-Training**  
+*Jiawei Wu, Lei Li, William Yang Wang*  
+[[paper](https://arxiv.org/abs/1804.06035)]  
+
 **Adafactor: Adaptive Learning Rates with Sublinear Memory Cost**  
 *Noam Shazeer, Mitchell Stern*  
 [[paper](https://arxiv.org/abs/1804.04235)]  

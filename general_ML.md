@@ -1,4 +1,4 @@
-Reinforced Co-Training**  
+**Reinforced Co-Training  (NAACL2018)**  
 *Jiawei Wu, Lei Li, William Yang Wang*  
 [[paper](https://arxiv.org/abs/1804.06035)]  
 

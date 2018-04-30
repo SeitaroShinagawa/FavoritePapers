@@ -1,3 +1,7 @@
+**Semantically Decomposing the Latent Spaces of Generative Adversarial Networks (ICLR2018)**  
+*Chris Donahue, Zachary C. Lipton, Akshay Balsubramani, Julian McAuley*  
+[[paper](https://arxiv.org/abs/1705.07904)]  
+
 **Unsupervised Disentangled Representation Learning with Analogical Relations**  
 *Zejian Li, Yongchuan Tang, Yongxing He*  
 [[paper](https://arxiv.org/abs/1804.09502)]  

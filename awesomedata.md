@@ -1,5 +1,8 @@
 # Awesome dataset  
-**STAIR Actions: A Video Dataset of Everyday Home Actions**  
+**NEWSROOM summarization dataset**  
+[[link](https://summari.es/)]  
+
+**STAIR Actions: A Video Dataset of Everyday Home Actions**  
 *Yuya Yoshikawa, Jiaqing Lin, Akikazu Takeuchi*  
 [[paper](https://arxiv.org/abs/1804.04326v1)]  
 

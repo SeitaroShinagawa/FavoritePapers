@@ -1,5 +1,9 @@
 # Natural Language Processing  
 
+**Towards Diverse Text Generation with Inverse Reinforcement Learning (IJCAI2018)**  
+*Zhan Shi, Xinchi Chen, Xipeng Qiu, Xuanjing Huang*  
+[[paper](https://arxiv.org/abs/1804.11258)]  
+
 **Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer (NAACL2018)**  
 *Juncen Li, Robin Jia, He He, Percy Liang*  
 [[paper](https://arxiv.org/abs/1804.06437)]  

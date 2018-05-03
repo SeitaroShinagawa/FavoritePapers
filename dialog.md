@@ -1,5 +1,9 @@
 # Works related to Dialog
-**Emergent Translation in Multi-Agent Communication(ICLR2018)**  
+**Dialog-based Interactive Image Retrieval**  
+*Xiaoxiao Guo, Hui Wu, Yu Cheng, Steven Rennie, Rogerio Schmidt Feris*  
+[[paper](https://arxiv.org/abs/1805.00145)]  
+
+**Emergent Translation in Multi-Agent Communication(ICLR2018)**  
 [[paper](https://openreview.net/forum?id=H1vEXaxA-)]  
 
 **Multi-Agent Cooperation and the Emergence of (Natural) Language**  

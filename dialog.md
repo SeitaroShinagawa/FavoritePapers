@@ -1,4 +1,8 @@
 # Works related to Dialog
+Memory-augmented Dialogue Management for Task-oriented Dialogue Systems**  
+*Zheng Zhang, Minlie Huang, Zhongzhou Zhao, Feng Ji, Haiqing Chen, Xiaoyan Zhu*  
+[[paper](https://arxiv.org/abs/1805.00150)]  
+
 **Dialog-based Interactive Image Retrieval**  
 *Xiaoxiao Guo, Hui Wu, Yu Cheng, Steven Rennie, Rogerio Schmidt Feris*  
 [[paper](https://arxiv.org/abs/1805.00145)]  

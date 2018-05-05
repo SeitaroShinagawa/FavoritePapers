@@ -1,5 +1,5 @@
 # Works related to Dialog
-Memory-augmented Dialogue Management for Task-oriented Dialogue Systems**  
+**Memory-augmented Dialogue Management for Task-oriented Dialogue Systems**  
 *Zheng Zhang, Minlie Huang, Zhongzhou Zhao, Feng Ji, Haiqing Chen, Xiaoyan Zhu*  
 [[paper](https://arxiv.org/abs/1805.00150)]  
 
@@ -82,6 +82,10 @@ Memory-augmented Dialogue Management for Task-oriented Dialogue Systems**
 [[paper](https://arxiv.org/abs/1703.10960)]  
 
 ## Question Answering  
+**Customized Image Narrative Generation via Interactive Visual Question Generation and Answering (CVPR2018)**  
+*paper](Andrew Shin, Yoshitaka Ushiku, Tatsuya Harada*   
+[[paper](https://arxiv.org/abs/1805.00460)]  
+
 **Are You Talking to Me? Reasoned Visual Dialog Generation through Adversarial Learning (CVPR2018)**  
 *Qi Wu, Peng Wang, Chunhua Shen, Ian Reid, Anton van den Hengel*  
 [[paper](https://arxiv.org/abs/1711.07613)]  

@@ -1,3 +1,11 @@
+**Semantic Image Synthesis via Adversarial Learning (ICCV2017)**  
+*Hao Dong, Simiao Yu, Chao Wu, Yike Guo*  
+[[paper](https://arxiv.org/abs/1707.06873)]  
+
+**MC-GAN: Multi-conditional Generative Adversarial Network for Image Synthesis**  
+*Hyojin Park, Youngjoon Yoo, Nojun Kwak*  
+[[paper](https://arxiv.org/abs/1805.01123)]  
+
 **Semantically Decomposing the Latent Spaces of Generative Adversarial Networks (ICLR2018)**  
 *Chris Donahue, Zachary C. Lipton, Akshay Balsubramani, Julian McAuley*  
 [[paper](https://arxiv.org/abs/1705.07904)]  

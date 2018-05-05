@@ -1,3 +1,6 @@
+**Nonparametric Method for Data-driven Image Captioning (ACL2014)**  
+[[paper](http://www.aclweb.org/anthology/P14-2097)]  
+
 **Generating Diverse and Accurate Visual Captions by Comparative Adversarial Learning**  
 *Dianqi Li, Qiuyuan Huang, Xiaodong He, Lei Zhang, Ming-Ting Sun*  
 [[paper](https://arxiv.org/abs/1804.00861)]  

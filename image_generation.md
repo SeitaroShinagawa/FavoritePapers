@@ -1,6 +1,7 @@
 **XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings**  
 *Amélie Royer, Konstantinos Bousmalis, Stephan Gouws, Fred Bertsch, Inbar Mosseri, Forrester Cole, Kevin Murphy*  
 [[paper](https://arxiv.org/abs/1711.05139)]  
+[[dataset](https://google.github.io/cartoonset/index.html)]  
 
 **Semantic Image Synthesis via Adversarial Learning (ICCV2017)**  
 *Hao Dong, Simiao Yu, Chao Wu, Yike Guo*  

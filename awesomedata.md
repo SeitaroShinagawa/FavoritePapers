@@ -1,4 +1,8 @@
 # Awesome dataset  
+**Cartoon Set**  
+avatar face image dataset  
+[[link](https://google.github.io/cartoonset/index.html)]  
+
 **NEWSROOM summarization dataset**  
 [[link](https://summari.es/)]  
 

@@ -1,4 +1,8 @@
 # Works related to Dialog
+**AI safety via debate**  
+*Geoffrey Irving, Paul Christiano, Dario Amodei*  
+[[paper](https://arxiv.org/abs/1805.00899)]  
+
 **Memory-augmented Dialogue Management for Task-oriented Dialogue Systems**  
 *Zheng Zhang, Minlie Huang, Zhongzhou Zhao, Feng Ji, Haiqing Chen, Xiaoyan Zhu*  
 [[paper](https://arxiv.org/abs/1805.00150)]  

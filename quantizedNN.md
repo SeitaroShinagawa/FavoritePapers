@@ -1,4 +1,8 @@
 # Quantized Neural Network
+**Training a Binary Weight Object Detector by Knowledge Transfer for Autonomous Driving**  
+*Jiaolong Xu, Peng Wang, Heng Yang, Antonio M. López*  
+[[paper](https://arxiv.org/abs/1804.06332)]  
+
 **Quantization and Training of Neural Networks for Efficient Integer-Arithmetic-Only Inference**  
 *Benoit Jacob, Skirmantas Kligys, Bo Chen, Menglong Zhu, Matthew Tang, Andrew Howard, Hartwig Adam, Dmitry Kalenichenko*  
 [[paper](https://arxiv.org/abs/1712.05877)]  

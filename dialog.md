@@ -1,7 +1,7 @@
 # Works related to Dialog
 
 **Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems (ACL2018)**  
-*Andrea Madotto, Chien-Sheng Wu, Pascale Fung
+*Andrea Madotto, Chien-Sheng Wu, Pascale Fung*  
 [[paper](https://arxiv.org/abs/1804.08217)]  
 
 **AI safety via debate**  

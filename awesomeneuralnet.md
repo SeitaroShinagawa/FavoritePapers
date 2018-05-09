@@ -1,4 +1,8 @@
 # Awesome neural networks  
+**Multi-target Voice Conversion without Parallel Data by Adversarially Learning Disentangled Audio Representations**  
+*Ju-chieh Chou, Cheng-chieh Yeh, Hung-yi Lee, Lin-shan Lee*  
+[[paper](https://arxiv.org/abs/1804.02812v1)]  
+
 **Can recurrent neural networks warp time?**  
 [[openreview](https://openreview.net/forum?id=SJcKhk-Ab)]  
 [[paper](https://openreview.net/pdf?id=SJcKhk-Ab)]  

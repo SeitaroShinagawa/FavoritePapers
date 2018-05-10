@@ -1,4 +1,8 @@
 # Awesome dataset  
+**CoDraw: Visual Dialog for Collaborative Drawing**  
+*Jin-Hwa Kim, Devi Parikh, Dhruv Batra, Byoung-Tak Zhang, Yuandong Tian*  
+[[paper](https://arxiv.org/abs/1712.05558)]  
+
 **Cartoon Set**  
 avatar face image dataset  
 [[link](https://google.github.io/cartoonset/index.html)]  

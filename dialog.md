@@ -95,6 +95,10 @@
 [[paper](https://arxiv.org/abs/1703.10960)]  
 
 ## Question Answering  
+**Multimodal Hierarchical Reinforcement Learning Policy for Task-Oriented Visual Dialog (ACL2018)**  
+*Jiaping Zhang, Tiancheng Zhao, Zhou Yu*  
+[[paper](https://arxiv.org/abs/1805.03257)]  
+
 **Customized Image Narrative Generation via Interactive Visual Question Generation and Answering (CVPR2018)**  
 *paper](Andrew Shin, Yoshitaka Ushiku, Tatsuya Harada*   
 [[paper](https://arxiv.org/abs/1805.00460)]  

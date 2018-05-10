@@ -1,3 +1,7 @@
+**Convolutional Image Captioning (CVPR2018)**  
+*Jyoti Aneja, Aditya Deshpande, Alexander Schwing*  
+[[paper](https://arxiv.org/abs/1711.09151)]  
+
 **Nonparametric Method for Data-driven Image Captioning (ACL2014)**  
 [[paper](http://www.aclweb.org/anthology/P14-2097)]  
 

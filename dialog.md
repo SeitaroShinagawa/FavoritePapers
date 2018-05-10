@@ -34,6 +34,10 @@
 [[link](https://github.com/LantaoYu/MARL-Papers)]  
 
 # Dialog Systems  
+**Learning by Asking Questions (CVPR2018)**  
+*Ishan Misra, Ross Girshick, Rob Fergus, Martial Hebert, Abhinav Gupta, Laurens van der Maaten*  
+[[paper](https://arxiv.org/abs/1712.01238)]  
+
 **Visual Reference Resolution using Attention Memory for Visual Dialog**  
 *Paul Hongsuck Seo, Andreas Lehrmann, Bohyung Han, Leonid Sigal*  
 [[paper](https://arxiv.org/abs/1709.07992)]  

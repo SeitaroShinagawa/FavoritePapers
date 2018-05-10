@@ -2,6 +2,7 @@
 **CoDraw: Visual Dialog for Collaborative Drawing**  
 *Jin-Hwa Kim, Devi Parikh, Dhruv Batra, Byoung-Tak Zhang, Yuandong Tian*  
 [[paper](https://arxiv.org/abs/1712.05558)]  
+[[link](https://github.com/facebookresearch/CoDraw)]  
 
 **Cartoon Set**  
 avatar face image dataset  

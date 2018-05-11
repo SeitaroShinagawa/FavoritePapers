@@ -1,5 +1,9 @@
 # Image
 
+**Video Object Segmentation with Language Referring Expressions**  
+*Anna Khoreva, Anna Rohrbach, Bernt Schiele*  
+[[paper](https://arxiv.org/abs/1803.08006v2)]  
+
 **Dynamic Few-Shot Visual Learning without Forgetting (CVPR2018)**  
 *Spyros Gidaris, Nikos Komodakis*  
 [[paper](https://arxiv.org/abs/1804.09458v1)]  

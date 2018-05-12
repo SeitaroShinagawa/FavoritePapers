@@ -1,4 +1,8 @@
 # Awesome dataset  
+**VizWiz Grand Challenge: Answering Visual Questions from Blind People (CVPR2018)**  
+*Danna Gurari, Qing Li, Abigale J. Stangl, Anhong Guo, Chi Lin, Kristen Grauman, Jiebo Luo, Jeffrey P. Bigham*  
+[[paper](https://arxiv.org/abs/1802.08218)]  
+
 **CoDraw: Visual Dialog for Collaborative Drawing**  
 *Jin-Hwa Kim, Devi Parikh, Dhruv Batra, Byoung-Tak Zhang, Yuandong Tian*  
 [[paper](https://arxiv.org/abs/1712.05558)]  

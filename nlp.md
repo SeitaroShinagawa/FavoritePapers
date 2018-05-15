@@ -1,5 +1,9 @@
 # Natural Language Processing  
 
+**A Graph-to-Sequence Model for AMR-to-Text Generation (ACL2018)**  
+*Linfeng Song, Yue Zhang, Zhiguo Wang, Daniel Gildea*  
+[[paper](https://arxiv.org/abs/1805.02473)]  
+
 **Towards Diverse Text Generation with Inverse Reinforcement Learning (IJCAI2018)**  
 *Zhan Shi, Xinchi Chen, Xipeng Qiu, Xuanjing Huang*  
 [[paper](https://arxiv.org/abs/1804.11258)]  

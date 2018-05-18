@@ -1,3 +1,7 @@
+**High-Resolution Image Inpainting Using Multi-Scale Neural Patch Synthesis (CVPR2017)**  
+[[project](http://www.harryyang.org/inpainting/?i=1)]  
+[[code](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting)]]  
+
 **XGAN: Unsupervised Image-to-Image Translation for Many-to-Many Mappings**  
 *Amélie Royer, Konstantinos Bousmalis, Stephan Gouws, Fred Bertsch, Inbar Mosseri, Forrester Cole, Kevin Murphy*  
 [[paper](https://arxiv.org/abs/1711.05139)]  

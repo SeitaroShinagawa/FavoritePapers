@@ -1,3 +1,7 @@
+**Progress & Compress: A scalable framework for continual learning (ICML2018)**  
+*Jonathan Schwarz, Jelena Luketina, Wojciech M. Czarnecki, Agnieszka Grabska-Barwinska, Yee Whye Teh, Razvan Pascanu, Raia Hadsell*  
+[[paper](https://arxiv.org/abs/1805.06370)]  
+
 **Reinforced Co-Training  (NAACL2018)**  
 *Jiawei Wu, Lei Li, William Yang Wang*  
 [[paper](https://arxiv.org/abs/1804.06035)]  

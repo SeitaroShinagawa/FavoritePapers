@@ -1,3 +1,7 @@
+**Neural Best-Buddies: Sparse Cross-Domain Correspondence (SIGGRAPH2018)**   
+*Kfir Aberman, Jing Liao, Mingyi Shi, Dani Lischinski, Baoquan Chen, Daniel Cohen-Or*  
+[[paper](https://arxiv.org/abs/1805.04140)]  
+
 **High-Resolution Image Inpainting Using Multi-Scale Neural Patch Synthesis (CVPR2017)**  
 [[project](http://www.harryyang.org/inpainting/?i=1)]  
 [[code](https://github.com/leehomyc/Faster-High-Res-Neural-Inpainting)]]  

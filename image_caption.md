@@ -1,3 +1,8 @@
+**Regularizing RNNs for Caption Generation by Reconstructing The Past with The Present (CVPR2018)**  
+*Xinpeng Chen, Lin Ma, Wenhao Jiang, Jian Yao, Wei Liu*  
+[[paper](https://arxiv.org/abs/1803.11439)]  
+[[code](https://github.com/chenxinpeng/ARNet/tree/master/image_captioning)]  
+
 **Convolutional Image Captioning (CVPR2018)**  
 *Jyoti Aneja, Aditya Deshpande, Alexander Schwing*  
 [[paper](https://arxiv.org/abs/1711.09151)]  

@@ -1,4 +1,14 @@
-# How to read research paper
+# 研究の進め方（論文の読み方,書き方,プレゼンの仕方）まとめ  
+
+主にWeb上で閲覧できる良資料のまとめです.  
+
+- 論文の読み方(#read)  
+- 論文の書き方(#write)  
+- プレゼンの仕方(#presentation)  
+- 実験コードの管理(#code) 
+- その他(#others)
+
+## 論文の読み方<a name="read"></a>
 
 - [落合陽一フォーマット](https://www.slideshare.net/Ochyai/1-ftma15?ref=http://lafrenze.hatenablog.com/entry/2015/08/04/120205)
 - [研究分野をサーベイする](https://www.slideshare.net/iTooooooooooooT/itolab-how-to-survey-2017)
@@ -15,7 +25,7 @@ ArXiv読み
 - 例：対話ならSIGDIAL, ACL, EMNLP，ASRUなど(NLPならACL anthologyでACL,NAACL,EMNLPなどを眺めると良い）
 - とにかく周りの先生・先輩に相談してみること
 
-# How to write research paper
+# 論文の書き方<a name="read"></a>
 
 ## Japanese
 - 英文校正会社が教える 英語論文のミス100 (英文校正のためのチェックリスト,英文校正)
@@ -62,7 +72,7 @@ ArXiv読み
 - [CALTECH RULES FOR WRITING PAPERS :HOW TO STRUCTURE YOUR PAPER AND WRITE AN INTRODUCTION](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2013/10/CALTECH.RUL_..pdf)
 - [Small Guide to Making Nice Tables](https://www.inf.ethz.ch/personal/markusp/teaching/guides/guide-tables.pdf)
 
-# How to make a good presentation
+# プレゼンの仕方<a name="presentation"></a>
 
 - [研究発表のためのプレゼンテーション技術](https://www.slideshare.net/ShinnosukeTakamichi/ss-48987441)
 - [見やすいプレゼン資料の作り方 - リニューアル増量版](https://www.slideshare.net/yutamorishige50/ss-41321443)
@@ -71,12 +81,12 @@ ArXiv読み
 - [修士論文や卒業論文の発表会に向けたアドバイス](http://blog.chase-dream.com/2013/02/03/3113)
 - [ひたすら楽してスライド作成](https://www.slideshare.net/MasanoriMorise/ss-89422938)
 
-# How to manage source code
+# 実験コードの管理<a name="code"></a>
 
 - [研究室における研究・実装ノウハウの共有](https://www.slideshare.net/naoakiokazaki/ss-59403900)
 - [研究者流コーディングの極意(言語処理学会2013チュートリアル)](http://www.chokkan.org/publication/coding-for-researchers.pdf)
 
-# Others
+# その他<a name="others"></a>
 
 - [公開されている学振・科研費申請書(採択・不採択)](https://xn--w8yz0bc56a.com/proven-proposal/)
 

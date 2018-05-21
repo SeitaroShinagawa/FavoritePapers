@@ -1,3 +1,7 @@
+**Synthesizing Programs for Images using Reinforced Adversarial Learning (ICML2018)**  
+*Yaroslav Ganin, Tejas Kulkarni, Igor Babuschkin, S.M. Ali Eslami, Oriol Vinyals*  
+[[paper](https://arxiv.org/abs/1804.01118)]  
+
 **Neural Best-Buddies: Sparse Cross-Domain Correspondence (SIGGRAPH2018)**   
 *Kfir Aberman, Jing Liao, Mingyi Shi, Dani Lischinski, Baoquan Chen, Daniel Cohen-Or*  
 [[paper](https://arxiv.org/abs/1805.04140)]  

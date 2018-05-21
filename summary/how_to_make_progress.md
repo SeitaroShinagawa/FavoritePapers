@@ -25,9 +25,9 @@ ArXiv読み
 - 例：対話ならSIGDIAL, ACL, EMNLP，ASRUなど(NLPならACL anthologyでACL,NAACL,EMNLPなどを眺めると良い）
 - とにかく周りの先生・先輩に相談してみること
 
-# 論文の書き方<a name="read"></a>
+## 論文の書き方<a name="read"></a>
 
-## Japanese
+### Japanese
 - 英文校正会社が教える 英語論文のミス100 (英文校正のためのチェックリスト,英文校正)
 - できる研究者の論文作成メソッド 書き上げるための実践ポイント (論文校正,英文校正) [[Amazon](https://www.amazon.co.jp/gp/product/4061556274)]
 - できる研究者の論文生産術 どうすれば「たくさん」書けるのか (論文作成,論文校正,英文校正) 
@@ -35,7 +35,7 @@ ArXiv読み
 - なぜあなたの研究は進まないのか? (研究を進めるためのTips集)
 - [Hyper Collocation dictionary based on arXiv repository](https://hypcol.marutank.net/ja/) (ArXiv 文検索)
 
-### Web資料  
+#### Web資料  
 - [Graham先生 論文執筆スタイルガイド](http://www.phontron.com/paper-guide.php)
 - [Graham先生 国際会議論文の読み方・書き方 ](http://phontron.com/slides/neubig15nlptutorial.pdf)　（関連研究後回し型）
 - [松尾ぐみの論文の書き方(日本語論文)](http://ymatsuo.com/japanese/ronbun_jpn.html)
@@ -53,12 +53,12 @@ ArXiv読み
 (執筆先行型（事前執筆型）：サーベイ→研究→論文作成ではなく、サーベイ→論文作成→研究の順で研究を進める方法。詳しくは[[国際会議論文の読み方・書き方 ](http://phontron.com/slides/neubig15nlptutorial.pdf)を参照)
 - [数式の読み方、大学で学ぶ数式(英文付き)](http://www.comp.tmu.ac.jp/yosihiro/teaching/how-to-read.pdf)
 
-### チェックリスト
+#### チェックリスト
 - [論文執筆のためのチェックリスト(pdf)](http://kanamori.cs.tsukuba.ac.jp/docs/writing_paper_checklist.pdf)
 - [大学院生による卒論指導のためのチェックリスト](http://www.aise.ics.saitama-u.ac.jp/~gotoh/ChecklistForMasterStudents.html)
 - [論文に何を書くべきか→これだけは埋めろ→論文作成穴埋めシート](http://readingmonkey.blog45.fc2.com/blog-entry-563.html)
 
-## English
+### English
 - Oxford Collocations Dictionary For Students of English (Book & CD) (English Dictionary specialized in collocation, Collocation check) [Amazon](https://www.amazon.co.jp/Oxford-Collocations-Dictionary-Students-English/dp/0194325385)
 - [Springer link](https://link.springer.com/) (Springer paper search engine (Springer exempler, Collocation check, Website)
 - [Google ngrams](https://books.google.com/ngrams) (Google book collocation search engine, Collocation check, Website)
@@ -72,7 +72,7 @@ ArXiv読み
 - [CALTECH RULES FOR WRITING PAPERS :HOW TO STRUCTURE YOUR PAPER AND WRITE AN INTRODUCTION](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2013/10/CALTECH.RUL_..pdf)
 - [Small Guide to Making Nice Tables](https://www.inf.ethz.ch/personal/markusp/teaching/guides/guide-tables.pdf)
 
-# プレゼンの仕方<a name="presentation"></a>
+## プレゼンの仕方<a name="presentation"></a>
 
 - [研究発表のためのプレゼンテーション技術](https://www.slideshare.net/ShinnosukeTakamichi/ss-48987441)
 - [見やすいプレゼン資料の作り方 - リニューアル増量版](https://www.slideshare.net/yutamorishige50/ss-41321443)
@@ -81,12 +81,12 @@ ArXiv読み
 - [修士論文や卒業論文の発表会に向けたアドバイス](http://blog.chase-dream.com/2013/02/03/3113)
 - [ひたすら楽してスライド作成](https://www.slideshare.net/MasanoriMorise/ss-89422938)
 
-# 実験コードの管理<a name="code"></a>
+## 実験コードの管理<a name="code"></a>
 
 - [研究室における研究・実装ノウハウの共有](https://www.slideshare.net/naoakiokazaki/ss-59403900)
 - [研究者流コーディングの極意(言語処理学会2013チュートリアル)](http://www.chokkan.org/publication/coding-for-researchers.pdf)
 
-# その他<a name="others"></a>
+## その他<a name="others"></a>
 
 - [公開されている学振・科研費申請書(採択・不採択)](https://xn--w8yz0bc56a.com/proven-proposal/)
 

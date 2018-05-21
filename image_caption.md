@@ -1,3 +1,7 @@
+**SemStyle: Learning to Generate Stylised Image Captions using Unaligned Text (CVPR2018)**  
+*Alexander Mathews, Lexing Xie, Xuming He*  
+[[paper](https://arxiv.org/abs/1805.07030)]  
+
 **Regularizing RNNs for Caption Generation by Reconstructing The Past with The Present (CVPR2018)**  
 *Xinpeng Chen, Lin Ma, Wenhao Jiang, Jian Yao, Wei Liu*  
 [[paper](https://arxiv.org/abs/1803.11439)]  

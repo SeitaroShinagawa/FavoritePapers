@@ -2,11 +2,11 @@
 
 主にWeb上で閲覧できる良資料のまとめです.  
 
-- 論文の読み方(#read)  
-- 論文の書き方(#write)  
-- プレゼンの仕方(#presentation)  
-- 実験コードの管理(#code) 
-- その他(#others)
+- [論文の読み方](#read)  
+- [論文の書き方](#write)  
+- [プレゼンの仕方](#presentation)  
+- [実験コードの管理](#code) 
+- [その他](#others)
 
 ## 論文の読み方<a name="read"></a>
 

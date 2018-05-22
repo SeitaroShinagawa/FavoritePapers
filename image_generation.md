@@ -1,4 +1,4 @@
-**Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks (ICML2018)**  
+**Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks**  
 *Sitao Xiang, Hao Li*  
 [[paper](https://arxiv.org/abs/1805.07997)]  
 

@@ -71,6 +71,7 @@ ArXiv読み
 - [How to write a good CVPR submission (pdf)](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
 - [CALTECH RULES FOR WRITING PAPERS :HOW TO STRUCTURE YOUR PAPER AND WRITE AN INTRODUCTION](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2013/10/CALTECH.RUL_..pdf)
 - [Small Guide to Making Nice Tables](https://www.inf.ethz.ch/personal/markusp/teaching/guides/guide-tables.pdf)
+- [Writing in the Sciences](https://www.coursera.org/learn/sciwrite)
 
 ## プレゼンの仕方<a name="presentation"></a>
 

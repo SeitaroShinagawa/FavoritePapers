@@ -35,6 +35,10 @@
 [[link](https://github.com/LantaoYu/MARL-Papers)]  
 
 # Dialog Systems  
+**Two can play this Game: Visual Dialog with Discriminative Question Generation and Answering (CVPR2018)**  
+*Unnat Jain, Svetlana Lazebnik, Alexander Schwing*  
+[[paper](https://arxiv.org/abs/1803.11186)]  
+
 **Learning by Asking Questions (CVPR2018)**  
 *Ishan Misra, Ross Girshick, Rob Fergus, Martial Hebert, Abhinav Gupta, Laurens van der Maaten*  
 [[paper](https://arxiv.org/abs/1712.01238)]  

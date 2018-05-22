@@ -1,3 +1,7 @@
+**Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks (ICML2018)**  
+*Sitao Xiang, Hao Li*  
+[[paper](https://arxiv.org/abs/1805.07997)]  
+
 **Synthesizing Programs for Images using Reinforced Adversarial Learning (ICML2018)**  
 *Yaroslav Ganin, Tejas Kulkarni, Igor Babuschkin, S.M. Ali Eslami, Oriol Vinyals*  
 [[paper](https://arxiv.org/abs/1804.01118)]  

@@ -1,3 +1,7 @@
+**TextureGAN: Controlling Deep Image Synthesis with Texture Patches (CVPR2018)**  
+*Wenqi Xian, Patsorn Sangkloy, Varun Agrawal, Amit Raj, Jingwan Lu, Chen Fang, Fisher Yu, James Hays*  
+[[paper](https://arxiv.org/abs/1706.02823)]  
+
 **DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Networks (with Supplementary Materials)**  
 *Shuang Ma, Jianlong Fu, Chang Wen Chen, Tao Mei*  
 [[paper](https://arxiv.org/abs/1802.06454)]  

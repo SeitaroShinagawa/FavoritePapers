@@ -1,3 +1,7 @@
+**To understand deep learning we need to understand kernel learning**  
+*Mikhail Belkin, Siyuan Ma, Soumik Mandal*  
+[[paper](https://arxiv.org/abs/1802.01396)]  
+
 **Progress & Compress: A scalable framework for continual learning (ICML2018)**  
 *Jonathan Schwarz, Jelena Luketina, Wojciech M. Czarnecki, Agnieszka Grabska-Barwinska, Yee Whye Teh, Razvan Pascanu, Raia Hadsell*  
 [[paper](https://arxiv.org/abs/1805.06370)]  

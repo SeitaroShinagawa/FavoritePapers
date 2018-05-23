@@ -1,3 +1,11 @@
+**DA-GAN: Instance-level Image Translation by Deep Attention Generative Adversarial Networks (with Supplementary Materials)**  
+*Shuang Ma, Jianlong Fu, Chang Wen Chen, Tao Mei*  
+[[paper](https://arxiv.org/abs/1802.06454)]  
+
+**Self-Attention Generative Adversarial Networks**  
+*Han Zhang, Ian Goodfellow, Dimitris Metaxas, Augustus Odena*  
+[[paper](https://arxiv.org/abs/1805.08318)]  
+
 **Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks**  
 *Sitao Xiang, Hao Li*  
 [[paper](https://arxiv.org/abs/1805.07997)]  

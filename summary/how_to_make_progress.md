@@ -85,7 +85,8 @@ ArXiv読み
 ## 実験コードの管理<a name="code"></a>
 
 - [研究室における研究・実装ノウハウの共有](https://www.slideshare.net/naoakiokazaki/ss-59403900)
-- [研究者流コーディングの極意(言語処理学会2013チュートリアル)](http://www.chokkan.org/publication/coding-for-researchers.pdf)
+- [研究者流コーディングの極意(言語処理学会2013チュートリアル)](http://www.chokkan.org/publication/coding-for-researchers.pdf)  
+- [忙しい研究者のためのテストコードとドキュメントの書き方](https://qiita.com/NaokiHamada/items/0689cd85fb3e1adcda1a)  
 
 ## その他<a name="others"></a>
 

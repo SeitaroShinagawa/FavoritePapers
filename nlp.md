@@ -1,4 +1,7 @@
 # Natural Language Processing  
+**Planning, Inference and Pragmatics in Sequential Language Games (TACL2018)**  
+*Fereshte Khani, Noah D. Goodman, Percy Liang*  
+[[paper](https://arxiv.org/abs/1805.11774)]  
 
 **A Graph-to-Sequence Model for AMR-to-Text Generation (ACL2018)**  
 *Linfeng Song, Yue Zhang, Zhiguo Wang, Daniel Gildea*  

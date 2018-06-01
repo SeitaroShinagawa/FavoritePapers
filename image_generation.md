@@ -1,3 +1,6 @@
+**Generative Adversarial Image Synthesis with Decision Tree Latent Controller (CVPR2018)**  
+[[project](http://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/dtlc-gan/)]  
+
 **TextureGAN: Controlling Deep Image Synthesis with Texture Patches (CVPR2018)**  
 *Wenqi Xian, Patsorn Sangkloy, Varun Agrawal, Amit Raj, Jingwan Lu, Chen Fang, Fisher Yu, James Hays*  
 [[paper](https://arxiv.org/abs/1706.02823)]  

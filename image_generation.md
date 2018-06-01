@@ -12,6 +12,7 @@
 **Self-Attention Generative Adversarial Networks**  
 *Han Zhang, Ian Goodfellow, Dimitris Metaxas, Augustus Odena*  
 [[paper](https://arxiv.org/abs/1805.08318)]  
+[[pytorch](https://github.com/heykeetae/Self-Attention-GAN)]  
 
 **Anime Style Space Exploration Using Metric Learning and Generative Adversarial Networks**  
 *Sitao Xiang, Hao Li*  

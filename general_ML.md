@@ -1,3 +1,7 @@
+**Deep Energy: Using Energy Functions for Unsupervised Training of DNNs**  
+*Alona Golts, Daniel Freedman, Michael Elad*  
+[[paper](https://arxiv.org/abs/1805.12355)]  
+
 **To understand deep learning we need to understand kernel learning**  
 *Mikhail Belkin, Siyuan Ma, Soumik Mandal*  
 [[paper](https://arxiv.org/abs/1802.01396)]  

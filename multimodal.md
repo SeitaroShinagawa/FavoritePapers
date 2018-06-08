@@ -1,4 +1,8 @@
 # Multimodal   
+**Actor and Action Video Segmentation from a Sentence (CVPR2018 oral)**  
+*Kirill Gavrilyuk, Amir Ghodrati, Zhenyang Li, Cees G.M. Snoek*  
+[[paper](https://arxiv.org/abs/1803.07485)]  
+
 **Guide Me: Interacting with Deep Networks**  
 *Christian Rupprecht, Iro Laina, Nassir Navab, Gregory D. Hager, Federico Tombari*  
 [[paper](https://arxiv.org/abs/1803.11544)]  

@@ -1,4 +1,8 @@
 # Awesome dataset  
+**short-jokes-dataset**  
+[[link](https://github.com/amoudgl/short-jokes-dataset)]  
+231,657 short jokes scraped from various websites  
+
 **Learning from Millions of 3D Scans for Large-scale 3D Face Recognition (CVPR2018)**  
 *Syed Zulqarnain Gilani, Ajmal Mian*  
 [[paper](https://arxiv.org/abs/1711.05942)]  

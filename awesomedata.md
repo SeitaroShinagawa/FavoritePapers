@@ -1,4 +1,9 @@
 # Awesome dataset  
+**Learning from Millions of 3D Scans for Large-scale 3D Face Recognition (CVPR2018)**  
+*Syed Zulqarnain Gilani, Ajmal Mian*  
+[[paper](https://arxiv.org/abs/1711.05942)]  
+large-scale 3D facial dataset  
+
 **SCUT-FBP5500-Database-Release**  
 [[link](https://github.com/HCIILAB/SCUT-FBP5500-Database-Release)]    
 facial dataset  

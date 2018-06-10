@@ -1,3 +1,6 @@
+**pHash with python pip**  
+[[link](https://aquasoftware.net/blog/?p=985)]  
+
 **ESPNET**  
 [[link](https://github.com/espnet/espnet)]  
 [[slide(ja)](https://www.slideshare.net/JiroNishitoba/20180609-chainer-meetupespnet)]  

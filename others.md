@@ -1,5 +1,6 @@
 **ESPNET**  
 [[link](https://github.com/espnet/espnet)]  
+[[slide(ja)](https://www.slideshare.net/JiroNishitoba/20180609-chainer-meetupespnet)]  
 End-to-End speech processing toolkit (speech recognition)  
 
 **google iamges downloader**  

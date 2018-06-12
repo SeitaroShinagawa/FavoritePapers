@@ -1,3 +1,7 @@
+**Free-Form Image Inpainting with Gated Convolution**  
+*Jiahui Yu, Zhe Lin, Jimei Yang, Xiaohui Shen, Xin Lu, Thomas S. Huang*  
+[[paper](https://arxiv.org/abs/1806.03589)]  
+
 **Generative Adversarial Image Synthesis with Decision Tree Latent Controller (CVPR2018)**  
 [[project](http://www.kecl.ntt.co.jp/people/kaneko.takuhiro/projects/dtlc-gan/)]  
 

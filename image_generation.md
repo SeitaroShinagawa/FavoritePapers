@@ -1,3 +1,7 @@
+**CapsGAN: Using Dynamic Routing for Generative Adversarial Networks**  
+*Raeid Saqur, Sal Vivona*  
+[[paper](https://arxiv.org/abs/1806.03968)]  
+
 **Free-Form Image Inpainting with Gated Convolution**  
 *Jiahui Yu, Zhe Lin, Jimei Yang, Xiaohui Shen, Xin Lu, Thomas S. Huang*  
 [[paper](https://arxiv.org/abs/1806.03589)]  

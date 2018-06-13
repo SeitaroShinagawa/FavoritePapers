@@ -1,4 +1,8 @@
 # Awesome dataset  
+**The NES Music Database: A multi-instrumental dataset with expressive performance attributes**  
+*Chris Donahue, Huanru Henry Mao, Julian McAuley*  
+[[paper](https://arxiv.org/abs/1806.04278)]  
+
 **short-jokes-dataset**  
 [[link](https://github.com/amoudgl/short-jokes-dataset)]  
 231,657 short jokes scraped from various websites  

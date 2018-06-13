@@ -1,3 +1,7 @@
+**The Unusual Effectiveness of Averaging in GAN Training**  
+*Yasin Yazıcı, Chuan-Sheng Foo, Stefan Winkler, Kim-Hui Yap, Georgios Piliouras, Vijay Chandrasekhar*  
+[[paper](https://arxiv.org/abs/1806.04498)]  
+
 **CapsGAN: Using Dynamic Routing for Generative Adversarial Networks**  
 *Raeid Saqur, Sal Vivona*  
 [[paper](https://arxiv.org/abs/1806.03968)]  

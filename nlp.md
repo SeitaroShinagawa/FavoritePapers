@@ -1,4 +1,8 @@
 # Natural Language Processing  
+**Context-Aware Neural Machine Translation Learns Anaphora Resolution (ACL2018)**  
+*Elena Voita, Pavel Serdyukov, Rico Sennrich, Ivan Titov*  
+[[paper](https://arxiv.org/abs/1805.10163)]  
+
 **Planning, Inference and Pragmatics in Sequential Language Games (TACL2018)**  
 *Fereshte Khani, Noah D. Goodman, Percy Liang*  
 [[paper](https://arxiv.org/abs/1805.11774)]  

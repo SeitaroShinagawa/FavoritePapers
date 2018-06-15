@@ -100,6 +100,10 @@
 [[paper](https://arxiv.org/abs/1703.10960)]  
 
 ## Question Answering  
+**Learning Visual Knowledge Memory Networks for Visual Question Answering (CVPR2018)**  
+*Zhou Su, Chen Zhu, Yinpeng Dong, Dongqi Cai, Yurong Chen, Jianguo Li*  
+[[paper](https://arxiv.org/abs/1806.04860)]  
+
 **Multimodal Hierarchical Reinforcement Learning Policy for Task-Oriented Visual Dialog (ACL2018)**  
 *Jiaping Zhang, Tiancheng Zhao, Zhou Yu*  
 [[paper](https://arxiv.org/abs/1805.03257)]  

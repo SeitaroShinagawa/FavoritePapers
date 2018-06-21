@@ -1,5 +1,8 @@
 # Works related to Dialog
 
+**Conversational Image Editing: Incremental Intent Identification in a New Dialogue Task (SIGDIAL2018 best paper nominee)**  
+[[paper](http://www.manuvinakurike.com/imedit_sigdial.pdf)]  
+
 **Mem2Seq: Effectively Incorporating Knowledge Bases into End-to-End Task-Oriented Dialog Systems (ACL2018)**  
 *Andrea Madotto, Chien-Sheng Wu, Pascale Fung*  
 [[paper](https://arxiv.org/abs/1804.08217)]  

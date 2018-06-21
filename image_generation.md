@@ -1,3 +1,11 @@
+**3D Human Pose Estimation in the Wild by Adversarial Learning (CVPR2018)**  
+*Wei Yang, Wanli Ouyang, Xiaolong Wang, Jimmy Ren, Hongsheng Li, Xiaogang Wang*  
+[[paper](https://arxiv.org/abs/1803.09722)]  
+
+**Unsupervised Adversarial Learning of 3D Human Pose from 2D Joint Locations**  
+*Yasunori Kudo, Keisuke Ogaki, Yusuke Matsui, Yuri Odagiri*  
+[[paper](https://arxiv.org/abs/1803.08244)]  
+
 **The Unusual Effectiveness of Averaging in GAN Training**  
 *Yasin Yazıcı, Chuan-Sheng Foo, Stefan Winkler, Kim-Hui Yap, Georgios Piliouras, Vijay Chandrasekhar*  
 [[paper](https://arxiv.org/abs/1806.04498)]  

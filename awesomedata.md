@@ -1,4 +1,8 @@
 # Awesome dataset  
+**Hierarchical Neural Story Generation**  
+*Angela Fan, Mike Lewis, Yann Dauphin*  
+[[paper](https://arxiv.org/abs/1805.04833)]  
+
 **The NES Music Database: A multi-instrumental dataset with expressive performance attributes**  
 *Chris Donahue, Huanru Henry Mao, Julian McAuley*  
 [[paper](https://arxiv.org/abs/1806.04278)]  

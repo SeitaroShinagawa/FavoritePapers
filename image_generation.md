@@ -1,3 +1,7 @@
+**Semi-parametric Image Synthesis (CVPR2018)**   
+*Xiaojuan Qi, Qifeng Chen, Jiaya Jia, Vladlen Koltun*  
+[[paper](https://arxiv.org/abs/1804.10992)]  
+
 **3D Human Pose Estimation in the Wild by Adversarial Learning (CVPR2018)**  
 *Wei Yang, Wanli Ouyang, Xiaolong Wang, Jimmy Ren, Hongsheng Li, Xiaogang Wang*  
 [[paper](https://arxiv.org/abs/1803.09722)]  

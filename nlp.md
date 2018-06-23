@@ -1,4 +1,8 @@
 # Natural Language Processing  
+**Dictionary-Guided Editing Networks for Paraphrase Generation**  
+*Shaohan Huang, Yu Wu, Furu Wei, Ming Zhou*  
+[[paper](https://arxiv.org/abs/1806.08077)]  
+
 **Context-Aware Neural Machine Translation Learns Anaphora Resolution (ACL2018)**  
 *Elena Voita, Pavel Serdyukov, Rico Sennrich, Ivan Titov*  
 [[paper](https://arxiv.org/abs/1805.10163)]  

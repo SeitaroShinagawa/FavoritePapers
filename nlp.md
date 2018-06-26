@@ -1,4 +1,8 @@
 # Natural Language Processing  
+**Finding Syntax in Human Encephalography with Beam Search (ACL2018)**  
+*John Hale, Chris Dyer, Adhiguna Kuncoro, Jonathan R. Brennan*  
+[[paper](https://arxiv.org/abs/1806.04127)]  
+
 **Dictionary-Guided Editing Networks for Paraphrase Generation**  
 *Shaohan Huang, Yu Wu, Furu Wei, Ming Zhou*  
 [[paper](https://arxiv.org/abs/1806.08077)]  

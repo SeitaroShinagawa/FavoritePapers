@@ -81,7 +81,9 @@ ArXiv読み
 - [メッセージとストーリーのない発表はカスだ アカデミック・プレゼンテーションのコツ](https://www.slideshare.net/KeiGomi/ss-81275254)
 - [研究発表でのよくある質問集](http://kanamori.cs.tsukuba.ac.jp/docs/presentation_faqs.html) 
 - [修士論文や卒業論文の発表会に向けたアドバイス](http://blog.chase-dream.com/2013/02/03/3113)
-- [ひたすら楽してスライド作成](https://www.slideshare.net/MasanoriMorise/ss-89422938)
+- [ひたすら楽してスライド作成](https://www.slideshare.net/MasanoriMorise/ss-89422938)  
+- [センス不要！伝わる研究ポスター作成術](http://k-connex.kyoto-u.ac.jp/wp-content/uploads/160711-posterseminar-pub.pdf)  
+- [伝わるデザイン 研究発表のユニバーサルデザイン](http://tsutawarudesign.com/index.html)]  
 
 ## 実験コードの管理<a name="code"></a>
 

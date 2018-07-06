@@ -1,10 +1,11 @@
-Information Geometry Connecting Wasserstein Distance and Kullback-Leibler Divergence via the Entropy-Relaxed Transportation Problem**  
+**Information Geometry Connecting Wasserstein Distance and Kullback-Leibler Divergence via the Entropy-Relaxed Transportation Problem**  
 *Shun-ichi Amari, Ryo Karakida, Masafumi Oizumi*  
 [[paper](https://arxiv.org/abs/1709.10219)]  
 
 **Relational inductive biases, deep learning, and graph networks**  
 *Peter W. Battaglia, Jessica B. Hamrick, Victor Bapst, Alvaro Sanchez-Gonzalez, Vinicius Zambaldi, Mateusz Malinowski, Andrea Tacchetti, David Raposo, Adam Santoro, Ryan Faulkner, Caglar Gulcehre, Francis Song, Andrew Ballard, Justin Gilmer, George Dahl, Ashish Vaswani, Kelsey Allen, Charles Nash, Victoria Langston, Chris Dyer, Nicolas Heess, Daan Wierstra, Pushmeet Kohli, Matt Botvinick, Oriol Vinyals, Yujia Li, Razvan Pascanu*  
 [[paper](https://arxiv.org/abs/1806.01261)]  
+[[slides(ja)](https://www.slideshare.net/DeepLearningJP2016/dlrelational-inductive-biases-deep-learning-and-graph-networks-104442091)]  
 
 **Deep Energy: Using Energy Functions for Unsupervised Training of DNNs**  
 *Alona Golts, Daniel Freedman, Michael Elad*  

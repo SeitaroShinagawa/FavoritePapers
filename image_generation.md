@@ -1,3 +1,7 @@
+**The relativistic discriminator: a key element missing from standard GAN**  
+*Alexia Jolicoeur-Martineau*  
+[[paper](https://arxiv.org/abs/1807.00734)]  
+
 **Semi-parametric Image Synthesis (CVPR2018)**   
 *Xiaojuan Qi, Qifeng Chen, Jiaya Jia, Vladlen Koltun*  
 [[paper](https://arxiv.org/abs/1804.10992)]  

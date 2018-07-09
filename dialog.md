@@ -1,4 +1,7 @@
 # Works related to Dialog
+**Interactive Language Acquisition with One-shot Visual Concept Learning through a Conversational Game (ACL2018)**  
+*Haichao Zhang, Haonan Yu, Wei Xu*  
+[[paper](https://arxiv.org/abs/1805.00462v1)]  
 
 **Conversational Image Editing: Incremental Intent Identification in a New Dialogue Task (SIGDIAL2018 best paper nominee)**  
 [[paper](http://www.manuvinakurike.com/imedit_sigdial.pdf)]  

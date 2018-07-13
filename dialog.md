@@ -1,4 +1,7 @@
 # Works related to Dialog
+**Emotional Dialogue Generation using Image-Grounded Language Models (CHI2018)**  
+[[paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/huber2018chi.small_.pdf)]  
+
 **Interactive Language Acquisition with One-shot Visual Concept Learning through a Conversational Game (ACL2018)**  
 *Haichao Zhang, Haonan Yu, Wei Xu*  
 [[paper](https://arxiv.org/abs/1805.00462v1)]  

@@ -1,4 +1,8 @@
 # Reinforcement learning  
+**Visual Reinforcement Learning with Imagined Goals**  
+*Ashvin Nair, Vitchyr Pong, Murtaza Dalal, Shikhar Bahl, Steven Lin, Sergey Levine*  
+[[paper](https://arxiv.org/abs/1807.04742)]  
+
 **EMERGENCE OF LINGUISTIC COMMUNICATION FROM REFERENTIAL GAMES WITH SYMBOLIC AND PIXEL INPUT**  
 [[paper](https://openreview.net/pdf?id=HJGv1Z-AW)]  
 [[slide](https://www.slideshare.net/RikuArakawa/iclr2018-emergence-of-linguistic-communication-from-referential-games-with-symbolic-and-pixel-input)]  

@@ -1,4 +1,7 @@
-**Information Geometry Connecting Wasserstein Distance and Kullback-Leibler Divergence via the Entropy-Relaxed Transportation Problem**  
+**Classification and Geometry of General Perceptual Manifolds**  
+[[paper](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.031003)]  
+
+**Information Geometry Connecting Wasserstein Distance and Kullback-Leibler Divergence via the Entropy-Relaxed Transportation Problem**   
 *Shun-ichi Amari, Ryo Karakida, Masafumi Oizumi*  
 [[paper](https://arxiv.org/abs/1709.10219)]  
 

@@ -1,4 +1,7 @@
 # Awesome dataset  
+**Cornell Natural Language Visual Reasoning (NLVR) dataset**  
+[[link](http://lic.nlp.cornell.edu/nlvr/)]  
+
 **Hierarchical Neural Story Generation**  
 *Angela Fan, Mike Lewis, Yann Dauphin*  
 [[paper](https://arxiv.org/abs/1805.04833)]  

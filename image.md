@@ -1,4 +1,7 @@
 # Image
+**Deep Clustering for Unsupervised Learning of Visual Features (ECCV2018)**  
+*Mathilde Caron, Piotr Bojanowski, Armand Joulin, Matthijs Douze*  
+[[paper](https://arxiv.org/abs/1807.05520)]  
 
 **Visual Affordance and Function Understanding: A Survey**  
 *Mohammed Hassanin, Salman Khan, Murat Tahtali*  

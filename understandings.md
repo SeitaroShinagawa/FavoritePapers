@@ -80,6 +80,10 @@
 
 
 ## Visualization
+**An Analysis of the t-SNE Algorithm for Data Visualization (COLT2018)**    
+*Sanjeev Arora, Wei Hu, Pravesh K. Kothari*  
+[[paper](https://arxiv.org/abs/1803.01768)]  
+
 **Network Dissection: Quantifying Interpretability of Deep Visual Representations**  
 *David Bau*, Bolei Zhou*, Aditya Khosla, Aude Oliva, Antonio Torralba*   
 [[project](http://netdissect.csail.mit.edu/)]   

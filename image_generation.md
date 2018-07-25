@@ -1,3 +1,10 @@
+**Learning to Anonymize Faces for Privacy Preserving Action Detection (ECCV2018)**
+Zhongzheng (Jason) Ren, Yong Jae Lee, Michael S. Ryoo
+[[project](https://jason718.github.io/project/privacy/main.html)]  
+
+**Natural and Effective Obfuscation by Head Inpainting (CVPR2018)**  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Sun_Natural_and_Effective_CVPR_2018_paper.pdf)]  
+
 **The Variational Homoencoder: Learning to learn high capacity generative models from few examples (UAI2018)**  
 *Luke B. Hewitt, Maxwell I. Nye, Andreea Gane, Tommi Jaakkola, Joshua B. Tenenbaum*  
 [[paper](https://arxiv.org/abs/1807.08919)]  

@@ -1,3 +1,7 @@
+**IntroVAE: Introspective Variational Autoencoders for Photographic Image Synthesis**  
+*Huaibo Huang, Zhihang Li, Ran He, Zhenan Sun, Tieniu Tan*  
+[[paper](https://arxiv.org/abs/1807.06358)]  
+
 **The relativistic discriminator: a key element missing from standard GAN**  
 *Alexia Jolicoeur-Martineau*  
 [[paper](https://arxiv.org/abs/1807.00734)]  

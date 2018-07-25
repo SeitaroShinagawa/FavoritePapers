@@ -1,3 +1,7 @@
+**The Variational Homoencoder: Learning to learn high capacity generative models from few examples (UAI2018)**  
+*Luke B. Hewitt, Maxwell I. Nye, Andreea Gane, Tommi Jaakkola, Joshua B. Tenenbaum*  
+[[paper](https://arxiv.org/abs/1807.08919)]  
+
 **IntroVAE: Introspective Variational Autoencoders for Photographic Image Synthesis**  
 *Huaibo Huang, Zhihang Li, Ran He, Zhenan Sun, Tieniu Tan*  
 [[paper](https://arxiv.org/abs/1807.06358)]  

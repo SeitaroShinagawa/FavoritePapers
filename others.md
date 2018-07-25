@@ -1,3 +1,6 @@
+**Building Machines that Learn & Think Like People - Prof. Josh Tenenbaum ICML2018**  
+[[video](https://www.youtube.com/watch?v=RB78vRUO6X8)]  
+
 **pHash with python pip**  
 [[link](https://aquasoftware.net/blog/?p=985)]  
 

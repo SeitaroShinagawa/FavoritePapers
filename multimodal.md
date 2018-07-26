@@ -1,4 +1,7 @@
 # Multimodal   
+**Multiple Instance Visual-Semantic Embedding (BMVC2017)**  
+[[paper](http://web.cs.ucla.edu/~zhou.ren/Zhou_bmvc17_paper.pdf)]  
+
 **Finding beans in burgers: Deep semantic-visual embedding with localization (CVPR2018)**   
 [[paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3272.pdf)]  
 

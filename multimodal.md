@@ -1,4 +1,7 @@
 # Multimodal   
+**Deep Visual-Semantic Quantization for Efficient Image Retrieval (CVPR2017)**  
+[[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cao_Deep_Visual-Semantic_Quantization_CVPR_2017_paper.pdf)]  
+
 **Transductive Visual-Semantic Embedding for Zero-shot Learning (ICMR2017)**  
 [[paper](https://dl.acm.org/citation.cfm?id=3078977)]  
 

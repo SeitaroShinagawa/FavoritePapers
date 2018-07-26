@@ -1,4 +1,7 @@
 # Multimodal   
+**Learning Robust Visual-Semantic Embeddings (ICCV2017)**  
+[[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tsai_Learning_Robust_Visual-Semantic_ICCV_2017_paper.pdf)]  
+
 **Deep Visual-Semantic Quantization for Efficient Image Retrieval (CVPR2017)**  
 [[paper](http://openaccess.thecvf.com/content_cvpr_2017/papers/Cao_Deep_Visual-Semantic_Quantization_CVPR_2017_paper.pdf)]  
 

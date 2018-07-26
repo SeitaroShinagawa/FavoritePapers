@@ -1,4 +1,7 @@
 # Multimodal   
+**Fine-grained Image Classification by Visual-Semantic Embedding (IJCAI2018)**  
+[[paper](https://www.ijcai.org/proceedings/2018/0145.pdf)]  
+
 **VSE-ens: Visual-Semantic Embeddings with Efficient Negative Sampling (AAAI2018)**  
 *Guibing Guo, Songlin Zhai, Fajie Yuan, Yuan Liu, Xingwei Wang*  
 [[paper](https://arxiv.org/abs/1801.01632)]  

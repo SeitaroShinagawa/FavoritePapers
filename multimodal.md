@@ -1,4 +1,8 @@
 # Multimodal   
+**VSE++: Improving Visual-Semantic Embeddings with Hard Negatives (BMVC2018 spotlight)**  
+*Fartash Faghri, David J. Fleet, Jamie Ryan Kiros, Sanja Fidler*  
+[[paper](https://arxiv.org/abs/1707.05612)]  
+
 **Actor and Action Video Segmentation from a Sentence (CVPR2018 oral)**  
 *Kirill Gavrilyuk, Amir Ghodrati, Zhenyang Li, Cees G.M. Snoek*  
 [[paper](https://arxiv.org/abs/1803.07485)]  

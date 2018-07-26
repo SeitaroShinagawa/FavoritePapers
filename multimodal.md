@@ -1,4 +1,7 @@
 # Multimodal   
+**Finding beans in burgers: Deep semantic-visual embedding with localization (CVPR2018)**   
+[[paper](http://openaccess.thecvf.com/content_cvpr_2018/CameraReady/3272.pdf)]  
+
 **Fine-grained Image Classification by Visual-Semantic Embedding (IJCAI2018)**  
 [[paper](https://www.ijcai.org/proceedings/2018/0145.pdf)]  
 

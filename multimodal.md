@@ -1,4 +1,8 @@
 # Multimodal   
+**VSE-ens: Visual-Semantic Embeddings with Efficient Negative Sampling (AAAI2018)**  
+*Guibing Guo, Songlin Zhai, Fajie Yuan, Yuan Liu, Xingwei Wang*  
+[[paper](https://arxiv.org/abs/1801.01632)]  
+
 **VSE++: Improving Visual-Semantic Embeddings with Hard Negatives (BMVC2018 spotlight)**  
 *Fartash Faghri, David J. Fleet, Jamie Ryan Kiros, Sanja Fidler*  
 [[paper](https://arxiv.org/abs/1707.05612)]  

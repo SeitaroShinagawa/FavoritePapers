@@ -1,4 +1,7 @@
 # Multimodal   
+**Transductive Visual-Semantic Embedding for Zero-shot Learning (ICMR2017)**  
+[[paper](https://dl.acm.org/citation.cfm?id=3078977)]  
+
 **Hierarchical Multimodal LSTM for Dense Visual-Semantic Embedding (ICCV2017)**  
 [[paper](http://www.ganghua.org/publication/ICCV17c.pdf)]  
 

@@ -1,4 +1,7 @@
 # Multimodal   
+**Hierarchical Multimodal LSTM for Dense Visual-Semantic Embedding (ICCV2017)**  
+[[paper](http://www.ganghua.org/publication/ICCV17c.pdf)]  
+
 **Multiple Instance Visual-Semantic Embedding (BMVC2017)**  
 [[paper](http://web.cs.ucla.edu/~zhou.ren/Zhou_bmvc17_paper.pdf)]  
 

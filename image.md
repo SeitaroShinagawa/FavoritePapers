@@ -1,4 +1,7 @@
 # Image
+**画像検索 (特定物体認識) — 古典手法、マッチング、深層学習、Kaggle**  
+[[link](https://speakerdeck.com/smly/hua-xiang-jian-suo-te-ding-wu-ti-ren-shi-gu-dian-shou-fa-matutingu-shen-ceng-xue-xi-kaggle)]  
+
 **UNet++: A Nested U-Net Architecture for Medical Image Segmentation**  
 *Zongwei Zhou, Md Mahfuzur Rahman Siddiquee, Nima Tajbakhsh, Jianming Liang*  
 [[paper](https://arxiv.org/abs/1807.10165)]  

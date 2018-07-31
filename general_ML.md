@@ -1,3 +1,7 @@
+**Geometry Score: A Method For Comparing Generative Adversarial Networks (ICML2018)**  
+*Valentin Khrulkov, Ivan Oseledets*  
+[[paper](https://arxiv.org/abs/1802.02664)]  
+
 **Classification and Geometry of General Perceptual Manifolds**  
 [[paper](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.8.031003)]  
 

@@ -1,3 +1,7 @@
+**How good is my GAN? (ECCV2018)**  
+*Konstantin Shmelkov, Cordelia Schmid, Karteek Alahari*  
+[[paper](https://arxiv.org/abs/1807.09499)]  
+
 **Predictive and Generative Neural Networks for Object Functionality**  
 *ACM Transactions on Graphics (Proceedings of SIGGRAPH 2018)*  
 [[project](http://vcc.szu.edu.cn/research/2018/ICON4)]  

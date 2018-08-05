@@ -1,3 +1,6 @@
+**Which Training Methods for GANs do actually Converge? (ICML2018)**  
+[[project](https://avg.is.tuebingen.mpg.de/research_projects/convergence-and-stability-of-gan-training)]  
+
 **GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks (ICML2018)**  
 *Zhao Chen, Vijay Badrinarayanan, Chen-Yu Lee, Andrew Rabinovich*  
 [[paper](https://arxiv.org/abs/1711.02257)]  

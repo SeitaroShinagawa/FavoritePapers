@@ -1,3 +1,7 @@
+**The Variational Homoencoder: Learning to learn high capacity generative models from few examples**  
+*Luke B. Hewitt, Maxwell I. Nye, Andreea Gane, Tommi Jaakkola, Joshua B. Tenenbaum*  
+[[paper](https://arxiv.org/abs/1807.08919)]   
+
 **How good is my GAN? (ECCV2018)**  
 *Konstantin Shmelkov, Cordelia Schmid, Karteek Alahari*  
 [[paper](https://arxiv.org/abs/1807.09499)]  

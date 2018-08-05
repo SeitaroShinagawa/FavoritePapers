@@ -1,3 +1,11 @@
+**GradNorm: Gradient Normalization for Adaptive Loss Balancing in Deep Multitask Networks (ICML2018)**  
+*Zhao Chen, Vijay Badrinarayanan, Chen-Yu Lee, Andrew Rabinovich*  
+[[paper](https://arxiv.org/abs/1711.02257)]  
+
+**Multi-Task Learning Using Uncertainty to Weigh Losses for Scene Geometry and Semantics (CVPR2018)**  
+*Alex Kendall, Yarin Gal, Roberto Cipolla*  
+[[paper](https://arxiv.org/abs/1705.07115)]  
+
 **Geometry Score: A Method For Comparing Generative Adversarial Networks (ICML2018)**  
 *Valentin Khrulkov, Ivan Oseledets*  
 [[paper](https://arxiv.org/abs/1802.02664)]  

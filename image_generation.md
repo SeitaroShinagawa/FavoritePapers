@@ -1,3 +1,8 @@
+**Diverse Image-to-Image Translation via Disentangled Representations (ECCV2018 oral)**  
+*Hsin-Ying Lee, Hung-Yu Tseng, Jia-Bin Huang, Maneesh Kumar Singh, Ming-Hsuan Yang*  
+[[paper](https://arxiv.org/abs/1808.00948v1)]  
+[[code](https://github.com/HsinYingLee/DRIT/)]   
+
 **The Variational Homoencoder: Learning to learn high capacity generative models from few examples**  
 *Luke B. Hewitt, Maxwell I. Nye, Andreea Gane, Tommi Jaakkola, Joshua B. Tenenbaum*  
 [[paper](https://arxiv.org/abs/1807.08919)]   

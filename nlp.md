@@ -1,4 +1,8 @@
 # Natural Language Processing  
+**Reliability and Learnability of Human Bandit Feedback for Sequence-to-Sequence Reinforcement Learning (ACL2018)**  
+*Julia Kreutzer, Joshua Uyheng, Stefan Riezler*  
+[[paper](https://arxiv.org/abs/1805.10627v2)]  
+
 **Finding Syntax in Human Encephalography with Beam Search (ACL2018)**  
 *John Hale, Chris Dyer, Adhiguna Kuncoro, Jonathan R. Brennan*  
 [[paper](https://arxiv.org/abs/1806.04127)]  

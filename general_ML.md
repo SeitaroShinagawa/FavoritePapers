@@ -1,3 +1,7 @@
+**A Dual Approach to Scalable Verification of Deep Networks (UAI2018 best paper)**  
+*Krishnamurthy (Dj) Dvijotham, Robert Stanforth, Sven Gowal, Timothy Mann, Pushmeet Kohli*  
+[[paper](https://arxiv.org/abs/1803.06567)]  
+
 **Which Training Methods for GANs do actually Converge? (ICML2018)**  
 [[project](https://avg.is.tuebingen.mpg.de/research_projects/convergence-and-stability-of-gan-training)]  
 

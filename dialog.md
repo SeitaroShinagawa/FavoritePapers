@@ -109,6 +109,10 @@
 [[paper](https://arxiv.org/abs/1703.10960)]  
 
 ## Question Answering  
+**Think Visually: Question Answering through Virtual Imagery (ACL2018)**  
+*Ankit Goyal, Jian Wang, Jia Deng*  
+[[paper](https://arxiv.org/abs/1805.11025v1)]  
+
 **Learning Visual Knowledge Memory Networks for Visual Question Answering (CVPR2018)**  
 *Zhou Su, Chen Zhu, Yinpeng Dong, Dongqi Cai, Yurong Chen, Jianguo Li*  
 [[paper](https://arxiv.org/abs/1806.04860)]  

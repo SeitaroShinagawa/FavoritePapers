@@ -1,3 +1,6 @@
+**Recycle-GAN: Unsupervised Video Retargeting**  
+[[paper](http://www.cs.cmu.edu/~aayushb/Recycle-GAN/)]  
+
 **Diverse Image-to-Image Translation via Disentangled Representations (ECCV2018 oral)**  
 *Hsin-Ying Lee, Hung-Yu Tseng, Jia-Bin Huang, Maneesh Kumar Singh, Ming-Hsuan Yang*  
 [[paper](https://arxiv.org/abs/1808.00948v1)]  

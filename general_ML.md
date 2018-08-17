@@ -1,3 +1,7 @@
+**Skill Rating for Generative Models**  
+*Catherine Olsson, Surya Bhupatiraju, Tom Brown, Augustus Odena, Ian Goodfellow*  
+[[paper](https://arxiv.org/abs/1808.04888)]  
+
 **A Dual Approach to Scalable Verification of Deep Networks (UAI2018 best paper)**  
 *Krishnamurthy (Dj) Dvijotham, Robert Stanforth, Sven Gowal, Timothy Mann, Pushmeet Kohli*  
 [[paper](https://arxiv.org/abs/1803.06567)]  

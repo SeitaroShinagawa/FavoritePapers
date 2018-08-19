@@ -1,3 +1,6 @@
+**Unsupervised Attention-guided Image-to-Image Translation**  
+[[paper](https://arxiv.org/abs/1806.02311)]  
+
 **Recycle-GAN: Unsupervised Video Retargeting**  
 [[paper](http://www.cs.cmu.edu/~aayushb/Recycle-GAN/)]  
 

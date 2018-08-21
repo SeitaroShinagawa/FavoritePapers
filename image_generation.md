@@ -1,3 +1,9 @@
+**Video-to-Video Synthesis**  
+*Ting-Chun Wang, Ming-Yu Liu, Jun-Yan Zhu, Guilin Liu, Andrew Tao, Jan Kautz, Bryan Catanzaro*  
+[[paper](https://arxiv.org/abs/1808.06601)]  
+[[code](https://github.com/NVIDIA/vid2vid)]  
+[[video](https://www.youtube.com/watch?v=S1OwOd-war8&feature=youtu.be)]  
+
 **Unsupervised Attention-guided Image-to-Image Translation**  
 [[paper](https://arxiv.org/abs/1806.02311)]  
 

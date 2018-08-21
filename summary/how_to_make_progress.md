@@ -53,7 +53,7 @@ ArXiv読み
 - [査読のやり方、査読レポートの書き方](http://scienceandtechnology.jp/archives/12812)
 (執筆先行型（事前執筆型）：サーベイ→研究→論文作成ではなく、サーベイ→論文作成→研究の順で研究を進める方法。詳しくは[[国際会議論文の読み方・書き方 ](http://phontron.com/slides/neubig15nlptutorial.pdf)を参照)
 - [数式の読み方、大学で学ぶ数式(英文付き)](http://www.comp.tmu.ac.jp/yosihiro/teaching/how-to-read.pdf)
-
+ 
 #### チェックリスト
 - [論文執筆のためのチェックリスト(pdf)](http://kanamori.cs.tsukuba.ac.jp/docs/writing_paper_checklist.pdf)
 - [大学院生による卒論指導のためのチェックリスト](http://www.aise.ics.saitama-u.ac.jp/~gotoh/ChecklistForMasterStudents.html)
@@ -73,6 +73,7 @@ ArXiv読み
 - [CALTECH RULES FOR WRITING PAPERS :HOW TO STRUCTURE YOUR PAPER AND WRITE AN INTRODUCTION](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2013/10/CALTECH.RUL_..pdf)
 - [Small Guide to Making Nice Tables](https://www.inf.ethz.ch/personal/markusp/teaching/guides/guide-tables.pdf)
 - [Writing in the Sciences](https://www.coursera.org/learn/sciwrite)
+- [Ten simple rules for structuring papers](http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005619&type=printable) 
 
 ## プレゼンの仕方<a name="presentation"></a>
 

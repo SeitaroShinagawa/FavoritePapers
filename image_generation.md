@@ -1,3 +1,7 @@
+**Text-to-image Synthesis via Symmetrical Distillation Networks (ACMMM)**  
+*Mingkuan Yuan, Yuxin Peng*  
+[[paper](https://arxiv.org/abs/1808.06801v1)]  
+
 **3D-CODED : 3D Correspondences by Deep Deformation (ECCV2018)**  
 *Thibault Groueix, Matthew Fisher, Vladimir G. Kim, Bryan C. Russell, Mathieu Aubry*  
 [[paper](https://arxiv.org/abs/1806.05228)]  

@@ -1,3 +1,7 @@
+**Neural Vector Spaces for Unsupervised Information Retrieval(TOIS2018)**  
+*Christophe Van Gysel, Maarten de Rijke, Evangelos Kanoulas*  
+[[paper](https://arxiv.org/abs/1708.02702)]  
+
 **Skill Rating for Generative Models**  
 *Catherine Olsson, Surya Bhupatiraju, Tom Brown, Augustus Odena, Ian Goodfellow*  
 [[paper](https://arxiv.org/abs/1808.04888)]  

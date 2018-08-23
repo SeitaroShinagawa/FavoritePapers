@@ -1,4 +1,8 @@
 # Natural Language Processing  
+**Hierarchical Neural Network for Extracting Knowledgeable Snippets and Documents**  
+*Ganbin Zhou, Rongyu Cao, Xiang Ao, Ping Luo, Fen Lin, Leyu Lin, Qing He*  
+[[paper](https://arxiv.org/abs/1808.07228)]  
+
 **Reliability and Learnability of Human Bandit Feedback for Sequence-to-Sequence Reinforcement Learning (ACL2018)**  
 *Julia Kreutzer, Joshua Uyheng, Stefan Riezler*  
 [[paper](https://arxiv.org/abs/1805.10627v2)]  

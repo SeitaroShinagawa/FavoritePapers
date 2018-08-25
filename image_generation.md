@@ -1,6 +1,6 @@
 **TreeGAN: Syntax-Aware Sequence Generation with Generative Adversarial Networks (ICDM2018)**  
 *Xinyue Liu, Xiangnan Kong, Lei Liu, Kuorong Chiang*  
-[[paper]()]  
+[[paper](https://arxiv.org/abs/1808.07582)]  
 
 **FrankenGAN: Guided Detail Synthesis for Building Mass-Models Using Style-Synchonized GANs**  
 *Tom Kelly, Paul Guerrero, Anthony Steed, Peter Wonka, Niloy J. Mitra*  

@@ -1,3 +1,6 @@
+**Statistical Methods for HCI Research** 
+[[link](http://yatani.jp/teaching/doku.php?id=hcistats:start)]  
+
 **semi auto image annotation tool**  
 [[link](https://github.com/virajmavani/semi-auto-image-annotation-tool)]  
 

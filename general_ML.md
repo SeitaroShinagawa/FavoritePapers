@@ -1,3 +1,7 @@
+**Learning Confidence for Out-of-Distribution Detection in Neural Networks**  
+*Terrance DeVries, Graham W. Taylor*  
+[[paper](https://arxiv.org/abs/1802.04865)]  
+
 **Neural Vector Spaces for Unsupervised Information Retrieval(TOIS2018)**  
 *Christophe Van Gysel, Maarten de Rijke, Evangelos Kanoulas*  
 [[paper](https://arxiv.org/abs/1708.02702)]  

@@ -1,4 +1,8 @@
 # Image
+**How do Convolutional Neural Networks Learn Design? (ICPR2018)**    
+*Shailza Jolly, Brian Kenji Iwana, Ryohei Kuroki, Seiichi Uchida*  
+[[paper](https://arxiv.org/abs/1808.08402)]  
+
 **画像検索 (特定物体認識) — 古典手法、マッチング、深層学習、Kaggle**  
 [[link](https://speakerdeck.com/smly/hua-xiang-jian-suo-te-ding-wu-ti-ren-shi-gu-dian-shou-fa-matutingu-shen-ceng-xue-xi-kaggle)]  
 

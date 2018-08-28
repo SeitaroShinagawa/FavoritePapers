@@ -1,3 +1,8 @@
+**Human-centric Indoor Scene Synthesis Using Stochastic Grammar (CVPR2018)**  
+*Siyuan Qi, Yixin Zhu, Siyuan Huang, Chenfanfu Jiang, Song-Chun Zhu*  
+[[paper](https://arxiv.org/abs/1808.08473)]  
+室内での3D物体のレイアウトを生成
+
 **TreeGAN: Syntax-Aware Sequence Generation with Generative Adversarial Networks (ICDM2018)**  
 *Xinyue Liu, Xiangnan Kong, Lei Liu, Kuorong Chiang*  
 [[paper](https://arxiv.org/abs/1808.07582)]  

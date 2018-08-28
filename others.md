@@ -1,3 +1,6 @@
+**Thinking machineに向けて**  
+[[link](https://speakerdeck.com/connection_automated_ai/towardthinkingmachine-googledeepmind-languageevolutionpapers)]  
+
 **Statistical Methods for HCI Research** 
 [[link](http://yatani.jp/teaching/doku.php?id=hcistats:start)]  
 

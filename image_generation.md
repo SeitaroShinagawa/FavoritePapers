@@ -1,3 +1,7 @@
+**Learning Hierarchical Semantic Image Manipulation through Structured Representations**  
+*Seunghoon Hong, Xinchen Yan, Thomas Huang, Honglak Lee*  
+[[paper](https://arxiv.org/abs/1808.07535)]  
+
 **3D-Aware Scene Manipulation via Inverse Graphics**  
 *Shunyu Yao, Tzu Ming Harry Hsu, Jun-Yan Zhu, Jiajun Wu, Antonio Torralba, Bill Freeman, Joshua Tenenbaum*  
 [[paper](https://arxiv.org/abs/1808.09351)]  

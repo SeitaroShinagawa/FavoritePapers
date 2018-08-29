@@ -1,3 +1,8 @@
+**3D-Aware Scene Manipulation via Inverse Graphics**  
+*Shunyu Yao, Tzu Ming Harry Hsu, Jun-Yan Zhu, Jiajun Wu, Antonio Torralba, Bill Freeman, Joshua Tenenbaum*  
+[[paper](https://arxiv.org/abs/1808.09351)]  
+画像中の画像を３Dと相互変換→編集に使用
+
 **Human-centric Indoor Scene Synthesis Using Stochastic Grammar (CVPR2018)**  
 *Siyuan Qi, Yixin Zhu, Siyuan Huang, Chenfanfu Jiang, Song-Chun Zhu*  
 [[paper](https://arxiv.org/abs/1808.08473)]  

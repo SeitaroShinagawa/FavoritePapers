@@ -1,3 +1,7 @@
+**An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution**  
+*Rosanne Liu, Joel Lehman, Piero Molino, Felipe Petroski Such, Eric Frank, Alex Sergeev, Jason Yosinski*   
+[[paper](https://arxiv.org/abs/1807.03247)]  
+
 **Learning Hierarchical Semantic Image Manipulation through Structured Representations**  
 *Seunghoon Hong, Xinchen Yan, Thomas Huang, Honglak Lee*  
 [[paper](https://arxiv.org/abs/1808.07535)]  

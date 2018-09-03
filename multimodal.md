@@ -1,4 +1,8 @@
 # Multimodal   
+**Hierarchical Scene Parsing by Weakly Supervised Learning with Image Descriptions**  
+*Ruimao Zhang, Liang Lin, Guangrun Wang, Meng Wang, Wangmeng Zuo*  
+[[paper](https://arxiv.org/abs/1709.09490)]  
+
 **Learning Robust Visual-Semantic Embeddings (ICCV2017)**  
 [[paper](http://openaccess.thecvf.com/content_ICCV_2017/papers/Tsai_Learning_Robust_Visual-Semantic_ICCV_2017_paper.pdf)]  
 

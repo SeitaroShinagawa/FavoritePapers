@@ -1,3 +1,7 @@
+**A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation (NIPS2018)**  
+*Alexander Liu, Yen-Chen Liu, Yu-Ying Yeh, Yu-Chiang Frank Wang*  
+[[paper](https://arxiv.org/abs/1809.01361)]  
+
 **An Intriguing Failing of Convolutional Neural Networks and the CoordConv Solution**  
 *Rosanne Liu, Joel Lehman, Piero Molino, Felipe Petroski Such, Eric Frank, Alex Sergeev, Jason Yosinski*   
 [[paper](https://arxiv.org/abs/1807.03247)]  

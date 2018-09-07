@@ -1,3 +1,7 @@
+**Full-body High-resolution Anime Generation with Progressive Structure-conditional Generative Adversarial Networks (ECCV2018 workshop)**  
+*Koichi Hamada, Kentaro Tachibana, Tianqi Li, Hiroto Honda, Yusuke Uchida*  
+[[paper](https://arxiv.org/abs/1809.01890)]  
+
 **A Unified Feature Disentangler for Multi-Domain Image Translation and Manipulation (NIPS2018)**  
 *Alexander Liu, Yen-Chen Liu, Yu-Ying Yeh, Yu-Chiang Frank Wang*  
 [[paper](https://arxiv.org/abs/1809.01361)]  

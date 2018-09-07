@@ -1,3 +1,7 @@
+**Structural Consistency and Controllability for Diverse Colorization (ECCV2018)**  
+*Safa Messaoud, David Forsyth, Alexander G. Schwing*  
+[[paper](https://arxiv.org/abs/1809.02129)]  
+
 **Full-body High-resolution Anime Generation with Progressive Structure-conditional Generative Adversarial Networks (ECCV2018 workshop)**  
 *Koichi Hamada, Kentaro Tachibana, Tianqi Li, Hiroto Honda, Yusuke Uchida*  
 [[paper](https://arxiv.org/abs/1809.01890)]  

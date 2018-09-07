@@ -1,3 +1,7 @@
+**Deep Exemplar-based Colorization (SIGGRAPH2018)**    
+*Mingming He, Dongdong Chen, Jing Liao, Pedro V. Sander, Lu Yuan*  
+[[paper](https://arxiv.org/abs/1807.06587)]  
+
 **Structural Consistency and Controllability for Diverse Colorization (ECCV2018)**  
 *Safa Messaoud, David Forsyth, Alexander G. Schwing*  
 [[paper](https://arxiv.org/abs/1809.02129)]  

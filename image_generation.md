@@ -1,3 +1,7 @@
+**LUCSS: Language-based User-customized Colourization of Scene Sketches**  
+*Changqing Zou, Haoran Mo, Ruofei Du, Xing Wu, Chengying Gao, Hongbo Fu*  
+[[paper](https://arxiv.org/abs/1808.10544)]  
+
 **Memory Replay GANs: learning to generate images from new categories without forgetting (NIPS2018)**  
 *Chenshen Wu, Luis Herranz, Xialei Liu, Yaxing Wang, Joost van de Weijer, Bogdan Raducanu*  
 [[paper](https://arxiv.org/abs/1809.02058)]  

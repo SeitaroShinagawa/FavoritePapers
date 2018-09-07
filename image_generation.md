@@ -1,3 +1,7 @@
+**Memory Replay GANs: learning to generate images from new categories without forgetting (NIPS2018)**  
+*Chenshen Wu, Luis Herranz, Xialei Liu, Yaxing Wang, Joost van de Weijer, Bogdan Raducanu*  
+[[paper](https://arxiv.org/abs/1809.02058)]  
+
 **Deep Exemplar-based Colorization (SIGGRAPH2018)**    
 *Mingming He, Dongdong Chen, Jing Liao, Pedro V. Sander, Lu Yuan*  
 [[paper](https://arxiv.org/abs/1807.06587)]  

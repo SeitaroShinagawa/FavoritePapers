@@ -1,3 +1,6 @@
+**reinforcement learning lecture**  
+[[link](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html)]  
+
 **Thinking machineに向けて**  
 [[link](https://speakerdeck.com/connection_automated_ai/towardthinkingmachine-googledeepmind-languageevolutionpapers)]  
 

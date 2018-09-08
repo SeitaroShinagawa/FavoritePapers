@@ -1,3 +1,7 @@
+**Dense Pose Transfer (ECCV2018)**  
+*Natalia Neverova, Riza Alp Guler, Iasonas Kokkinos*  
+[[paper](https://arxiv.org/abs/1809.01995)]  
+
 **LUCSS: Language-based User-customized Colourization of Scene Sketches**  
 *Changqing Zou, Haoran Mo, Ruofei Du, Xing Wu, Chengying Gao, Hongbo Fu*  
 [[paper](https://arxiv.org/abs/1808.10544)]  

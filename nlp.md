@@ -1,4 +1,9 @@
 # Natural Language Processing  
+**Spherical Latent Spaces for Stable Variational Autoencoders (EMNLP2018)**  
+*Jiacheng Xu, Greg Durrett*  
+[[paper](https://arxiv.org/abs/1808.10805)]  
+[[code](https://github.com/jiacheng-xu/vmf_vae_nlp)]  
+
 **Hierarchical Neural Network for Extracting Knowledgeable Snippets and Documents**  
 *Ganbin Zhou, Rongyu Cao, Xiang Ao, Ping Luo, Fen Lin, Leyu Lin, Qing He*  
 [[paper](https://arxiv.org/abs/1808.07228)]  

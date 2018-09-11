@@ -1,3 +1,7 @@
+**Conditional Image Generation for Learning the Structure of Visual Objects**  
+*Tomas Jakab, Ankush Gupta, Hakan Bilen, Andrea Vedaldi*  
+[[paper](https://arxiv.org/abs/1806.07823)]  
+
 **Dense Pose Transfer (ECCV2018)**  
 *Natalia Neverova, Riza Alp Guler, Iasonas Kokkinos*  
 [[paper](https://arxiv.org/abs/1809.01995)]  

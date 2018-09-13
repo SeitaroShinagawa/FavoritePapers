@@ -1,3 +1,7 @@
+**Vectorization of Line Drawings via PolyVector Fields**  
+*Mikhail Bessmeltsev, Justin Solomon*  
+[[paper](https://arxiv.org/abs/1801.01922)]  
+
 **Conditional Image Generation for Learning the Structure of Visual Objects**  
 *Tomas Jakab, Ankush Gupta, Hakan Bilen, Andrea Vedaldi*  
 [[paper](https://arxiv.org/abs/1806.07823)]  

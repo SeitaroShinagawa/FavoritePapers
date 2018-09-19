@@ -1,4 +1,8 @@
 # Natural Language Processing  
+**Adversarial Text Generation via Feature-Mover's Distance**  
+*Liqun Chen, Shuyang Dai, Chenyang Tao, Dinghan Shen, Zhe Gan, Haichao Zhang, Yizhe Zhang, Lawrence Carin*  
+[[paper](https://arxiv.org/abs/1809.06297)]  
+
 **Spherical Latent Spaces for Stable Variational Autoencoders (EMNLP2018)**  
 *Jiacheng Xu, Greg Durrett*  
 [[paper](https://arxiv.org/abs/1808.10805)]  

@@ -17,6 +17,7 @@
 - [サーベイの仕方論文の読み方](https://written.4403.biz/source/how-to-survey.pdf)
 - [CV分野におけるサーベイ方法](https://www.slideshare.net/HirokatsuKataoka/ss-43935588)  
 - [工学系大学4年生のための論文の読み方](https://www.slideshare.net/ychtanaka/4-89034938)  
+- [英語論文の査読表現集](https://staff.aist.go.jp/a.ohta/japanese/study/Review_ex_top.htm)  
 
 ArXiv読み
 - 無理して追わない、TwitterでArXivのpaperをつぶやくbotか解説をツイートしてくれるアカウントをフォローしてキャッチアップするのが良い（@hillbigさんとか）（インパクトの大きい論文は何度もTime Lineに流れてくる)

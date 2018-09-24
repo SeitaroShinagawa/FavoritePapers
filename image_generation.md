@@ -1,3 +1,7 @@
+**Exemplar-based synthesis of geology using kernel discrepancies and generative neural networks**  
+*Shing Chan, Ahmed H. Elsheikh*  
+[[paper](https://arxiv.org/abs/1809.07748)]  
+
 **Vectorization of Line Drawings via PolyVector Fields**  
 *Mikhail Bessmeltsev, Justin Solomon*  
 [[paper](https://arxiv.org/abs/1801.01922)]  

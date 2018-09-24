@@ -1,4 +1,8 @@
 # Awesome neural networks  
+**Runtime Monitoring Neuron Activation Patterns**  
+*Chih-Hong Cheng, Georg Nührenberg, Hirotoshi Yasuoka*  
+[[paper](https://arxiv.org/abs/1809.06573)]  
+
 **Multi-target Voice Conversion without Parallel Data by Adversarially Learning Disentangled Audio Representations**  
 *Ju-chieh Chou, Cheng-chieh Yeh, Hung-yi Lee, Lin-shan Lee*  
 [[paper](https://arxiv.org/abs/1804.02812v1)]  

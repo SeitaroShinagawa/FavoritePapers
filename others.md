@@ -1,3 +1,7 @@
+**Albumentation**  
+image augmentation library  
+[[link](https://www.kaggle.com/c/tgs-salt-identification-challenge/discussion/66643)]  
+
 **[対話システムライブコンペティション](https://dialog-system-live-competition.github.io/dslc1/index.html)**  
 [[telegram bot](https://github.com/python-telegram-bot/python-telegram-bot)]  
 

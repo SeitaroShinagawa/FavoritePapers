@@ -1,4 +1,8 @@
 # Natural Language Processing  
+**Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models**  
+*Ashwin K Vijayakumar, Michael Cogswell, Ramprasath R. Selvaraju, Qing Sun, Stefan Lee, David Crandall, Dhruv Batra*  
+[[paper](https://arxiv.org/abs/1610.02424)]  
+
 **SALSA-TEXT : self attentive latent space based adversarial text generation**  
 *Jules Gagnon-Marchand, Hamed Sadeghi, Md. Akmal Haidar, Mehdi Rezagholizadeh*  
 [[paper](https://arxiv.org/abs/1809.11155)]  

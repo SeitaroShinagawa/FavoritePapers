@@ -1,3 +1,7 @@
+**Differentiable Learning-to-Normalize via Switchable Normalization**  
+*Ping Luo, Jiamin Ren, Zhanglin Peng*  
+[[paper](https://arxiv.org/abs/1806.10779)]  
+
 **Learning Confidence for Out-of-Distribution Detection in Neural Networks**  
 *Terrance DeVries, Graham W. Taylor*  
 [[paper](https://arxiv.org/abs/1802.04865)]  

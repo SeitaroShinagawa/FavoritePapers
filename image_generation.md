@@ -1,3 +1,7 @@
+**Semantically Invariant Text-to-Image Generation (ICIP2018)**  
+*Shagan Sah, Dheeraj Peri, Ameya Shringi, Chi Zhang, Miguel Dominguez, Andreas Savakis, Ray Ptucha*  
+[[paper](https://arxiv.org/abs/1809.10274)]  
+
 **Exemplar-based synthesis of geology using kernel discrepancies and generative neural networks**  
 *Shing Chan, Ahmed H. Elsheikh*  
 [[paper](https://arxiv.org/abs/1809.07748)]  

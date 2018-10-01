@@ -1,4 +1,8 @@
 # Natural Language Processing  
+**SALSA-TEXT : self attentive latent space based adversarial text generation**  
+*Jules Gagnon-Marchand, Hamed Sadeghi, Md. Akmal Haidar, Mehdi Rezagholizadeh*  
+[[paper](https://arxiv.org/abs/1809.11155)]  
+
 **Adversarial Text Generation via Feature-Mover's Distance**  
 *Liqun Chen, Shuyang Dai, Chenyang Tao, Dinghan Shen, Zhe Gan, Haichao Zhang, Yizhe Zhang, Lawrence Carin*  
 [[paper](https://arxiv.org/abs/1809.06297)]  

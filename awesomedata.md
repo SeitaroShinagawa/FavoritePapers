@@ -1,4 +1,9 @@
 # Awesome dataset  
+
+**SAVOIAS: A Diverse, Multi-Category Visual Complexity Dataset**  
+*Elham Saraee, Mona Jalal, Margrit Betke*  
+[[paper](https://arxiv.org/abs/1810.01771)]  
+
 **TVQA DATASET**  
 [[link](http://tvqa.cs.unc.edu/)]  
 

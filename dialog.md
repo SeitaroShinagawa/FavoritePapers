@@ -108,7 +108,11 @@
 *Tiancheng Zhao, Ran Zhao, Maxine Eskenazi*  
 [[paper](https://arxiv.org/abs/1703.10960)]  
 
-## Question Answering  
+## Question Answering 
+**Neural-Symbolic VQA: Disentangling Reasoning from Vision and Language Understanding (NIPS2018spotlight)**  
+*Kexin Yi, Jiajun Wu, Chuang Gan, Antonio Torralba, Pushmeet Kohli, Joshua B. Tenenbaum*  
+[[paper](https://arxiv.org/abs/1810.02338)]  
+
 **Think Visually: Question Answering through Virtual Imagery (ACL2018)**  
 *Ankit Goyal, Jian Wang, Jia Deng*  
 [[paper](https://arxiv.org/abs/1805.11025v1)]  

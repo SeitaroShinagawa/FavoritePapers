@@ -1,3 +1,7 @@
+**Face2Text: Collecting an Annotated Image Description Corpus for the Generation of Rich Face Descriptions (LREC2018)**  
+*Albert Gatt, Marc Tanti, Adrian Muscat, Patrizia Paggio, Reuben A. Farrugia, Claudia Borg, Kenneth P. Camilleri, Mike Rosner, Lonneke van der Plas*  
+[[paper](https://arxiv.org/abs/1803.03827)]  
+
 **SemStyle: Learning to Generate Stylised Image Captions using Unaligned Text (CVPR2018)**  
 *Alexander Mathews, Lexing Xie, Xuming He*  
 [[paper](https://arxiv.org/abs/1805.07030)]  

@@ -1,4 +1,8 @@
 # Works related to Dialog
+**Generating Informative and Diverse Conversational Responses via Adversarial Information Maximization(NIPS2018)**  
+*Yizhe Zhang, Michel Galley, Jianfeng Gao, Zhe Gan, Xiujun Li, Chris Brockett, Bill Dolan*  
+[[paper](https://arxiv.org/abs/1809.05972)]  
+
 **Emotional Dialogue Generation using Image-Grounded Language Models (CHI2018)**  
 [[paper](https://www.microsoft.com/en-us/research/uploads/prod/2018/04/huber2018chi.small_.pdf)]  
 

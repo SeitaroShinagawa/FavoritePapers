@@ -1,3 +1,7 @@
+**CanvasGAN: A simple baseline for text to image generation by incrementally patching a canvas (CVC2019)**  
+*Amanpreet Singh, Sharan Agrawal*  
+[[paper](https://arxiv.org/abs/1810.02833)]  
+
 **Semantically Invariant Text-to-Image Generation (ICIP2018)**  
 *Shagan Sah, Dheeraj Peri, Ameya Shringi, Chi Zhang, Miguel Dominguez, Andreas Savakis, Ray Ptucha*  
 [[paper](https://arxiv.org/abs/1809.10274)]  

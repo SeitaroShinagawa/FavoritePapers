@@ -1,3 +1,6 @@
+**確率数理要論メモ**  
+[[link](http://www-nomo.ist.osaka-u.ac.jp/hideyuki/ja/lectures/2009-kougi-note-rev.pdf)]  
+
 **Google Colaboratoryによる作図支援コード**  
 [[tweet](https://twitter.com/stakemura/status/1047166793691746305)]  
 [[link](https://colab.research.google.com/drive/1po_kEWkmo1gSMyOEJeFSZ5whOk5EGYWo)]  

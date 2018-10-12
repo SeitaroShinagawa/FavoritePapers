@@ -1,3 +1,7 @@
+**Multi-Mapping Image-to-Image Translation with Central Biasing Normalization**    
+*Xiaoming Yu, Zhenqiang Ying, Thomas Li, Shan Liu, Ge Li*  
+[[paper](https://arxiv.org/abs/1806.10050)]  
+
 **CanvasGAN: A simple baseline for text to image generation by incrementally patching a canvas (CVC2019)**  
 *Amanpreet Singh, Sharan Agrawal*  
 [[paper](https://arxiv.org/abs/1810.02833)]  

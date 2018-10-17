@@ -1,4 +1,8 @@
 # Natural Language Processing  
+**Adversarial Text Generation Without Reinforcement Learning**  
+*David Donahue, Anna Rumshisky*  
+[[paper](https://arxiv.org/abs/1810.06640)]  
+
 **Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models**  
 *Ashwin K Vijayakumar, Michael Cogswell, Ramprasath R. Selvaraju, Qing Sun, Stefan Lee, David Crandall, Dhruv Batra*  
 [[paper](https://arxiv.org/abs/1610.02424)]  

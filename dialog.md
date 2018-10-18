@@ -1,4 +1,8 @@
 # Works related to Dialog
+**FlowQA: Grasping Flow in History for Conversational Machine Comprehension**  
+*Hsin-Yuan Huang, Eunsol Choi, Wen-tau Yih*  
+[[paper](https://arxiv.org/abs/1810.06683)]  
+
 **Generating Informative and Diverse Conversational Responses via Adversarial Information Maximization(NIPS2018)**  
 *Yizhe Zhang, Michel Galley, Jianfeng Gao, Zhe Gan, Xiujun Li, Chris Brockett, Bill Dolan*  
 [[paper](https://arxiv.org/abs/1809.05972)]  

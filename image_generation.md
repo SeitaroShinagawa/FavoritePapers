@@ -1,3 +1,7 @@
+**Learning to Globally Edit Images with Textual Description**  
+*Hai Wang, Jason D. Williams, SingBing Kang*  
+[[paper](https://arxiv.org/abs/1810.05786)]  
+
 **Multi-Mapping Image-to-Image Translation with Central Biasing Normalization**    
 *Xiaoming Yu, Zhenqiang Ying, Thomas Li, Shan Liu, Ge Li*  
 [[paper](https://arxiv.org/abs/1806.10050)]  

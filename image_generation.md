@@ -1,3 +1,7 @@
+**MsCGAN: Multi-scale Conditional Generative Adversarial Networks for Person Image Generation**  
+*Wei Tang, Teng Li, Fudong Nian, Meng Wang*  
+[[paper](https://arxiv.org/abs/1810.08534)]  
+
 **Learning to Globally Edit Images with Textual Description**  
 *Hai Wang, Jason D. Williams, SingBing Kang*  
 [[paper](https://arxiv.org/abs/1810.05786)]  

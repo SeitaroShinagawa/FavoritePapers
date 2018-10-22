@@ -76,7 +76,8 @@ ArXiv読み
 - [Writing in the Sciences](https://www.coursera.org/learn/sciwrite)
 - [Ten simple rules for structuring papers](http://journals.plos.org/ploscompbiol/article/file?id=10.1371/journal.pcbi.1005619&type=printable) 
 - [How to construct a Nature summary paragraph
-](http://s3-service-broker-live-19ea8b98-4d41-4cb4-be4c-d68f4963b7dd.s3.amazonaws.com/uploads/ckeditor/attachments/7808/2c_Summary_para.pdf)
+](http://s3-service-broker-live-19ea8b98-4d41-4cb4-be4c-d68f4963b7dd.s3.amazonaws.com/uploads/ckeditor/attachments/7808/2c_Summary_para.pdf)  
+- [Crafting a CHI Rebuttal](http://benjgorman.com/writing-chi-rebuttals/)  
 
 ## プレゼンの仕方<a name="presentation"></a>
 

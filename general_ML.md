@@ -1,3 +1,7 @@
+**Supervising strong learners by amplifying weak experts**  
+*Paul Christiano, Buck Shlegeris, Dario Amodei*  
+[[paper](https://arxiv.org/abs/1810.08575)]  
+
 **Differentiable Learning-to-Normalize via Switchable Normalization**  
 *Ping Luo, Jiamin Ren, Zhanglin Peng*  
 [[paper](https://arxiv.org/abs/1806.10779)]  

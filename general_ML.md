@@ -1,3 +1,7 @@
+**Discriminator Rejection Sampling**  
+*Samaneh Azadi, Catherine Olsson, Trevor Darrell, Ian Goodfellow, Augustus Odena*  
+[[paper](https://arxiv.org/abs/1810.06758)]  
+
 **Supervising strong learners by amplifying weak experts**  
 *Paul Christiano, Buck Shlegeris, Dario Amodei*  
 [[paper](https://arxiv.org/abs/1810.08575)]  

@@ -266,7 +266,8 @@ You-tube動画のbounding box付きのデータセット
 
 **メトロポリタン美術館**  
 CC0(creative commons zero)の絵画データセット(37万5000点)  
-[[link](http://metmuseum.org/about-the-met/policies-and-documents/image-resources)]  
+[[link](http://metmuseum.org/about-the-met/policies-and-documents/image-resources)]  
+[[download csv](https://github.com/gregsadetsky/met-openaccess-images)]  
 
 **Yahoo! WEBSCOPE**  
 Yahooのホームページ、Yahooニュース、Yahooスポーツ、YahooファイナンスとYahoo不動産  

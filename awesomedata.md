@@ -1,4 +1,7 @@
 # Awesome dataset  
+**Art Institute of Chicago API**  
+[[link](https://github.com/art-institute-of-chicago/data-service-collections)]  
+
 **[sign language datasets](https://facundoq.github.io/unlp/sign_language_datasets/index.html)**  
 finger spelling datasets
 

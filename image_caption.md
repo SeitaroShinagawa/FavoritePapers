@@ -1,3 +1,7 @@
+**Image Specificity (CVPR2015)**
+*Mainak Jas, Devi Parikh*  
+[[paper](https://arxiv.org/abs/1502.04569)]  
+
 **Face2Text: Collecting an Annotated Image Description Corpus for the Generation of Rich Face Descriptions (LREC2018)**  
 *Albert Gatt, Marc Tanti, Adrian Muscat, Patrizia Paggio, Reuben A. Farrugia, Claudia Borg, Kenneth P. Camilleri, Mike Rosner, Lonneke van der Plas*  
 [[paper](https://arxiv.org/abs/1803.03827)]  

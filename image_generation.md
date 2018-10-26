@@ -1,3 +1,7 @@
+**Probabilistic Semantic Inpainting with Pixel Constrained CNNs**  
+*Emilien Dupont, Suhas Suresha*  
+[[paper](https://arxiv.org/abs/1810.03728)]  
+
 **MsCGAN: Multi-scale Conditional Generative Adversarial Networks for Person Image Generation**  
 *Wei Tang, Teng Li, Fudong Nian, Meng Wang*  
 [[paper](https://arxiv.org/abs/1810.08534)]  

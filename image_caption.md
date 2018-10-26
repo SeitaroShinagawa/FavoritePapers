@@ -1,4 +1,8 @@
-**Image Specificity (CVPR2015)**
+**Engaging Image Captioning Via Personality**  
+*Kurt Shuster, Samuel Humeau, Hexiang Hu, Antoine Bordes, Jason Weston*  
+[[paper](https://arxiv.org/abs/1810.10665)]  
+
+**Image Specificity (CVPR2015)**  
 *Mainak Jas, Devi Parikh*  
 [[paper](https://arxiv.org/abs/1502.04569)]  
 

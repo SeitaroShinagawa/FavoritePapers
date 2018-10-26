@@ -1,4 +1,8 @@
 # Works related to Dialog
+**Intrinsic Social Motivation via Causal Influence in Multi-Agent RL**  
+*Natasha Jaques, Angeliki Lazaridou, Edward Hughes, Caglar Gulcehre, Pedro A. Ortega, DJ Strouse, Joel Z. Leibo, Nando de Freitas*  
+[[paper](https://arxiv.org/abs/1810.08647)]  
+
 **FlowQA: Grasping Flow in History for Conversational Machine Comprehension**  
 *Hsin-Yuan Huang, Eunsol Choi, Wen-tau Yih*  
 [[paper](https://arxiv.org/abs/1810.06683)]  

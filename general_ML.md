@@ -1,3 +1,7 @@
+**Outlier Detection using Generative Models with Theoretical Performance Guarantees**  
+*Jirong Yi, Anh Duc Le, Tianming Wang, Xiaodong Wu, Weiyu Xu*  
+[[paper](https://arxiv.org/abs/1810.11335)]  
+
 **Discriminator Rejection Sampling**  
 *Samaneh Azadi, Catherine Olsson, Trevor Darrell, Ian Goodfellow, Augustus Odena*  
 [[paper](https://arxiv.org/abs/1810.06758)]  

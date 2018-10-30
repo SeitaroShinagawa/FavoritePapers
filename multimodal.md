@@ -1,4 +1,8 @@
 # Multimodal   
+**A Knowledge-Grounded Multimodal Search-Based Conversational Agent**  
+*Shubham Agarwal, Ondrej Dusek, Ioannis Konstas, Verena Rieser*  
+[[paper](https://arxiv.org/abs/1810.11954)]  
+
 **Hierarchical Scene Parsing by Weakly Supervised Learning with Image Descriptions**  
 *Ruimao Zhang, Liang Lin, Guangrun Wang, Meng Wang, Wangmeng Zuo*  
 [[paper](https://arxiv.org/abs/1709.09490)]  

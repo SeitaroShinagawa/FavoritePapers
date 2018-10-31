@@ -1,3 +1,6 @@
+**Python: pandas-profiling でデータセットの概要を確認する**  
+[[link](https://blog.amedama.jp/entry/pandas-profiling)]  
+
 **google images downloader**  
 [[link](https://github.com/hardikvasa/google-images-download)]  
 

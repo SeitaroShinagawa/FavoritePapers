@@ -79,6 +79,7 @@ ArXiv読み
 - [How to construct a Nature summary paragraph
 ](http://s3-service-broker-live-19ea8b98-4d41-4cb4-be4c-d68f4963b7dd.s3.amazonaws.com/uploads/ckeditor/attachments/7808/2c_Summary_para.pdf)  
 - [Crafting a CHI Rebuttal](http://benjgorman.com/writing-chi-rebuttals/)  
+- [How to Write Good Reviews for CVPR](https://www.dropbox.com/s/725p60wcajbb8xh/How%20to%20Review%20for%20CVPR.pptx?dl=0#)  
 
 ## プレゼンの仕方<a name="presentation"></a>
 
@@ -96,6 +97,7 @@ ArXiv読み
 - [研究室における研究・実装ノウハウの共有](https://www.slideshare.net/naoakiokazaki/ss-59403900)
 - [研究者流コーディングの極意(言語処理学会2013チュートリアル)](http://www.chokkan.org/publication/coding-for-researchers.pdf)  
 - [忙しい研究者のためのテストコードとドキュメントの書き方](https://qiita.com/NaokiHamada/items/0689cd85fb3e1adcda1a)  
+- [Writing Code for NLP Research (EMNLP2018 tutorial)](https://docs.google.com/presentation/d/17NoJY2SnC2UMbVegaRCWA7Oca7UCZ3vHnMqBV4SUayc/edit#slide=id.p)  
 
 ## その他<a name="others"></a>
 

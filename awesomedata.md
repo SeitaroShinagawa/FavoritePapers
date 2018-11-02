@@ -1,4 +1,8 @@
 # Awesome dataset  
+**A Corpus for Reasoning About Natural Language Grounded in Photographs**  
+*Alane Suhr, Stephanie Zhou, Iris Zhang, Huajun Bai, Yoav Artzi*  
+[[paper](https://arxiv.org/abs/1811.00491)]  
+
 **MMD: Towards Building Large Scale Multimodal Domain-Aware Conversation Systems**  
 [[paper](https://amritasaha1812.github.io/MMD/)]  
 

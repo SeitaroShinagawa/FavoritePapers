@@ -1,3 +1,7 @@
+**CariGANs: Unpaired Photo-to-Caricature Translation (SIGGRAPH Asia2018)**  
+*Kaidi Cao, Jing Liao, Lu Yuan*  
+[[paper](https://arxiv.org/abs/1811.00222)]  
+
 **Probabilistic Semantic Inpainting with Pixel Constrained CNNs**  
 *Emilien Dupont, Suhas Suresha*  
 [[paper](https://arxiv.org/abs/1810.03728)]  

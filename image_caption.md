@@ -1,3 +1,7 @@
+**A sequential guiding network with attention for image captioning**  
+*Daouda Sow, Zengchang Qin, Mouhamed Niasse, Tao Wan*  
+[[paper](https://arxiv.org/abs/1811.00228)]  
+
 **Engaging Image Captioning Via Personality**  
 *Kurt Shuster, Samuel Humeau, Hexiang Hu, Antoine Bordes, Jason Weston*  
 [[paper](https://arxiv.org/abs/1810.10665)]  

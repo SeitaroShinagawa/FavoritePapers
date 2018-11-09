@@ -1,4 +1,8 @@
 # Natural Language Processing  
+**Language GANs Falling Short**  
+*Massimo Caccia, Lucas Caccia, William Fedus, Hugo Larochelle, Joelle Pineau, Laurent Charlin*  
+[[paper](https://arxiv.org/abs/1811.02549)]  
+
 **Adversarial Text Generation Without Reinforcement Learning**  
 *David Donahue, Anna Rumshisky*  
 [[paper](https://arxiv.org/abs/1810.06640)]  

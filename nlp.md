@@ -1,4 +1,7 @@
 # Natural Language Processing  
+**Adversarial Text Generation via Feature-Mover's Distance (NIPS2018)**  
+[[paper](https://arxiv.org/abs/1809.06297)]  
+
 **Language GANs Falling Short**  
 *Massimo Caccia, Lucas Caccia, William Fedus, Hugo Larochelle, Joelle Pineau, Laurent Charlin*  
 [[paper](https://arxiv.org/abs/1811.02549)]  

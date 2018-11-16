@@ -1,3 +1,6 @@
+**SwapNet: Image Based Garment Transfer (ECCV2018)**  
+[[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Amit_Raj_SwapNet_Garment_Transfer_ECCV_2018_paper.pdf)]  
+
 **Generative Semantic Manipulation with Mask-Contrasting GAN (ECCV2018)**  
 [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liang_Generative_Semantic_Manipulation_ECCV_2018_paper.pdf)]  
 

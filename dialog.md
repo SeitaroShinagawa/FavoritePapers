@@ -1,4 +1,7 @@
 # Works related to Dialog
+**Goal-Oriented Visual Question Generation via Intermediate Rewards (ECCV2018)**  
+[[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Junjie_Zhang_Goal-Oriented_Visual_Question_ECCV_2018_paper.pdf)]  
+
 **Intrinsic Social Motivation via Causal Influence in Multi-Agent RL**  
 *Natasha Jaques, Angeliki Lazaridou, Edward Hughes, Caglar Gulcehre, Pedro A. Ortega, DJ Strouse, Joel Z. Leibo, Nando de Freitas*  
 [[paper](https://arxiv.org/abs/1810.08647)]  

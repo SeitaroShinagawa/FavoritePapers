@@ -1,3 +1,6 @@
+**Generative Semantic Manipulation with Mask-Contrasting GAN (ECCV2018)**  
+[[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Liang_Generative_Semantic_Manipulation_ECCV_2018_paper.pdf)]  
+
 **Unsupervised Holistic Image Generation from Key Local Patches (ECCV2018)**  
 [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Donghoon_Lee_Unsupervised_holistic_image_ECCV_2018_paper.pdf)]  
 

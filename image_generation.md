@@ -1,3 +1,6 @@
+**Improving Shape Deformation in Unsupervised Image-to-Image Translation (ECCV2018)**  
+[[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Aaron_Gokaslan_Improving_Shape_Deformation_ECCV_2018_paper.pdf)]  
+
 **SwapNet: Image Based Garment Transfer (ECCV2018)**  
 [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Amit_Raj_SwapNet_Garment_Transfer_ECCV_2018_paper.pdf)]  
 

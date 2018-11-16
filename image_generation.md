@@ -1,3 +1,6 @@
+**Unsupervised Holistic Image Generation from Key Local Patches (ECCV2018)**  
+[[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Donghoon_Lee_Unsupervised_holistic_image_ECCV_2018_paper.pdf)]  
+
 **CariGANs: Unpaired Photo-to-Caricature Translation (SIGGRAPH Asia2018)**  
 *Kaidi Cao, Jing Liao, Lu Yuan*  
 [[paper](https://arxiv.org/abs/1811.00222)]  

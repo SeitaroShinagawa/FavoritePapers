@@ -1,3 +1,7 @@
+**Guiding the One-to-one Mapping in CycleGAN via Optimal Transport (AAAI2019)**  
+*Guansong Lu, Zhiming Zhou, Yuxuan Song, Kan Ren, Yong Yu*  
+[[paper](https://arxiv.org/abs/1811.06284)]  
+
 **Improving Shape Deformation in Unsupervised Image-to-Image Translation (ECCV2018)**  
 [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Aaron_Gokaslan_Improving_Shape_Deformation_ECCV_2018_paper.pdf)]  
 

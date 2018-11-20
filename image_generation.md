@@ -1,3 +1,7 @@
+**An Introduction to Image Synthesis with Generative Adversarial Nets**  
+*He Huang, Philip S. Yu, Changhu Wang*  
+[[paper](https://arxiv.org/abs/1803.04469)]  
+
 **Guiding the One-to-one Mapping in CycleGAN via Optimal Transport (AAAI2019)**  
 *Guansong Lu, Zhiming Zhou, Yuxuan Song, Kan Ren, Yong Yu*  
 [[paper](https://arxiv.org/abs/1811.06284)]  

@@ -1,3 +1,7 @@
+**Deep Generative Models with Learnable Knowledge Constraints (NeurIPS2018)**  
+*Zhiting Hu, Zichao Yang, Ruslan Salakhutdinov, Xiaodan Liang, Lianhui Qin, Haoye Dong, Eric Xing*  
+[[paper](https://arxiv.org/abs/1806.09764)]  
+
 **An Introduction to Image Synthesis with Generative Adversarial Nets**  
 *He Huang, Philip S. Yu, Changhu Wang*  
 [[paper](https://arxiv.org/abs/1803.04469)]  

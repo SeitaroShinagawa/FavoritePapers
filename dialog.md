@@ -1,4 +1,8 @@
 # Works related to Dialog
+**Emergence of linguistic conventions in multi-agent reinforcement learning (PLOS ONE)**  
+*Dorota Lipowska, Adam Lipowski*  
+[[paper](https://arxiv.org/abs/1811.07208)]  
+
 **Goal-Oriented Visual Question Generation via Intermediate Rewards (ECCV2018)**  
 [[paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Junjie_Zhang_Goal-Oriented_Visual_Question_ECCV_2018_paper.pdf)]  
 

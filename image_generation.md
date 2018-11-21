@@ -1,3 +1,7 @@
+**Photorealistic Facial Synthesis in the Dimensional Affect Space**  
+*Dimitrios Kollias, Shiyang Cheng, Maja Pantic, Stefanos Zafeiriou*  
+[[paper](https://arxiv.org/abs/1811.08004)]  
+
 **Deep Generative Models with Learnable Knowledge Constraints (NeurIPS2018)**  
 *Zhiting Hu, Zichao Yang, Ruslan Salakhutdinov, Xiaodan Liang, Lianhui Qin, Haoye Dong, Eric Xing*  
 [[paper](https://arxiv.org/abs/1806.09764)]  

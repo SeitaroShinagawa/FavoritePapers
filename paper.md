@@ -5,6 +5,13 @@
 Population Code Dynamics in Categorical Perception
 [[link](http://www.nature.com/articles/srep22536?utm_content=buffer944df&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]  
 
+**Automatic Paper Summary Generation from Visual and Textual Information (ICMV2018)**  
+*Shintaro Yamamoto, Yoshihiro Fukuhara, Ryota Suzuki, Shigeo Morishima, Hirokatsu Kataoka*  
+[[paper](https://arxiv.org/abs/1811.06943)]  
+[[project](https://cvpaperchallenge.github.io/AutoPaperSummaryGen/)]  
+[[tweet](https://twitter.com/CVpaperChalleng/status/1057571356764647424)]  
+
+
 **Improving Natural Language Inference Using External Knowledge in the Science Questions Domain**  
 *Xiaoyan Wang, Pavan Kapanipathi, Ryan Musa, Mo Yu, Kartik Talamadupula, Ibrahim Abdelaziz, Maria Chang, Achille Fokoue, Bassem Makni, Nicholas Mattei, Michael Witbrock*  
 [[paper](https://arxiv.org/abs/1809.05724)]  

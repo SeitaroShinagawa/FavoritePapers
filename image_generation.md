@@ -1,3 +1,7 @@
+**SEIGAN: Towards Compositional Image Generation by Simultaneously Learning to Segment, Enhance, and Inpaint**  
+*Pavel Ostyakov, Roman Suvorov, Elizaveta Logacheva, Oleg Khomenko, Sergey I. Nikolenko*  
+[[paper](https://arxiv.org/abs/1811.07630v1)]  
+
 **Photorealistic Facial Synthesis in the Dimensional Affect Space**  
 *Dimitrios Kollias, Shiyang Cheng, Maja Pantic, Stefanos Zafeiriou*  
 [[paper](https://arxiv.org/abs/1811.08004)]  

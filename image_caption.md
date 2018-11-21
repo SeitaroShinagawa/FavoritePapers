@@ -1,3 +1,7 @@
+**Plan-And-Write: Towards Better Automatic Storytelling (AAAI2019)**  
+*Lili Yao, Nanyun Peng, Ralph Weischedel, Kevin Knight, Dongyan Zhao, Rui Yan*  
+[[paper](https://arxiv.org/abs/1811.05701)]  
+
 **A sequential guiding network with attention for image captioning**  
 *Daouda Sow, Zengchang Qin, Mouhamed Niasse, Tao Wan*  
 [[paper](https://arxiv.org/abs/1811.00228)]  

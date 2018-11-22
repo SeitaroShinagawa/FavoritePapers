@@ -1,3 +1,6 @@
+**Anomaly detection tutorial (ICDM018 tutorial)**  
+[[link](https://federation.edu.au/__data/assets/pdf_file/0011/443666/ICDM2018-Tutorial-Final.pdf)]  
+
 **Resampled Priors for Variational Autoencoders**  
 *Matthias Bauer, Andriy Mnih*  
 [[paper](https://arxiv.org/abs/1810.11428)]  

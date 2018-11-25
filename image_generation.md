@@ -1,3 +1,7 @@
+**Text2Scene: Generating Abstract Scenes from Textual Descriptions**  
+*Fuwen Tan, Song Feng, Vicente Ordonez*  
+[[paper](https://arxiv.org/abs/1809.01110)]  
+
 **SEIGAN: Towards Compositional Image Generation by Simultaneously Learning to Segment, Enhance, and Inpaint**  
 *Pavel Ostyakov, Roman Suvorov, Elizaveta Logacheva, Oleg Khomenko, Sergey I. Nikolenko*  
 [[paper](https://arxiv.org/abs/1811.07630v1)]  

@@ -1,4 +1,8 @@
 # Works related to Dialog
+**Answerer in Questioner's Mind: Information Theoretic Approach to Goal-Oriented Visual Dialog (NIPS2018)**  
+*Sang-Woo Lee, Yu-Jung Heo, Byoung-Tak Zhang*  
+[[paper](https://arxiv.org/abs/1802.03881)]  
+
 **Emergence of linguistic conventions in multi-agent reinforcement learning (PLOS ONE)**  
 *Dorota Lipowska, Adam Lipowski*  
 [[paper](https://arxiv.org/abs/1811.07208)]  

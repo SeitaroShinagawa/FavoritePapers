@@ -1,3 +1,7 @@
+**Isolating Sources of Disentanglement in Variational Autoencoders**  
+*Ricky T. Q. Chen, Xuechen Li, Roger Grosse, David Duvenaud*  
+[[paper](https://arxiv.org/abs/1802.04942)]  
+
 **Text2Scene: Generating Abstract Scenes from Textual Descriptions**  
 *Fuwen Tan, Song Feng, Vicente Ordonez*  
 [[paper](https://arxiv.org/abs/1809.01110)]  

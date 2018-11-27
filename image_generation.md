@@ -1,3 +1,7 @@
+**Collaging on Internal Representations: An Intuitive Approach for Semantic Transfiguration**  
+*Ryohei Suzuki, Masanori Koyama, Takeru Miyato, Taizan Yonetsuji*  
+[[paper](https://arxiv.org/abs/1811.10153)]  
+
 **Isolating Sources of Disentanglement in Variational Autoencoders**  
 *Ricky T. Q. Chen, Xuechen Li, Roger Grosse, David Duvenaud*  
 [[paper](https://arxiv.org/abs/1802.04942)]  

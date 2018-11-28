@@ -1,3 +1,7 @@
+**Show, Control and Tell: A Framework for Generating Controllable and Grounded Captions**  
+*Marcella Cornia, Lorenzo Baraldi, Rita Cucchiara*  
+[[paper](https://arxiv.org/abs/1811.10652)]  
+
 **Plan-And-Write: Towards Better Automatic Storytelling (AAAI2019)**  
 *Lili Yao, Nanyun Peng, Ralph Weischedel, Kevin Knight, Dongyan Zhao, Rui Yan*  
 [[paper](https://arxiv.org/abs/1811.05701)]  

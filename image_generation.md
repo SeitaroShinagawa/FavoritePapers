@@ -1,3 +1,8 @@
+**GAN Dissection: Visualizing and Understanding Generative Adversarial Networks**  
+*David Bau, Jun-Yan Zhu, Hendrik Strobelt, Bolei Zhou, Joshua B. Tenenbaum, William T. Freeman, Antonio Torralba*  
+[[project](https://gandissect.csail.mit.edu/)]  
+[[paper](https://arxiv.org/abs/1811.10597)]  
+
 **Collaging on Internal Representations: An Intuitive Approach for Semantic Transfiguration**  
 *Ryohei Suzuki, Masanori Koyama, Takeru Miyato, Taizan Yonetsuji*  
 [[paper](https://arxiv.org/abs/1811.10153)]  

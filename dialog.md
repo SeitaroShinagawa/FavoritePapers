@@ -1,4 +1,8 @@
 # Works related to Dialog
+**Context-Aware Dialog Re-Ranking for Task-Oriented Dialog Systems (IEEE SLT)**  
+*Junki Ohmura, Maxine Eskenazi*  
+[[paper](https://arxiv.org/abs/1811.11430)]  
+
 **Answerer in Questioner's Mind: Information Theoretic Approach to Goal-Oriented Visual Dialog (NIPS2018)**  
 *Sang-Woo Lee, Yu-Jung Heo, Byoung-Tak Zhang*  
 [[paper](https://arxiv.org/abs/1802.03881)]  

@@ -1,3 +1,7 @@
+**FineGAN: Unsupervised Hierarchical Disentanglement for Fine-Grained Object Generation and Discovery**  
+*Krishna Kumar Singh, Utkarsh Ojha, Yong Jae Lee*  
+[[paper](https://arxiv.org/abs/1811.11155)]  
+
 **GAN Dissection: Visualizing and Understanding Generative Adversarial Networks**  
 *David Bau, Jun-Yan Zhu, Hendrik Strobelt, Bolei Zhou, Joshua B. Tenenbaum, William T. Freeman, Antonio Torralba*  
 [[project](https://gandissect.csail.mit.edu/)]  

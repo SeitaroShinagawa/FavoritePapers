@@ -1,3 +1,7 @@
+**Image Generation from Layout**  
+*Bo Zhao, Lili Meng, Weidong Yin, Leonid Sigal*  
+[[paper](https://arxiv.org/abs/1811.11389v1)]  
+
 **FineGAN: Unsupervised Hierarchical Disentanglement for Fine-Grained Object Generation and Discovery**  
 *Krishna Kumar Singh, Utkarsh Ojha, Yong Jae Lee*  
 [[paper](https://arxiv.org/abs/1811.11155)]  

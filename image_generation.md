@@ -1,3 +1,7 @@
+**Image Translation to Mixed-Domain using Sym-Parameterized Generative Network**  
+*Simyung Chang, SeongUk Park, John Yang, Nojun Kwak*  
+[[paper](https://arxiv.org/abs/1811.12362)]  
+
 **Image Generation from Layout**  
 *Bo Zhao, Lili Meng, Weidong Yin, Leonid Sigal*  
 [[paper](https://arxiv.org/abs/1811.11389v1)]  

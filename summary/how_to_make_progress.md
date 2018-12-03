@@ -55,6 +55,7 @@ ArXiv読み
 - [査読のやり方、査読レポートの書き方](http://scienceandtechnology.jp/archives/12812)
 (執筆先行型（事前執筆型）：サーベイ→研究→論文作成ではなく、サーベイ→論文作成→研究の順で研究を進める方法。詳しくは[[国際会議論文の読み方・書き方 ](http://phontron.com/slides/neubig15nlptutorial.pdf)を参照)
 - [数式の読み方、大学で学ぶ数式(英文付き)](http://www.comp.tmu.ac.jp/yosihiro/teaching/how-to-read.pdf)
+- [論文の書き方術（番外編）～査読報告書の書き方，条件付き採録時の回答文の書き方～](http://www.ieice.org/~cs-edit/magazine/hp/kakikata/kaitou.pdf)
  
 #### チェックリスト
 - [論文執筆のためのチェックリスト(pdf)](http://kanamori.cs.tsukuba.ac.jp/docs/writing_paper_checklist.pdf)

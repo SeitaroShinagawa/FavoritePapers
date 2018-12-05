@@ -1,3 +1,6 @@
+**Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language (NIPS2018)**  
+[[paper](http://papers.nips.cc/paper/7290-text-adaptive-generative-adversarial-networks-manipulating-images-with-natural-language)]  
+
 **Image Translation to Mixed-Domain using Sym-Parameterized Generative Network**  
 *Simyung Chang, SeongUk Park, John Yang, Nojun Kwak*  
 [[paper](https://arxiv.org/abs/1811.12362)]  

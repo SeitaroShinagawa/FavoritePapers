@@ -1,4 +1,7 @@
-**Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language (NIPS2018)**  
+**Turbo Learning for CaptionBot and DrawingBot (NeurIPS2018)**  
+[[paper](http://papers.nips.cc/paper/7881-turbo-learning-for-captionbot-and-drawingbot)]  
+
+**Text-Adaptive Generative Adversarial Networks: Manipulating Images with Natural Language (NeurIPS2018)**  
 [[paper](http://papers.nips.cc/paper/7290-text-adaptive-generative-adversarial-networks-manipulating-images-with-natural-language)]  
 
 **Image Translation to Mixed-Domain using Sym-Parameterized Generative Network**  

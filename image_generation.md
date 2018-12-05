@@ -1,3 +1,7 @@
+**Semantic Image Inpainting Through Improved Wasserstein Generative Adversarial Networks**  
+*Patricia Vitoria, Joan Sintes, Coloma Ballester*  
+[[paper](https://arxiv.org/abs/1812.01071)]  
+
 **Context-aware Synthesis and Placement of Object Instances (NeurIPS2018)**  
 [[paper](http://papers.nips.cc/paper/8240-context-aware-synthesis-and-placement-of-object-instances)]  
 

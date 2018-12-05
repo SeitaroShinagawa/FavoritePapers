@@ -1,3 +1,6 @@
+**Context-aware Synthesis and Placement of Object Instances (NeurIPS2018)**  
+[[paper](http://papers.nips.cc/paper/8240-context-aware-synthesis-and-placement-of-object-instances)]  
+
 **Turbo Learning for CaptionBot and DrawingBot (NeurIPS2018)**  
 [[paper](http://papers.nips.cc/paper/7881-turbo-learning-for-captionbot-and-drawingbot)]  
 

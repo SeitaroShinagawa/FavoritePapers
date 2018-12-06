@@ -1,3 +1,8 @@
+**On gradient regularizers for MMD GANs (NeurIPS2018)**  
+*Michael Arbel, Dougal J. Sutherland, Mikołaj Bińkowski, Arthur Gretton*  
+[[paper](https://arxiv.org/abs/1805.11565)]  
+[[code](https://github.com/MichaelArbel/Scaled-MMD-GAN)]  
+
 **Semantic Image Inpainting Through Improved Wasserstein Generative Adversarial Networks**  
 *Patricia Vitoria, Joan Sintes, Coloma Ballester*  
 [[paper](https://arxiv.org/abs/1812.01071)]  

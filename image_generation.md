@@ -1,3 +1,8 @@
+**Generating High Fidelity Images with Subscale Pixel Networks and Multidimensional Upscaling**  
+*Jacob Menick, Nal Kalchbrenner*  
+[[paper](https://arxiv.org/abs/1812.01608)]  
+[[qiita](https://qiita.com/cross32768/items/e54518a581c206b0aa69)]  
+
 **On gradient regularizers for MMD GANs (NeurIPS2018)**  
 *Michael Arbel, Dougal J. Sutherland, Mikołaj Bińkowski, Arthur Gretton*  
 [[paper](https://arxiv.org/abs/1805.11565)]  

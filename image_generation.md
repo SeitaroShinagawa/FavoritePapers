@@ -1,3 +1,7 @@
+**TGANv2: Efficient Training of Large Models for Video Generation with Multiple Subsampling Layers**  
+*Masaki Saito, Shunta Saito*  
+[[paper](https://arxiv.org/abs/1811.09245)]  
+
 **Generating High Fidelity Images with Subscale Pixel Networks and Multidimensional Upscaling**  
 *Jacob Menick, Nal Kalchbrenner*  
 [[paper](https://arxiv.org/abs/1812.01608)]  

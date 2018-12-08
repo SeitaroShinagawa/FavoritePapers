@@ -1,4 +1,7 @@
 # Awesome dataset  
+**Kuzusiji MNIST (KMNIST)**  
+[[link](http://codh.rois.ac.jp/kmnist/)]  
+
 **Largest multi-label image database**  
 [[link](https://github.com/Tencent/tencent-ml-images)]  
 

@@ -1,4 +1,8 @@
 # Awesome neural networks  
+**Compositional Attention Networks for Machine Reasoning (ICLR2018)**  
+*Drew A. Hudson, Christopher D. Manning*  
+[[paper](https://arxiv.org/abs/1803.03067)]  
+
 **Runtime Monitoring Neuron Activation Patterns**  
 *Chih-Hong Cheng, Georg Nührenberg, Hirotoshi Yasuoka*  
 [[paper](https://arxiv.org/abs/1809.06573)]  

@@ -1,3 +1,6 @@
+**Visual Object Networks: Image Generation with Disentangled 3D Representation (NeurIPS2018)**  
+[[paper](http://papers.nips.cc/paper/7297-visual-object-networks-image-generation-with-disentangled-3d-representations.pdf)]  
+
 **TGANv2: Efficient Training of Large Models for Video Generation with Multiple Subsampling Layers**  
 *Masaki Saito, Shunta Saito*  
 [[paper](https://arxiv.org/abs/1811.09245)]  

@@ -1,4 +1,8 @@
 # Works related to Dialog
+**Dialogue Generation: From Imitation Learning to Inverse Reinforcement Learning**  
+*Ziming Li, Julia Kiseleva, Maarten de Rijke*  
+[[paper](https://arxiv.org/abs/1812.03509)]  
+
 **Context-Aware Dialog Re-Ranking for Task-Oriented Dialog Systems (IEEE SLT)**  
 *Junki Ohmura, Maxine Eskenazi*  
 [[paper](https://arxiv.org/abs/1811.11430)]  

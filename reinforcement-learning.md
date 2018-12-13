@@ -1,4 +1,8 @@
 # Reinforcement learning  
+**Grasp2Vec: Learning Object Representations from Self-Supervised Grasping**  
+*Eric Jang, Coline Devin, Vincent Vanhoucke, Sergey Levine*  
+[[paper](https://arxiv.org/abs/1811.06964)]  
+
 **Visual Reinforcement Learning with Imagined Goals**  
 *Ashvin Nair, Vitchyr Pong, Murtaza Dalal, Shikhar Bahl, Steven Lin, Sergey Levine*  
 [[paper](https://arxiv.org/abs/1807.04742)]  

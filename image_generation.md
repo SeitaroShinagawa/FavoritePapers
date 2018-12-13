@@ -1,3 +1,7 @@
+**Chat-crowd: A Dialog-based Platform for Visual Layout Composition**  
+[[paper](http://arxiv.org/abs/1812.04081)]  
+to collect dataset  
+
 **SMIT: Stochastic Multi-Label Image-to-Image Translation**  
 *Andrés Romero, Pablo Arbeláez, Luc Van Gool, Radu Timofte*  
 [[paper](https://arxiv.org/abs/1812.03704v1)]  

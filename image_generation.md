@@ -1,3 +1,7 @@
+**A Style-Based Generator Architecture for Generative Adversarial Networks**  
+*Tero Karras, Samuli Laine, Timo Aila*  
+[[paper](https://arxiv.org/abs/1812.04948)]  
+
 **Chat-crowd: A Dialog-based Platform for Visual Layout Composition**  
 [[paper](http://arxiv.org/abs/1812.04081)]  
 to collect dataset  

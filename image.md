@@ -1,4 +1,9 @@
 # Image
+**Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation**  
+*Mohamed Omran, Christoph Lassner, Gerard Pons-Moll, Peter V. Gehler, Bernt Schiele*  
+[[paper](https://arxiv.org/abs/1808.05942)]  
+[[code](https://github.com/mohomran/neural_body_fitting)]  
+
 **Graph R-CNN for Scene Graph Generation (ECCV2018)**  
 *Jianwei Yang, Jiasen Lu, Stefan Lee, Dhruv Batra, Devi Parikh*  
 [[paper](https://arxiv.org/abs/1808.00191)]  

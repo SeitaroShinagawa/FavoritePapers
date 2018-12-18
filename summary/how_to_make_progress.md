@@ -69,9 +69,7 @@ ArXiv読み
 - [Partner of English Composition (PoEC-β)](http://www.cl.ecei.tohoku.ac.jp/poec/sentsearch/) (Phrase explorer in ACL anthology, Collocation check, Website)
 - [Common Mistakes and Tricky Choices](http://englishplus.com/grammar/mistcont.htm) (English check, for revision, Website)
 - [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/) (Phrase list for academic paper, for revision, Website)
-- [Wallwalk. English for Writing Research Papers (pdf) ](http://saba.kntu.ac.ir/eecd/ecourses/Seminar90/2011%20English%20for%20Writing%20Research%20Papers.pdf)](]( Phrase list, writing tips ](]( first draft, revise ](]( pdf ](](
-- [Practical English Usage 3rd edition (pdf)](https://andrianlalu.files.wordpress.com/2013/11/swan-practical-english-usage-3ed-1.pdf) (for revision, pdf)
-- [Practical English Usage -international student's edition- (pdf)](http://ielts-house.net/Ebook/Vocabulary/Practical%20English%20usage.pdf) (for revision, pdf)
+- [Wallwalk. English for Writing Research Papers (pdf) ](http://saba.kntu.ac.ir/eecd/ecourses/Seminar90/2011%20English%20for%20Writing%20Research%20Papers.pdf)](Phrase list, writing tips, first draft, revise)
 - [How to write a good CVPR submission (pdf)](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
 - [CALTECH RULES FOR WRITING PAPERS :HOW TO STRUCTURE YOUR PAPER AND WRITE AN INTRODUCTION](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2013/10/CALTECH.RUL_..pdf)
 - [Small Guide to Making Nice Tables](https://www.inf.ethz.ch/personal/markusp/teaching/guides/guide-tables.pdf)

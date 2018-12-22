@@ -1,3 +1,7 @@
+**Sequential Attention GAN for Interactive Image Editing via Dialogue**  
+*Yu Cheng, Zhe Gan, Yitong Li, Jingjing Liu, Jianfeng Gao*  
+[[paper](https://arxiv.org/abs/1812.08352)]  
+
 **Augmented Cyclic Adversarial Learning for Low Resource Domain Adaptation (ICLR2019)**  
 [[paper](https://openreview.net/forum?id=B1G9doA9F7)]  
 

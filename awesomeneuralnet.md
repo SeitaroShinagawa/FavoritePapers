@@ -1,4 +1,8 @@
 # Awesome neural networks  
+**Graph Neural Networks: A Review of Methods and Applications**  
+*Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun*  
+[[paper](https://arxiv.org/abs/1812.08434)]  
+
 **Compositional Attention Networks for Machine Reasoning (ICLR2018)**  
 *Drew A. Hudson, Christopher D. Manning*  
 [[paper](https://arxiv.org/abs/1803.03067)]  

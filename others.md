@@ -63,7 +63,8 @@ End-to-End speech processing toolkit (speech recognition)
 [[link](https://github.com/yu4u/convnet-drawer)]  
 
 **youtube downloader**  
-[link](https://github.com/rg3/youtube-dl)]  
+[[link](https://github.com/rg3/youtube-dl)]  
+[[pytube](https://github.com/nficano/pytube)]  
 
 **Hyper Collocation dictionary based on arXiv repository**  
 [[paper](https://hypcol.marutank.net/ja/)]  

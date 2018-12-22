@@ -1,3 +1,6 @@
+**IGNOR: Image-guided Neural Object Rendering**  
+[[project](http://niessnerlab.org/projects/thies2018ignor.html)]  
+
 **Sequential Attention GAN for Interactive Image Editing via Dialogue**  
 *Yu Cheng, Zhe Gan, Yitong Li, Jingjing Liu, Jianfeng Gao*  
 [[paper](https://arxiv.org/abs/1812.08352)]  

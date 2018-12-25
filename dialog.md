@@ -1,4 +1,8 @@
 # Works related to Dialog
+**Visual Dialogue without Vision or Dialogue (NeuIPS2018 workshop)**  
+*Daniela Massiceti, Puneet K. Dokania, N. Siddharth, Philip H.S. Torr*  
+[[paper](https://arxiv.org/abs/1812.06417)]  
+
 **Dialogue Generation: From Imitation Learning to Inverse Reinforcement Learning**  
 *Ziming Li, Julia Kiseleva, Maarten de Rijke*  
 [[paper](https://arxiv.org/abs/1812.03509)]  

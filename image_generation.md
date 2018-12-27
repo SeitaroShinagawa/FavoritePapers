@@ -1,3 +1,8 @@
+**Animating Arbitrary Objects via Deep Motion Transfer**  
+*Aliaksandr Siarohin, Stéphane Lathuilière, Sergey Tulyakov, Elisa Ricci, Nicu Sebe*  
+[[paper](https://arxiv.org/abs/1812.08861)]  
+[[code](https://github.com/AliaksandrSiarohin/monkey-net)]  
+
 **IGNOR: Image-guided Neural Object Rendering**  
 [[project](http://niessnerlab.org/projects/thies2018ignor.html)]  
 

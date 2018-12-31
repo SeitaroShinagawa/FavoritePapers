@@ -1,3 +1,7 @@
+**A Generative Model of People in Clothing**  
+*Christoph Lassner, Gerard Pons-Moll, Peter V. Gehler*  
+[[paper](https://arxiv.org/abs/1705.04098)]  
+
 **VITON: An Image-based Virtual Try-on Network**  
 *Xintong Han, Zuxuan Wu, Zhe Wu, Ruichi Yu, Larry S. Davis*  
 [[paper](https://arxiv.org/abs/1711.08447)]  

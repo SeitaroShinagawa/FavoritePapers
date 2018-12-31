@@ -1,3 +1,7 @@
+**VITON: An Image-based Virtual Try-on Network**  
+*Xintong Han, Zuxuan Wu, Zhe Wu, Ruichi Yu, Larry S. Davis*  
+[[paper](https://arxiv.org/abs/1711.08447)]  
+
 **Animating Arbitrary Objects via Deep Motion Transfer**  
 *Aliaksandr Siarohin, Stéphane Lathuilière, Sergey Tulyakov, Elisa Ricci, Nicu Sebe*  
 [[paper](https://arxiv.org/abs/1812.08861)]  

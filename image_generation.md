@@ -1,3 +1,7 @@
+**SiCloPe: Silhouette-Based Clothed People**  
+*Ryota Natsume, Shunsuke Saito, Zeng Huang, Weikai Chen, Chongyang Ma, Hao Li, Shigeo Morishima*  
+[[paper](https://arxiv.org/abs/1901.00049)]  
+
 **A Generative Model of People in Clothing**  
 *Christoph Lassner, Gerard Pons-Moll, Peter V. Gehler*  
 [[paper](https://arxiv.org/abs/1705.04098)]  

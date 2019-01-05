@@ -1,4 +1,8 @@
 # Awesome dataset  
+**CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions**  
+*Runtao Liu, Chenxi Liu, Yutong Bai, Alan Yuille*  
+[[paper](https://arxiv.org/abs/1901.00850)]  
+
 **Kuzusiji MNIST (KMNIST)**  
 [[link](http://codh.rois.ac.jp/kmnist/)]  
 

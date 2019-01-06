@@ -1,3 +1,7 @@
+**A Comprehensive Survey on Graph Neural Networks**  
+*Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu*  
+[[paper](https://arxiv.org/abs/1901.00596)]  
+
 **Anomaly detection tutorial (ICDM018 tutorial)**  
 [[link](https://federation.edu.au/__data/assets/pdf_file/0011/443666/ICDM2018-Tutorial-Final.pdf)]  
 

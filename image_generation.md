@@ -1,3 +1,8 @@
+**EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning**  
+*Kamyar Nazeri, Eric Ng, Tony Joseph, Faisal Qureshi, Mehran Ebrahimi*  
+[[paper](https://arxiv.org/abs/1901.00212)]  
+[[code](https://github.com/knazeri/edge-connect)]  
+
 **SiCloPe: Silhouette-Based Clothed People**  
 *Ryota Natsume, Shunsuke Saito, Zeng Huang, Weikai Chen, Chongyang Ma, Hao Li, Shigeo Morishima*  
 [[paper](https://arxiv.org/abs/1901.00049)]  

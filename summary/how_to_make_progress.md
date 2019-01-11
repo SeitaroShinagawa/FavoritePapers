@@ -101,4 +101,5 @@ ArXiv読み
 ## その他<a name="others"></a>
 
 - [公開されている学振・科研費申請書(採択・不採択)](https://xn--w8yz0bc56a.com/proven-proposal/)
-
+- [博士論文執筆の際にお願いしたいこと](https://member.ipmu.jp/yuji.tachikawa/misc/dron.html)  
+ 

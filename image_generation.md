@@ -1,3 +1,7 @@
+**Using Scene Graph Context to Improve Image Generation**  
+*Subarna Tripathi, Anahita Bhiwandiwalla, Alexei Bastidas, Hanlin Tang*  
+[[paper](https://arxiv.org/abs/1901.03762)]  
+
 **EdgeConnect: Generative Image Inpainting with Adversarial Edge Learning**  
 *Kamyar Nazeri, Eric Ng, Tony Joseph, Faisal Qureshi, Mehran Ebrahimi*  
 [[paper](https://arxiv.org/abs/1901.00212)]  

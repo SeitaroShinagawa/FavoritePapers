@@ -1,4 +1,9 @@
 # Works related to Dialog
+
+**Learning from Dialogue after Deployment: Feed Yourself, Chatbot!**  
+*Braden Hancock, Antoine Bordes, Pierre-Emmanuel Mazare, Jason Weston*  
+[[paper](https://arxiv.org/abs/1901.05415)]  
+
 **Visual Dialogue without Vision or Dialogue (NeuIPS2018 workshop)**  
 *Daniela Massiceti, Puneet K. Dokania, N. Siddharth, Philip H.S. Torr*  
 [[paper](https://arxiv.org/abs/1812.06417)]  

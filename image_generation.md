@@ -1,3 +1,6 @@
+**Photo-Sketching: Inferring Contour Drawings from Images**  
+[[project](http://www.cs.cmu.edu/~mengtial/proj/sketch/)]  
+
 **Using Scene Graph Context to Improve Image Generation**  
 *Subarna Tripathi, Anahita Bhiwandiwalla, Alexei Bastidas, Hanlin Tang*  
 [[paper](https://arxiv.org/abs/1901.03762)]  

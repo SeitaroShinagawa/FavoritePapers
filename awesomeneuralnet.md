@@ -1,4 +1,8 @@
 # Awesome neural networks  
+**Hierarchical Representations with Poincaré Variational Auto-Encoders**  
+*Emile Mathieu, Charline Le Lan, Chris J. Maddison, Ryota Tomioka, Yee Whye Teh*  
+[[paper](https://arxiv.org/abs/1901.06033)]  
+
 **Graph Neural Networks: A Review of Methods and Applications**  
 *Jie Zhou, Ganqu Cui, Zhengyan Zhang, Cheng Yang, Zhiyuan Liu, Maosong Sun*  
 [[paper](https://arxiv.org/abs/1812.08434)]  

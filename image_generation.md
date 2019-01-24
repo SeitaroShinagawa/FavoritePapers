@@ -1,3 +1,7 @@
+**Spatial Broadcast Decoder: A Simple Architecture for Learning Disentangled Representations in VAEs**  
+*Nicholas Watters, Loic Matthey, Christopher P. Burgess, Alexander Lerchner*  
+[[paper](https://arxiv.org/abs/1901.07017)]  
+
 **Photo-Sketching: Inferring Contour Drawings from Images**  
 [[project](http://www.cs.cmu.edu/~mengtial/proj/sketch/)]  
 

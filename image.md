@@ -1,4 +1,8 @@
 # Image
+**Solving Archaeological Puzzles**  
+*Niv Derech, Ayellet Tal, Ilan Shimshoni*  
+[[paper](https://arxiv.org/abs/1812.10553)]  
+
 **Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation**  
 *Mohamed Omran, Christoph Lassner, Gerard Pons-Moll, Peter V. Gehler, Bernt Schiele*  
 [[paper](https://arxiv.org/abs/1808.05942)]  

@@ -1,4 +1,8 @@
 # Natural Language Processing  
+**Inferring Concept Hierarchies from Text Corpora via Hyperbolic Embeddings**  
+*Matt Le, Stephen Roller, Laetitia Papaxanthos, Douwe Kiela, Maximilian Nickel*  
+[[paper](https://arxiv.org/abs/1902.00913)]  
+
 **Adversarial Text Generation via Feature-Mover's Distance (NIPS2018)**  
 [[paper](https://arxiv.org/abs/1809.06297)]  
 

@@ -7,6 +7,7 @@
 - [論文の書き方](#write)  
 - [プレゼンの仕方](#presentation)  
 - [実験コードの管理](#code) 
+- [金言](#advice)
 - [その他](#others)
 
 ## 論文の読み方<a name="read"></a>
@@ -97,6 +98,10 @@ ArXiv読み
 - [研究者流コーディングの極意(言語処理学会2013チュートリアル)](http://www.chokkan.org/publication/coding-for-researchers.pdf)  
 - [忙しい研究者のためのテストコードとドキュメントの書き方](https://qiita.com/NaokiHamada/items/0689cd85fb3e1adcda1a)  
 - [Writing Code for NLP Research (EMNLP2018 tutorial)](https://docs.google.com/presentation/d/17NoJY2SnC2UMbVegaRCWA7Oca7UCZ3vHnMqBV4SUayc/edit#slide=id.p)  
+
+## 金言<a name="advice"></a>
+
+- [10 easy ways to fail a Ph.D.](http://matt.might.net/articles/ways-to-fail-a-phd/)
 
 ## その他<a name="others"></a>
 

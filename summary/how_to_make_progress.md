@@ -56,7 +56,7 @@ ArXiv読み
 - [査読のやり方、査読レポートの書き方](http://scienceandtechnology.jp/archives/12812)
 (執筆先行型（事前執筆型）：サーベイ→研究→論文作成ではなく、サーベイ→論文作成→研究の順で研究を進める方法。詳しくは[[国際会議論文の読み方・書き方 ](http://phontron.com/slides/neubig15nlptutorial.pdf)を参照)
 - [数式の読み方、大学で学ぶ数式(英文付き)](http://www.comp.tmu.ac.jp/yosihiro/teaching/how-to-read.pdf)
-- [論文の書き方術（番外編）～査読報告書の書き方，条件付き採録時の回答文の書き方～](http://www.ieice.org/~cs-edit/magazine/hp/kakikata/kaitou.pdf)
+- [論文の書き方術（番外編）～査読報告書の書き方，条件付き採録時の回答文の書き方～](http://www.ieice.org/~cs-edit/magazine/hp/kakikata/kaitou.pdf)  
  
 #### チェックリスト
 - [論文執筆のためのチェックリスト(pdf)](http://kanamori.cs.tsukuba.ac.jp/docs/writing_paper_checklist.pdf)
@@ -80,6 +80,7 @@ ArXiv読み
 ](http://s3-service-broker-live-19ea8b98-4d41-4cb4-be4c-d68f4963b7dd.s3.amazonaws.com/uploads/ckeditor/attachments/7808/2c_Summary_para.pdf)  
 - [Crafting a CHI Rebuttal](http://benjgorman.com/writing-chi-rebuttals/)  
 - [How to Write Good Reviews for CVPR](https://www.dropbox.com/s/725p60wcajbb8xh/How%20to%20Review%20for%20CVPR.pptx?dl=0#)  
+- [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
 
 ## プレゼンの仕方<a name="presentation"></a>
 

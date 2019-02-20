@@ -1,3 +1,7 @@
+**SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color**  
+*Youngjoo Jo, Jongyoul Park*  
+[[paper](https://arxiv.org/abs/1902.06838)]  
+
 **Spatial Broadcast Decoder: A Simple Architecture for Learning Disentangled Representations in VAEs**  
 *Nicholas Watters, Loic Matthey, Christopher P. Burgess, Alexander Lerchner*  
 [[paper](https://arxiv.org/abs/1901.07017)]  

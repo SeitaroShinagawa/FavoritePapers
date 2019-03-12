@@ -1,3 +1,7 @@
+**Stroke-based Artistic Rendering Agent with Deep Reinforcement Learning**  
+*Zhewei Huang, Wen Heng, Shuchang Zhou*  
+[[paper](https://arxiv.org/abs/1903.04411v1)]  
+
 **SC-FEGAN: Face Editing Generative Adversarial Network with User's Sketch and Color**  
 *Youngjoo Jo, Jongyoul Park*  
 [[paper](https://arxiv.org/abs/1902.06838)]  

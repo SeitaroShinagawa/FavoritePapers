@@ -1,4 +1,8 @@
 # Awesome neural networks  
+**Domain Adaptation with Asymmetrically-Relaxed Distribution Alignment**  
+*Yifan Wu, Ezra Winston, Divyansh Kaushik, Zachary Lipton*  
+[[paper](https://arxiv.org/abs/1903.01689)]  
+
 **Hierarchical Representations with Poincaré Variational Auto-Encoders**  
 *Emile Mathieu, Charline Le Lan, Chris J. Maddison, Ryota Tomioka, Yee Whye Teh*  
 [[paper](https://arxiv.org/abs/1901.06033)]  

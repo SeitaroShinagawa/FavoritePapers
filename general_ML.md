@@ -1,3 +1,7 @@
+**A Theoretical Analysis of Contrastive Unsupervised Representation Learning**  
+*Sanjeev Arora, Hrishikesh Khandeparkar, Mikhail Khodak, Orestis Plevrakis, Nikunj Saunshi*  
+[[paper](https://arxiv.org/abs/1902.09229)]  
+
 **A Comprehensive Survey on Graph Neural Networks**  
 *Zonghan Wu, Shirui Pan, Fengwen Chen, Guodong Long, Chengqi Zhang, Philip S. Yu*  
 [[paper](https://arxiv.org/abs/1901.00596)]  

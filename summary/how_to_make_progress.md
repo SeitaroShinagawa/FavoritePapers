@@ -101,9 +101,10 @@ ArXiv読み
 - [忙しい研究者のためのテストコードとドキュメントの書き方](https://qiita.com/NaokiHamada/items/0689cd85fb3e1adcda1a)  
 - [Writing Code for NLP Research (EMNLP2018 tutorial)](https://docs.google.com/presentation/d/17NoJY2SnC2UMbVegaRCWA7Oca7UCZ3vHnMqBV4SUayc/edit#slide=id.p)  
 
-## 金言<a name="advice"></a>
+## 金言・心構え<a name="advice"></a>
 
-- [10 easy ways to fail a Ph.D.](http://matt.might.net/articles/ways-to-fail-a-phd/)
+- [10 easy ways to fail a Ph.D.](http://matt.might.net/articles/ways-to-fail-a-phd/)  
+- [楽しい研究のために今からできること 〜新しく研究を始める皆さんへ〜](https://www.slideshare.net/RyosukeAraki/ss-136687597) (研究の心構えと研究効率化のTips)  
 
 ## その他<a name="others"></a>
 

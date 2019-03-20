@@ -1,3 +1,7 @@
+**Bilinear Representation for Language-based Image Editing Using Conditional Generative Adversarial Networks (ICASSP2019)**  
+*Xiaofeng Mao, Yuefeng Chen, Yuhong Li, Tao Xiong, Yuan He, Hui Xue*  
+[[paper](https://arxiv.org/abs/1903.07499v1)]  
+
 **Semantic Image Synthesis with Spatially-Adaptive Normalization (CVPR2019 oral)**  
 *Taesung Park, Ming-Yu Liu, Ting-Chun Wang, Jun-Yan Zhu*  
 [[paper](https://arxiv.org/abs/1903.07291)]  

@@ -2,7 +2,7 @@
 *Taesung Park, Ming-Yu Liu, Ting-Chun Wang, Jun-Yan Zhu*  
 [[paper](https://arxiv.org/abs/1903.07291)]  
 [[code](https://github.com/NVlabs/SPADE)]  
-[[project(https://nvlabs.github.io/SPADE/)]  
+[[project](https://nvlabs.github.io/SPADE/)]  
 
 **Stroke-based Artistic Rendering Agent with Deep Reinforcement Learning**  
 *Zhewei Huang, Wen Heng, Shuchang Zhou*  

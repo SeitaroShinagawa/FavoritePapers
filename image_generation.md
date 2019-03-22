@@ -1,3 +1,8 @@
+**Implicit Generation and Generalization with Energy Based Models**  
+*Yilun Du,  Igor Mordatch*  
+[[project](https://sites.google.com/view/igebm)]  
+[[paper](https://s3-us-west-2.amazonaws.com/openai-assets/energy-based-models/ebm_final.pdf)]  
+
 **Bilinear Representation for Language-based Image Editing Using Conditional Generative Adversarial Networks (ICASSP2019)**  
 *Xiaofeng Mao, Yuefeng Chen, Yuhong Li, Tao Xiong, Yuan He, Hui Xue*  
 [[paper](https://arxiv.org/abs/1903.07499v1)]  

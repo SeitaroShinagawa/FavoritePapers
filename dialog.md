@@ -1,5 +1,10 @@
 # Works related to Dialog
 
+**Learning to Caption Images through a Lifetime by Asking Questions**  
+*Kevin Shen, Amlan Kar, Sanja Fidler*  
+[[paper](https://arxiv.org/abs/1812.00235)]  
+
+
 **Learning from Dialogue after Deployment: Feed Yourself, Chatbot!**  
 *Braden Hancock, Antoine Bordes, Pierre-Emmanuel Mazare, Jason Weston*  
 [[paper](https://arxiv.org/abs/1901.05415)]  

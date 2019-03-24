@@ -83,6 +83,7 @@ ArXiv読み
 - [How to Write Good Reviews for CVPR](https://www.dropbox.com/s/725p60wcajbb8xh/How%20to%20Review%20for%20CVPR.pptx?dl=0#)  
 - [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)  
 - [How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)  
+- [SPC reviewing for IJCAI 2019: FAQ](http://u.cs.biu.ac.il/~sarit/IJCAI2019/FAQ-SPC.html)  
 
 ## プレゼンの仕方<a name="presentation"></a>
 

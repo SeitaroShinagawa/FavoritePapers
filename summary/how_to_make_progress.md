@@ -81,7 +81,8 @@ ArXiv読み
 ](http://s3-service-broker-live-19ea8b98-4d41-4cb4-be4c-d68f4963b7dd.s3.amazonaws.com/uploads/ckeditor/attachments/7808/2c_Summary_para.pdf)  
 - [Crafting a CHI Rebuttal](http://benjgorman.com/writing-chi-rebuttals/)  
 - [How to Write Good Reviews for CVPR](https://www.dropbox.com/s/725p60wcajbb8xh/How%20to%20Review%20for%20CVPR.pptx?dl=0#)  
-- [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)
+- [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)  
+- [How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)  
 
 ## プレゼンの仕方<a name="presentation"></a>
 

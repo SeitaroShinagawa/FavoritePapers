@@ -1,3 +1,7 @@
+**Tell, Draw, and Repeat: Generating and modifying images based on continual linguistic instruction**  
+*Alaaeldin El-Nouby, Shikhar Sharma, Hannes Schulz, Devon Hjelm, Layla El Asri, Samira Ebrahimi Kahou, Yoshua Bengio, Graham W.Taylor*  
+[[paper](https://arxiv.org/abs/1811.09845v2)]  
+
 **Implicit Generation and Generalization with Energy Based Models**  
 *Yilun Du,  Igor Mordatch*  
 [[project](https://sites.google.com/view/igebm)]  

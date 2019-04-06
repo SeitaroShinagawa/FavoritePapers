@@ -1,3 +1,7 @@
+**HYPE: Human eYe Perceptual Evaluation of Generative Models**  
+*Sharon Zhou, Mitchell Gordon, Ranjay Krishna, Austin Narcomey, Durim Morina, Michael S. Bernstein*  
+[[paepr](https://arxiv.org/abs/1904.01121)]  
+
 **Tell, Draw, and Repeat: Generating and modifying images based on continual linguistic instruction**  
 *Alaaeldin El-Nouby, Shikhar Sharma, Hannes Schulz, Devon Hjelm, Layla El Asri, Samira Ebrahimi Kahou, Yoshua Bengio, Graham W.Taylor*  
 [[paper](https://arxiv.org/abs/1811.09845v2)]  

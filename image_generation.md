@@ -1,3 +1,7 @@
+**A Learned Representation for Scalable Vector Graphics**  
+*Raphael Gontijo Lopes, David Ha, Douglas Eck, Jonathon Shlens*  
+[[paper](https://arxiv.org/abs/1904.02632)]  
+
 **HYPE: Human eYe Perceptual Evaluation of Generative Models**  
 *Sharon Zhou, Mitchell Gordon, Ranjay Krishna, Austin Narcomey, Durim Morina, Michael S. Bernstein*  
 [[paepr](https://arxiv.org/abs/1904.01121)]  

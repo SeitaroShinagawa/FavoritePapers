@@ -1,5 +1,9 @@
 # Works related to Dialog
 
+**How should my chatbot interact? A survey on human-chatbot interaction design**  
+*Ana Paula Chaves, Marco Aurelio Gerosa*  
+[[paper](https://arxiv.org/abs/1904.02743)]  
+
 **Learning to Caption Images through a Lifetime by Asking Questions**  
 *Kevin Shen, Amlan Kar, Sanja Fidler*  
 [[paper](https://arxiv.org/abs/1812.00235)]  

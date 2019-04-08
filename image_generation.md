@@ -1,3 +1,8 @@
+**Learning Hierarchical Semantic Image Manipulation through Structured Representations**  
+*Seunghoon Hong, Xinchen Yan, Thomas Huang, Honglak Lee*  
+[[paper](https://arxiv.org/abs/1808.07535)]  
+[[pytorch](https://github.com/xcyan/neurips18_hierchical_image_manipulation)]  
+
 **A Learned Representation for Scalable Vector Graphics**  
 *Raphael Gontijo Lopes, David Ha, Douglas Eck, Jonathon Shlens*  
 [[paper](https://arxiv.org/abs/1904.02632)]  

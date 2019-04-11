@@ -1,3 +1,7 @@
+**Predicting Novel Views Using Generative Adversarial Query Network (Scandinavian Conference on Image Analysis 2019)**  
+*Phong Nguyen-Ha, Lam Huynh, Esa Rahtu, Janne Heikkila*  
+[[paper](https://arxiv.org/abs/1904.05124)]  
+
 **Learning Hierarchical Semantic Image Manipulation through Structured Representations**  
 *Seunghoon Hong, Xinchen Yan, Thomas Huang, Honglak Lee*  
 [[paper](https://arxiv.org/abs/1808.07535)]  

@@ -1,4 +1,9 @@
 # Multimodal 
+
+**Unified Visual-Semantic Embeddings: Bridging Vision and Language with Structured Meaning Representations (CVPR2019)**  
+*Hao Wu, Jiayuan Mao, Yufeng Zhang, Yuning Jiang, Lei Li, Weiwei Sun, Wei-Ying Ma*  
+[[paper](https://arxiv.org/abs/1904.05521)]  
+
 **Prospection: Interpretable Plans From Language By Predicting the Future (ICRA2019)**  
 *Chris Paxton, Yonatan Bisk, Jesse Thomason, Arunkumar Byravan, Dieter Fox*  
 [[paper](https://arxiv.org/abs/1903.08309)]  

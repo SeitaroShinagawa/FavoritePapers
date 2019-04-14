@@ -1,4 +1,7 @@
 # Image
+**Semantic Soft Segmentation (SIGGRAPH2018)**  
+[[project](http://people.inf.ethz.ch/aksoyy/sss/)]  
+
 **Im2Flow: Motion Hallucination from Static Images for Action Recognition (CVPR2018)**  
 *Ruohan Gao, Bo Xiong, Kristen Grauman*  
 [[paper](https://arxiv.org/abs/1712.04109)]  

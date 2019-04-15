@@ -1,3 +1,7 @@
+**DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis (CVPR2019)**  
+*Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang*  
+[[paper](https://arxiv.org/abs/1904.01310)]  
+
 **Predicting Novel Views Using Generative Adversarial Query Network (Scandinavian Conference on Image Analysis 2019)**  
 *Phong Nguyen-Ha, Lam Huynh, Esa Rahtu, Janne Heikkila*  
 [[paper](https://arxiv.org/abs/1904.05124)]  

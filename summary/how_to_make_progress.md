@@ -103,6 +103,7 @@ ArXiv読み
 - [研究者流コーディングの極意(言語処理学会2013チュートリアル)](http://www.chokkan.org/publication/coding-for-researchers.pdf)  
 - [忙しい研究者のためのテストコードとドキュメントの書き方](https://qiita.com/NaokiHamada/items/0689cd85fb3e1adcda1a)  
 - [Writing Code for NLP Research (EMNLP2018 tutorial)](https://docs.google.com/presentation/d/17NoJY2SnC2UMbVegaRCWA7Oca7UCZ3vHnMqBV4SUayc/edit#slide=id.p)  
+- [プログラミングの変数・メソッドの命名でよく使う英単語を整理（備忘）](https://arakan-pgm-ai.hatenablog.com/entry/2019/04/15/000000)
 
 ## 金言・心構え<a name="advice"></a>
 

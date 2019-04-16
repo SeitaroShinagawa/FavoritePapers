@@ -1,3 +1,7 @@
+**Video Generation from Single Semantic Label Map (CVPR2019)**  
+*Junting Pan, Chengyu Wang, Xu Jia, Jing Shao, Lu Sheng, Junjie Yan, Xiaogang Wang*  
+[[paper](https://arxiv.org/abs/1903.04480)]  
+
 **DM-GAN: Dynamic Memory Generative Adversarial Networks for Text-to-Image Synthesis (CVPR2019)**  
 *Minfeng Zhu, Pingbo Pan, Wei Chen, Yi Yang*  
 [[paper](https://arxiv.org/abs/1904.01310)]  

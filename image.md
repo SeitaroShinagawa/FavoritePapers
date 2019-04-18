@@ -1,4 +1,8 @@
 # Image
+**Objects as Points**  
+*Xingyi Zhou, Dequan Wang, Philipp Krähenbühl*  
+[[paper](https://arxiv.org/abs/1904.07850)]  
+
 **Semantic Soft Segmentation (SIGGRAPH2018)**  
 [[project](http://people.inf.ethz.ch/aksoyy/sss/)]  
 

@@ -1,3 +1,7 @@
+**Temporal Cycle-Consistency Learning**  
+*Debidatta Dwibedi, Yusuf Aytar, Jonathan Tompson, Pierre Sermanet, Andrew Zisserman*  
+[[project](https://sites.google.com/view/temporal-cycle-consistency/)]  
+
 **Video Generation from Single Semantic Label Map (CVPR2019)**  
 *Junting Pan, Chengyu Wang, Xu Jia, Jing Shao, Lu Sheng, Junjie Yan, Xiaogang Wang*  
 [[paper](https://arxiv.org/abs/1903.04480)]  

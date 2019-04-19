@@ -1,3 +1,8 @@
+**Adversarial Learning of Disentangled and Generalizable Representations for Visual Attributes**  
+*James Oldfield, Yannis Panagakis, Mihalis A. Nicolaou*  
+[[paper](https://arxiv.org/abs/1904.04772)]   
+[[code](https://github.com/james-oldfield/adv-attribute-disentanglement)]  
+
 **Temporal Cycle-Consistency Learning**  
 *Debidatta Dwibedi, Yusuf Aytar, Jonathan Tompson, Pierre Sermanet, Andrew Zisserman*  
 [[project](https://sites.google.com/view/temporal-cycle-consistency/)]  

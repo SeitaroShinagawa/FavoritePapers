@@ -1,3 +1,7 @@
+**Learning to Generate Synthetic Data via Compositing (CVPR2019 spotlight)**  
+*Shashank Tripathi, Siddhartha Chandra, Amit Agrawal, Ambrish Tyagi, James M. Rehg, Visesh Chari*  
+[[paper](https://arxiv.org/abs/1904.05475)]  
+
 **Adversarial Learning of Disentangled and Generalizable Representations for Visual Attributes**  
 *James Oldfield, Yannis Panagakis, Mihalis A. Nicolaou*  
 [[paper](https://arxiv.org/abs/1904.04772)]   

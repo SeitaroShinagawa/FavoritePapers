@@ -1,4 +1,4 @@
-**Learning to Generate Synthetic Data via Compositing (CVPR2019 spotlight)**  
+**Learning to Generate Synthetic Data via Compositing (CVPR2019)**  
 *Shashank Tripathi, Siddhartha Chandra, Amit Agrawal, Ambrish Tyagi, James M. Rehg, Visesh Chari*  
 [[paper](https://arxiv.org/abs/1904.05475)]  
 

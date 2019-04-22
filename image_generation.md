@@ -1,3 +1,7 @@
+**Neural Painters: A learned differentiable constraint for generating brushstroke paintings**  
+*Reiichiro Nakano*  
+[[paper](https://arxiv.org/abs/1904.08410)]  
+
 **Fashion++: Minimal Edits for Outfit Improvement**  
 *Wei-Lin Hsiao, Isay Katsman, Chao-Yuan Wu, Devi Parikh, Kristen Grauman*  
 [[paper](https://arxiv.org/abs/1904.09261)]  

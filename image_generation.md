@@ -1,3 +1,7 @@
+**STGAN: A Unified Selective Transfer Network for Arbitrary Image Attribute Editing**  
+*Ming Liu, Yukang Ding, Min Xia, Xiao Liu, Errui Ding, Wangmeng Zuo, Shilei Wen*  
+[[paper](https://arxiv.org/abs/1904.09709)]  
+
 **Neural Painters: A learned differentiable constraint for generating brushstroke paintings**  
 *Reiichiro Nakano*  
 [[paper](https://arxiv.org/abs/1904.08410)]  

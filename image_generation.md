@@ -1,3 +1,7 @@
+**Improved Precision and Recall Metric for Assessing Generative Models**  
+*Tuomas Kynkäänniemi, Tero Karras, Samuli Laine, Jaakko Lehtinen, Timo Aila*  
+[[paper](https://arxiv.org/abs/1904.06991)]  
+
 **Image Generation from Small Datasets via Batch Statistics Adaptation**  
 *Atsuhiro Noguchi, Tatsuya Harada*  
 [[paper](https://arxiv.org/abs/1904.01774)]  

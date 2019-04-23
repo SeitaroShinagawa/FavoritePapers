@@ -1,3 +1,7 @@
+**Image Generation from Small Datasets via Batch Statistics Adaptation**  
+*Atsuhiro Noguchi, Tatsuya Harada*  
+[[paper](https://arxiv.org/abs/1904.01774)]  
+
 **STGAN: A Unified Selective Transfer Network for Arbitrary Image Attribute Editing**  
 *Ming Liu, Yukang Ding, Min Xia, Xiao Liu, Errui Ding, Wangmeng Zuo, Shilei Wen*  
 [[paper](https://arxiv.org/abs/1904.09709)]  

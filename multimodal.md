@@ -1,5 +1,9 @@
 # Multimodal 
 
+**Talking Face Generation by Adversarially Disentangled Audio-Visual Representation (AAAI2019 oral)**  
+*Hang Zhou, Yu Liu, Ziwei Liu, Ping Luo, Xiaogang Wang*  
+[[paper](https://arxiv.org/abs/1807.07860)]  
+
 **Unified Visual-Semantic Embeddings: Bridging Vision and Language with Structured Meaning Representations (CVPR2019)**  
 *Hao Wu, Jiayuan Mao, Yufeng Zhang, Yuning Jiang, Lei Li, Weiwei Sun, Wei-Ying Ma*  
 [[paper](https://arxiv.org/abs/1904.05521)]  

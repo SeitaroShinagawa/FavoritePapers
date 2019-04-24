@@ -1,3 +1,7 @@
+**Unsupervised Image-to-Image Translation with Self-Attention Networks**  
+*Taewon Kang, Kwang Hee Lee*  
+[[paper](https://arxiv.org/abs/1901.08242)]  
+
 **Improved Precision and Recall Metric for Assessing Generative Models**  
 *Tuomas Kynkäänniemi, Tero Karras, Samuli Laine, Jaakko Lehtinen, Timo Aila*  
 [[paper](https://arxiv.org/abs/1904.06991)]  

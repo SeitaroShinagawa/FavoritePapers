@@ -1,3 +1,7 @@
+**HoloGAN: Unsupervised learning of 3D representations from natural images**  
+*Thu Nguyen-Phuoc, Chuan Li, Lucas Theis, Christian Richardt, Yong-Liang Yang*  
+[[paper](https://arxiv.org/abs/1904.01326)]  
+
 **Unsupervised Image-to-Image Translation with Self-Attention Networks**  
 *Taewon Kang, Kwang Hee Lee*  
 [[paper](https://arxiv.org/abs/1901.08242)]  

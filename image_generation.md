@@ -1,3 +1,6 @@
+**Generating Long Sequences with Sparse Transformers**  
+[[paper](https://d4mucfpksywv.cloudfront.net/Sparse_Transformer/sparse_transformers.pdf)]  
+
 **HoloGAN: Unsupervised learning of 3D representations from natural images**  
 *Thu Nguyen-Phuoc, Chuan Li, Lucas Theis, Christian Richardt, Yong-Liang Yang*  
 [[paper](https://arxiv.org/abs/1904.01326)]  

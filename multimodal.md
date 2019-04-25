@@ -1,5 +1,13 @@
 # Multimodal 
 
+**End-to-End Learning Using Cycle Consistency for Image-to-Caption Transformations**  
+*Keisuke Hagiwara, Yusuke Mukuta, Tatsuya Harada*  
+[[paper](https://arxiv.org/abs/1903.10118)]  
+
+**Text-to-Image-to-Text Translation using Cycle Consistent Adversarial Networks**  
+*Satya Krishna Gorti, Jeremy Ma*  
+[[paper](https://arxiv.org/abs/1808.04538)]  
+
 **Talking Face Generation by Adversarially Disentangled Audio-Visual Representation (AAAI2019 oral)**  
 *Hang Zhou, Yu Liu, Ziwei Liu, Ping Luo, Xiaogang Wang*  
 [[paper](https://arxiv.org/abs/1807.07860)]  

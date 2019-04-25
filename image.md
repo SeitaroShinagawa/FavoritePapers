@@ -1,5 +1,9 @@
 # Image  
 
+**Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis (CVPR2019)**  
+*Qi Mao, Hsin-Ying Lee, Hung-Yu Tseng, Siwei Ma, Ming-Hsuan Yang*  
+[[paper](https://arxiv.org/abs/1903.05628)]  
+
 **Unsupervised Part-Based Disentangling of Object Shape and Appearance (CVPR2019 oral)**  
 *Dominik Lorenz, Leonard Bereska, Timo Milbich, Björn Ommer*  
 [[paper](https://arxiv.org/abs/1903.06946)]  

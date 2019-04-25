@@ -1,3 +1,8 @@
+**Learning to Paint with Model-based Deep Reinforcement Learning**  
+*Zhewei Huang, Wen Heng, Shuchang Zhou*  
+[[paper](https://arxiv.org/abs/1903.04411)]  
+[[code](https://github.com/hzwer/LearningToPaint)]  
+
 **Compatible and Diverse Fashion Image Inpainting**  
 *Xintong Han, Zuxuan Wu, Weilin Huang, Matthew R. Scott, Larry S. Davis*  
 [[paper](https://arxiv.org/abs/1902.01096)]  

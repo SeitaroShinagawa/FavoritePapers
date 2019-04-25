@@ -1,4 +1,8 @@
 # Image  
+
+**Detailed Human Shape Estimation from a Single Image by Hierarchical Mesh Deformation**  
+*Hao Zhu, Xinxin Zuo, Sen Wang, Xun Cao, Ruigang Yang*  
+[[paper](https://arxiv.org/abs/1904.10506)]  
  
 **Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN**  
 *Ya-Liang Chang, Zhe Yu Liu, Winston Hsu*  

@@ -1,3 +1,7 @@
+**Neural Collaborative Subspace Clustering (ICML2019)**  
+*Tong Zhang, Pan Ji, Mehrtash Harandi, Wenbing Huang, Hongdong Li*  
+[[paper](https://arxiv.org/abs/1904.10596)]  
+
 **A Theoretical Analysis of Contrastive Unsupervised Representation Learning**  
 *Sanjeev Arora, Hrishikesh Khandeparkar, Mikhail Khodak, Orestis Plevrakis, Nikunj Saunshi*  
 [[paper](https://arxiv.org/abs/1902.09229)]  

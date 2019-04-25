@@ -1,3 +1,7 @@
+**Compatible and Diverse Fashion Image Inpainting**  
+*Xintong Han, Zuxuan Wu, Weilin Huang, Matthew R. Scott, Larry S. Davis*  
+[[paper](https://arxiv.org/abs/1902.01096)]  
+
 **Generating Long Sequences with Sparse Transformers**  
 [[paper](https://d4mucfpksywv.cloudfront.net/Sparse_Transformer/sparse_transformers.pdf)]  
 

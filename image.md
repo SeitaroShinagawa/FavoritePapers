@@ -1,5 +1,9 @@
 # Image  
 
+**Unsupervised Part-Based Disentangling of Object Shape and Appearance (CVPR2019 oral)**  
+*Dominik Lorenz, Leonard Bereska, Timo Milbich, Björn Ommer*  
+[[paper](https://arxiv.org/abs/1903.06946)]  
+
 **Detailed Human Shape Estimation from a Single Image by Hierarchical Mesh Deformation**  
 *Hao Zhu, Xinxin Zuo, Sen Wang, Xun Cao, Ruigang Yang*  
 [[paper](https://arxiv.org/abs/1904.10506)]  

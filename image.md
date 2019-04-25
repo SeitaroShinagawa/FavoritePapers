@@ -1,21 +1,9 @@
 # Image  
 
-**Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis (CVPR2019)**  
-*Qi Mao, Hsin-Ying Lee, Hung-Yu Tseng, Siwei Ma, Ming-Hsuan Yang*  
-[[paper](https://arxiv.org/abs/1903.05628)]  
-
-**Unsupervised Part-Based Disentangling of Object Shape and Appearance (CVPR2019 oral)**  
-*Dominik Lorenz, Leonard Bereska, Timo Milbich, Björn Ommer*  
-[[paper](https://arxiv.org/abs/1903.06946)]  
-
 **Detailed Human Shape Estimation from a Single Image by Hierarchical Mesh Deformation**  
 *Hao Zhu, Xinxin Zuo, Sen Wang, Xun Cao, Ruigang Yang*  
 [[paper](https://arxiv.org/abs/1904.10506)]  
  
-**Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN**  
-*Ya-Liang Chang, Zhe Yu Liu, Winston Hsu*  
-[[paper](https://arxiv.org/abs/1904.10247)]  
-
 **Objects as Points**  
 *Xingyi Zhou, Dequan Wang, Philipp Krähenbühl*  
 [[paper](https://arxiv.org/abs/1904.07850)]  

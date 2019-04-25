@@ -1,3 +1,15 @@
+**Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis (CVPR2019)**  
+*Qi Mao, Hsin-Ying Lee, Hung-Yu Tseng, Siwei Ma, Ming-Hsuan Yang*  
+[[paper](https://arxiv.org/abs/1903.05628)]  
+
+**Unsupervised Part-Based Disentangling of Object Shape and Appearance (CVPR2019 oral)**  
+*Dominik Lorenz, Leonard Bereska, Timo Milbich, Björn Ommer*  
+[[paper](https://arxiv.org/abs/1903.06946)]  
+
+**Free-form Video Inpainting with 3D Gated Convolution and Temporal PatchGAN**  
+*Ya-Liang Chang, Zhe Yu Liu, Winston Hsu*  
+[[paper](https://arxiv.org/abs/1904.10247)]  
+
 **Learning to Paint with Model-based Deep Reinforcement Learning**  
 *Zhewei Huang, Wen Heng, Shuchang Zhou*  
 [[paper](https://arxiv.org/abs/1903.04411)]  

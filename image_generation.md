@@ -1,3 +1,6 @@
+**Image Synthesis with a Convolutional Capsule Generative Adversarial Network (ICLR2019)**  
+[[paper](https://openreview.net/forum?id=rJen0zC1lE)]  
+
 **Mode Seeking Generative Adversarial Networks for Diverse Image Synthesis (CVPR2019)**  
 *Qi Mao, Hsin-Ying Lee, Hung-Yu Tseng, Siwei Ma, Ming-Hsuan Yang*  
 [[paper](https://arxiv.org/abs/1903.05628)]  

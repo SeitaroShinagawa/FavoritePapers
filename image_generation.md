@@ -1,3 +1,7 @@
+**Conditional Adversarial Generative Flow for Controllable Image Synthesis(CVPR2019)**  
+*Rui Liu, Yu Liu, Xinyu Gong, Xiaogang Wang, Hongsheng Li*  
+[[paper](https://arxiv.org/abs/1904.01782)]  
+
 **Image Synthesis with a Convolutional Capsule Generative Adversarial Network (ICLR2019)**  
 [[paper](https://openreview.net/forum?id=rJen0zC1lE)]  
 

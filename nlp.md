@@ -1,4 +1,8 @@
 # Natural Language Processing  
+**Reinforcement Learning Based Emotional Editing Constraint Conversation Generation**  
+*Jia Li, Xiao Sun, Xing Wei, Changliang Li, Jianhua Tao*  
+[[paper](https://arxiv.org/abs/1904.08061)]  
+
 **Inferring Concept Hierarchies from Text Corpora via Hyperbolic Embeddings**  
 *Matt Le, Stephen Roller, Laetitia Papaxanthos, Douwe Kiela, Maximilian Nickel*  
 [[paper](https://arxiv.org/abs/1902.00913)]  

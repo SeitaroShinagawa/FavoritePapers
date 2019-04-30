@@ -1,3 +1,7 @@
+**Diversity-Sensitive Conditional Generative Adversarial Networks (ICLR2019)**  
+*Dingdong Yang, Seunghoon Hong, Yunseok Jang, Tianchen Zhao, Honglak Lee*  
+[[paper](https://arxiv.org/abs/1901.09024)]  
+
 **Conditional Adversarial Generative Flow for Controllable Image Synthesis(CVPR2019)**  
 *Rui Liu, Yu Liu, Xinyu Gong, Xiaogang Wang, Hongsheng Li*  
 [[paper](https://arxiv.org/abs/1904.01782)]  

@@ -1,3 +1,6 @@
+**UNDERSTANDING AND IMPROVING INTERPOLATION IN AUTOENCODERS VIA AN ADVERSARIAL REGULARIZER (ICLR2019)**  
+[[paper](https://openreview.net/pdf?id=S1fQSiCcYm)]  
+
 **SinGAN: Learning a Generative Model from a Single Natural Image**  
 *Tamar Rott Shaham, Tali Dekel, Tomer Michaeli*  
 [[paper](https://arxiv.org/abs/1905.01164)]  

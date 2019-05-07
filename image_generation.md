@@ -1,3 +1,8 @@
+**TransGaGa: Geometry-Aware Unsupervised Image-to-Image Translation (CVPR2019)**  
+*Wayne Wu, Kaidi Cao, Cheng Li, Chen Qian, Chen Change Loy*  
+[[paper](https://arxiv.org/abs/1904.09571)]  
+
+
 **UNDERSTANDING AND IMPROVING INTERPOLATION IN AUTOENCODERS VIA AN ADVERSARIAL REGULARIZER (ICLR2019)**  
 [[paper](https://openreview.net/pdf?id=S1fQSiCcYm)]  
 

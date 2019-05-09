@@ -1,5 +1,8 @@
 # Image  
 
+**Convolutional Mesh Regression for Single-Image Human Shape Reconstruction (CVPR2019 oral)**  
+[[project](https://www.seas.upenn.edu/~nkolot/projects/cmr/)]  
+
 **Detailed Human Shape Estimation from a Single Image by Hierarchical Mesh Deformation**  
 *Hao Zhu, Xinxin Zuo, Sen Wang, Xun Cao, Ruigang Yang*  
 [[paper](https://arxiv.org/abs/1904.10506)]  

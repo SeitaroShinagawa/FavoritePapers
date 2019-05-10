@@ -1,3 +1,7 @@
+**Interactive Image Generation Using Scene Graphs (ICLR2019 workshop)**  
+*Gaurav Mittal, Shubham Agrawal, Anuva Agarwal, Sushant Mehta, Tanya Marwah*  
+[[paper](https://arxiv.org/abs/1905.03743)]  
+
 **TransGaGa: Geometry-Aware Unsupervised Image-to-Image Translation (CVPR2019)**  
 *Wayne Wu, Kaidi Cao, Cheng Li, Chen Qian, Chen Change Loy*  
 [[paper](https://arxiv.org/abs/1904.09571)]  

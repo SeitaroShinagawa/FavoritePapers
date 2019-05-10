@@ -1,3 +1,6 @@
+**Lifelong Machine Learning and Computer Reading the Web (KDD2016 tutorial)**  
+[[link](https://www.cs.uic.edu/~liub/Lifelong-Machine-Learning-Tutorial-KDD-2016.pdf)]    
+
 **Neural Collaborative Subspace Clustering (ICML2019)**  
 *Tong Zhang, Pan Ji, Mehrtash Harandi, Wenbing Huang, Hongdong Li*  
 [[paper](https://arxiv.org/abs/1904.10596)]  

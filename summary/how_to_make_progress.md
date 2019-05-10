@@ -59,6 +59,7 @@ ArXiv読み
 - [数式の読み方、大学で学ぶ数式(英文付き)](http://www.comp.tmu.ac.jp/yosihiro/teaching/how-to-read.pdf)
 - [論文の書き方術（番外編）～査読報告書の書き方，条件付き採録時の回答文の書き方～](http://www.ieice.org/~cs-edit/magazine/hp/kakikata/kaitou.pdf)  
 - [Stanford大学流科学技術論文の書き方](http://hontolab.org/tips-for-research-activity/tips-for-writing-technical-papers/) [(original)Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html)  
+- [why is academic writing important for us (論文投稿に関する基礎知識)](https://speakerdeck.com/eumesy/why-is-academic-writing-important-for-us)   
  
 #### チェックリスト
 - [論文執筆のためのチェックリスト(pdf)](http://kanamori.cs.tsukuba.ac.jp/docs/writing_paper_checklist.pdf)
@@ -116,4 +117,4 @@ ArXiv読み
 - [公開されている学振・科研費申請書(採択・不採択)](https://xn--w8yz0bc56a.com/proven-proposal/)  
 - [面接免除になった学振DC2の書類を公開と工夫した点について](https://kenyu-life.com/2018/09/20/gakushin/)  
 - [博士論文執筆の際にお願いしたいこと](https://member.ipmu.jp/yuji.tachikawa/misc/dron.html)  
- 
+

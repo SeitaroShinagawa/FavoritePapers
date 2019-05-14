@@ -1,3 +1,7 @@
+**Learning to Remember Rare Events (ICLR2017)**  
+*Łukasz Kaiser, Ofir Nachum, Aurko Roy, Samy Bengio*  
+[[paper](https://arxiv.org/abs/1703.03129)]  
+
 **Lifelong Machine Learning and Computer Reading the Web (KDD2016 tutorial)**  
 [[link](https://www.cs.uic.edu/~liub/Lifelong-Machine-Learning-Tutorial-KDD-2016.pdf)]    
 

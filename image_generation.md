@@ -1,3 +1,8 @@
+**Memorization Precedes Generation: Learning Unsupervised GANs with Memory Networks (ICLR2018)**  
+*Youngjin Kim, Minjung Kim, Gunhee Kim*  
+[[paper](https://arxiv.org/abs/1803.01500)]  
+[[code](https://github.com/whyjay/memoryGAN)]  
+
 **Adaptive Composition GAN towards Realistic Image Synthesis**  
 *Fangneng Zhan, Jiaxing Huang, Shijian Lu*  
 [[paper](https://arxiv.org/abs/1905.04693)]  

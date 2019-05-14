@@ -117,4 +117,4 @@ ArXiv読み
 - [公開されている学振・科研費申請書(採択・不採択)](https://xn--w8yz0bc56a.com/proven-proposal/)  
 - [面接免除になった学振DC2の書類を公開と工夫した点について](https://kenyu-life.com/2018/09/20/gakushin/)  
 - [博士論文執筆の際にお願いしたいこと](https://member.ipmu.jp/yuji.tachikawa/misc/dron.html)  
-
+- [論文ゼロでも学振DC1に面接経由で採用された申請書の書き方のコツと面接対策ポイント](http://ocoshite.me/how-to-get-gakushin-dc1)  

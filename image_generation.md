@@ -1,3 +1,7 @@
+**Adaptive Composition GAN towards Realistic Image Synthesis**  
+*Fangneng Zhan, Jiaxing Huang, Shijian Lu*  
+[[paper](https://arxiv.org/abs/1905.04693)]  
+
 **Interactive Image Generation Using Scene Graphs (ICLR2019 workshop)**  
 *Gaurav Mittal, Shubham Agrawal, Anuva Agarwal, Sushant Mehta, Tanya Marwah*  
 [[paper](https://arxiv.org/abs/1905.03743)]  

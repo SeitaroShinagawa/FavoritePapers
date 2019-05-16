@@ -1,5 +1,9 @@
 # Image  
 
+**Learning 3D Human Dynamics from Video (CVPR2019)**  
+[[project](https://akanazawa.github.io/human_dynamics/)]  
+[[code](https://github.com/akanazawa/human_dynamics)]  
+
 **Convolutional Mesh Regression for Single-Image Human Shape Reconstruction (CVPR2019 oral)**  
 [[project](https://www.seas.upenn.edu/~nkolot/projects/cmr/)]  
 

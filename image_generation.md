@@ -1,3 +1,7 @@
+**COCO-GAN: Generation by Parts via Conditional Coordinating**  
+*Chieh Hubert Lin, Chia-Che Chang, Yu-Sheng Chen, Da-Cheng Juan, Wei Wei, Hwann-Tzong Chen*  
+[[paper](https://arxiv.org/abs/1904.00284)]  
+
 **Memorization Precedes Generation: Learning Unsupervised GANs with Memory Networks (ICLR2018)**  
 *Youngjin Kim, Minjung Kim, Gunhee Kim*  
 [[paper](https://arxiv.org/abs/1803.01500)]  

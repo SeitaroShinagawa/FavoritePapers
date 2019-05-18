@@ -1,3 +1,7 @@
+**On Variational Bounds of Mutual Information (ICML2019)**  
+*Ben Poole, Sherjil Ozair, Aaron van den Oord, Alexander A. Alemi, George Tucker*  
+[[paper](https://arxiv.org/abs/1905.06922)]  
+
 **Learning to Remember Rare Events (ICLR2017)**  
 *Łukasz Kaiser, Ofir Nachum, Aurko Roy, Samy Bengio*  
 [[paper](https://arxiv.org/abs/1703.03129)]  

@@ -1,5 +1,9 @@
 # Multimodal 
 
+**Learning to Explain with Complemental Examples (CVPR2019)**  
+*Atsushi Kanehira, Tatsuya Harada*  
+[[paper](https://arxiv.org/abs/1812.01280)]  
+
 **Sketchforme: Composing Sketched Scenes from Text Descriptions for Interactive Applications**  
 *Forrest Huang, John F. Canny*  
 [[paper](https://arxiv.org/abs/1904.04399)]  

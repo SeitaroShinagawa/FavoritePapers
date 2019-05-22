@@ -1,3 +1,7 @@
+**Invertible Residual Networks**  
+*Jens Behrmann, Will Grathwohl, Ricky T. Q. Chen, David Duvenaud, Jörn-Henrik Jacobsen*  
+[[paper](https://arxiv.org/abs/1811.00995)]  
+
 **On Variational Bounds of Mutual Information (ICML2019)**  
 *Ben Poole, Sherjil Ozair, Aaron van den Oord, Alexander A. Alemi, George Tucker*  
 [[paper](https://arxiv.org/abs/1905.06922)]  

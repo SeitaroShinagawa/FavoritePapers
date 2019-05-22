@@ -1,3 +1,7 @@
+**Advanced Super-Resolution using Lossless Pooling Convolutional Networks**  
+*Farzad Toutounchi, Ebroul Izquierdo*  
+[[paper](https://arxiv.org/abs/1812.06023)]  
+
 **Invertible Residual Networks**  
 *Jens Behrmann, Will Grathwohl, Ricky T. Q. Chen, David Duvenaud, Jörn-Henrik Jacobsen*  
 [[paper](https://arxiv.org/abs/1811.00995)]  

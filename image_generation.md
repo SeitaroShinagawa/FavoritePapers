@@ -1,3 +1,7 @@
+**Decentralized Learning of Generative Adversarial Networks from Multi-Client Non-iid Data**  
+*Ryo Yonetani, Tomohiro Takahashi, Atsushi Hashimoto, Yoshitaka Ushiku*  
+[[paper](https://arxiv.org/abs/1905.09684)]]  
+
 **COCO-GAN: Generation by Parts via Conditional Coordinating**  
 *Chieh Hubert Lin, Chia-Che Chang, Yu-Sheng Chen, Da-Cheng Juan, Wei Wei, Hwann-Tzong Chen*  
 [[paper](https://arxiv.org/abs/1904.00284)]  

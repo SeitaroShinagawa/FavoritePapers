@@ -1,3 +1,7 @@
+**Capsule Routing via Variational Bayes**  
+*Fabio De Sousa Ribeiro, Georgios Leontidis, Stefanos Kollias*  
+[[paper](https://arxiv.org/abs/1905.11455)]  
+
 **Advanced Super-Resolution using Lossless Pooling Convolutional Networks**  
 *Farzad Toutounchi, Ebroul Izquierdo*  
 [[paper](https://arxiv.org/abs/1812.06023)]  

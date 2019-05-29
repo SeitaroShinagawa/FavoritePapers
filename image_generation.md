@@ -1,3 +1,7 @@
+**FaceSwapNet: Landmark Guided Many-to-Many Face Reenactment**  
+*Jiangning Zhang, Xianfang Zeng, Yusu Pan, Yong Liu, Yu Ding, Changjie Fan*  
+[[paper](https://arxiv.org/abs/1905.11805)]  
+
 **Disentangling Style and Content in Anime Illustrations**  
 *Sitao Xiang, Hao Li*  
 [[paper](https://arxiv.org/abs/1905.10742)]  

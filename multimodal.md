@@ -1,5 +1,9 @@
 # Multimodal 
 
+**FAN: Focused Attention Networks**  
+*Chu Wang, Babak Samari, Vladimir Kim, Siddhartha Chaudhuri, Kaleem Siddiqi*  
+[[paper](https://arxiv.org/abs/1905.11498)]  
+
 **Learning to Explain with Complemental Examples (CVPR2019)**  
 *Atsushi Kanehira, Tatsuya Harada*  
 [[paper](https://arxiv.org/abs/1812.01280)]  

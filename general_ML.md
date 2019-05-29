@@ -1,3 +1,6 @@
+**グラフ信号処理の基礎理論と最近の成果**  
+[[slide](http://www.ieice.org/ess/sita/forum/article/2018/201803050730.pdf)]  
+
 **Capsule Routing via Variational Bayes**  
 *Fabio De Sousa Ribeiro, Georgios Leontidis, Stefanos Kollias*  
 [[paper](https://arxiv.org/abs/1905.11455)]  

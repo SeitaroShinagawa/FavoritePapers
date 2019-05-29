@@ -1,5 +1,9 @@
 # Image  
 
+**Cerberus: A Multi-headed Derenderer**  
+*Boyang Deng, Simon Kornblith, Geoffrey Hinton*  
+[[paper](https://arxiv.org/abs/1905.11940)]  
+
 **Learning 3D Human Dynamics from Video (CVPR2019)**  
 [[project](https://akanazawa.github.io/human_dynamics/)]  
 [[code](https://github.com/akanazawa/human_dynamics)]  

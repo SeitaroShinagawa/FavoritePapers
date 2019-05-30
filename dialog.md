@@ -1,4 +1,7 @@
 # Works related to Dialog
+**Anti-efficient encoding in emergent communication**  
+*Rahma Chaabouni, Eugene Kharitonov, Emmanuel Dupoux, Marco Baroni*  
+[[paper](https://arxiv.org/abs/1905.12561)]  
 
 **How should my chatbot interact? A survey on human-chatbot interaction design**  
 *Ana Paula Chaves, Marco Aurelio Gerosa*  

@@ -1,3 +1,7 @@
+**An Explicitly Relational Neural Network Architecture**  
+*Murray Shanahan, Kyriacos Nikiforou, Antonia Creswell, Christos Kaplanis, David Barrett, Marta Garnelo*  
+[[paper](https://arxiv.org/abs/1905.10307)]  
+
 **グラフ信号処理の基礎理論と最近の成果**  
 [[slide](http://www.ieice.org/ess/sita/forum/article/2018/201803050730.pdf)]  
 

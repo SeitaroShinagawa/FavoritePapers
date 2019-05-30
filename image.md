@@ -1,5 +1,9 @@
 # Image  
 
+**Counterfactual Visual Explanations (ICML2019)**    
+*Yash Goyal, Ziyan Wu, Jan Ernst, Dhruv Batra, Devi Parikh, Stefan Lee*  
+[[paper](https://arxiv.org/abs/1904.07451)]  
+
 **Cerberus: A Multi-headed Derenderer**  
 *Boyang Deng, Simon Kornblith, Geoffrey Hinton*  
 [[paper](https://arxiv.org/abs/1905.11940)]  

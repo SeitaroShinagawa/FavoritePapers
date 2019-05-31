@@ -1,3 +1,7 @@
+**Visually-Aware Fashion Recommendation and Design with Generative Image Models (ICDM2019)**  
+*Wang-Cheng Kang, Chen Fang, Zhaowen Wang, Julian McAuley*  
+[[paper](https://arxiv.org/abs/1711.02231)]  
+
 **FaceSwapNet: Landmark Guided Many-to-Many Face Reenactment**  
 *Jiangning Zhang, Xianfang Zeng, Yusu Pan, Yong Liu, Yu Ding, Changjie Fan*  
 [[paper](https://arxiv.org/abs/1905.11805)]  

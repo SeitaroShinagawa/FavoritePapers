@@ -1,4 +1,8 @@
 # Natural Language Processing  
+**Neural Metaphor Detection in Context (EMNLP2018)**  
+[[paper](https://www.aclweb.org/anthology/D18-1060)]  
+[[article(ja)](https://ai-scholar.tech/treatise/context-ai-164/)]  
+
 **Levenshtein Transformer**  
 *Jiatao Gu, Changhan Wang, Jake Zhao*  
 [[paper](https://arxiv.org/abs/1905.11006)]  

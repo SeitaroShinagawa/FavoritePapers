@@ -1,5 +1,9 @@
 # Multimodal 
 
+**Toward Self-Supervised Object Detection in Unlabeled Videos**  
+*Elad Amrani, Rami Ben-Ari, Tal Hakim, Alex Bronstein*  
+[[paper](https://arxiv.org/abs/1905.11137)]  
+
 **Multi-level Multimodal Common Semantic Space for Image-Phrase Grounding (CVPR2019)**  
 *Hassan Akbari, Svebor Karaman, Surabhi Bhargava, Brian Chen, Carl Vondrick, Shih-Fu Chang*  
 [[paper](https://arxiv.org/abs/1811.11683)]  

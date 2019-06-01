@@ -1,3 +1,7 @@
+**The Art of Food: Meal Image Synthesis from Ingredients (BMVC2019 under review)**  
+*Fangda Han, Ricardo Guerrero, Vladimir Pavlovic*  
+[[paper](https://arxiv.org/abs/1905.13149)]  
+
 **Visually-Aware Fashion Recommendation and Design with Generative Image Models (ICDM2019)**  
 *Wang-Cheng Kang, Chen Fang, Zhaowen Wang, Julian McAuley*  
 [[paper](https://arxiv.org/abs/1711.02231)]  

@@ -1,4 +1,8 @@
 # Works related to Dialog
+**What makes a good conversation? How controllable attributes affect human judgments (NAACL2019)**  
+*Abigail See, Stephen Roller, Douwe Kiela, Jason Weston*  
+[[paper](https://arxiv.org/abs/1902.08654)]  
+
 **Anti-efficient encoding in emergent communication**  
 *Rahma Chaabouni, Eugene Kharitonov, Emmanuel Dupoux, Marco Baroni*  
 [[paper](https://arxiv.org/abs/1905.12561)]  

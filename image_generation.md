@@ -1,3 +1,7 @@
+**Paired-D GAN for Semantic Image Synthesis (ACCV2018)**  
+*Duc Minh Vo and Akihiro Sugimoto*  
+[[code](https://github.com/vominhduc/Paied-D-GAN)]  
+
 **The Art of Food: Meal Image Synthesis from Ingredients (BMVC2019 under review)**  
 *Fangda Han, Ricardo Guerrero, Vladimir Pavlovic*  
 [[paper](https://arxiv.org/abs/1905.13149)]  

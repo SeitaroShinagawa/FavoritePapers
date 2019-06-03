@@ -1,3 +1,7 @@
+**Coherent Semantic Attention for Image Inpainting**  
+*Hongyu Liu, Bin Jiang, Yi Xiao, Chao Yang*  
+[[paper](https://arxiv.org/abs/1905.12384)]  
+
 **Paired-D GAN for Semantic Image Synthesis (ACCV2018)**  
 *Duc Minh Vo and Akihiro Sugimoto*  
 [[code](https://github.com/vominhduc/Paied-D-GAN)]  

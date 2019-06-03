@@ -1,3 +1,7 @@
+**Can We Derive Explicit and Implicit Bias from Corpus?**  
+*Bo Wang, Baixiang Xue, Anthony G. Greenwald*  
+[[paper](https://arxiv.org/abs/1905.13364)]  
+
 **An Explicitly Relational Neural Network Architecture**  
 *Murray Shanahan, Kyriacos Nikiforou, Antonia Creswell, Christos Kaplanis, David Barrett, Marta Garnelo*  
 [[paper](https://arxiv.org/abs/1905.10307)]  

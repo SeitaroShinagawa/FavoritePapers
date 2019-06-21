@@ -1,4 +1,8 @@
 # Awesome dataset  
+**iMaterialist Challenge (Fashion)**  
+[[link](https://github.com/visipedia/imat_fashion_comp)]   
+[[paper](https://arxiv.org/abs/1906.05750)]  
+
 **CLEVR-Ref+: Diagnosing Visual Reasoning with Referring Expressions**  
 *Runtao Liu, Chenxi Liu, Yutong Bai, Alan Yuille*  
 [[paper](https://arxiv.org/abs/1901.00850)]  

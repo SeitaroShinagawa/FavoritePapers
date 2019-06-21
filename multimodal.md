@@ -1,4 +1,8 @@
-# Multimodal 
+# Multimodal
+
+**Expressing Visual Relationships via Language (ACL2019)**  
+*Hao Tan, Franck Dernoncourt, Zhe Lin, Trung Bui, Mohit Bansal*  
+[[paper](https://arxiv.org/abs/1906.07689)]  
 
 **Toward Self-Supervised Object Detection in Unlabeled Videos**  
 *Elad Amrani, Rami Ben-Ari, Tal Hakim, Alex Bronstein*  

@@ -1,3 +1,7 @@
+**Interactive Subspace Exploration on Generative Image Modelling**  
+*Toby Chong Long Hin, I-Chao Shen, Issei Sato, Takeo Igarashi*  
+[[paper](https://arxiv.org/abs/1906.09840)]  
+
 **Coherent Semantic Attention for Image Inpainting**  
 *Hongyu Liu, Bin Jiang, Yi Xiao, Chao Yang*  
 [[paper](https://arxiv.org/abs/1905.12384)]  

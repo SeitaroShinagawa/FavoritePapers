@@ -1,3 +1,6 @@
+**近似最近傍探索の最前線**  
+[[link](https://speakerdeck.com/matsui_528/jin-si-zui-jin-bang-tan-suo-falsezui-qian-xian)]  
+
 **Python: pandas-profiling でデータセットの概要を確認する**  
 [[link](https://blog.amedama.jp/entry/pandas-profiling)]  
 

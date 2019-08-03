@@ -25,6 +25,7 @@
 **Disentangling Style and Content in Anime Illustrations**  
 *Sitao Xiang, Hao Li*  
 [[paper](https://arxiv.org/abs/1905.10742)]  
+[[pytorch](https://github.com/stormraiser/adversarial-disentangle)]  
 
 **Decentralized Learning of Generative Adversarial Networks from Multi-Client Non-iid Data**  
 *Ryo Yonetani, Tomohiro Takahashi, Atsushi Hashimoto, Yoshitaka Ushiku*  

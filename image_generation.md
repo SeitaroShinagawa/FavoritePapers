@@ -1514,4 +1514,3 @@ Generating Abstract Patterns with TensorFlow[[blog](http://blog.otoro.net/2016/0
 [[video](https://www.youtube.com/watch?v=HkDxmnIfWIM)]  
 [[video](https://www.youtube.com/watch?v=6S6Tx_OtvnA)]  
 [[video](https://www.youtube.com/watch?v=HQEI2xfTgm4)]  
-[[video](https://www.youtube.com/watch?v=qb2-73OH

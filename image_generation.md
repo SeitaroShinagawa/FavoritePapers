@@ -1,3 +1,7 @@
+**GAN-Tree: An Incrementally Learned Hierarchical Generative Framework for Multi-Modal Data Distributions (ICCV2019)**    
+*Jogendra Nath Kundu, Maharshi Gor, Dakshit Agrawal, R. Venkatesh Babu*  
+[[paper](https://arxiv.org/abs/1908.03919)]  
+
 **Interactive Subspace Exploration on Generative Image Modelling**  
 *Toby Chong Long Hin, I-Chao Shen, Issei Sato, Takeo Igarashi*  
 [[paper](https://arxiv.org/abs/1906.09840)]  

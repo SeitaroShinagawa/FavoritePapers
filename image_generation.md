@@ -1,3 +1,7 @@
+**Towards Multi-pose Guided Virtual Try-on Network**  
+*Haoye Dong, Xiaodan Liang, Bochao Wang, Hanjiang Lai, Jia Zhu, Jian Yin*  
+[[paper](https://arxiv.org/abs/1902.11026)]  
+
 **GAN-Tree: An Incrementally Learned Hierarchical Generative Framework for Multi-Modal Data Distributions (ICCV2019)**    
 *Jogendra Nath Kundu, Maharshi Gor, Dakshit Agrawal, R. Venkatesh Babu*  
 [[paper](https://arxiv.org/abs/1908.03919)]  

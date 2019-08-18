@@ -1,3 +1,7 @@
+**Kaggle Dog Image Generation**  
+[[link](https://www.kaggle.com/c/generative-dog-images/discussion/104287)]  
+[[link](https://www.kaggle.com/c/generative-dog-images/discussion/104281)]  
+
 **Towards Multi-pose Guided Virtual Try-on Network**  
 *Haoye Dong, Xiaodan Liang, Bochao Wang, Hanjiang Lai, Jia Zhu, Jian Yin*  
 [[paper](https://arxiv.org/abs/1902.11026)]  

@@ -1,3 +1,8 @@
+**Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss (ICCV2019)**  
+*Hyunsu Kim, Ho Young Jhoo, Eunhyeok Park, Sungjoo Yoo*  
+[[paper](https://arxiv.org/abs/1908.05840)]  
+[[code](https://github.com/blandocs/Tag2Pix)]  
+
 **Kaggle Dog Image Generation**  
 [[link](https://www.kaggle.com/c/generative-dog-images/discussion/104287)]  
 [[link](https://www.kaggle.com/c/generative-dog-images/discussion/104281)]  

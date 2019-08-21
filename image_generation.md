@@ -1,3 +1,7 @@
+**Boundless: Generative Adversarial Networks for Image Extension**  
+*Piotr Teterwak, Aaron Sarna, Dilip Krishnan, Aaron Maschinot, David Belanger, Ce Liu, William T. Freeman*  
+[[paper](https://arxiv.org/abs/1908.07007)]  
+
 **Tag2Pix: Line Art Colorization Using Text Tag With SECat and Changing Loss (ICCV2019)**  
 *Hyunsu Kim, Ho Young Jhoo, Eunhyeok Park, Sungjoo Yoo*  
 [[paper](https://arxiv.org/abs/1908.05840)]  

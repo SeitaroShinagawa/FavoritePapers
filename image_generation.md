@@ -1,3 +1,7 @@
+**Make a Face: Towards Arbitrary High Fidelity Face Manipulation (ICCV2019)**  
+*Shengju Qian, Kwan-Yee Lin, Wayne Wu, Yangxiaokang Liu, Quan Wang, Fumin Shen, Chen Qian, Ran He*  
+[[paepr](https://arxiv.org/abs/1908.07191)]  
+
 **Boundless: Generative Adversarial Networks for Image Extension**  
 *Piotr Teterwak, Aaron Sarna, Dilip Krishnan, Aaron Maschinot, David Belanger, Ce Liu, William T. Freeman*  
 [[paper](https://arxiv.org/abs/1908.07007)]  

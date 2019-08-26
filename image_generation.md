@@ -1,3 +1,7 @@
+**Generating High-Resolution Fashion Model Images Wearing Custom Outfits (ICCV2019workshop)**  
+*Gökhan Yildirim, Nikolay Jetchev, Roland Vollgraf, Urs Bergmann*  
+[[paper](https://arxiv.org/abs/1908.08847)]  
+
 **Make a Face: Towards Arbitrary High Fidelity Face Manipulation (ICCV2019)**  
 *Shengju Qian, Kwan-Yee Lin, Wayne Wu, Yangxiaokang Liu, Quan Wang, Fumin Shen, Chen Qian, Ran He*  
 [[paepr](https://arxiv.org/abs/1908.07191)]  

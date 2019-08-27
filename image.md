@@ -1,5 +1,9 @@
 # Image  
 
+**Supporting stylists by recommending fashion style**  
+*Tobias Kuhn, Steven Bourke, Levin Brinkmann, Tobias Buchwald, Conor Digan, Hendrik Hache, Sebastian Jaeger, Patrick Lehmann, Oskar Maier, Stefan Matting, Yura Okulovsky*  
+[[paper](https://arxiv.org/abs/1908.09493)]  
+
 **Counterfactual Visual Explanations (ICML2019)**    
 *Yash Goyal, Ziyan Wu, Jan Ernst, Dhruv Batra, Devi Parikh, Stefan Lee*  
 [[paper](https://arxiv.org/abs/1904.07451)]  

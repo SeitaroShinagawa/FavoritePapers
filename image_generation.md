@@ -1,3 +1,7 @@
+**Normalizing Flows: Introduction and Ideas**  
+*Ivan Kobyzev, Simon Prince, Marcus A. Brubaker*  
+[[paper](https://arxiv.org/abs/1908.09257)]  
+
 **Generating High-Resolution Fashion Model Images Wearing Custom Outfits (ICCV2019workshop)**  
 *Gökhan Yildirim, Nikolay Jetchev, Roland Vollgraf, Urs Bergmann*  
 [[paper](https://arxiv.org/abs/1908.08847)]  

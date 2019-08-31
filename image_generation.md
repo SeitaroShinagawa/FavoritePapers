@@ -1,3 +1,6 @@
+**Detecting Photoshopped Faces by Scripting Photoshop (ICCV2019)**  
+[[project](https://peterwang512.github.io/FALdetector/)]  
+
 **Normalizing Flows: Introduction and Ideas**  
 *Ivan Kobyzev, Simon Prince, Marcus A. Brubaker*  
 [[paper](https://arxiv.org/abs/1908.09257)]  

@@ -121,4 +121,5 @@ ArXiv読み
 - [博士論文執筆の際にお願いしたいこと](https://member.ipmu.jp/yuji.tachikawa/misc/dron.html)  
 - [論文ゼロでも学振DC1に面接経由で採用された申請書の書き方のコツと面接対策ポイント](http://ocoshite.me/how-to-get-gakushin-dc1)  
 - [研究をはじめてから国際会議と学術論文に採択されるまで（WEB公開版）](https://speakerdeck.com/kyama0321/yan-jiu-wohazimetekaraguo-ji-hui-yi-toxue-shu-lun-wen-nicai-ze-sarerumade-webgong-kai-ban)  
+- [トップカンファレンスへの論文採択に向けて（NLP研究分野版）/ Toward paper acceptance at top conferences (NLP research field version)](https://www.slideshare.net/JunSuzuki21/2019-0826-yansinvitedtalk)
 

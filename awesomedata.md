@@ -1,4 +1,7 @@
 # Awesome dataset  
+**Multi-object image datasets with ground-truth segmentation masks and generative factors**  
+[[link](https://github.com/deepmind/multi_object_datasets)]  
+
 **ToyADMOS dataset**  
 [[link](https://zenodo.org/record/3351307#.XVIgPuj7Q2y)]  
 [[code](https://github.com/YumaKoizumi/ToyADMOS-dataset)]  

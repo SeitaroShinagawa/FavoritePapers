@@ -1,3 +1,7 @@
+**Unsupervised Doodling and Painting with Improved SPIRAL**  
+*John F. J. Mellor, Eunbyung Park, Yaroslav Ganin, Igor Babuschkin, Tejas Kulkarni, Dan Rosenbaum, Andy Ballard, Theophane Weber, Oriol Vinyals, S. M. Ali Eslami*  
+[[paper](https://arxiv.org/abs/1910.01007)]  
+
 **Detecting Photoshopped Faces by Scripting Photoshop (ICCV2019)**  
 [[project](https://peterwang512.github.io/FALdetector/)]  
 

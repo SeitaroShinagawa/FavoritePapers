@@ -1,5 +1,9 @@
 # Multimodal
 
+**Embodied Language Grounding with Implicit 3D Visual Feature Representations**  
+*Mihir Prabhudesai, Hsiao-Yu Fish Tung, Syed Ashar Javed, Maximilian Sieb, Adam W. Harley, Katerina Fragkiadaki*  
+[[paper](https://arxiv.org/abs/1910.01210)]  
+
 **Expressing Visual Relationships via Language (ACL2019)**  
 *Hao Tan, Franck Dernoncourt, Zhe Lin, Trung Bui, Mohit Bansal*  
 [[paper](https://arxiv.org/abs/1906.07689)]  

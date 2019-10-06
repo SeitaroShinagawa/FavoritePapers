@@ -1,3 +1,7 @@
+**Elastic-InfoGAN: Unsupervised Disentangled Representation Learning in Imbalanced Data**  
+*Utkarsh Ojha, Krishna Kumar Singh, Cho-Jui Hsieh, Yong Jae Lee*  
+[[paper](https://arxiv.org/abs/1910.01112)]   
+
 **Unsupervised Doodling and Painting with Improved SPIRAL**  
 *John F. J. Mellor, Eunbyung Park, Yaroslav Ganin, Igor Babuschkin, Tejas Kulkarni, Dan Rosenbaum, Andy Ballard, Theophane Weber, Oriol Vinyals, S. M. Ali Eslami*  
 [[paper](https://arxiv.org/abs/1910.01007)]  

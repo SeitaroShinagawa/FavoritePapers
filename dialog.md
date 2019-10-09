@@ -1,4 +1,8 @@
 # Works related to Dialog
+**What's to know? Uncertainty as a Guide to Asking Goal-oriented Questions (CVPR2019)**  
+*Ehsan Abbasnejad, Qi Wu, Javen Shi, Anton van den Hengel*  
+[[paper](https://arxiv.org/abs/1812.06401)]  
+
 **What makes a good conversation? How controllable attributes affect human judgments (NAACL2019)**  
 *Abigail See, Stephen Roller, Douwe Kiela, Jason Weston*  
 [[paper](https://arxiv.org/abs/1902.08654)]  

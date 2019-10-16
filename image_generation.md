@@ -1,3 +1,8 @@
+**Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis (NeurIPS2019)**  
+*Xihui Liu, Guojun Yin, Jing Shao, Xiaogang Wang, Hongsheng Li*  
+[[paper](https://arxiv.org/abs/1910.06809)]  
+[[code](https://github.com/xh-liu/CC-FPSE)]  
+
 **Elastic-InfoGAN: Unsupervised Disentangled Representation Learning in Imbalanced Data**  
 *Utkarsh Ojha, Krishna Kumar Singh, Cho-Jui Hsieh, Yong Jae Lee*  
 [[paper](https://arxiv.org/abs/1910.01112)]   

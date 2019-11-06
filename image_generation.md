@@ -1,3 +1,7 @@
+**Generating High-Resolution Fashion Model Images Wearing Custom Outfits (ICCV2019)**  
+*Gökhan Yildirim, Nikolay Jetchev, Roland Vollgraf, Urs Bergmann*  
+[[paper](https://arxiv.org/abs/1908.08847)]  
+
 **Learning to Predict Layout-to-image Conditional Convolutions for Semantic Image Synthesis (NeurIPS2019)**  
 *Xihui Liu, Guojun Yin, Jing Shao, Xiaogang Wang, Hongsheng Li*  
 [[paper](https://arxiv.org/abs/1910.06809)]  

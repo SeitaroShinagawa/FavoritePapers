@@ -1,3 +1,7 @@
+**Consistency Regularization for Generative Adversarial Networks**  
+*Han Zhang, Zizhao Zhang, Augustus Odena, Honglak Lee*  
+[[paper](https://arxiv.org/abs/1910.12027)]  
+
 **Generating High-Resolution Fashion Model Images Wearing Custom Outfits (ICCV2019)**  
 *Gökhan Yildirim, Nikolay Jetchev, Roland Vollgraf, Urs Bergmann*  
 [[paper](https://arxiv.org/abs/1908.08847)]  

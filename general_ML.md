@@ -1,3 +1,7 @@
+**On Variational Bounds of Mutual Information (ICML2019)**  
+*Ben Poole, Sherjil Ozair, Aaron van den Oord, Alexander A. Alemi, George Tucker*  
+[[paper](https://arxiv.org/abs/1905.06922)]  
+
 **Can We Derive Explicit and Implicit Bias from Corpus?**  
 *Bo Wang, Baixiang Xue, Anthony G. Greenwald*  
 [[paper](https://arxiv.org/abs/1905.13364)]  

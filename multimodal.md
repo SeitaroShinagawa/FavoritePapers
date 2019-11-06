@@ -1,5 +1,9 @@
 # Multimodal
 
+**Word2vec to behavior: morphology facilitates the grounding of language in machines (IROS2019)**  
+*David Matthews, Sam Kriegman, Collin Cappelle, Josh Bongard*  
+[[paper](https://arxiv.org/abs/1908.01211)]  
+
 **Embodied Language Grounding with Implicit 3D Visual Feature Representations**  
 *Mihir Prabhudesai, Hsiao-Yu Fish Tung, Syed Ashar Javed, Maximilian Sieb, Adam W. Harley, Katerina Fragkiadaki*  
 [[paper](https://arxiv.org/abs/1910.01210)]  

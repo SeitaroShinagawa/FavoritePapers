@@ -1,4 +1,8 @@
 # Awesome dataset  
+**How2: A Large-scale Dataset for Multimodal Language Understanding (NeurIPS2018)**  
+[[paper](https://nips2018vigil.github.io/static/papers/accepted/26.pdf)]  
+[[link](https://github.com/srvk/how2-dataset)]  
+
 **Multi-object image datasets with ground-truth segmentation masks and generative factors**  
 [[link](https://github.com/deepmind/multi_object_datasets)]  
 

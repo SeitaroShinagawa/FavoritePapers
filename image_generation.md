@@ -1,3 +1,7 @@
+**Quality Aware Generative Adversarial Networks (NeurIPS2019)**  
+*Parimala Kancharla, Sumohana S. Channappayya*  
+[[paper](https://arxiv.org/abs/1911.03149)]  
+
 **Consistency Regularization for Generative Adversarial Networks**  
 *Han Zhang, Zizhao Zhang, Augustus Odena, Honglak Lee*  
 [[paper](https://arxiv.org/abs/1910.12027)]  

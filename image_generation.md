@@ -1,3 +1,8 @@
+**Prescribed Generative Adversarial Networks**  
+*Adji B. Dieng, Francisco J. R. Ruiz, David M. Blei, Michalis K. Titsias*  
+[[paper](https://arxiv.org/abs/1910.04302)]  
+[[code](https://github.com/adjidieng/PresGANs)]  
+
 **Quality Aware Generative Adversarial Networks (NeurIPS2019)**  
 *Parimala Kancharla, Sumohana S. Channappayya*  
 [[paper](https://arxiv.org/abs/1911.03149)]  

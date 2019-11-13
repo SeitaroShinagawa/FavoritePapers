@@ -1,3 +1,7 @@
+**Channel Decomposition into Painting Actions**   
+*Shih-Chieh Su**  
+[[paper](https://arxiv.org/abs/1908.04694)]  
+
 **Prescribed Generative Adversarial Networks**  
 *Adji B. Dieng, Francisco J. R. Ruiz, David M. Blei, Michalis K. Titsias*  
 [[paper](https://arxiv.org/abs/1910.04302)]  

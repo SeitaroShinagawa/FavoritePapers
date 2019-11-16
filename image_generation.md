@@ -1,3 +1,7 @@
+**CartoonRenderer: An Instance-based Multi-Style Cartoon Image Translator (MMM2020)**    
+*Yugang Chen, Muchun Chen, Chaoyue Song, Bingbing Ni*  
+[[paper](https://arxiv.org/abs/1911.06102#clicktoread)]  
+
 **Channel Decomposition into Painting Actions**   
 *Shih-Chieh Su**  
 [[paper](https://arxiv.org/abs/1908.04694)]  

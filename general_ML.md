@@ -1,3 +1,7 @@
+**Likelihood Assignment for Out-of-Distribution Inputs in Deep Generative**  
+*Models is Sensitive to Prior Distribution Choice*  
+[[paper](https://arxiv.org/abs/1911.06515)]  
+
 **On Variational Bounds of Mutual Information (ICML2019)**  
 *Ben Poole, Sherjil Ozair, Aaron van den Oord, Alexander A. Alemi, George Tucker*  
 [[paper](https://arxiv.org/abs/1905.06922)]  

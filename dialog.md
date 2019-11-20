@@ -1,4 +1,8 @@
-# Works related to Dialog
+# Works related to Dialog  
+**Extended Answer and Uncertainty Aware Neural Question Generation**  
+*Hongwei Zeng, Zhuo Zhi, Jun Liu, Bifan Wei*  
+[[paper](https://arxiv.org/abs/1911.08112)]  
+
 **What's to know? Uncertainty as a Guide to Asking Goal-oriented Questions (CVPR2019)**  
 *Ehsan Abbasnejad, Qi Wu, Javen Shi, Anton van den Hengel*  
 [[paper](https://arxiv.org/abs/1812.06401)]  

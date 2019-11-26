@@ -1,3 +1,7 @@
+**Multi-mapping Image-to-Image Translation via Learning Disentanglement (NeurIPS2019)**  
+*Xiaoming Yu, Yuanqi Chen, Thomas Li, Shan Liu, Ge Li*  
+[[paper](https://arxiv.org/abs/1909.07877)]  
+
 **CartoonRenderer: An Instance-based Multi-Style Cartoon Image Translator (MMM2020)**    
 *Yugang Chen, Muchun Chen, Chaoyue Song, Bingbing Ni*  
 [[paper](https://arxiv.org/abs/1911.06102#clicktoread)]  

@@ -1,4 +1,7 @@
 # Image  
+**Unsupervised Visual Representation Learning with Increasing Object Shape Bias**  
+*Zhibo Wang, Shen Yan, Xiaoyu Zhang, Niels Lobo*  
+[[paper](https://arxiv.org/abs/1911.07272)]  
 
 **Supporting stylists by recommending fashion style**  
 *Tobias Kuhn, Steven Bourke, Levin Brinkmann, Tobias Buchwald, Conor Digan, Hendrik Hache, Sebastian Jaeger, Patrick Lehmann, Oskar Maier, Stefan Matting, Yura Okulovsky*  

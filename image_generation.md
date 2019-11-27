@@ -1,3 +1,7 @@
+**LaFIn: Generative Landmark Guided Face Inpainting**  
+*Yang Yang, Xiaojie Guo, Jiayi Ma, Lin Ma, Haibin Ling*  
+[[paper](https://arxiv.org/abs/1911.11394)]  
+
 **Talking Head Anime from a Single Image**  
 [[link](https://pkhungurn.github.io/talking-head-anime/)]  
 

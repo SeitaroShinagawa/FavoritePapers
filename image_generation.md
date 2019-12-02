@@ -1,3 +1,7 @@
+**Example-Guided Scene Image Synthesis using Masked Spatial-Channel Attention and Patch-Based Self-Supervision**  
+*Haitian Zheng, Haofu Liao, Lele Chen, Wei Xiong, Tianlang Chen, Jiebo Luo*  
+[[paper](https://arxiv.org/abs/1911.12362)]  
+
 **LaFIn: Generative Landmark Guided Face Inpainting**  
 *Yang Yang, Xiaojie Guo, Jiayi Ma, Lin Ma, Haibin Ling*  
 [[paper](https://arxiv.org/abs/1911.11394)]  

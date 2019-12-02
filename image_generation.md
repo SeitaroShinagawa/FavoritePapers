@@ -1,3 +1,7 @@
+**Unpaired Image Translation via Adaptive Convolution-based Normalization**  
+*Wonwoong Cho, Kangyeol Kim, Eungyeup Kim, Hyunwoo J. Kim, Jaegul Choo*  
+[[paper](https://arxiv.org/abs/1911.13271)]]  
+
 **Convolutional Conditional Neural Processes**  
 [[paper](https://openreview.net/forum?id=Skey4eBYPS)]  
 

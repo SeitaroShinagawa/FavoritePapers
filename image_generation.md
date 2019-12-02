@@ -1,3 +1,6 @@
+**Convolutional Conditional Neural Processes**  
+[[paper](https://openreview.net/forum?id=Skey4eBYPS)]  
+
 **Example-Guided Scene Image Synthesis using Masked Spatial-Channel Attention and Patch-Based Self-Supervision**  
 *Haitian Zheng, Haofu Liao, Lele Chen, Wei Xiong, Tianlang Chen, Jiebo Luo*  
 [[paper](https://arxiv.org/abs/1911.12362)]  

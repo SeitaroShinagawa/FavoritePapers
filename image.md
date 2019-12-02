@@ -1,4 +1,8 @@
 # Image  
+**All you need is a good representation: A multi-level and classifier-centric representation for few-shot learning**  
+*Shaoli Huang, Dacheng Tao*  
+[[paper](https://arxiv.org/abs/1911.12476)]  
+
 **Unsupervised Visual Representation Learning with Increasing Object Shape Bias**  
 *Zhibo Wang, Shen Yan, Xiaoyu Zhang, Niels Lobo*  
 [[paper](https://arxiv.org/abs/1911.07272)]  

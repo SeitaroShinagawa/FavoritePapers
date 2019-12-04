@@ -1,3 +1,7 @@
+**MixNMatch: Multifactor Disentanglement and Encoding for Conditional Image Generation**  
+*Yuheng Li, Krishna Kumar Singh, Utkarsh Ojha, Yong Jae Lee*  
+[[paper](https://arxiv.org/abs/1911.11758)]  
+
 **Unpaired Image Translation via Adaptive Convolution-based Normalization**  
 *Wonwoong Cho, Kangyeol Kim, Eungyeup Kim, Hyunwoo J. Kim, Jaegul Choo*  
 [[paper](https://arxiv.org/abs/1911.13271)]]  

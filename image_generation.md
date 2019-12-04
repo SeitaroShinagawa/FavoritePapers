@@ -1,3 +1,7 @@
+**LOGAN: Latent Optimisation for Generative Adversarial Networks**  
+*Yan Wu, Jeff Donahue, David Balduzzi, Karen Simonyan, Timothy Lillicrap*  
+[[paper](https://arxiv.org/abs/1912.00953)]  
+
 **MixNMatch: Multifactor Disentanglement and Encoding for Conditional Image Generation**  
 *Yuheng Li, Krishna Kumar Singh, Utkarsh Ojha, Yong Jae Lee*  
 [[paper](https://arxiv.org/abs/1911.11758)]  

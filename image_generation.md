@@ -1,3 +1,7 @@
+**SEAN: Image Synthesis with Semantic Region-Adaptive Normalization**  
+*Peihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka*  
+[[paper](https://arxiv.org/abs/1911.12861)]  
+
 **LOGAN: Latent Optimisation for Generative Adversarial Networks**  
 *Yan Wu, Jeff Donahue, David Balduzzi, Karen Simonyan, Timothy Lillicrap*  
 [[paper](https://arxiv.org/abs/1912.00953)]  

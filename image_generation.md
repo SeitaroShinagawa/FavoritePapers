@@ -1,3 +1,7 @@
+**AVID: Learning Multi-Stage Tasks via Pixel-Level Translation of Human Videos**  
+*Laura Smith, Nikita Dhawan, Marvin Zhang, Pieter Abbeel, Sergey Levine*  
+[[paper](https://arxiv.org/abs/1912.04443)]  
+
 **Analyzing and Improving the Image Quality of StyleGAN**  
 *Tero Karras, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, Timo Aila*  
 [[paper](https://arxiv.org/abs/1912.04958)]   

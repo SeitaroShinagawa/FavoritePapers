@@ -1,3 +1,7 @@
+**Towards Unsupervised Learning of Generative Models for 3D Controllable Image Synthesis**  
+*Yiyi Liao, Katja Schwarz, Lars Mescheder, Andreas Geiger*  
+[[paper](https://arxiv.org/abs/1912.05237)]  
+
 **AVID: Learning Multi-Stage Tasks via Pixel-Level Translation of Human Videos**  
 *Laura Smith, Nikita Dhawan, Marvin Zhang, Pieter Abbeel, Sergey Levine*  
 [[paper](https://arxiv.org/abs/1912.04443)]  

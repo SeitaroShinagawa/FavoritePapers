@@ -1,3 +1,7 @@
+**Analyzing and Improving the Image Quality of StyleGAN**  
+*Tero Karras, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, Timo Aila*  
+[[paper](https://arxiv.org/abs/1912.04958)]   
+
 **SEAN: Image Synthesis with Semantic Region-Adaptive Normalization**  
 *Peihao Zhu, Rameen Abdal, Yipeng Qin, Peter Wonka*  
 [[paper](https://arxiv.org/abs/1911.12861)]  

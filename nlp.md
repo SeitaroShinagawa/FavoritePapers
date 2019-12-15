@@ -1,4 +1,8 @@
 # Natural Language Processing  
+**Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation**  
+*Ke Wang, Hang Hua, Xiaojun Wan*  
+[[paper](https://arxiv.org/abs/1905.12926)]  
+
 **Neural Metaphor Detection in Context (EMNLP2018)**  
 [[paper](https://www.aclweb.org/anthology/D18-1060)]  
 [[article(ja)](https://ai-scholar.tech/treatise/context-ai-164/)]  

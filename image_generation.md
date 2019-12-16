@@ -1,3 +1,7 @@
+**ManiGAN: Text-Guided Image Manipulation**  
+*Bowen Li, Xiaojuan Qi, Thomas Lukasiewicz, Philip H. S. Torr*  
+[[paper](https://arxiv.org/abs/1912.06203)]  
+
 **Towards Unsupervised Learning of Generative Models for 3D Controllable Image Synthesis**  
 *Yiyi Liao, Katja Schwarz, Lars Mescheder, Andreas Geiger*  
 [[paper](https://arxiv.org/abs/1912.05237)]  

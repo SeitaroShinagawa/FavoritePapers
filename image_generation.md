@@ -1,3 +1,7 @@
+**RPGAN: GANs Interpretability via Random Routing**  
+*Andrey Voynov, Artem Babenko*  
+[[paper](https://arxiv.org/abs/1912.10920)]  
+
 **ManiGAN: Text-Guided Image Manipulation**  
 *Bowen Li, Xiaojuan Qi, Thomas Lukasiewicz, Philip H. S. Torr*  
 [[paper](https://arxiv.org/abs/1912.06203)]  

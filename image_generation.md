@@ -1,3 +1,6 @@
+**Positional Normalization (NeurIPS2019)**  
+[[paper](https://papers.nips.cc/paper/8440-positional-normalization)]  
+
 **RPGAN: GANs Interpretability via Random Routing**  
 *Andrey Voynov, Artem Babenko*  
 [[paper](https://arxiv.org/abs/1912.10920)]  

@@ -61,7 +61,7 @@ ArXiv読み
 - [Stanford大学流科学技術論文の書き方](http://hontolab.org/tips-for-research-activity/tips-for-writing-technical-papers/) [(original)Tips for Writing Technical Papers](https://cs.stanford.edu/people/widom/paper-writing.html)  
 - [why is academic writing important for us (論文投稿に関する基礎知識)](https://speakerdeck.com/eumesy/why-is-academic-writing-important-for-us)   
 - [論文を書く上での規則](https://qiita.com/Ishotihadus/items/d6088aec3632545833e8)  
-
+- [論文の構造から論文の書き方を学ぶ](http://www.nutrepi.m.u-tokyo.ac.jp/publication/review_j/3686.pdf)
  
 #### チェックリスト
 - [論文執筆のためのチェックリスト(pdf)](http://kanamori.cs.tsukuba.ac.jp/docs/writing_paper_checklist.pdf)

@@ -1,4 +1,8 @@
 # Image  
+**Chained Representation Cycling: Learning to Estimate 3D Human Pose and Shape by Cycling Between Representations (AAAI2020)**  
+*Nadine Rueegg, Christoph Lassner, Michael J. Black, Konrad Schindler*  
+[[paper](https://arxiv.org/abs/2001.01613)]  
+
 **All you need is a good representation: A multi-level and classifier-centric representation for few-shot learning**  
 *Shaoli Huang, Dacheng Tao*  
 [[paper](https://arxiv.org/abs/1911.12476)]  

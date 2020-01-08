@@ -1,4 +1,6 @@
 # Multimodal
+**Comic-Guided Speech Synthesis**  
+[[project](https://bitwangyujia.github.io/research/project/comic2speech.html)]  
 
 **Word2vec to behavior: morphology facilitates the grounding of language in machines (IROS2019)**  
 *David Matthews, Sam Kriegman, Collin Cappelle, Josh Bongard*  

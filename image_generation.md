@@ -1,3 +1,7 @@
+**Generating Object Stamps**  
+*Youssef Alami Mejjati, Zejiang Shen, Michael Snower, Aaron Gokaslan, Oliver Wang, James Tompkin, Kwang In Kim*  
+[[paper](https://arxiv.org/abs/2001.02595)]  
+
 **Positional Normalization (NeurIPS2019)**  
 [[paper](https://papers.nips.cc/paper/8440-positional-normalization)]  
 

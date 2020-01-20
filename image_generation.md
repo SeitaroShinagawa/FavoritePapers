@@ -1,3 +1,7 @@
+**SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On (WACV 2020)**  
+*Surgan Jandial, Ayush Chopra, Kumar Ayush, Mayur Hemani, Abhijeet Kumar, Balaji Krishnamurthy*  
+[[paper](https://arxiv.org/abs/2001.06265)]  
+
 **TailorGAN: Making User-Defined Fashion Designs**  
 *Lele Chen, Justin Tian, Guo Li, Cheng-Haw Wu, Erh-Kan King, Kuan-Ting Chen, Shao-Hang Hsieh*  
 [[paper](https://arxiv.org/abs/2001.06427)]  

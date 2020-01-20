@@ -1,3 +1,7 @@
+**TailorGAN: Making User-Defined Fashion Designs**  
+*Lele Chen, Justin Tian, Guo Li, Cheng-Haw Wu, Erh-Kan King, Kuan-Ting Chen, Shao-Hang Hsieh*  
+[[paper](https://arxiv.org/abs/2001.06427)]  
+
 **Generating Object Stamps**  
 *Youssef Alami Mejjati, Zejiang Shen, Michael Snower, Aaron Gokaslan, Oliver Wang, James Tompkin, Kwang In Kim*  
 [[paper](https://arxiv.org/abs/2001.02595)]  

@@ -123,3 +123,4 @@ ArXiv読み
 - [研究をはじめてから国際会議と学術論文に採択されるまで（WEB公開版）](https://speakerdeck.com/kyama0321/yan-jiu-wohazimetekaraguo-ji-hui-yi-toxue-shu-lun-wen-nicai-ze-sarerumade-webgong-kai-ban)  
 - トップカンファレンスへの論文採択に向けて（NLP研究分野版）/ Toward paper acceptance at top conferences (NLP research field version)[[2019.08.16](https://www.slideshare.net/JunSuzuki21/2019-0826-yansinvitedtalk)] [[2019.11.23](https://www.slideshare.net/JunSuzuki21/20191123jsaiinvitedtalk-205359389)]
 - [研究の手引き](http://www.s.fpu.ac.jp/fujino/Lecture/discipline.html)  
+- [Vitae Researcher Development Framework(研究者に必要な能力)](https://jrecin.jst.go.jp/seek/SeekVitaeInformation)  

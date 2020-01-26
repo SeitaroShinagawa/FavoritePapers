@@ -1,4 +1,9 @@
 # Works related to Dialog  
+**Emergent Tool Use From Multi-Agent Autocurricula (ICLR2020)**  
+*Bowen Baker, Ingmar Kanitscheider, Todor Markov, Yi Wu, Glenn Powell, Bob McGrew, Igor Mordatch*  
+[[paper](https://openreview.net/forum?id=SkxpxJBKwS)]  
+[[Other's introduction](https://www.slideshare.net/MiyoshiKosuke/evolution-and-ai-224610434)]  
+
 **Extended Answer and Uncertainty Aware Neural Question Generation**  
 *Hongwei Zeng, Zhuo Zhi, Jun Liu, Bifan Wei*  
 [[paper](https://arxiv.org/abs/1911.08112)]  

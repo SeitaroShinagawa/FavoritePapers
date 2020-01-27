@@ -1,3 +1,7 @@
+**A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications**  
+*Jie Gui, Zhenan Sun, Yonggang Wen, Dacheng Tao, Jieping Ye*  
+[[paper](https://arxiv.org/abs/2001.06937)]  
+
 **Likelihood Assignment for Out-of-Distribution Inputs in Deep Generative**  
 *Models is Sensitive to Prior Distribution Choice*  
 [[paper](https://arxiv.org/abs/1911.06515)]  

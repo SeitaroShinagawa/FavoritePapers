@@ -1,4 +1,8 @@
 # Works related to Dialog  
+**Deep Bayesian Network for Visual Question Generation (WACV2020)**  
+*Badri N. Patro, Vinod K. Kurmi, Sandeep Kumar, Vinay P. Namboodiri*  
+[[paper](https://arxiv.org/abs/2001.08779)]  
+
 **Emergent Tool Use From Multi-Agent Autocurricula (ICLR2020)**  
 *Bowen Baker, Ingmar Kanitscheider, Todor Markov, Yi Wu, Glenn Powell, Bob McGrew, Igor Mordatch*  
 [[paper](https://openreview.net/forum?id=SkxpxJBKwS)]  

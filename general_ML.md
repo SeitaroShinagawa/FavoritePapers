@@ -1,3 +1,7 @@
+**Feedback Recurrent AutoEncoder  (ICASSP2020)**  
+*Yang Yang, Guillaume Sautière, J. Jon Ryu, Taco S Cohen*  
+[[paper](https://arxiv.org/abs/1911.04018)]  
+
 **A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications**  
 *Jie Gui, Zhenan Sun, Yonggang Wen, Dacheng Tao, Jieping Ye*  
 [[paper](https://arxiv.org/abs/2001.06937)]  

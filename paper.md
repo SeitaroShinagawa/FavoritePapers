@@ -1,11 +1,11 @@
-#Paper link scrapying (python)  
+# Paper link scrapying (python)  
 [[blog](http://dnlcrl.github.io/projects/2015/10/10/500-deep-learning-papers-graphviz-python.html)]  
 [[code](https://github.com/dnlcrl/PyScholar)]   
 
 Population Code Dynamics in Categorical Perception
 [[link](http://www.nature.com/articles/srep22536?utm_content=buffer944df&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]  
 
-**A Step Toward Quantifying Independently Reproducible Machine Learning Research**  
+**A Step Toward Quantifying Independently Reproducible Machine Learning Research (NeurIPS2019)**  
 [[paper](https://papers.nips.cc/paper/8787-a-step-toward-quantifying-independently-reproducible-machine-learning-research.pdf)]  
 [[code](https://github.com/EdwardRaff/Quantifying-Independently-Reproducible-ML)]  
 

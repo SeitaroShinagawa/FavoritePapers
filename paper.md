@@ -5,6 +5,10 @@
 Population Code Dynamics in Categorical Perception
 [[link](http://www.nature.com/articles/srep22536?utm_content=buffer944df&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)]  
 
+**A Step Toward Quantifying Independently Reproducible Machine Learning Research**  
+[[paper](https://papers.nips.cc/paper/8787-a-step-toward-quantifying-independently-reproducible-machine-learning-research.pdf)]  
+[[code](https://github.com/EdwardRaff/Quantifying-Independently-Reproducible-ML)]  
+
 **Automatic Paper Summary Generation from Visual and Textual Information (ICMV2018)**  
 *Shintaro Yamamoto, Yoshihiro Fukuhara, Ryota Suzuki, Shigeo Morishima, Hirokatsu Kataoka*  
 [[paper](https://arxiv.org/abs/1811.06943)]  

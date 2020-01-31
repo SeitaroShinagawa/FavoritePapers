@@ -114,6 +114,7 @@ ArXiv読み
 - [10 easy ways to fail a Ph.D.](http://matt.might.net/articles/ways-to-fail-a-phd/)  
 - [How to Be a Successful PhD Student (in Computer Science (in NLP/ML))](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf)  
 - [楽しい研究のために今からできること 〜新しく研究を始める皆さんへ〜](https://www.slideshare.net/RyosukeAraki/ss-136687597) (研究の心構えと研究効率化のTips)   
+- [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)  
 
 ## その他<a name="others"></a>
 

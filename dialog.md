@@ -1,4 +1,8 @@
 # Works related to Dialog  
+**Personalized Dialogue Generation with Diversified Traits**  
+*Yinhe Zheng, Guanyi Chen, Minlie Huang, Song Liu, Xuan Zhu*  
+[[paper](https://arxiv.org/abs/1901.09672)]  
+
 **Deep Bayesian Network for Visual Question Generation (WACV2020)**  
 *Badri N. Patro, Vinod K. Kurmi, Sandeep Kumar, Vinay P. Namboodiri*  
 [[paper](https://arxiv.org/abs/2001.08779)]  

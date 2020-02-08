@@ -1,4 +1,8 @@
 # Reinforcement learning  
+**Adversarial Skill Networks: Unsupervised Robot Skill Learning from Video (ICRA2020)**  
+*Oier Mees, Markus Merklinger, Gabriel Kalweit, Wolfram Burgard*  
+[[paper](https://arxiv.org/abs/1910.09430)]  
+
 **Grasp2Vec: Learning Object Representations from Self-Supervised Grasping**  
 *Eric Jang, Coline Devin, Vincent Vanhoucke, Sergey Levine*  
 [[paper](https://arxiv.org/abs/1811.06964)]  

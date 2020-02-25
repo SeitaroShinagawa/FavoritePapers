@@ -63,6 +63,7 @@ ArXiv読み
 - [論文を書く上での規則](https://qiita.com/Ishotihadus/items/d6088aec3632545833e8)  
 - [論文の構造から論文の書き方を学ぶ](http://www.nutrepi.m.u-tokyo.ac.jp/publication/review_j/3686.pdf)  
 - [東大で学んだ卒業論文の書き方](http://fwds.hatenadiary.jp/entry/20050703/1120380314)  
+- [図解でわかる！理工系のためのよい文章の書き方](https://writing.fukuchi.org/toc.html)  
  
 #### チェックリスト
 - [論文執筆のためのチェックリスト(pdf)](http://kanamori.cs.tsukuba.ac.jp/docs/writing_paper_checklist.pdf)

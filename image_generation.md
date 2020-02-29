@@ -1,3 +1,8 @@
+**Learning to Shade Hand-drawn Sketches (CVPR2020)**  
+*Qingyuan Zheng, Zhuoru Li, Adam Bargteil*  
+[[paper](https://arxiv.org/abs/2002.11812)]  
+[[project](https://cal.cs.umbc.edu/Papers/Zheng-2020-Shade/)]  
+
 **SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On (WACV 2020)**  
 *Surgan Jandial, Ayush Chopra, Kumar Ayush, Mayur Hemani, Abhijeet Kumar, Balaji Krishnamurthy*  
 [[paper](https://arxiv.org/abs/2001.06265)]  

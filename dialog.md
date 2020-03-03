@@ -1,4 +1,8 @@
 # Works related to Dialog  
+**Emergent Linguistic Phenomena in Multi-Agent Communication Games (EMNLP2019)**  
+*Laura Graesser, Kyunghyun Cho, Douwe Kiela*  
+[[paper](https://arxiv.org/abs/1901.08706)]  
+
 **Personalized Dialogue Generation with Diversified Traits**  
 *Yinhe Zheng, Guanyi Chen, Minlie Huang, Song Liu, Xuan Zhu*  
 [[paper](https://arxiv.org/abs/1901.09672)]  

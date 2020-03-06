@@ -1,3 +1,7 @@
+**The GAN that Warped: Semantic Attribute Editing with Unpaired Data (CVPR2020)**  
+*Garoe Dorta, Sara Vicente, Neill D.F. Campbell, Ivor J.A. Simpson*  
+[[paper](https://arxiv.org/abs/1811.12784)]  
+
 **Learning to Shade Hand-drawn Sketches (CVPR2020)**  
 *Qingyuan Zheng, Zhuoru Li, Adam Bargteil*  
 [[paper](https://arxiv.org/abs/2002.11812)]  

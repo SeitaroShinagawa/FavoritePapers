@@ -1,3 +1,7 @@
+**TraVeLGAN: Image-to-image Translation by Transformation Vector Learning**  
+*Matthew Amodio, Smita Krishnaswamy*  
+[[paper](https://arxiv.org/abs/1902.09631)]  
+
 **The GAN that Warped: Semantic Attribute Editing with Unpaired Data (CVPR2020)**  
 *Garoe Dorta, Sara Vicente, Neill D.F. Campbell, Ivor J.A. Simpson*  
 [[paper](https://arxiv.org/abs/1811.12784)]  

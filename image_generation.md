@@ -1,3 +1,7 @@
+**Blur, Noise, and Compression Robust Generative Adversarial Networks**  
+*Takuhiro Kaneko, Tatsuya Harada*  
+[[paper](https://arxiv.org/abs/2003.07849)]  
+
 **TraVeLGAN: Image-to-image Translation by Transformation Vector Learning**  
 *Matthew Amodio, Smita Krishnaswamy*  
 [[paper](https://arxiv.org/abs/1902.09631)]  

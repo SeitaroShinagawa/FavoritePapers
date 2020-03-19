@@ -1,4 +1,8 @@
 # Image  
+**DeepEMD: Few-Shot Image Classification with Differentiable Earth Mover's Distance and Structured Classifiers (CVPR2020)**  
+*Chi Zhang, Yujun Cai, Guosheng Lin, Chunhua Shen*  
+[[paper](https://arxiv.org/abs/2003.06777)]  
+
 **Chained Representation Cycling: Learning to Estimate 3D Human Pose and Shape by Cycling Between Representations (AAAI2020)**  
 *Nadine Rueegg, Christoph Lassner, Michael J. Black, Konrad Schindler*  
 [[paper](https://arxiv.org/abs/2001.01613)]  

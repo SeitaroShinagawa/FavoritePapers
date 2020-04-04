@@ -127,3 +127,5 @@ ArXiv読み
 - トップカンファレンスへの論文採択に向けて（NLP研究分野版）/ Toward paper acceptance at top conferences (NLP research field version)[[2019.08.16](https://www.slideshare.net/JunSuzuki21/2019-0826-yansinvitedtalk)] [[2019.11.23](https://www.slideshare.net/JunSuzuki21/20191123jsaiinvitedtalk-205359389)]
 - [研究の手引き](http://www.s.fpu.ac.jp/fujino/Lecture/discipline.html)  
 - [Vitae Researcher Development Framework(研究者に必要な能力)](https://jrecin.jst.go.jp/seek/SeekVitaeInformation)  
+- [Masterシリーズ（Master of Writing、Master of Presentation）](https://www.rikkyo.ac.jp/about/activities/fd/cdshe.html)  
+- [名古屋大学生のためのアカデミック・スキルズ・ガイド](http://www.cshe.nagoya-u.ac.jp/asg/index.html)  

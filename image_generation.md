@@ -1,3 +1,7 @@
+**In-Domain GAN Inversion for Real Image Editing**  
+*Jiapeng Zhu, Yujun Shen, Deli Zhao, Bolei Zhou*  
+[[paper](https://arxiv.org/abs/2004.00049)]  
+
 **Deep Line Art Video Colorization with a Few References**  
 *Min Shi, Jia-Qi Zhang, Shu-Yu Chen, Lin Gao, Yu-Kun Lai, Fang-Lue Zhang*  
 [[paper](https://arxiv.org/abs/2003.10685)]  

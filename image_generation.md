@@ -1,3 +1,6 @@
+**Animating Arbitrary Objects via Deep Motion Transfer (CVPR2019)**  
+[[paper](http://openaccess.thecvf.com/content_CVPR_2019/papers/Siarohin_Animating_Arbitrary_Objects_via_Deep_Motion_Transfer_CVPR_2019_paper.pdf)]  
+
 **In-Domain GAN Inversion for Real Image Editing**  
 *Jiapeng Zhu, Yujun Shen, Deli Zhao, Bolei Zhou*  
 [[paper](https://arxiv.org/abs/2004.00049)]  

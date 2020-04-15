@@ -47,7 +47,6 @@ ArXiv読み
 - [優れた研究論文の書き方―7つの提案](https://www.slideshare.net/kdmsnr/writing-a-paper-seven-suggestions) （執筆先行型、関連研究後回し型）
 - [電子情報通信学会 論文の書き方講座](https://www.ieice.org/~cs-edit/magazine/ronbun_kouza.html)
 - [科学技術論文の書き方](http://www.okada-lab.org/Ronbun/TableOfContents.php)　
-- [論文の書き方](https://www.csg.ci.i.u-tokyo.ac.jp/~chiba/writing/sld001.htm)　（執筆先行型）
 - [エディターに真剣に受け止められる学術論文を書くための11のステップ](http://www.respiratoryinvestigation.com/pb/assets/raw/Health%20Advance/journals/resinv/Respiratory-Seminar2015.pdf)
 - [CMU教授直伝の論文の書き方](http://yamaguchiyuto.hatenablog.com/entry/2016/01/18/154613)　（関連研究先行型）
 - [スタンフォードで学んだ研究の生産性を上げる4つの方法](https://note.mu/ryosuzuki/n/ndae1d84d6103) (執筆先行型)
@@ -75,9 +74,8 @@ ArXiv読み
 - [Google ngrams](https://books.google.com/ngrams) (Google book collocation search engine, Collocation check, Website)
 - [Partner of English Composition (PoEC-β)](http://www.cl.ecei.tohoku.ac.jp/poec/sentsearch/) (Phrase explorer in ACL anthology, Collocation check, Website)
 - [Common Mistakes and Tricky Choices](http://englishplus.com/grammar/mistcont.htm) (English check, for revision, Website)
-- [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/) (Phrase list for academic paper, for revision, Website)
-- [Wallwalk. English for Writing Research Papers (pdf) ](http://saba.kntu.ac.ir/eecd/ecourses/Seminar90/2011%20English%20for%20Writing%20Research%20Papers.pdf)](Phrase list, writing tips, first draft, revise)
-- [How to write a good CVPR submission (pdf)](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)
+- [Academic Phrasebank](http://www.phrasebank.manchester.ac.uk/) (Phrase list for academic paper, for revision, Website)  
+- [How to write a good CVPR submission (pdf)](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf)  
 - [CALTECH RULES FOR WRITING PAPERS :HOW TO STRUCTURE YOUR PAPER AND WRITE AN INTRODUCTION](https://web.stanford.edu/group/mcnollgast/cgi-bin/wordpress/wp-content/uploads/2013/10/CALTECH.RUL_..pdf)
 - [Small Guide to Making Nice Tables](https://www.inf.ethz.ch/personal/markusp/teaching/guides/guide-tables.pdf)
 - [Writing in the Sciences](https://www.coursera.org/learn/sciwrite)

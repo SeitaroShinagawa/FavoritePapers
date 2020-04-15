@@ -126,3 +126,4 @@ ArXiv読み
 - [Vitae Researcher Development Framework(研究者に必要な能力)](https://jrecin.jst.go.jp/seek/SeekVitaeInformation)  
 - [Masterシリーズ（Master of Writing、Master of Presentation）](https://www.rikkyo.ac.jp/about/activities/fd/cdshe.html)  
 - [名古屋大学生のためのアカデミック・スキルズ・ガイド](http://www.cshe.nagoya-u.ac.jp/asg/index.html)  
+- [研究法(暦本)(youtube)](https://www.youtube.com/watch?v=vn0cL7fxYh8&feature=youtu.be)  

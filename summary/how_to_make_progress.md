@@ -14,8 +14,6 @@
 
 - [落合陽一フォーマット](https://www.slideshare.net/Ochyai/1-ftma15?ref=http://lafrenze.hatenablog.com/entry/2015/08/04/120205)
 - [研究分野をサーベイする](https://www.slideshare.net/iTooooooooooooT/itolab-how-to-survey-2017)
-- [情報系の研究者が研究・論文執筆をする際に知らなくてはならない事や心構え](http://web.sfc.keio.ac.jp/~naoe/security/documents/naoe/research-ver2.pdf)
-- [関連研究の調べ方](http://robotics.naist.jp/edu/text/?Robotics%2Fhowtosurvey)
 - [サーベイの仕方論文の読み方](https://written.4403.biz/source/how-to-survey.pdf)
 - [CV分野におけるサーベイ方法](https://www.slideshare.net/HirokatsuKataoka/ss-43935588)  
 - [工学系大学4年生のための論文の読み方](https://www.slideshare.net/ychtanaka/4-89034938)  

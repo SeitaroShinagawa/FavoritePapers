@@ -21,6 +21,7 @@
 - [Surveyから始まる研究者への道 - Stand on the shoulders of giants -](https://www.slideshare.net/RyosukeAraki/survey-stand-on-the-shoulders-of-giants)  
 - [論文の読み方](https://speakerdeck.com/kaityo256/how-to-survey)  
 - [個人的Serveyのやり方](https://mocobt.hatenablog.com/entry/2020/05/13/021133)  
+- [論文の読み方 / How to survey](https://speakerdeck.com/kaityo256/how-to-survey)  
 
 ArXiv読み
 - 無理して追わない、TwitterでArXivのpaperをつぶやくbotか解説をツイートしてくれるアカウントをフォローしてキャッチアップするのが良い（@hillbigさんとか）（インパクトの大きい論文は何度もTime Lineに流れてくる)

@@ -5,6 +5,7 @@
 - [Mathpix](https://mathpix.com/): Latex code generator from clipped raw image 
 - [Googleドキュメントによる自動執筆量記録・報告システム](https://kunisatolab.github.io/main/how-to-google-doc.html)  
 - [Change the DPI of my Image](https://convert.town/image-dpi)  
+- [matplotlib cheatsheets](https://github.com/matplotlib/cheatsheets)  
 
-# for witing report
+# for writing report
 - [handout](https://github.com/danijar/handout) : generate handout from python script  

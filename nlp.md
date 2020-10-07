@@ -1,4 +1,8 @@
 # Natural Language Processing  
+
+**言い換え技術のまとめ**  
+[[link](http://paraphrasing.org/bib-cat.html)]  
+
 **Controllable Unsupervised Text Attribute Transfer via Editing Entangled Latent Representation**  
 *Ke Wang, Hang Hua, Xiaojun Wan*  
 [[paper](https://arxiv.org/abs/1905.12926)]  

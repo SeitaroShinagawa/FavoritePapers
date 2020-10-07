@@ -1,4 +1,8 @@
 # Works related to Dialog  
+**Survey on Evaluation Methods for Dialogue Systems (Journal of Artificial Intelligence Review 2020)**  
+*Jan Deriu, Alvaro Rodrigo, Arantxa Otegi, Guillermo Echegoyen, Sophie Rosset, Eneko Agirre, Mark Cieliebak*  
+[[paper](https://arxiv.org/abs/1905.04071)]  
+
 **Emergent Linguistic Phenomena in Multi-Agent Communication Games (EMNLP2019)**  
 *Laura Graesser, Kyunghyun Cho, Douwe Kiela*  
 [[paper](https://arxiv.org/abs/1901.08706)]  

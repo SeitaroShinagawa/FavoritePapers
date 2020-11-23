@@ -9,3 +9,6 @@
 
 # for writing report
 - [handout](https://github.com/danijar/handout) : generate handout from python script  
+
+# for making slides
+- [free icon download](https://icooon-mono.com/)  

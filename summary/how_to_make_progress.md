@@ -40,6 +40,7 @@ ArXiv読み
 - なぜあなたは論文が書けないのか? (論文を書くためのTips集) 
 - なぜあなたの研究は進まないのか? (研究を進めるためのTips集)
 - [Hyper Collocation dictionary based on arXiv repository](https://hypcol.marutank.net/ja/) (ArXiv 文検索)
+- [工学系の卒論生のための数式記述入門](https://github.com/matsui528/math_writing)  
 
 #### Web資料  
 - [Graham先生 論文執筆スタイルガイド](http://www.phontron.com/paper-guide.php)

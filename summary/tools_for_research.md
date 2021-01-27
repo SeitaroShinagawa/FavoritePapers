@@ -28,3 +28,6 @@
 
 # for making slides
 - [free icon download](https://icooon-mono.com/)  
+
+# Python
+- [PyFormat](https://pyformat.info/)  format example list

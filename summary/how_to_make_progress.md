@@ -132,3 +132,4 @@ ArXiv読み
 - [Masterシリーズ（Master of Writing、Master of Presentation）](https://www.rikkyo.ac.jp/about/activities/fd/cdshe.html)  
 - [名古屋大学生のためのアカデミック・スキルズ・ガイド](http://www.cshe.nagoya-u.ac.jp/asg/index.html)  
 - [研究法(暦本)(youtube)](https://www.youtube.com/watch?v=vn0cL7fxYh8&feature=youtu.be)  
+- [cvpaper.challenge 研究効率化 Tips](https://www.slideshare.net/cvpaperchallenge/cvpaperchallenge-tips-241914101)  

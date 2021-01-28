@@ -68,6 +68,7 @@ ArXiv読み
 - [AI系トップカンファレンスへの論文採択に向けた試験対策(鈴木潤先生＠JSAI2020)](https://www.ai-gakkai.or.jp/jsai2020/wp-content/uploads/sites/10/2020/06/jsai2020_tutorial_suzuki_ver2.pdf)  
  
 #### チェックリスト
+- [Reproducibility Checklist (NeurIPS2019 program)](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf), [ArXiv paper](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)  
 - [論文執筆のためのチェックリスト(pdf)](http://kanamori.cs.tsukuba.ac.jp/docs/writing_paper_checklist.pdf)
 - [大学院生による卒論指導のためのチェックリスト](http://www.aise.ics.saitama-u.ac.jp/~gotoh/ChecklistForMasterStudents.html)
 - [論文に何を書くべきか→これだけは埋めろ→論文作成穴埋めシート](http://readingmonkey.blog45.fc2.com/blog-entry-563.html)

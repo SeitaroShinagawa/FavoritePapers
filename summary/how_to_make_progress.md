@@ -104,6 +104,7 @@ ArXiv読み
 - [センス不要！伝わる研究ポスター作成術](http://k-connex.kyoto-u.ac.jp/ja/wp-content/uploads/sites/2/2016/07/160711-posterseminar-pub.pdf)  
 - [伝わるデザイン 研究発表のユニバーサルデザイン](http://tsutawarudesign.com/index.html)  
 - [プレゼン・ポスターで自分の研究を「伝える」　(How to do technical oral/poster presentation)](https://www.slideshare.net/ToshihikoYamasaki/how-to-do-technical-oralposter-presentation)  
+- [東京都カラーユニバーサルデザインガイドライン](https://www.fukushihoken.metro.tokyo.lg.jp/kiban/machizukuri/kanren/color.files/colorudguideline.pdf)  
 
 ## 実験コードの管理<a name="code"></a>
 

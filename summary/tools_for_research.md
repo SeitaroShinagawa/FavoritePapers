@@ -22,7 +22,6 @@
 - [Googleドキュメントによる自動執筆量記録・報告システム](https://kunisatolab.github.io/main/how-to-google-doc.html)  
 - [HostMath](http://www.hostmath.com/): Rendered math visualization from Latex code or buttons
 
-
 # for writing report
 - [handout](https://github.com/danijar/handout) : generate handout from python script  
 
@@ -32,3 +31,9 @@
 # Python
 - [PyFormat](https://pyformat.info/)  format example list
 - [Pythonプログラミング入門](https://utokyo-ipp.github.io/index.html)   
+
+# Cloud Computation resources  
+- [AWSによるクラウド入門](https://tomomano.gitlab.io/intro-aws)  
+
+
+

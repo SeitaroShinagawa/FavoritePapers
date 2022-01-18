@@ -106,6 +106,10 @@ ArXiv読み
 - [プレゼン・ポスターで自分の研究を「伝える」　(How to do technical oral/poster presentation)](https://www.slideshare.net/ToshihikoYamasaki/how-to-do-technical-oralposter-presentation)  
 - [東京都カラーユニバーサルデザインガイドライン](https://www.fukushihoken.metro.tokyo.lg.jp/kiban/machizukuri/kanren/color.files/colorudguideline.pdf)  
 
+### プレゼンの練習
+
+- [Youglish](https://youglish.com/) 入力したテキストの発音をYouTubeの動画で検索して確認できるWebサイト  
+
 ## 実験コードの管理<a name="code"></a>
 
 - [研究室における研究・実装ノウハウの共有](https://www.slideshare.net/naoakiokazaki/ss-59403900)

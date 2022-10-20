@@ -139,3 +139,4 @@ ArXiv読み
 - [名古屋大学生のためのアカデミック・スキルズ・ガイド](http://www.cshe.nagoya-u.ac.jp/asg/index.html)  
 - [研究法(暦本)(youtube)](https://www.youtube.com/watch?v=vn0cL7fxYh8&feature=youtu.be)  
 - [cvpaper.challenge 研究効率化 Tips](https://www.slideshare.net/cvpaperchallenge/cvpaperchallenge-tips-241914101)  
+- [博士課程や大学院で使える給付型奨学金や給料の出る機関と倍率](https://kenkyustyle.blogspot.com/2017/11/blog-post_14.html)

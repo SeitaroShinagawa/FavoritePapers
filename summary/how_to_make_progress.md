@@ -117,6 +117,7 @@ ArXiv読み
 - [忙しい研究者のためのテストコードとドキュメントの書き方](https://qiita.com/NaokiHamada/items/0689cd85fb3e1adcda1a)  
 - [Writing Code for NLP Research (EMNLP2018 tutorial)](https://docs.google.com/presentation/d/17NoJY2SnC2UMbVegaRCWA7Oca7UCZ3vHnMqBV4SUayc/edit#slide=id.p)  
 - [プログラミングの変数・メソッドの命名でよく使う英単語を整理（備忘）](https://arakan-pgm-ai.hatenablog.com/entry/2019/04/15/000000)
+- [試行回数の増やし方 2021年度版](https://speakerdeck.com/butsugiri/increasing-number-of-attempts-ver-2021)
 
 ## 金言・心構え<a name="advice"></a>
 
@@ -139,4 +140,5 @@ ArXiv読み
 - [名古屋大学生のためのアカデミック・スキルズ・ガイド](http://www.cshe.nagoya-u.ac.jp/asg/index.html)  
 - [研究法(暦本)(youtube)](https://www.youtube.com/watch?v=vn0cL7fxYh8&feature=youtu.be)  
 - [cvpaper.challenge 研究効率化 Tips](https://www.slideshare.net/cvpaperchallenge/cvpaperchallenge-tips-241914101)  
+- [cvpaper.challenge 研究効率化 Tips Ver.2](https://www.slideshare.net/cvpaperchallenge/tips-ver2-250474910)  
 - [博士課程や大学院で使える給付型奨学金や給料の出る機関と倍率](https://kenkyustyle.blogspot.com/2017/11/blog-post_14.html)

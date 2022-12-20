@@ -41,6 +41,7 @@ ArXiv読み
 - なぜあなたの研究は進まないのか? (研究を進めるためのTips集)
 - [Hyper Collocation dictionary based on arXiv repository](https://hypcol.marutank.net/ja/) (ArXiv 文検索)
 - [工学系の卒論生のための数式記述入門](https://github.com/matsui528/math_writing)  
+- [論文の書き方 －2022年度版－](https://speakerdeck.com/imash/lun-wen-noshu-kifang-2022nian-du-ban)
 
 #### Web資料  
 - [Graham先生 論文執筆スタイルガイド](http://www.phontron.com/paper-guide.php)

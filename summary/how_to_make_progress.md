@@ -67,6 +67,7 @@ ArXiv読み
 - [東大で学んだ卒業論文の書き方](http://fwds.hatenadiary.jp/entry/20050703/1120380314)  
 - [図解でわかる！理工系のためのよい文章の書き方](https://writing.fukuchi.org/toc.html)  
 - [AI系トップカンファレンスへの論文採択に向けた試験対策(鈴木潤先生＠JSAI2020)](https://www.ai-gakkai.or.jp/jsai2020/wp-content/uploads/sites/10/2020/06/jsai2020_tutorial_suzuki_ver2.pdf)  
+- [ネイチャーに学ぶ科学英語論文の書き方](http://sk.tsukuba.ac.jp/~kiyoshi/notes.html)
  
 #### チェックリスト
 - [Reproducibility Checklist (NeurIPS2019 program)](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf), [ArXiv paper](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)  

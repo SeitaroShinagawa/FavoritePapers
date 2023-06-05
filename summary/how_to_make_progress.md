@@ -107,6 +107,9 @@ ArXiv読み
 - [伝わるデザイン 研究発表のユニバーサルデザイン](http://tsutawarudesign.com/index.html)  
 - [プレゼン・ポスターで自分の研究を「伝える」　(How to do technical oral/poster presentation)](https://www.slideshare.net/ToshihikoYamasaki/how-to-do-technical-oralposter-presentation)  
 - [東京都カラーユニバーサルデザインガイドライン](https://www.fukushihoken.metro.tokyo.lg.jp/kiban/machizukuri/kanren/color.files/colorudguideline.pdf)  
+- [「プレゼンデザイン」のデザイン・テンプレート](https://ppt.design4u.jp/template): 無料で使える良いプレゼンスライドのためのデザインテンプレート
+  - 利用例：[大規模言語モデルの驚異と脅威](https://speakerdeck.com/chokkan/20230327_riken_llm)
+ 
 
 ### プレゼンの練習
 

@@ -68,6 +68,7 @@ ArXiv読み
 - [図解でわかる！理工系のためのよい文章の書き方](https://writing.fukuchi.org/toc.html)  
 - [AI系トップカンファレンスへの論文採択に向けた試験対策(鈴木潤先生＠JSAI2020)](https://www.ai-gakkai.or.jp/jsai2020/wp-content/uploads/sites/10/2020/06/jsai2020_tutorial_suzuki_ver2.pdf)  
 - [ネイチャーに学ぶ科学英語論文の書き方](http://sk.tsukuba.ac.jp/~kiyoshi/notes.html)
+
  
 #### チェックリスト
 - [Reproducibility Checklist (NeurIPS2019 program)](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf), [ArXiv paper](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)  
@@ -94,6 +95,7 @@ ArXiv読み
 - [How to Write an Abstract](https://users.ece.cmu.edu/~koopman/essays/abstract.html)  
 - [How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)  
 - [SPC reviewing for IJCAI 2019: FAQ](http://u.cs.biu.ac.il/~sarit/IJCAI2019/FAQ-SPC.html)  
+- [Looking Our Limitations in the Eye: A Tutorial for Writing About Research Limitations in Psychology](https://psyarxiv.com/386bh/) (How to write limitation)
 
 ## プレゼンの仕方<a name="presentation"></a>
 

@@ -133,6 +133,7 @@ ArXiv読み
 - [How to Be a Successful PhD Student (in Computer Science (in NLP/ML))](https://www.cs.jhu.edu/~mdredze/publications/HowtoBeaSuccessfulPhDStudent.pdf)  
 - [楽しい研究のために今からできること 〜新しく研究を始める皆さんへ〜](https://www.slideshare.net/RyosukeAraki/ss-136687597) (研究の心構えと研究効率化のTips)   
 - [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)  
+- [Getting an h-index of 100 in Twenty Years or Less (KDD2023 Tutorial)](https://www.dropbox.com/scl/fo/oud24hoi0xralve76vuwi/h?dl=0&rlkey=9wqc1z9sly3x5brhlt0ggbo2j)
 
 ## その他<a name="others"></a>
 
@@ -150,3 +151,4 @@ ArXiv読み
 - [cvpaper.challenge 研究効率化 Tips](https://www.slideshare.net/cvpaperchallenge/cvpaperchallenge-tips-241914101)  
 - [cvpaper.challenge 研究効率化 Tips Ver.2](https://www.slideshare.net/cvpaperchallenge/tips-ver2-250474910)  
 - [博士課程や大学院で使える給付型奨学金や給料の出る機関と倍率](https://kenkyustyle.blogspot.com/2017/11/blog-post_14.html)
+

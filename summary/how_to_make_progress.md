@@ -134,6 +134,7 @@ ArXiv読み
 - [楽しい研究のために今からできること 〜新しく研究を始める皆さんへ〜](https://www.slideshare.net/RyosukeAraki/ss-136687597) (研究の心構えと研究効率化のTips)   
 - [An Opinionated Guide to ML Research](http://joschu.net/blog/opinionated-guide-ml-research.html)  
 - [Getting an h-index of 100 in Twenty Years or Less (KDD2023 Tutorial)](https://www.dropbox.com/scl/fo/oud24hoi0xralve76vuwi/h?dl=0&rlkey=9wqc1z9sly3x5brhlt0ggbo2j)
+- [ワールドトリガー ジャンプスクエア11月特大号(246・247話)](https://twitter.com/W_Trigger_off/status/1839575713403588686) コミックスが出たらURLを差し替え予定
 
 ## その他<a name="others"></a>
 

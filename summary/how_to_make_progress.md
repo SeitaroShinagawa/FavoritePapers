@@ -75,6 +75,8 @@ ArXiv読み
 - [論文執筆のためのチェックリスト(pdf)](http://kanamori.cs.tsukuba.ac.jp/docs/writing_paper_checklist.pdf)
 - [大学院生による卒論指導のためのチェックリスト](http://www.aise.ics.saitama-u.ac.jp/~gotoh/ChecklistForMasterStudents.html)
 - [論文に何を書くべきか→これだけは埋めろ→論文作成穴埋めシート](http://readingmonkey.blog45.fc2.com/blog-entry-563.html)
+- [60QA (慶應大 杉浦研)](https://docs.google.com/document/d/180tNamxQFV2fWUOmEdtTFVy-R-sTgiFlbxL-o3Lg6n4/edit)
+  > 論文執筆を査読者からの質問に回答する作業と捉え、 60個程度の質問に回答すると論文がいつの間にかできあがる、という方式で論文執筆を仕組み化しました。
 
 ### English
 - Oxford Collocations Dictionary For Students of English (Book & CD) (English Dictionary specialized in collocation, Collocation check) [Amazon](https://www.amazon.co.jp/Oxford-Collocations-Dictionary-Students-English/dp/0194325385)

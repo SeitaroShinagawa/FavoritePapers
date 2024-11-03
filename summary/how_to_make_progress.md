@@ -98,6 +98,8 @@ ArXiv読み
 - [How to write a great research paper](https://www.microsoft.com/en-us/research/academic-program/write-great-research-paper/)  
 - [SPC reviewing for IJCAI 2019: FAQ](http://u.cs.biu.ac.il/~sarit/IJCAI2019/FAQ-SPC.html)  
 - [Looking Our Limitations in the Eye: A Tutorial for Writing About Research Limitations in Psychology](https://psyarxiv.com/386bh/) (How to write limitation)
+- [Overview of technical writing courses (Google)](https://developers.google.com/tech-writing/overview)
+  - [日本語による紹介記事](https://qiita.com/yasuoyasuo/items/c43783316a4d141a140f)
 
 ## プレゼンの仕方<a name="presentation"></a>
 

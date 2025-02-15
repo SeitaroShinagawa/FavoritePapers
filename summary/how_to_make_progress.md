@@ -115,7 +115,7 @@ ArXiv読み
 - [東京都カラーユニバーサルデザインガイドライン](https://www.fukushihoken.metro.tokyo.lg.jp/kiban/machizukuri/kanren/color.files/colorudguideline.pdf)  
 - [「プレゼンデザイン」のデザイン・テンプレート](https://ppt.design4u.jp/template): 無料で使える良いプレゼンスライドのためのデザインテンプレート
   - 利用例：[大規模言語モデルの驚異と脅威](https://speakerdeck.com/chokkan/20230327_riken_llm)
- 
+- [プレゼン資料作成で最低限気をつけるべきこと](https://speakerdeck.com/sgnm/purezendezui-di-xian-qi-wotukerubekikoto-suraidozuo-cheng) 
 
 ### プレゼンの練習
 

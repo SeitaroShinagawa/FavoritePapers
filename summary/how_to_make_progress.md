@@ -68,8 +68,12 @@ ArXiv読み
 - [図解でわかる！理工系のためのよい文章の書き方](https://writing.fukuchi.org/toc.html)  
 - [AI系トップカンファレンスへの論文採択に向けた試験対策(鈴木潤先生＠JSAI2020)](https://www.ai-gakkai.or.jp/jsai2020/wp-content/uploads/sites/10/2020/06/jsai2020_tutorial_suzuki_ver2.pdf)  
 - [ネイチャーに学ぶ科学英語論文の書き方](http://sk.tsukuba.ac.jp/~kiyoshi/notes.html)
+- [先行研究の良くないまとめ方「ランドリーリスト」とは？](https://note.com/omotikuazu/n/nefb206958825)
+  - > ランドリーリスト（Laundry List）レビューとは洗濯物をとりあえず突っ込んだようなレビューで、「〇〇（2014）はこう指摘した。××（2006）はこう主張している」などの記述が続くもの
+- [論文の書き方：FAQ](https://jtsutsui.hatenablog.com/entry/20091120/1258647065)
+- [炭鉱の遺構と記憶は開発主義以降のまちづくりでいかに見出されたか](https://www.jstage.jst.go.jp/article/jsr/75/1/75_20/_article/-char/ja)
+  - 関連研究に相当する部分を「2 問題の所在」と表現している点が面白い。関連研究の役割として芯を捉えた書き方に思える。AI分野の論文は問題の所在をイントロでまとめてしまうことが多いが、焦点を当てている問題の重要性や特殊性を明確化し、論文の価値を主張するといったやり方に繋がりそう
 
- 
 #### チェックリスト
 - [Reproducibility Checklist (NeurIPS2019 program)](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf), [ArXiv paper](https://www.cs.mcgill.ca/~jpineau/ReproducibilityChecklist.pdf)  
 - [論文執筆のためのチェックリスト(pdf)](http://kanamori.cs.tsukuba.ac.jp/docs/writing_paper_checklist.pdf)
